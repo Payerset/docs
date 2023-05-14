@@ -12,7 +12,7 @@ Kaiser has posted their data regionally at this link: [https://healthy.kaiserper
 
 This is the data that we parse and store in the below tables.
 
-### Schema: SENTARA
+### Schema: KAISER
 
 ### Table 1: PROVIDER\_MAP - 1.1M Records
 
