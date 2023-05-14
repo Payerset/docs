@@ -16,6 +16,17 @@
 * [Sentara Price Transparency](payers/sentara-price-transparency.md)
 * [Kaiser Price Transparency](payers/kaiser-price-transparency.md)
 * [United Healthcare Price Transparency](payers/united-healthcare-price-transparency.md)
+* [BCBS California](payers/bcbs-california.md)
+* [BCBS Florida](payers/bcbs-florida.md)
+* [BCBS Michigan](payers/bcbs-michigan.md)
+* [BCBS North Carolina](payers/bcbs-north-carolina.md)
+* [BCBS South Carolina](payers/bcbs-south-carolina.md)
+* [Centene](payers/centene.md)
+* [HCSC](payers/hcsc.md)
+* [Highmark](payers/highmark.md)
+* [Independence Blue Cross](payers/independence-blue-cross.md)
+* [Molina](payers/molina.md)
+* [Wellcare](payers/wellcare.md)
 
 ## 🤓 Information & Requests
 
