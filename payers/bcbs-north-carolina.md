@@ -1,18 +1,16 @@
 ---
 description: >-
   This data contains the price transparency machine-readable files provided by
-  Kaiser Permanente that have been normalized into easy-to-use tables.
+  BCBS North Carolina Permanente that have been normalized into easy-to-use tables.
 ---
 
-# Kaiser Price Transparency
+# BCBS North Carolina Price Transparency
 
 ### Payerset Notes
 
-Kaiser has posted their data regionally at this link: [https://healthy.kaiserpermanente.org/oregon-washington/front-door/machine-readable](https://healthy.kaiserpermanente.org/oregon-washington/front-door/machine-readable)
+Please see below for metadata.
 
-This is the data that we parse and store in the below tables.
-
-### Schema: KAISER
+### Schema: BCBS\_NORTH\_CAROLINA
 
 ### Table 1: PROVIDER\_MAP - MAY 2023 DATA PULL IN PROGRESS
 
