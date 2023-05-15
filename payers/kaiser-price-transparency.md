@@ -14,7 +14,7 @@ This is the data that we parse and store in the below tables.
 
 ### Schema: KAISER
 
-### Table 1: PROVIDER\_MAP - MAY 2023 DATA PULL IN PROGRESS
+### Table 1: PROVIDER\_MAP - 45M Records
 
 #### 1. Overview
 
@@ -29,7 +29,7 @@ The `PROVIDER_MAP` table contains the mapping of provider identification numbers
 | TIN\_TYPE           | VARCHAR   | Yes      | NULL    | Type of Taxpayer Identification Number associated with the provider. |
 | TIN\_VALUE          | VARCHAR   | Yes      | NULL    | Taxpayer Identification Number value for the provider.               |
 
-### Table 2: NEGOTIATED\_RATES - MAY 2023 DATA PULL IN PROGRESS
+### Table 2: NEGOTIATED\_RATES - 554.7M Records
 
 #### 1. Overview
 
@@ -48,7 +48,7 @@ The `NEGOTIATED_RATES` table contains information about negotiated rates for var
 | RATE\_PROVIDER\_KEY      | VARCHAR   | Yes      | NULL    | A unique identifier for the provider in the rate negotiation system. |
 | SERVICE\_CODES           | VARCHAR   | Yes      | NULL    | The associated service codes for the negotiated rate.                |
 
-### Table 3: BILLING\_CODES - MAY 2023 DATA PULL IN PROGRESS
+### Table 3: BILLING\_CODES - 1.3M Records
 
 #### 1. Overview
 
