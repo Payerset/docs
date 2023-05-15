@@ -1,7 +1,7 @@
 ---
 description: >-
-  This data contains the price transparency machine-readable files provided by
-  United that have been normalized into easy-to-use tables.
+ This data contains the price transparency machine-readable files provided by
+ United that have been normalized into easy-to-use tables.
 ---
 
 # United Healthcare Price Transparency

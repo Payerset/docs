@@ -1,7 +1,7 @@
 ---
 description: >-
-  Data downloaded and stored for convenience, updated quarterly to ensure
-  matching with the Payerset datasets
+ Data downloaded and stored for convenience, updated quarterly to ensure
+ matching with the Payerset datasets
 ---
 
 # NPI Data from NPPES
