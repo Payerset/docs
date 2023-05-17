@@ -12,7 +12,7 @@ Please see below for metadata.
 
 ### Schema: BCBS\_SOUTH\_CAROLINA
 
-### Table 1: PROVIDER\_MAP - 108.6B
+### Table 1: PROVIDER\_MAP - 89.0B
 
 #### 1. Overview
 
