@@ -1,16 +1,16 @@
 ---
 description: >-
  This data contains the price transparency machine-readable files provided by
- WellCare that have been normalized into easy-to-use tables.
+ Local Initiative Health Authority that have been normalized into easy-to-use tables.
 ---
 
-# WellCare Price Transparency
+# Local Initiative Health Authority Price Transparency
 
 ### Payerset Notes
 
 Please see below for metadata.
 
-### Schema: WELLCARE
+### Schema: LOCAL_INITIATIVE_HEALTH_AUTHORITY
 
 ### Table 1: PROVIDER\_MAP - MAY 2023 DATA PULL IN PROGRESS
 

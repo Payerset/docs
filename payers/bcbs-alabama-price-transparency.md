@@ -1,16 +1,16 @@
 ---
 description: >-
  This data contains the price transparency machine-readable files provided by
- WellCare that have been normalized into easy-to-use tables.
+ Bcbs Alabama that have been normalized into easy-to-use tables.
 ---
 
-# WellCare Price Transparency
+# Bcbs Alabama Price Transparency
 
 ### Payerset Notes
 
 Please see below for metadata.
 
-### Schema: WELLCARE
+### Schema: BCBS_ALABAMA
 
 ### Table 1: PROVIDER\_MAP - MAY 2023 DATA PULL IN PROGRESS
 

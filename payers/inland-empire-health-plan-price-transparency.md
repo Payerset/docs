@@ -1,16 +1,16 @@
 ---
 description: >-
  This data contains the price transparency machine-readable files provided by
- WellCare that have been normalized into easy-to-use tables.
+ Inland Empire Health Plan that have been normalized into easy-to-use tables.
 ---
 
-# WellCare Price Transparency
+# Inland Empire Health Plan Price Transparency
 
 ### Payerset Notes
 
 Please see below for metadata.
 
-### Schema: WELLCARE
+### Schema: INLAND_EMPIRE_HEALTH_PLAN
 
 ### Table 1: PROVIDER\_MAP - MAY 2023 DATA PULL IN PROGRESS
 

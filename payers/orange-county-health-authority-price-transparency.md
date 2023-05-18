@@ -1,16 +1,16 @@
 ---
 description: >-
  This data contains the price transparency machine-readable files provided by
- WellCare that have been normalized into easy-to-use tables.
+ Orange County Health Authority that have been normalized into easy-to-use tables.
 ---
 
-# WellCare Price Transparency
+# Orange County Health Authority Price Transparency
 
 ### Payerset Notes
 
 Please see below for metadata.
 
-### Schema: WELLCARE
+### Schema: ORANGE_COUNTY_HEALTH_AUTHORITY
 
 ### Table 1: PROVIDER\_MAP - MAY 2023 DATA PULL IN PROGRESS
 
