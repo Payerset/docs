@@ -27,7 +27,7 @@ The `PROVIDER_MAP` table contains the mapping of provider identification numbers
 | TIN\_TYPE           | VARCHAR   | Yes      | NULL    | Type of Taxpayer Identification Number associated with the provider. |
 | TIN\_VALUE          | VARCHAR   | Yes      | NULL    | Taxpayer Identification Number value for the provider.               |
 
-### Table 2: NEGOTIATED\_RATES - 3.8B Records
+### Table 2: NEGOTIATED\_RATES - 4.0B Records
 
 #### 1. Overview
 
