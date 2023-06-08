@@ -22,6 +22,7 @@
 * [BCBS North Carolina Price Transparency](payers/bcbs-north-carolina-price-transparency.md)
 * [BCBS South Carolina Price Transparency](payers/bcbs-south-carolina-price-transparency.md)
 * [BCBS Tennessee Price Transparency](payers/bcbs-tennessee-price-transparency.md)
+* [BCBS Texas Price Transparency](payers/bcbs-texas-price-transparency.md)
 * [California Physicians Service Price Transparency](payers/california-physicians-service-price-transparency.md)
 * [Cambia Health Solutions Price Transparency](payers/cambia-health-solutions-price-transparency.md)
 * [Carefirst Price Transparency](payers/carefirst-price-transparency.md)

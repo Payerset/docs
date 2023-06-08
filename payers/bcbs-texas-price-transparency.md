@@ -1,16 +1,16 @@
 ---
 description: >-
  This data contains the price transparency machine-readable files provided by
- Aflac that have been normalized into easy-to-use tables.
+ BCBS Texas that have been normalized into easy-to-use tables.
 ---
 
-# Aflac Price Transparency
+# BCBS Texas Price Transparency
 
 ### Payerset Notes
 
 Please see below for metadata.
 
-### Schema: AFLAC
+### Schema: BCBS_TEXAS
 
 ### Table 1: PROVIDER\_MAP - JUNE 2023 DATA PULL IN PROGRESS
 
