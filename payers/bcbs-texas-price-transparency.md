@@ -20,10 +20,10 @@ The `PROVIDER_MAP` table contains the mapping of provider identification numbers
 
 #### 2. Columns
 
-| Column Name     | Data Type | Nullable | Default | Description                             |
-| ------------------- | --------- | -------- | ------- | -------------------------------------------------------------------- |
-| NPI         | VARCHAR  | Yes   | NULL  | The National Provider Identifier assigned to a healthcare provider. |
-| RATE\_PROVIDER\_KEY | VARCHAR  | Yes   | NULL  | A unique identifier for the provider in the rate negotiation system. |
+| Column Name    | Data Type | Nullable | Default | Description                             |
+|----------------| --------- | -------- | ------- | -------------------------------------------------------------------- |
+| NPI            | VARCHAR  | Yes   | NULL  | The National Provider Identifier assigned to a healthcare provider. |
+| NPI\_RATE\_KEY | VARCHAR  | Yes   | NULL  | A unique identifier for the provider in the rate negotiation system. |
 | TIN\_TYPE      | VARCHAR  | Yes   | NULL  | Type of Taxpayer Identification Number associated with the provider. |
 | TIN\_VALUE     | VARCHAR  | Yes   | NULL  | Taxpayer Identification Number value for the provider.        |
 
@@ -35,16 +35,16 @@ The `NEGOTIATED_RATES` table contains information about negotiated rates for var
 
 #### 2. Columns
 
-| Column Name       | Data Type | Nullable | Default | Description                             |
-| ------------------------ | --------- | -------- | ------- | -------------------------------------------------------------------- |
-| BILLING\_CLASS      | VARCHAR  | Yes   | NULL  | The class or category of the billing code.              |
-| BILLING\_CODE      | VARCHAR  | Yes   | NULL  | A unique identifier for the specific billing code.          |
-| EXPIRATION\_DATE     | VARCHAR  | Yes   | NULL  | The expiration date of the negotiated rate.             |
-| NEGOTIATED\_RATE     | NUMBER  | Yes   | NULL  | The negotiated rate for the specified billing code.         |
-| NEGOTIATED\_TYPE     | VARCHAR  | Yes   | NULL  | The type of the negotiated rate (e.g., fixed, percentage, etc.).   |
+| Column Name      | Data Type | Nullable | Default | Description                             |
+| ----------------------- | --------- | -------- | ------- | -------------------------------------------------------------------- |
+| BILLING\_CLASS     | VARCHAR  | Yes   | NULL  | The class or category of the billing code.              |
+| BILLING\_CODE     | VARCHAR  | Yes   | NULL  | A unique identifier for the specific billing code.          |
+| EXPIRATION\_DATE    | VARCHAR  | Yes   | NULL  | The expiration date of the negotiated rate.             |
+| NEGOTIATED\_RATE    | NUMBER  | Yes   | NULL  | The negotiated rate for the specified billing code.         |
+| NEGOTIATED\_TYPE    | VARCHAR  | Yes   | NULL  | The type of the negotiated rate (e.g., fixed, percentage, etc.).   |
 | NEGOTIATION\_ARRANGEMENT | VARCHAR  | Yes   | NULL  | The arrangement for the negotiated rate.               |
-| RATE\_PROVIDER\_KEY   | VARCHAR  | Yes   | NULL  | A unique identifier for the provider in the rate negotiation system. |
-| SERVICE\_CODES      | VARCHAR  | Yes   | NULL  | The associated service codes for the negotiated rate.        |
+| NPI\_RATE\_KEY   | VARCHAR  | Yes   | NULL  | A unique identifier for the provider in the rate negotiation system. |
+| SERVICE\_CODES     | VARCHAR  | Yes   | NULL  | The associated service codes for the negotiated rate.        |
 
 ### Table 3: BILLING\_CODES - 337.6M Records
 
