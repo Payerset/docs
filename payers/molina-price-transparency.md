@@ -45,6 +45,7 @@ The `NEGOTIATED_RATES` table contains information about negotiated rates for var
 | NEGOTIATION\_ARRANGEMENT | VARCHAR   | Yes      | NULL    | The arrangement for the negotiated rate.                             |
 | NPI\_RATE\_KEY      | VARCHAR   | Yes      | NULL    | A unique identifier for the provider in the rate negotiation system. |
 | SERVICE\_CODES           | VARCHAR   | Yes      | NULL    | The associated service codes for the negotiated rate.                |
+| TOC\_ID           | VARCHAR   | Yes      | NULL    | Links to the Reporting Plan ID in the table of contents.             |
 
 ### Table 3: BILLING\_CODES - 26.8M Records
 

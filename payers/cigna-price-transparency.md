@@ -36,7 +36,7 @@ The `NEGOTIATED_RATES` table contains information about negotiated rates for var
 #### 2. Columns
 
 | Column Name              | Data Type | Nullable | Default | Description                                                          |
-| ------------------------ | --------- | -------- | ------- | -------------------------------------------------------------------- |
+| ------------------------ | --------- | -------- | ------- |----------------------------------------------------------------------|
 | BILLING\_CLASS           | VARCHAR   | Yes      | NULL    | The class or category of the billing code.                           |
 | BILLING\_CODE            | VARCHAR   | Yes      | NULL    | A unique identifier for the specific billing code.                   |
 | EXPIRATION\_DATE         | VARCHAR   | Yes      | NULL    | The expiration date of the negotiated rate.                          |
@@ -45,6 +45,7 @@ The `NEGOTIATED_RATES` table contains information about negotiated rates for var
 | NEGOTIATION\_ARRANGEMENT | VARCHAR   | Yes      | NULL    | The arrangement for the negotiated rate.                             |
 | NPI\_RATE\_KEY      | VARCHAR   | Yes      | NULL    | A unique identifier for the provider in the rate negotiation system. |
 | SERVICE\_CODES           | VARCHAR   | Yes      | NULL    | The associated service codes for the negotiated rate.                |
+| TOC\_ID           | VARCHAR   | Yes      | NULL    | Links to the Reporting Plan ID in the table of contents.             |
 
 ### Table 3: BILLING\_CODES - 30.2M Records
 
