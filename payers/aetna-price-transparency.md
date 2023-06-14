@@ -14,7 +14,7 @@ If you are looking for a specific plan, please reach out to info@payerset.com to
 
 ### Schema: AETNA
 
-### Table 1: PROVIDER\_MAP - 195M Records
+### Table 1: PROVIDER\_MAP - 21.2B Records
 
 #### 1. Overview
 
@@ -29,7 +29,7 @@ The `PROVIDER_MAP` table contains the mapping of provider identification numbers
 | TIN\_TYPE           | VARCHAR   | Yes      | NULL    | Type of Taxpayer Identification Number associated with the provider. |
 | TIN\_VALUE          | VARCHAR   | Yes      | NULL    | Taxpayer Identification Number value for the provider.               |
 
-### Table 2: NEGOTIATED\_RATES - 1.2T Records
+### Table 2: NEGOTIATED\_RATES - 1.7T Records
 
 #### 1. Overview
 
@@ -49,7 +49,7 @@ The `NEGOTIATED_RATES` table contains information about negotiated rates for var
 | SERVICE\_CODES           | VARCHAR   | Yes      | NULL    | The associated service codes for the negotiated rate.                |
 | TOC\_ID           | VARCHAR   | Yes      | NULL    | Links to the Reporting Plan ID in the table of contents.             |
 
-### Table 3: BILLING\_CODES - 297M Records
+### Table 3: BILLING\_CODES - 2.7B Records
 
 #### 1. Overview
 
