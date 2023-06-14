@@ -12,7 +12,7 @@ Cigna has many plans but only about 65 distinct datasets. They mixed and matched
 
 ### Schema: CIGNA
 
-### Table 1: PROVIDER\_MAP - 40.8M Records
+### Table 1: PROVIDER\_MAP - 52.6M Records
 
 #### 1. Overview
 
@@ -27,7 +27,7 @@ The `PROVIDER_MAP` table contains the mapping of provider identification numbers
 | TIN\_TYPE           | VARCHAR   | Yes      | NULL    | Type of Taxpayer Identification Number associated with the provider. |
 | TIN\_VALUE          | VARCHAR   | Yes      | NULL    | Taxpayer Identification Number value for the provider.               |
 
-### Table 2: NEGOTIATED\_RATES - 4.0B Records
+### Table 2: NEGOTIATED\_RATES - 5.2B Records
 
 #### 1. Overview
 
@@ -46,7 +46,7 @@ The `NEGOTIATED_RATES` table contains information about negotiated rates for var
 | NPI\_RATE\_KEY      | VARCHAR   | Yes      | NULL    | A unique identifier for the provider in the rate negotiation system. |
 | SERVICE\_CODES           | VARCHAR   | Yes      | NULL    | The associated service codes for the negotiated rate.                |
 
-### Table 3: BILLING\_CODES - 4.2M Records
+### Table 3: BILLING\_CODES - 30.2M Records
 
 #### 1. Overview
 
