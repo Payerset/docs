@@ -52,6 +52,7 @@
 * [Mutual Of Omaha Price Transparency](payers/mutual-of-omaha-price-transparency.md)
 * [Orange County Health Authority Price Transparency](payers/orange-county-health-authority-price-transparency.md)
 * [Point32Health Price Transparency](payers/point32health-price-transparency.md)
+* [Preferred One](payers/preferred-one-price-transparency.md)
 * [Premera Blue Cross Price Transparency](payers/premera-blue-cross-price-transparency.md)
 * [Sentara Price Transparency](payers/sentara-price-transparency.md)
 * [Spectrum Health Price Transparency](payers/spectrum-health-price-transparency.md)
