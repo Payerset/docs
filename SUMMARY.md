@@ -47,6 +47,7 @@
 * [Local Initiative Health Authority Price Transparency](payers/local-initiative-health-authority-price-transparency.md)
 * [Louisiana Health Services Price Transparency](payers/louisiana-health-services-price-transparency.md)
 * [Medica Price Transparency](payers/medica-price-transparency.md)
+* [ModCost Price Transparency](payers/medcost-price-transparency.md)
 * [Metropolitan Price Transparency](payers/metropolitan-price-transparency.md)
 * [Molina Price Transparency](payers/molina-price-transparency.md)
 * [Mutual Of Omaha Price Transparency](payers/mutual-of-omaha-price-transparency.md)
@@ -64,7 +65,10 @@
 * [UPMC Health System Price Transparency](payers/upmc-health-system-price-transparency.md)
 * [Wellcare Price Transparency](payers/wellcare-price-transparency.md)
 
+## 🔭 Payerset Explore™
 
+* [Supported NPIs](payerset-explore/npis.md)
+* [Supported Billing Codes](payerset-explore/billing-codes.md)
 
 ## 🤓 Information & Requests
 
