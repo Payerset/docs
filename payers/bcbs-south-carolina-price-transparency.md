@@ -16,7 +16,7 @@ Please see below for metadata.
 
 #### 1. Overview
 
-The `PROVIDER_MAP` table contains the mapping of provider identification numbers (NPI) and other related provider information. This table is designed to store provider-specific data.
+The `PROVIDERS` table contains the mapping of provider identification numbers (NPI) and other related provider information. This table is designed to store provider-specific data.
 
 #### 2. Columns
 
