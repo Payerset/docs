@@ -67,8 +67,8 @@
 
 ## 🔭 Payerset Explore™
 
-* [Supported NPIs](payerset-explore/npis.md)
-* [Supported Billing Codes](payerset-explore/billing-codes.md)
+* [Supported NPIs](payerset-rate-explorer/npis.md)
+* [Supported Billing Codes](payerset-rate-explorer/billing-codes.md)
 
 ## 🤓 Information & Requests
 
