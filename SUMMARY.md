@@ -65,7 +65,7 @@
 * [UPMC Health System Price Transparency](payers/upmc-health-system-price-transparency.md)
 * [Wellcare Price Transparency](payers/wellcare-price-transparency.md)
 
-## 🔭 Payerset Explore™
+## 🔭 Payerset Rate Explorer™
 
 * [Supported NPIs](payerset-rate-explorer/npis.md)
 * [Supported Billing Codes](payerset-rate-explorer/billing-codes.md)
