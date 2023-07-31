@@ -12,7 +12,7 @@ Please see below for metadata.
 
 ### Schema: CARESOURCE
 
-### Table 1: PROVIDER\_MAP - Q3 2023 DATA PULL IN PROGRESS
+### Table 1: PROVIDER\_MAP
 
 #### 1. Overview
 
@@ -27,7 +27,7 @@ The `PROVIDER_MAP` table contains the mapping of provider identification numbers
 | TIN\_TYPE      | VARCHAR  | Yes   | NULL  | Type of Taxpayer Identification Number associated with the provider. |
 | TIN\_VALUE     | VARCHAR  | Yes   | NULL  | Taxpayer Identification Number value for the provider.        |
 
-### Table 2: NEGOTIATED\_RATES - Q3 2023 DATA PULL IN PROGRESS
+### Table 2: NEGOTIATED\_RATES
 
 #### 1. Overview
 
@@ -47,7 +47,7 @@ The `NEGOTIATED_RATES` table contains information about negotiated rates for var
 | SERVICE\_CODES           | VARCHAR   | Yes      | NULL    | The associated service codes for the negotiated rate.                |
 | TOC\_ID           | VARCHAR   | Yes      | NULL    | Links to the Reporting Plan ID in the table of contents.             |
 
-### Table 3: BILLING\_CODES - Q3 2023 DATA PULL IN PROGRESS
+### Table 3: BILLING\_CODES
 
 #### 1. Overview
 
