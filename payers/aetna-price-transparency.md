@@ -14,7 +14,7 @@ If you are looking for a specific plan, please reach out to info@payerset.com to
 
 ### Schema: AETNA
 
-### Table 1: PROVIDER\_MAP - 13,430,748,715 Records
+### Table 1: PROVIDER\_MAP - 13,434,749,949 Records
 
 #### 1. Overview
 
