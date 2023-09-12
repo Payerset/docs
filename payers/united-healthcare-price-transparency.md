@@ -8,8 +8,6 @@ description: >-
 
 ### Payerset Notes
 
-United has many hundreds of files as part of their dataset that are corrupted and unreadable, and contain little or no real data. These files have been cleansed from the final dataset, but can be made available if needed in their raw formats.
-
 If you are looking for a specific plan, please reach out to info@payerset.com to get access to the mapping back to the full plan list, which we maintain in a separate table.
 
 ### Schema: UNITED\_HEALTHCARE
