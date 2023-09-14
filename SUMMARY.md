@@ -11,7 +11,7 @@
 
 * [Aetna Price Transparency](payers/aetna-price-transparency.md)
 * [Aflac Price Transparency](payers/aflac-price-transparency.md)
-* [Anthem Price Transparency](payers/anthem-price-transparency.md)
+* [Elevance (Anthem) Price Transparency](payers/elevance-anthem-price-transparency.md)
 * [BCBS Alabama Price Transparency](payers/bcbs-alabama-price-transparency.md)
 * [BCBS California Price Transparency](payers/bcbs-california-price-transparency.md)
 * [BCBS Florida Price Transparency](payers/bcbs-florida-price-transparency.md)
