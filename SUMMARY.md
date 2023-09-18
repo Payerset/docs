@@ -15,6 +15,7 @@
 * [BCBS Alabama Price Transparency](payers/bcbs-alabama-price-transparency.md)
 * [BCBS California Price Transparency](payers/bcbs-california-price-transparency.md)
 * [BCBS Florida Price Transparency](payers/bcbs-florida-price-transparency.md)
+* [BCBS Illinois Price Transparency](payers/bcbs-illinois-price-transparency.md)
 * [BCBS Massachusetts Price Transparency](payers/bcbs-massachusetts-price-transparency.md)
 * [BCBS Michigan Price Transparency](payers/bcbs-michigan-price-transparency.md)
 * [BCBS Minnesota Price Transparency](payers/bcbs-minnesota-price-transparency.md)

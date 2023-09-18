@@ -12,7 +12,7 @@ Please see below for metadata.
 
 ### Schema: BCBS_NEW_JERSEY
 
-### Table 1: PROVIDER\_MAP
+### Table 1: PROVIDER\_MAP - 147,531,623,834 Records
 
 #### 1. Overview
 
@@ -27,7 +27,7 @@ The `PROVIDER_MAP` table contains the mapping of provider identification numbers
 | TIN\_TYPE      | VARCHAR  | Yes   | NULL  | Type of Taxpayer Identification Number associated with the provider. |
 | TIN\_VALUE     | VARCHAR  | Yes   | NULL  | Taxpayer Identification Number value for the provider.        |
 
-### Table 2: NEGOTIATED\_RATES
+### Table 2: NEGOTIATED\_RATES 15,712,916,662 Records
 
 #### 1. Overview
 

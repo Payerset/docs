@@ -33,10 +33,6 @@ The `PROVIDER_MAP` table contains the mapping of provider identification numbers
 
 The `NEGOTIATED_RATES` table contains information about negotiated rates for various billing classes and codes. This table is used to store pricing data and rate negotiations.
 
-#### 1. Overview
-
-The `NEGOTIATED_RATES` table contains information about negotiated rates for various billing classes and codes. This table is used to store pricing data and rate negotiations.
-
 #### 2. Columns
 
 | Column Name                  | Data Type | Nullable | Default | Description                                                          |
