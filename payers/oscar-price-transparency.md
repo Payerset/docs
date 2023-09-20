@@ -4,15 +4,15 @@ description: >-
  BCBSNew Jersey that have been normalized into easy-to-use tables.
 ---
 
-# BCBS Illinois Price Transparency
+# Oscar Price Transparency
 
 ### Payerset Notes
 
 Please see below for metadata.
 
-### Schema: BCBS_ILLINOIS
+### Schema: OSCAR
 
-### Table 1: PROVIDER\_MAP - 147,531,623,834 Records
+### Table 1: PROVIDER\_MAP - 27,678,148,223 Records
 
 #### 1. Overview
 
@@ -27,7 +27,7 @@ The `PROVIDER_MAP` table contains the mapping of provider identification numbers
 | TIN\_TYPE      | VARCHAR  | Yes   | NULL  | Type of Taxpayer Identification Number associated with the provider. |
 | TIN\_VALUE     | VARCHAR  | Yes   | NULL  | Taxpayer Identification Number value for the provider.        |
 
-### Table 2: NEGOTIATED\_RATES 15,712,916,662 Records
+### Table 2: NEGOTIATED\_RATES 15,048,718,157 Records
 
 #### 1. Overview
 

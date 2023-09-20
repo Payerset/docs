@@ -4,7 +4,7 @@ description: >-
  BCBSNew Jersey that have been normalized into easy-to-use tables.
 ---
 
-# BCBSNew Jersey Price Transparency
+# BCBS New Jersey Price Transparency
 
 ### Payerset Notes
 
