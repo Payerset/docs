@@ -5,11 +5,5 @@ description: List of supported NPIs in Payerset Explore™
 # Supported NPIs
 
 {% hint style="info" %}
-#### These are the supported NPI Values for Payerset Rate Explorer™.
+We have adjusted our model of providing a set list of NPIs/Providers. We now customize both the Providers and Billing Codes that come with Rate Explorer so that you can get a curated experience tailored to your business. Please reach out to us at info@payerset.com to get more information!
 {% endhint %}
-
-## Supported NPIs
-
-[Supported NPI List](https://docs.google.com/spreadsheets/d/12SuWMuwgw83baDiYdFfoMZzZ\_Jv9vLta1nQ77sJDrD0/edit#gid=0)
-
-{% embed url="https://docs.google.com/spreadsheets/d/12SuWMuwgw83baDiYdFfoMZzZ_Jv9vLta1nQ77sJDrD0/edit#gid=0" fullWidth="false" %}
