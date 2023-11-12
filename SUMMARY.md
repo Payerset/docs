@@ -71,7 +71,7 @@
 ## 🔭 Payerset Rate Explorer™
 
 * [Supported NPIs](payerset-rate-explorer/npis.md)
-* [Supported Billing Codes](payerset-rate-explorer/billing-codes.md)
+* [🩺 Supported Billing Codes](payerset-rate-explorer/billing-codes.md)
 
 ## 🤓 Information & Requests
 
