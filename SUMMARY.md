@@ -11,7 +11,6 @@
 
 * [Aetna](payers/aetna-price-transparency.md)
 * [Aflac](payers/aflac-price-transparency.md)
-* [Elevance (Anthem)](payers/elevance-anthem-price-transparency.md)
 * [BCBS Alabama](payers/bcbs-alabama-price-transparency.md)
 * [BCBS California](payers/bcbs-california-price-transparency.md)
 * [BCBS Florida](payers/bcbs-florida-price-transparency.md)
@@ -30,6 +29,7 @@
 * [Caresource](payers/caresource-price-transparency.md)
 * [Centene](payers/centene-price-transparency.md)
 * [Cigna](payers/cigna-price-transparency.md)
+* [Elevance (Anthem)](payers/elevance-anthem-price-transparency.md)
 * [Emblem Health](payers/emblem-health-price-transparency.md)
 * [Guardian Life](payers/guardian-life-price-transparency.md)
 * [Guidewell](payers/guidewell-price-transparency.md)
