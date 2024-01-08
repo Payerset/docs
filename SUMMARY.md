@@ -73,6 +73,10 @@
 * [Supported NPIs](payerset-rate-explorer/npis.md)
 * [🩺 Supported Billing Codes](payerset-rate-explorer/billing-codes.md)
 
+***
+
+* [Payerset Billing Code Classification](payerset-billing-code-classification.md)
+
 ## 🤓 Information & Requests
 
 * [Request a Payer](information-and-requests/request-a-payer.md)
