@@ -1,16 +1,22 @@
 ---
 description: >-
- Data downloaded and stored for convenience, updated quarterly to ensure
- matching with the Payerset datasets
+  Data downloaded and stored for convenience, updated quarterly to ensure
+  matching with the Payerset datasets
 ---
 
 # NPI Data from NPPES
 
 There are \~300 fields in this dataset, but the primary fields with their descriptions are listed below. All fields are available when you purchase any payer data.
 
+The original dataset is available here from CMS: [https://npiregistry.cms.hhs.gov/search](https://npiregistry.cms.hhs.gov/search)
+
+{% hint style="info" %}
+Payerset also lightly transforms this data to provide Primary Taxonomy Code, using the switches in the dataset.
+{% endhint %}
+
 ## Schema: ENRICHMENT\_DATA
 
-## Table Name: NPI\_DATA
+## Table Name: NPPES
 
 * **NPI Number:** Enter the NPI Number to search for a specific NPI. When entered, no other search criteria is needed.
 * **NPI Type:** The search can be refined to search for only **Individual** (Type 1) NPIs or only **Organization** (Type 2) NPIs; or the search can include all NPIs (both Individual and Organization) by selecting **Any**. Select the desired value from the drop-down list. The NPI Type cannot be the only search criterion entered. Searching by NPI Type and Country is acceptable as long as the Country selected is not **United States**. When searching by NPI Type and the Country **United States**, at least one other search criterion field besides State must be entered.
@@ -25,4 +31,3 @@ There are \~300 fields in this dataset, but the primary fields with their descri
 * **Country:** The Country associated with the provider's practice location address. This field can be used as the only search criterion as long as the value selected is neither **United States** nor **Any**. When selecting **United States** as a search criterion, at least one other search criterion field besides the NPI Type and State must be entered. Select the desired Country from the drop down list.
 * **Postal Code:** The Postal Code associated with the provider's practice location address.
 * **Address Type:** Primary and Secondary Address associated with the provider's practice location address. Must be used with City, State, Country, and/or Postal Code.
-

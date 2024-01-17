@@ -5,7 +5,8 @@
 ## 💰 Enrichment Data
 
 * [NPI Data from NPPES](enrichment-data/npi-data-from-nppes.md)
-* [Hospital Enrollment CMS](enrichment-data/hospital-enrollment-cms.md)
+* [Payerset Billing Code Classification](enrichment-data/payerset-billing-code-classification.md)
+* [Taxonomy Data from NUCC](enrichment-data/taxonomy-data-from-nucc.md)
 
 ## 🚀 Payers
 
@@ -75,5 +76,4 @@
 
 ## 🤓 Information & Requests
 
-* [Payerset Billing Code Classification](information-and-requests/payerset-billing-code-classification.md)
 * [Request a Payer](information-and-requests/request-a-payer.md)
