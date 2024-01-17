@@ -1,6 +1,7 @@
 # Table of contents
 
 * [🏠 Home](README.md)
+* [📖 Payerset Datalake Documentation](payerset-datalake-documentation.md)
 
 ## 💰 Enrichment Data
 
