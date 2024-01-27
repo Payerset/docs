@@ -1,18 +1,18 @@
 ---
 description: >-
   This data contains the price transparency machine-readable files provided by
-  BCBS South Carolina that have been normalized into easy-to-use tables.
+  BCBS North Dakota that have been normalized into easy-to-use tables.
 ---
 
-# Blue Cross Blue Shield South Carolina
+# Blue Cross Blue Shield North Dakota
 
 ### Payerset Notes
 
 **Table of Contents**&#x20;
 
-[https://www.southcarolinablues.com/web/public/brands/universal/transparency-in-coverage/?branding=sc](https://www.southcarolinablues.com/web/public/brands/universal/transparency-in-coverage/?branding=sc)
+[https://mrfdata.hmhs.com/files/320/nd/inbound/local/2024-01-01\_BlueCrossBlueShieldND\_index.json](https://mrfdata.hmhs.com/files/320/nd/inbound/local/2024-01-01\_BlueCrossBlueShieldND\_index.json)
 
-### Schema: BCBS\_SOUTH\_CAROLINA
+### Schema: BCBS\_NORTH\_DAKOTA
 
 ### Table 1: PROVIDERS
 

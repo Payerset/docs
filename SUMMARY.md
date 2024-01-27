@@ -9,7 +9,7 @@
 * [Payerset Billing Code Classification](enrichment-data/payerset-billing-code-classification.md)
 * [Taxonomy Data from NUCC](enrichment-data/taxonomy-data-from-nucc.md)
 
-## 🚀 Payers
+## 🤕 Payers
 
 * [Aetna](payers/aetna-price-transparency.md)
 * [Blue Cross Blue Shield Alabama](payers/bcbs-alabama-price-transparency.md)
@@ -26,9 +26,11 @@
 * [Blue Cross Blue Shield Mississippi](payers/bcbs-minnesota-price-transparency-1.md)
 * [Blue Cross Blue Shield Nebraska](payers/bcbs-minnesota-price-transparency-2.md)
 * [Blue Cross Blue Shield North Carolina](payers/bcbs-north-carolina-price-transparency.md)
-* [BCBS South Carolina](payers/bcbs-south-carolina-price-transparency.md)
-* [BCBS Tennessee](payers/bcbs-tennessee-price-transparency.md)
-* [BCBS Texas](payers/bcbs-texas-price-transparency.md)
+* [Blue Cross Blue Shield North Dakota](payers/bcbs-north-carolina-price-transparency-1.md)
+* [Blue Cross Blue Shield South Carolina](payers/bcbs-south-carolina-price-transparency.md)
+* [Blue Cross Blue Shield Tennessee](payers/bcbs-tennessee-price-transparency.md)
+* [Blue Cross Blue Shield Texas](payers/bcbs-texas-price-transparency.md)
+* [Blue Cross Blue Shield Wyoming](payers/bcbs-texas-price-transparency-1.md)
 * [Blue Shield California](payers/bcbs-california-price-transparency.md)
 * [California Physicians Service](payers/california-physicians-service-price-transparency.md)
 * [Cambia Health Solutions](payers/cambia-health-solutions-price-transparency.md)
