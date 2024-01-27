@@ -1,18 +1,19 @@
 ---
 description: >-
   This data contains the price transparency machine-readable files provided by
-  Independence Blue Cross that have been normalized into easy-to-use tables.
+  Highmark BCBS Northeastern New York that have been normalized into easy-to-use
+  tables.
 ---
 
-# Independence Blue Cross
+# Highmark Blue Shield of Northeastern New York
 
 ### Payerset Notes
 
 **Table of Contents**&#x20;
 
-{% embed url="https://www.ibx.com/developer-resources" %}
+{% embed url="https://mrfdata.hmhs.com/" %}
 
-### Schema: INDEPENDENCE\_BLUE\_CROSS
+### Schema: HIGHMARK\_NE\_NEW\_YORK
 
 ### Table 1: PROVIDERS
 

@@ -1,35 +1,35 @@
 ---
 description: >-
- This data contains the price transparency machine-readable files provided by
- Kaiser Permanente that have been normalized into easy-to-use tables.
+  This data contains the price transparency machine-readable files provided by
+  Kaiser Permanente that have been normalized into easy-to-use tables.
 ---
 
-# Kaiser Price Transparency
+# Kaiser Permanente
 
 ### Payerset Notes
 
-Kaiser has posted their data regionally at this link: [https://healthy.kaiser.org/oregon-washington/front-door/machine-readable](https://healthy.kaiser.org/oregon-washington/front-door/machine-readable)
+**Table of Contents**&#x20;
 
-This is the data that we parse and store in the below tables.
+{% embed url="https://healthy.kaiserpermanente.org/front-door/machine-readable" %}
 
 ### Schema: KAISER
 
-### Table 1: PROVIDER\_MAP - 45M Records
+### Table 1: PROVIDERS
 
 #### 1. Overview
 
-The `PROVIDER_MAP` table contains the mapping of provider identification numbers (NPI) and other related provider information. This table is designed to store provider-specific data.
+The `PROVIDERS` table contains the mapping of provider identification numbers (NPI) and other related provider information. This table is designed to store provider-specific data.
 
 #### 2. Columns
 
-| Column Name     | Data Type | Nullable | Default | Description                             |
-| ------------------- | --------- | -------- | ------- | -------------------------------------------------------------------- |
-| NPI         | VARCHAR  | Yes   | NULL  | The National Provider Identifier assigned to a healthcare provider. |
-| NPI\_RATE\_KEY | VARCHAR  | Yes   | NULL  | A unique identifier for the provider in the rate negotiation system. |
-| TIN\_TYPE      | VARCHAR  | Yes   | NULL  | Type of Taxpayer Identification Number associated with the provider. |
-| TIN\_VALUE     | VARCHAR  | Yes   | NULL  | Taxpayer Identification Number value for the provider.        |
+| Column Name    | Data Type | Description                                                          |
+| -------------- | --------- | -------------------------------------------------------------------- |
+| NPI            | VARCHAR   | The National Provider Identifier assigned to a healthcare provider.  |
+| NPI\_RATE\_KEY | VARCHAR   | A unique identifier for the provider in the rate negotiation system. |
+| TIN\_TYPE      | VARCHAR   | Type of Taxpayer Identification Number associated with the provider. |
+| TIN\_VALUE     | VARCHAR   | Taxpayer Identification Number value for the provider.               |
 
-### Table 2: NEGOTIATED\_RATES - 554.7M Records
+### Table 2: NEGOTIATED\_RATES
 
 #### 1. Overview
 
@@ -37,31 +37,4 @@ The `NEGOTIATED_RATES` table contains information about negotiated rates for var
 
 #### 2. Columns
 
-| Column Name       | Data Type | Nullable | Default | Description                             |
-| ------------------------ | --------- | -------- | ------- | -------------------------------------------------------------------- |
-| BILLING\_CLASS      | VARCHAR  | Yes   | NULL  | The class or category of the billing code.              |
-| BILLING\_CODE      | VARCHAR  | Yes   | NULL  | A unique identifier for the specific billing code.          |
-| EXPIRATION\_DATE     | VARCHAR  | Yes   | NULL  | The expiration date of the negotiated rate.             |
-| NEGOTIATED\_RATE     | NUMBER  | Yes   | NULL  | The negotiated rate for the specified billing code.         |
-| NEGOTIATED\_TYPE     | VARCHAR  | Yes   | NULL  | The type of the negotiated rate (e.g., fixed, percentage, etc.).   |
-| NEGOTIATION\_ARRANGEMENT | VARCHAR  | Yes   | NULL  | The arrangement for the negotiated rate.               |
-| NPI\_RATE\_KEY   | VARCHAR  | Yes   | NULL  | A unique identifier for the provider in the rate negotiation system. |
-| SERVICE\_CODES           | VARCHAR   | Yes      | NULL    | The associated service codes for the negotiated rate.                |
-| TOC\_ID           | VARCHAR   | Yes      | NULL    | Links to the Reporting Plan ID in the table of contents.             |
-
-### Table 3: BILLING\_CODES - 1.3M Records
-
-#### 1. Overview
-
-The `BILLING_CODES` table contains information about various billing codes, their types, and other related data. This table is designed to store billing code-specific data.
-
-#### 2. Columns
-
-| Column Name         | Data Type | Nullable | Default | Description                                 |
-| ---------------------------- | --------- | -------- | ------- | --------------------------------------------------------------------------- |
-| BILLING\_CODE        | VARCHAR  | Yes   | NULL  | A unique identifier for the specific billing code.             |
-| BILLING\_CODE\_TYPE     | VARCHAR  | Yes   | NULL  | The type or standard of the billing code (e.g., ICD-10, CPT, etc.).     |
-| BILLING\_CODE\_TYPE\_VERSION | VARCHAR  | Yes   | NULL  | The version of the billing code type.                    |
-| DESCRIPTION         | VARCHAR  | Yes   | NULL  | A description of the billing code.                     |
-| NAME             | VARCHAR  | Yes   | NULL  | The name or title of the billing code.                   |
-| TOC\_ID           | VARCHAR  | Yes   | NULL  | The unique identifier for the table of contents entry for the billing code. |
+<table><thead><tr><th>Column Name</th><th width="159.33333333333331">Data Type</th><th>Description</th></tr></thead><tbody><tr><td>BILLING_CLASS</td><td>VARCHAR</td><td>The class or category of the billing code.</td></tr><tr><td>BILLING_CODE</td><td>VARCHAR</td><td>A unique identifier for the specific billing code.</td></tr><tr><td>EXPIRATION_DATE</td><td>VARCHAR</td><td>The expiration date of the negotiated rate.</td></tr><tr><td>NEGOTIATED_RATE</td><td>NUMBER</td><td>The negotiated rate for the specified billing code.</td></tr><tr><td>NEGOTIATED_TYPE</td><td>VARCHAR</td><td>The type of the negotiated rate (e.g., fixed, percentage, etc.).</td></tr><tr><td>NEGOTIATION_ARRANGEMENT</td><td>VARCHAR</td><td>The arrangement for the negotiated rate.</td></tr><tr><td>NPI_RATE_KEY</td><td>VARCHAR</td><td>A unique identifier for the provider in the rate negotiation system.</td></tr><tr><td>SERVICE_CODES</td><td>VARCHAR</td><td>The associated service codes for the negotiated rate.</td></tr><tr><td>BILLING_CODE_TYPE</td><td>VARCHAR</td><td>The type or standard of the billing code (e.g., ICD-10, CPT, etc.).</td></tr><tr><td>BILLING_CODE_TYPE_VERSION</td><td>VARCHAR</td><td>The version of the billing code type.</td></tr><tr><td>DESCRIPTION</td><td>VARCHAR</td><td>A description of the billing code.</td></tr><tr><td>NAME</td><td>VARCHAR</td><td>The name or title of the billing code.</td></tr><tr><td>TOC_ID</td><td>UUID</td><td>Links to the Reporting Plan ID in the table of contents.</td></tr></tbody></table>

@@ -1,18 +1,18 @@
 ---
 description: >-
   This data contains the price transparency machine-readable files provided by
-  Independence Blue Cross that have been normalized into easy-to-use tables.
+  Highmark BCBS West Virginia that have been normalized into easy-to-use tables.
 ---
 
-# Independence Blue Cross
+# Highmark Blue Cross Blue Shield West Virginia
 
 ### Payerset Notes
 
 **Table of Contents**&#x20;
 
-{% embed url="https://www.ibx.com/developer-resources" %}
+{% embed url="https://mrfdata.hmhs.com/" %}
 
-### Schema: INDEPENDENCE\_BLUE\_CROSS
+### Schema: HIGHMARK\_WEST\_VIRGINIA
 
 ### Table 1: PROVIDERS
 
