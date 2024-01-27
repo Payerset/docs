@@ -10,7 +10,7 @@ description: >-
 
 **Table of Contents**&#x20;
 
-[https://www.bcbsil.com/member/policy-forms/machine-readable-file](https://www.bcbsil.com/member/policy-forms/machine-readable-file)
+{% embed url="https://www.bcbsil.com/member/policy-forms/machine-readable-file" %}
 
 ### Schema: BCBS\_ILLINOIS
 

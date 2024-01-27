@@ -10,7 +10,7 @@ description: >-
 
 **Table of Contents**&#x20;
 
-[https://bcbsneweb.healthsparq.com/healthsparq/public/#/one/insurerCode=BCBSNE\_I\&brandCode=BCBSNE/machine-readable-transparency-in-coverage](https://bcbsneweb.healthsparq.com/healthsparq/public/#/one/insurerCode=BCBSNE\_I\&brandCode=BCBSNE/machine-readable-transparency-in-coverage)
+{% embed url="https://bcbsneweb.healthsparq.com/healthsparq/public/#/one/insurerCode=BCBSNE_I&brandCode=BCBSNE/machine-readable-transparency-in-coverage" %}
 
 ### Schema: BCBS\_NEBRASKA
 

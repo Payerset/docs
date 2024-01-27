@@ -10,7 +10,7 @@ description: >-
 
 **Table of Contents**&#x20;
 
-[https://www.bluecrossmn.com/transparency-coverage-machine-readable-files](https://www.bluecrossmn.com/transparency-coverage-machine-readable-files)
+{% embed url="https://www.bluecrossmn.com/transparency-coverage-machine-readable-files" %}
 
 ### Schema: BCBS\_MINNESOTA
 

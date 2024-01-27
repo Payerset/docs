@@ -10,7 +10,7 @@ description: >-
 
 **Table of Contents**&#x20;
 
-[https://www.southcarolinablues.com/web/public/brands/universal/transparency-in-coverage/?branding=sc](https://www.southcarolinablues.com/web/public/brands/universal/transparency-in-coverage/?branding=sc)
+{% embed url="https://www.southcarolinablues.com/web/public/brands/universal/transparency-in-coverage/?branding=sc" %}
 
 ### Schema: BCBS\_SOUTH\_CAROLINA
 

@@ -10,7 +10,7 @@ description: >-
 
 **Table of Contents**&#x20;
 
-[https://mrfdata.hmhs.com/files/460/wy/inbound/local/2024-01-01\_Blue\_Cross\_Blue\_Shield\_of\_Wyoming\_index.json](https://mrfdata.hmhs.com/files/460/wy/inbound/local/2024-01-01\_Blue\_Cross\_Blue\_Shield\_of\_Wyoming\_index.json)
+{% embed url="https://mrfdata.hmhs.com/files/460/wy/inbound/local/2024-01-01_Blue_Cross_Blue_Shield_of_Wyoming_index.json" %}
 
 ### Schema: BCBS\_WYOMING
 

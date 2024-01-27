@@ -10,7 +10,7 @@ description: >-
 
 **Table of Contents**&#x20;
 
-[https://bcbsaz.healthsparq.com/healthsparq/public/#/one/city=Gilbert\&state=AZ\&insurerCode=BCBSAZ\_I\&productCode=PPO\&brandCode=BCBSAZ/machine-readable-transparency-in-coverage](https://bcbsaz.healthsparq.com/healthsparq/public/#/one/city=Gilbert\&state=AZ\&insurerCode=BCBSAZ\_I\&productCode=PPO\&brandCode=BCBSAZ/machine-readable-transparency-in-coverage)
+{% embed url="https://bcbsaz.healthsparq.com/healthsparq/public/#/one/city=Gilbert&state=AZ&insurerCode=BCBSAZ_I&productCode=PPO&brandCode=BCBSAZ/machine-readable-transparency-in-coverage" %}
 
 ### Schema: BCBS\_ARIZONA
 

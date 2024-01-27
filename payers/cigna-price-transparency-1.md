@@ -1,18 +1,20 @@
 ---
 description: >-
   This data contains the price transparency machine-readable files provided by
-  BCBS Florida that have been normalized into easy-to-use tables.
+  Community Care of NC that have been normalized into easy-to-use tables.
 ---
 
-# Blue Cross Blue Shield Florida
+# Communtiy Care of North Carolina
 
 ### Payerset Notes
 
 **Table of Contents**&#x20;
 
-{% embed url="https://www.floridablue.com/members/tools-resources/transparency/machine-readable-files" %}
+{% embed url="https://ccpcares.org/machinereadablefiles" %}
 
-### Schema: BCBS\_FLORIDA
+Last update November 2023
+
+### Schema: COMMUNITY\_CARE\_OF\_NC
 
 ### Table 1: PROVIDERS
 

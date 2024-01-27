@@ -10,7 +10,7 @@ description: >-
 
 **Table of Contents**&#x20;
 
-[https://www.bcbsks.com/mrf](https://www.bcbsks.com/mrf)
+{% embed url="https://www.bcbsks.com/mrf" %}
 
 ### Schema: BCBS\_KANSAS
 

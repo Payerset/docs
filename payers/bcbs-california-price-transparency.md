@@ -10,9 +10,9 @@ description: >-
 
 **Table of Contents**&#x20;
 
-[https://www.bcbsal.org/web/tcr](https://www.bcbsal.org/web/tcr)
+{% embed url="https://www.blueshieldca.com/en/home/help-and-resources/machine-readable-files" %}
 
-### Schema: BCBS\_ALABAMA
+### Schema: BS\_CALIFORNIA
 
 ### Table 1: PROVIDERS
 

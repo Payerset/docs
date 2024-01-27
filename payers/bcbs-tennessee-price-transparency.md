@@ -10,7 +10,7 @@ description: >-
 
 **Table of Contents**&#x20;
 
-[https://www.bcbst.com/tcr](https://www.bcbst.com/tcr)
+{% embed url="https://www.bcbst.com/tcr" %}
 
 ### Schema: BCBS\_TENNESSEE
 

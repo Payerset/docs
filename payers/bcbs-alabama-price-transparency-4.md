@@ -10,7 +10,7 @@ description: >-
 
 **Table of Contents**&#x20;
 
-[https://bcbskc.sapphiremrfhub.com/](https://bcbskc.sapphiremrfhub.com/)
+{% embed url="https://bcbskc.sapphiremrfhub.com/" %}
 
 ### Schema: BCBS\_KANSAS\_CITY
 

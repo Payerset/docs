@@ -10,7 +10,7 @@ description: >-
 
 **Table of Contents**&#x20;
 
-[https://mrfdata.hmhs.com/files/320/nd/inbound/local/2024-01-01\_BlueCrossBlueShieldND\_index.json](https://mrfdata.hmhs.com/files/320/nd/inbound/local/2024-01-01\_BlueCrossBlueShieldND\_index.json)
+{% embed url="https://mrfdata.hmhs.com/files/320/nd/inbound/local/2024-01-01_BlueCrossBlueShieldND_index.json" %}
 
 ### Schema: BCBS\_NORTH\_DAKOTA
 

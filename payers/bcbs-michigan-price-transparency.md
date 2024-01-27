@@ -10,7 +10,7 @@ description: >-
 
 **Table of Contents**&#x20;
 
-[https://www.bcbsm.com/mrf/index/](https://www.bcbsm.com/mrf/index/)
+{% embed url="https://www.bcbsm.com/mrf/index/" %}
 
 ### Schema: BCBS\_MICHIGAN
 

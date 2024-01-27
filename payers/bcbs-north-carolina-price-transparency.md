@@ -10,7 +10,7 @@ description: >-
 
 **Table of Contents**&#x20;
 
-[https://www.bluecrossnc.com/policies-best-practices/machine-readable-files](https://www.bluecrossnc.com/policies-best-practices/machine-readable-files)
+{% embed url="https://www.bluecrossnc.com/policies-best-practices/machine-readable-files" %}
 
 ### Schema: BCBS\_NORTH\_CAROLINA
 

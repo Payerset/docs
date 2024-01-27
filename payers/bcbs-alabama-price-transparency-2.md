@@ -10,7 +10,7 @@ description: >-
 
 **Table of Contents**&#x20;
 
-[https://www.arkansasbluecross.com/interoperability/machine-readable-files](https://www.arkansasbluecross.com/interoperability/machine-readable-files)
+{% embed url="https://www.arkansasbluecross.com/interoperability/machine-readable-files" %}
 
 ### Schema: BCBS\_ARKANSAS
 

@@ -10,7 +10,7 @@ description: >-
 
 **Table of Contents**&#x20;
 
-[https://transparency-in-coverage.bluecrossma.com/](https://transparency-in-coverage.bluecrossma.com/)
+{% embed url="https://transparency-in-coverage.bluecrossma.com/" %}
 
 ### Schema: BCBS\_MASSACHUSETTS
 

@@ -10,7 +10,7 @@ description: >-
 
 **Table of Contents**&#x20;
 
-[https://www.bcbsms.com/about-us/transparency-in-coverage](https://www.bcbsms.com/about-us/transparency-in-coverage)
+{% embed url="https://www.bcbsms.com/about-us/transparency-in-coverage" %}
 
 ### Schema: BCBS\_MISSISSIPPI
 

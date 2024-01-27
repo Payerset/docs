@@ -10,7 +10,7 @@ description: >-
 
 **Table of Contents**&#x20;
 
-[https://www.bcbsal.org/web/tcr](https://www.bcbsal.org/web/tcr)
+{% embed url="https://www.bcbsal.org/web/tcr" %}
 
 ### Schema: BCBS\_ALABAMA
 

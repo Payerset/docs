@@ -8,7 +8,9 @@ description: >-
 
 ### Payerset Notes
 
-**Table of Contents** [https://health1.aetna.com/app/public/#/one/insurerCode=AETNACVS\_I\&brandCode=ALICSI/machine-readable-transparency-in-coverage](https://health1.aetna.com/app/public/#/one/insurerCode=AETNACVS\_I\&brandCode=ALICSI/machine-readable-transparency-in-coverage)
+**Table of Contents**
+
+{% embed url="https://health1.aetna.com/app/public/#/one/insurerCode=AETNACVS_I&brandCode=ALICSI/machine-readable-transparency-in-coverage" %}
 
 ### Schema: AETNA
 

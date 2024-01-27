@@ -10,7 +10,7 @@ description: >-
 
 **Table of Contents**&#x20;
 
-[https://bcbsla.sapphiremrfhub.com/](https://bcbsla.sapphiremrfhub.com/)
+{% embed url="https://bcbsla.sapphiremrfhub.com/" %}
 
 ### Schema: BCBS\_LOUISIANA
 

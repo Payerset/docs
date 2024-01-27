@@ -10,7 +10,7 @@ description: >-
 
 **Table of Contents**&#x20;
 
-[https://www.bcbstx.com/member/policy-forms/machine-readable-file](https://www.bcbstx.com/member/policy-forms/machine-readable-file)
+{% embed url="https://www.bcbstx.com/member/policy-forms/machine-readable-file" %}
 
 ### Schema: BCBS\_TEXAS
 

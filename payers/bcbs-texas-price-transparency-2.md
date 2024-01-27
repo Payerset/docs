@@ -1,18 +1,18 @@
 ---
 description: >-
   This data contains the price transparency machine-readable files provided by
-  BCBS Florida that have been normalized into easy-to-use tables.
+  BC Idaho that have been normalized into easy-to-use tables.
 ---
 
-# Blue Cross Blue Shield Florida
+# Blue Cross Idaho
 
 ### Payerset Notes
 
 **Table of Contents**&#x20;
 
-{% embed url="https://www.floridablue.com/members/tools-resources/transparency/machine-readable-files" %}
+{% embed url="https://bci.sapphiremrfhub.com/" %}
 
-### Schema: BCBS\_FLORIDA
+### Schema: BC\_IDAHO
 
 ### Table 1: PROVIDERS
 
