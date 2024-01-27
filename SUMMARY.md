@@ -54,14 +54,18 @@
 * [Humana](payers/humana-price-transparency.md)
 * [Independence Blue Cross](payers/independence-blue-cross-price-transparency.md)
 * [Kaiser Permanente](payers/kaiser-price-transparency.md)
+* [Lifewise Assurance Company](payers/kaiser-price-transparency-1.md)
+* [Medical Mutual of Ohio](payers/kaiser-price-transparency-2.md)
 * [Molina](payers/molina-price-transparency.md)
 * [Oscar](payers/oscar.md)
 * [Premera Blue Cross](payers/premera-blue-cross-price-transparency.md)
-* [Select Health](payers/select-health-price-transparency.md)
+* [Regence](payers/premera-blue-cross-price-transparency-1.md)
+* [Security Health Plan](payers/select-health-price-transparency.md)
+* [Select Health](payers/select-health-price-transparency-1.md)
 * [Sentara](payers/sentara-price-transparency.md)
 * [United Healthcare](payers/united-healthcare-price-transparency.md)
 * [UPMC Health System](payers/upmc-health-system-price-transparency.md)
-* [Wellcare](payers/wellcare-price-transparency.md)
+* [WellCare](payers/wellcare-price-transparency.md)
 
 ## 🔭 Payerset Rate Explorer™
 

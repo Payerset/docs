@@ -1,18 +1,18 @@
 ---
 description: >-
   This data contains the price transparency machine-readable files provided by
-  Molina that have been normalized into easy-to-use tables.
+  Select Health that have been normalized into easy-to-use tables.
 ---
 
-# Molina
+# Select Health
 
 ### Payerset Notes
 
 **Table of Contents**&#x20;
 
-{% embed url="https://www.molinahealthcare.com/marketplace/wa/en-us/About/compinfo/PricingTransparency" %}
+{% embed url="https://ebu.intermountainhealthcare.org/selecthealth/transparencyincoverage/" %}
 
-### Schema: MOLINA
+### Schema: SELECT\_HEALTH
 
 ### Table 1: PROVIDERS
 

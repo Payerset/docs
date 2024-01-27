@@ -1,18 +1,18 @@
 ---
 description: >-
   This data contains the price transparency machine-readable files provided by
-  Molina that have been normalized into easy-to-use tables.
+  Lifewise that have been normalized into easy-to-use tables.
 ---
 
-# Molina
+# Lifewise Assurance Company
 
 ### Payerset Notes
 
 **Table of Contents**&#x20;
 
-{% embed url="https://www.molinahealthcare.com/marketplace/wa/en-us/About/compinfo/PricingTransparency" %}
+{% embed url="https://lifewise.sapphiremrfhub.com/" %}
 
-### Schema: MOLINA
+### Schema: LIFEWISE
 
 ### Table 1: PROVIDERS
 

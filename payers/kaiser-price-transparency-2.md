@@ -1,18 +1,18 @@
 ---
 description: >-
   This data contains the price transparency machine-readable files provided by
-  Molina that have been normalized into easy-to-use tables.
+  Medical Mutual of Ohio that have been normalized into easy-to-use tables.
 ---
 
-# Molina
+# Medical Mutual of Ohio
 
 ### Payerset Notes
 
 **Table of Contents**&#x20;
 
-{% embed url="https://www.molinahealthcare.com/marketplace/wa/en-us/About/compinfo/PricingTransparency" %}
+{% embed url="https://medmutual.healthsparq.com/healthsparq/public/#/one/insurerCode=MMO_I&brandCode=MMO&productCode=MRF/machine-readable-transparency-in-coverage" %}
 
-### Schema: MOLINA
+### Schema: MEDICAL\_MUTUAL\_OHIO
 
 ### Table 1: PROVIDERS
 

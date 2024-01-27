@@ -1,18 +1,18 @@
 ---
 description: >-
   This data contains the price transparency machine-readable files provided by
-  Molina that have been normalized into easy-to-use tables.
+  Regence that have been normalized into easy-to-use tables.
 ---
 
-# Molina
+# Regence
 
 ### Payerset Notes
 
 **Table of Contents**&#x20;
 
-{% embed url="https://www.molinahealthcare.com/marketplace/wa/en-us/About/compinfo/PricingTransparency" %}
+{% embed url="https://www.regence.com/transparency-in-coverage/" %}
 
-### Schema: MOLINA
+### Schema: REGENCE
 
 ### Table 1: PROVIDERS
 
