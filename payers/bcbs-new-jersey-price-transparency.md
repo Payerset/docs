@@ -10,7 +10,7 @@ description: >-
 
 **Table of Contents**&#x20;
 
-[https://horizonblue.sapphiremrfhub.com/](https://horizonblue.sapphiremrfhub.com/)
+{% embed url="https://horizonblue.sapphiremrfhub.com/" %}
 
 ### Schema: HORIZON\_BLUE\_CROSS\_BLUE\_SHIELD\_NJ
 
