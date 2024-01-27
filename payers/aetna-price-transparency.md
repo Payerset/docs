@@ -8,17 +8,15 @@ description: >-
 
 ### Payerset Notes
 
-Aetna's table of contents was not immediately available on their website but can be found in its entirety here: [https://health1.aetna.com/app/public/#/one/insurerCode=AETNACVS\_I\&brandCode=ALICSI/machine-readable-transparency-in-coverage](https://health1.aetna.com/app/public/#/one/insurerCode=AETNACVS\_I\&brandCode=ALICSI/machine-readable-transparency-in-coverage)
-
-If you are looking for a specific plan, please reach out to info@payerset.com to get access to the mapping back to the full plan list, which we maintain in a separate table.
+**Table of Contents** [https://health1.aetna.com/app/public/#/one/insurerCode=AETNACVS\_I\&brandCode=ALICSI/machine-readable-transparency-in-coverage](https://health1.aetna.com/app/public/#/one/insurerCode=AETNACVS\_I\&brandCode=ALICSI/machine-readable-transparency-in-coverage)
 
 ### Schema: AETNA
 
-### Table 1: PROVIDER\_MAP - 15,984,744,618 Records
+### Table 1: PROVIDERS - 15,984,744,618 Records
 
 #### 1. Overview
 
-The `PROVIDER_MAP` table contains the mapping of provider identification numbers (NPI) and other related provider information. This table is designed to store provider-specific data.
+The `PROVIDERS` table contains the mapping of provider identification numbers (NPI) and other related provider information. This table is designed to store provider-specific data.
 
 #### 2. Columns
 

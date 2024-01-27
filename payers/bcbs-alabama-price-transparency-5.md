@@ -1,18 +1,18 @@
 ---
 description: >-
   This data contains the price transparency machine-readable files provided by
-  Horizon BCBS New Jersey that have been normalized into easy-to-use tables.
+  BCBS Louisiana that have been normalized into easy-to-use tables.
 ---
 
-# Horizon Blue Cross Blue Shield New Jersey
+# Blue Cross Blue Shield Louisiana
 
 ### Payerset Notes
 
 **Table of Contents**&#x20;
 
-[https://horizonblue.sapphiremrfhub.com/](https://horizonblue.sapphiremrfhub.com/)
+[https://bcbsla.sapphiremrfhub.com/](https://bcbsla.sapphiremrfhub.com/)
 
-### Schema: HORIZON\_BLUE\_CROSS\_BLUE\_SHIELD\_NJ
+### Schema: BCBS\_LOUISIANA
 
 ### Table 1: PROVIDERS
 

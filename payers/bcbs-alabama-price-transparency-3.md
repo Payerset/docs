@@ -1,18 +1,18 @@
 ---
 description: >-
   This data contains the price transparency machine-readable files provided by
-  Horizon BCBS New Jersey that have been normalized into easy-to-use tables.
+  BCBS Kansas that have been normalized into easy-to-use tables.
 ---
 
-# Horizon Blue Cross Blue Shield New Jersey
+# Blue Cross Blue Shield Kansas
 
 ### Payerset Notes
 
 **Table of Contents**&#x20;
 
-[https://horizonblue.sapphiremrfhub.com/](https://horizonblue.sapphiremrfhub.com/)
+[https://www.bcbsks.com/mrf](https://www.bcbsks.com/mrf)
 
-### Schema: HORIZON\_BLUE\_CROSS\_BLUE\_SHIELD\_NJ
+### Schema: BCBS\_KANSAS
 
 ### Table 1: PROVIDERS
 

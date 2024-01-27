@@ -1,18 +1,18 @@
 ---
 description: >-
   This data contains the price transparency machine-readable files provided by
-  Horizon BCBS New Jersey that have been normalized into easy-to-use tables.
+  BCBS Nebraska that have been normalized into easy-to-use tables.
 ---
 
-# Horizon Blue Cross Blue Shield New Jersey
+# Blue Cross Blue Shield Nebraska
 
 ### Payerset Notes
 
 **Table of Contents**&#x20;
 
-[https://horizonblue.sapphiremrfhub.com/](https://horizonblue.sapphiremrfhub.com/)
+[https://bcbsneweb.healthsparq.com/healthsparq/public/#/one/insurerCode=BCBSNE\_I\&brandCode=BCBSNE/machine-readable-transparency-in-coverage](https://bcbsneweb.healthsparq.com/healthsparq/public/#/one/insurerCode=BCBSNE\_I\&brandCode=BCBSNE/machine-readable-transparency-in-coverage)
 
-### Schema: HORIZON\_BLUE\_CROSS\_BLUE\_SHIELD\_NJ
+### Schema: BCBS\_NEBRASKA
 
 ### Table 1: PROVIDERS
 

@@ -1,18 +1,18 @@
 ---
 description: >-
   This data contains the price transparency machine-readable files provided by
-  Horizon BCBS New Jersey that have been normalized into easy-to-use tables.
+  BCBS Arizona that have been normalized into easy-to-use tables.
 ---
 
-# Horizon Blue Cross Blue Shield New Jersey
+# Blue Cross Blue Shield Arizona
 
 ### Payerset Notes
 
 **Table of Contents**&#x20;
 
-[https://horizonblue.sapphiremrfhub.com/](https://horizonblue.sapphiremrfhub.com/)
+[https://bcbsaz.healthsparq.com/healthsparq/public/#/one/city=Gilbert\&state=AZ\&insurerCode=BCBSAZ\_I\&productCode=PPO\&brandCode=BCBSAZ/machine-readable-transparency-in-coverage](https://bcbsaz.healthsparq.com/healthsparq/public/#/one/city=Gilbert\&state=AZ\&insurerCode=BCBSAZ\_I\&productCode=PPO\&brandCode=BCBSAZ/machine-readable-transparency-in-coverage)
 
-### Schema: HORIZON\_BLUE\_CROSS\_BLUE\_SHIELD\_NJ
+### Schema: BCBS\_ARIZONA
 
 ### Table 1: PROVIDERS
 
