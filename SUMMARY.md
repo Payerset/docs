@@ -66,6 +66,7 @@
 * [United Healthcare](payers/united-healthcare-price-transparency.md)
 * [UPMC Health System](payers/upmc-health-system-price-transparency.md)
 * [WellCare](payers/wellcare-price-transparency.md)
+* [Baylor Scott and White Health Plan](payers/bcbs-alabama-price-transparency-6.md)
 
 ## 🔭 Payerset Rate Explorer™
 
