@@ -1,18 +1,18 @@
 ---
 description: >-
   This data contains the price transparency machine-readable files provided by
-  Baylor, Scott, & White that have been normalized into easy-to-use tables.
+  BCBS Louisiana that have been normalized into easy-to-use tables.
 ---
 
-# Baylor Scott and White Health Plan
+# Blue Cross Blue Shield Louisiana
 
 ### Payerset Notes
 
-**Table of Contents - BSW does not have a formal TOC file, but they have links to their In Network rates on this page:**
+**Table of Contents**&#x20;
 
-{% embed url="https://www.bswhealthplan.com/Pages/TransparencyInCoverage.aspx" %}
+{% embed url="https://bcbsla.sapphiremrfhub.com/" %}
 
-### Schema: BAYLOR\_SCOTT\_WHITE
+### Schema: BCBS\_LOUISIANA
 
 ### Table 1: PROVIDERS
 

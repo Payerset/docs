@@ -12,14 +12,15 @@
 ## 🤕 Payers
 
 * [Aetna](payers/aetna-price-transparency.md)
-* [Blue Cross Blue Shield Alabama](payers/bcbs-alabama-price-transparency.md)
-* [Blue Cross Blue Shield Arizona](payers/bcbs-alabama-price-transparency-1.md)
-* [Blue Cross Blue Shield Arkansas](payers/bcbs-alabama-price-transparency-2.md)
+* [Baylor Scott and White Health Plan](payers/bcbs-alabama-price-transparency.md)
+* [Blue Cross Blue Shield Alabama](payers/bcbs-alabama-price-transparency-1.md)
+* [Blue Cross Blue Shield Arizona](payers/bcbs-alabama-price-transparency-2.md)
+* [Blue Cross Blue Shield Arkansas](payers/bcbs-alabama-price-transparency-3.md)
 * [Blue Cross Blue Shield Florida](payers/bcbs-florida-price-transparency.md)
 * [Blue Cross Blue Shield Illinois](payers/bcbs-illinois-price-transparency.md)
-* [Blue Cross Blue Shield Kansas](payers/bcbs-alabama-price-transparency-3.md)
-* [Blue Cross Blue Shield Kansas City](payers/bcbs-alabama-price-transparency-4.md)
-* [Blue Cross Blue Shield Louisiana](payers/bcbs-alabama-price-transparency-5.md)
+* [Blue Cross Blue Shield Kansas](payers/bcbs-alabama-price-transparency-4.md)
+* [Blue Cross Blue Shield Kansas City](payers/bcbs-alabama-price-transparency-5.md)
+* [Blue Cross Blue Shield Louisiana](payers/bcbs-alabama-price-transparency-6.md)
 * [Blue Cross Blue Shield Massachusetts](payers/bcbs-massachusetts-price-transparency.md)
 * [Blue Cross Blue Shield Michigan](payers/bcbs-michigan-price-transparency.md)
 * [Blue Cross Blue Shield Minnesota](payers/bcbs-minnesota-price-transparency.md)
@@ -66,7 +67,6 @@
 * [United Healthcare](payers/united-healthcare-price-transparency.md)
 * [UPMC Health System](payers/upmc-health-system-price-transparency.md)
 * [WellCare](payers/wellcare-price-transparency.md)
-* [Baylor Scott and White Health Plan](payers/bcbs-alabama-price-transparency-6.md)
 
 ## 🔭 Payerset Rate Explorer™
 

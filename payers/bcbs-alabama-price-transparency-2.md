@@ -1,18 +1,18 @@
 ---
 description: >-
   This data contains the price transparency machine-readable files provided by
-  BCBS Arkansas that have been normalized into easy-to-use tables.
+  BCBS Arizona that have been normalized into easy-to-use tables.
 ---
 
-# Blue Cross Blue Shield Arkansas
+# Blue Cross Blue Shield Arizona
 
 ### Payerset Notes
 
 **Table of Contents**&#x20;
 
-{% embed url="https://www.arkansasbluecross.com/interoperability/machine-readable-files" %}
+{% embed url="https://bcbsaz.healthsparq.com/healthsparq/public/#/one/city=Gilbert&state=AZ&insurerCode=BCBSAZ_I&productCode=PPO&brandCode=BCBSAZ/machine-readable-transparency-in-coverage" %}
 
-### Schema: BCBS\_ARKANSAS
+### Schema: BCBS\_ARIZONA
 
 ### Table 1: PROVIDERS
 

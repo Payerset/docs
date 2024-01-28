@@ -1,18 +1,18 @@
 ---
 description: >-
   This data contains the price transparency machine-readable files provided by
-  BCBS Kansas that have been normalized into easy-to-use tables.
+  BCBS Arkansas that have been normalized into easy-to-use tables.
 ---
 
-# Blue Cross Blue Shield Kansas
+# Blue Cross Blue Shield Arkansas
 
 ### Payerset Notes
 
 **Table of Contents**&#x20;
 
-{% embed url="https://www.bcbsks.com/mrf" %}
+{% embed url="https://www.arkansasbluecross.com/interoperability/machine-readable-files" %}
 
-### Schema: BCBS\_KANSAS
+### Schema: BCBS\_ARKANSAS
 
 ### Table 1: PROVIDERS
 

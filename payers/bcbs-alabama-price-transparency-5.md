@@ -1,18 +1,18 @@
 ---
 description: >-
   This data contains the price transparency machine-readable files provided by
-  BCBS Louisiana that have been normalized into easy-to-use tables.
+  BCBS Kansas City that have been normalized into easy-to-use tables.
 ---
 
-# Blue Cross Blue Shield Louisiana
+# Blue Cross Blue Shield Kansas City
 
 ### Payerset Notes
 
 **Table of Contents**&#x20;
 
-{% embed url="https://bcbsla.sapphiremrfhub.com/" %}
+{% embed url="https://bcbskc.sapphiremrfhub.com/" %}
 
-### Schema: BCBS\_LOUISIANA
+### Schema: BCBS\_KANSAS\_CITY
 
 ### Table 1: PROVIDERS
 
