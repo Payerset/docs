@@ -14,7 +14,7 @@ description: >-
 
 Last update November 2023
 
-### Schema: COMMUNITY\_CARE\_OF\_NC
+### Schema: COMMUNITY\_CARE\_NC
 
 ### Table 1: PROVIDERS
 
