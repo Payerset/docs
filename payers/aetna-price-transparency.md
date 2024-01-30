@@ -14,7 +14,7 @@ description: >-
 
 ### Schema: AETNA
 
-### Table 1: PROVIDERS - 15,984,744,618 Records
+### Table 1: PROVIDERS
 
 #### 1. Overview
 
