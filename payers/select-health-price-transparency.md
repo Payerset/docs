@@ -1,18 +1,18 @@
 ---
 description: >-
   This data contains the price transparency machine-readable files provided by
-  Security Health that have been normalized into easy-to-use tables.
+  Select Health that have been normalized into easy-to-use tables.
 ---
 
-# Security Health Plan
+# Select Health
 
 ### Payerset Notes
 
 **Table of Contents**&#x20;
 
-{% embed url="https://www.securityhealth.org/insurance-resources/json" %}
+{% embed url="https://ebu.intermountainhealthcare.org/selecthealth/transparencyincoverage/" %}
 
-### Schema: SECURITY\_HEALTH
+### Schema: SELECT\_HEALTH
 
 ### Table 1: PROVIDERS
 

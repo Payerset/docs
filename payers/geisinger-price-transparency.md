@@ -1,18 +1,20 @@
 ---
 description: >-
   This data contains the price transparency machine-readable files provided by
-  Select Health that have been normalized into easy-to-use tables.
+  Geisinger that have been normalized into easy-to-use tables.
 ---
 
-# Select Health
+# Geisinger
 
 ### Payerset Notes
 
 **Table of Contents**&#x20;
 
-{% embed url="https://ebu.intermountainhealthcare.org/selecthealth/transparencyincoverage/" %}
+{% embed url="https://cdn.thehealthplan.com/content/MRF/toc.zip" %}
 
-### Schema: SELECT\_HEALTH
+Last update November 2023
+
+### Schema: GEISINGER
 
 ### Table 1: PROVIDERS
 

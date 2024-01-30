@@ -1,20 +1,18 @@
 ---
 description: >-
   This data contains the price transparency machine-readable files provided by
-  Geisinger that have been normalized into easy-to-use tables.
+  Security Health that have been normalized into easy-to-use tables.
 ---
 
-# Geisinger
+# Security Health Plan
 
 ### Payerset Notes
 
 **Table of Contents**&#x20;
 
-{% embed url="https://cdn.thehealthplan.com/content/MRF/toc.zip" %}
+{% embed url="https://www.securityhealth.org/insurance-resources/json" %}
 
-Last update November 2023
-
-### Schema: EMBLEM\_HEALTH
+### Schema: SECURITY\_HEALTH
 
 ### Table 1: PROVIDERS
 
