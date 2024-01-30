@@ -1,20 +1,20 @@
 ---
 description: >-
   This data contains the price transparency machine-readable files provided by
-  Select Health that have been normalized into easy-to-use tables.
+  Baylor, Scott, & White that have been normalized into easy-to-use tables.
 ---
 
-# Select Health
+# Baylor Scott and White Health Plan
 
 ### Payerset Notes
 
-**Table of Contents**&#x20;
+**Table of Contents - BSW does not have a formal TOC file, but they have links to their In Network rates on this page:**
 
-{% embed url="https://ebu.intermountainhealthcare.org/selecthealth/transparencyincoverage/" %}
+{% embed url="https://www.bswhealthplan.com/Pages/TransparencyInCoverage.aspx" %}
 
-### Schema: SELECT\_HEALTH
+### Schema: BAYLOR\_SCOTT\_WHITE
 
-### Table 1: PROVIDERS
+### Table 1: PROVIDERS 
 
 #### 1. Overview
 

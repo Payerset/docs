@@ -1,18 +1,20 @@
 ---
 description: >-
   This data contains the price transparency machine-readable files provided by
-  BCBS Alabama that have been normalized into easy-to-use tables.
+  Geisinger that have been normalized into easy-to-use tables.
 ---
 
-# Blue Cross Blue Shield Alabama
+# Geisinger
 
 ### Payerset Notes
 
 **Table of Contents**&#x20;
 
-{% embed url="https://www.bcbsal.org/web/tcr" %}
+{% embed url="https://cdn.thehealthplan.com/content/MRF/toc.zip" %}
 
-### Schema: BCBS\_ALABAMA
+Last update November 2023
+
+### Schema: GEISINGER
 
 ### Table 1: PROVIDERS
 
