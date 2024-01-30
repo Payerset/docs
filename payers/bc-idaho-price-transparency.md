@@ -8,7 +8,7 @@ description: >-
 
 ### Payerset Notes
 
-**Table of Contents**&#x20;
+**Table of Contents**&#x20; 
 
 {% embed url="https://bci.sapphiremrfhub.com/" %}
 
