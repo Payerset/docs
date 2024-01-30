@@ -65,7 +65,7 @@
 * [Select Health](payers/select-health-price-transparency)
 * [Sentara](payers/sentara-price-transparency.md)
 * [United Healthcare](payers/united-healthcare-price-transparency.md)
-* [UPMC Health System](payers/upmc-health-system-price-transparency.md)
+* [UPMC Health System](payers/upmc-price-transparency)
 * [WellCare](payers/wellcare-price-transparency.md)
 
 ## 🔭 Payerset Rate Explorer™
