@@ -1,18 +1,18 @@
 ---
 description: >-
   This data contains the price transparency machine-readable files provided by
-  BCBS Alabama that have been normalized into easy-to-use tables.
+  Baylor, Scott, & White that have been normalized into easy-to-use tables.
 ---
 
-# Blue Cross Blue Shield Alabama
+# Baylor Scott and White Health Plan
 
 ### Payerset Notes
 
-**Table of Contents**&#x20;
+**Table of Contents - BSW does not have a formal TOC file, but they have links to their In Network rates on this page:**
 
-{% embed url="https://www.bcbsal.org/web/tcr" %}
+{% embed url="https://www.bswhealthplan.com/Pages/TransparencyInCoverage.aspx" %}
 
-### Schema: BCBS\_ALABAMA
+### Schema: BAYLOR\_SCOTT\_WHITE
 
 ### Table 1: PROVIDERS
 

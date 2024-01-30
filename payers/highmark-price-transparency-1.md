@@ -1,20 +1,20 @@
 ---
 description: >-
   This data contains the price transparency machine-readable files provided by
-  Aetna that have been normalized into easy-to-use tables.
+  Highmark BCBS Pennsylvania that have been normalized into easy-to-use tables.
 ---
 
-# Aetna
+# Highmark Blue Cross Blue Shield Pennsylvania
 
 ### Payerset Notes
 
-**Table of Contents**
+**Table of Contents**&#x20;
 
-{% embed url="https://health1.aetna.com/app/public/#/one/insurerCode=AETNACVS_I&brandCode=ALICSI/machine-readable-transparency-in-coverage" %}
+{% embed url="https://mrfdata.hmhs.com/" %}
 
-### Schema: AETNA
+### Schema: HIGHMARK\_BCBS\_PENNSYLVANIA
 
-### Table 1: PROVIDERS - 15,984,744,618 Records
+### Table 1: PROVIDERS
 
 #### 1. Overview
 
@@ -29,7 +29,7 @@ The `PROVIDERS` table contains the mapping of provider identification numbers (N
 | TIN\_TYPE      | VARCHAR   | Type of Taxpayer Identification Number associated with the provider. |
 | TIN\_VALUE     | VARCHAR   | Taxpayer Identification Number value for the provider.               |
 
-### Table 2: NEGOTIATED\_RATES - 2,725,735,036,850 Records
+### Table 2: NEGOTIATED\_RATES
 
 #### 1. Overview
 
