@@ -14,7 +14,7 @@ description: >-
 
 ### Schema: BAYLOR\_SCOTT\_WHITE
 
-### Table 1: PROVIDERS 
+### Table 1: PROVIDERS
 
 #### 1. Overview
 
