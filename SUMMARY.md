@@ -12,7 +12,7 @@
 ## 🤕 Payers
 
 * [Aetna](payers/aetna-price-transparency.md)
-* [Baylor Scott and White Health Plan](payers/baylor-scott-white)
+* [Baylor Scott and White Health Plan](payers/baylor-scott-white-price-transparency)
 * [Blue Cross Blue Shield Alabama](payers/bcbs-alabama-price-transparency)
 * [Blue Cross Blue Shield Arizona](payers/bcbs-arizona-price-transparency)
 * [Blue Cross Blue Shield Arkansas](payers/bcbs-arkansas-price-transparency)
