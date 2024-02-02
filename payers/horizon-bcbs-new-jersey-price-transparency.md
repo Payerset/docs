@@ -12,7 +12,7 @@ description: >-
 
 {% embed url="https://horizonblue.sapphiremrfhub.com/" %}
 
-### Schema: HORIZON\_BLUE\_CROSS\_BLUE\_SHIELD\_NJ
+### Schema: HORIZON\_BCBS\_NJ
 
 ### Table 1: PROVIDERS
 
