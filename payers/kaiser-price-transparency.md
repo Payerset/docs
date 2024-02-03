@@ -12,6 +12,8 @@ description: >-
 
 {% embed url="https://healthy.kaiserpermanente.org/front-door/machine-readable" %}
 
+February 2024: A number of files are corrupted, specifically 16 of them either contain bad zip archives or corrupted JSON files that are not reparable.
+
 ### Schema: KAISER
 
 ### Table 1: PROVIDERS
