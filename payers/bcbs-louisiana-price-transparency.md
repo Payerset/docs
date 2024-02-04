@@ -6,45 +6,26 @@ description: >-
 
 # Blue Cross Blue Shield Louisiana
 
-### Payerset Notes
+### Schema: BCBS\_LOUISIANA
+
+## Payerset Notes
 
 **Table of Contents**&#x20;
 
 {% embed url="https://bcbsla.sapphiremrfhub.com/" %}
 
-#### February 2024 Parsing
+### February 2024 Parsing Results
+
+<mark style="color:green;">**549/550 files Parsed Successfully**</mark>
+
+**Total Compressed Size**: 701.6GB
+
+**Total # of Rate Records**: 19,069,634,388
+
+**Total # Provider Records**: 126,252,848,301
+
+<mark style="color:yellow;">**File Issues**</mark>
 
 Malformed JSON in one of the Dental/Vision files, specifically this file:
 
 [https://bcbsla.sapphiremrfhub.com/mrfs/202402/CAA\_JSON\_PROD\_BCBSLA\_20240201.gz](https://bcbsla.sapphiremrfhub.com/mrfs/202402/CAA\_JSON\_PROD\_BCBSLA\_20240201.gz)
-
-`An error occurred while processing the file 462430f0-99a9-4bf1-bfc0-37ed291e7ab7: parse error: unallowed token at this point in JSON text 61042,1891139473,1932830130, ], "tin": { "type": "ein", "val (right here) ------^`
-
-Unfortunately, the CSV files linked that appear to have the same or similar data are also inaccessible (e.g., [https://versanthealth.com/toc/bcbsla/2024\_01\_BCBSLA\_in-network-rates\_2.csv](https://versanthealth.com/toc/bcbsla/2024\_01\_BCBSLA\_in-network-rates\_2.csvhttps://versanthealth.com/toc/bcbsla/2024\_01\_BCBSLA\_in-network-rates\_3.csvhttps://versanthealth.com/toc/bcbsla/2024\_01\_BCBSLA\_in-network-rates\_4.csv))
-
-### Schema: BCBS\_LOUISIANA
-
-### Table 1: PROVIDERS
-
-#### 1. Overview
-
-The `PROVIDERS` table contains the mapping of provider identification numbers (NPI) and other related provider information. This table is designed to store provider-specific data.
-
-#### 2. Columns
-
-| Column Name    | Data Type | Description                                                          |
-| -------------- | --------- | -------------------------------------------------------------------- |
-| NPI            | VARCHAR   | The National Provider Identifier assigned to a healthcare provider.  |
-| NPI\_RATE\_KEY | VARCHAR   | A unique identifier for the provider in the rate negotiation system. |
-| TIN\_TYPE      | VARCHAR   | Type of Taxpayer Identification Number associated with the provider. |
-| TIN\_VALUE     | VARCHAR   | Taxpayer Identification Number value for the provider.               |
-
-### Table 2: NEGOTIATED\_RATES
-
-#### 1. Overview
-
-The `NEGOTIATED_RATES` table contains information about negotiated rates for various billing classes and codes. This table is used to store pricing data and rate negotiations.
-
-#### 2. Columns
-
-<table><thead><tr><th>Column Name</th><th width="159.33333333333331">Data Type</th><th>Description</th></tr></thead><tbody><tr><td>BILLING_CLASS</td><td>VARCHAR</td><td>The class or category of the billing code.</td></tr><tr><td>BILLING_CODE</td><td>VARCHAR</td><td>A unique identifier for the specific billing code.</td></tr><tr><td>EXPIRATION_DATE</td><td>VARCHAR</td><td>The expiration date of the negotiated rate.</td></tr><tr><td>NEGOTIATED_RATE</td><td>NUMBER</td><td>The negotiated rate for the specified billing code.</td></tr><tr><td>NEGOTIATED_TYPE</td><td>VARCHAR</td><td>The type of the negotiated rate (e.g., fixed, percentage, etc.).</td></tr><tr><td>NEGOTIATION_ARRANGEMENT</td><td>VARCHAR</td><td>The arrangement for the negotiated rate.</td></tr><tr><td>NPI_RATE_KEY</td><td>VARCHAR</td><td>A unique identifier for the provider in the rate negotiation system.</td></tr><tr><td>SERVICE_CODES</td><td>VARCHAR</td><td>The associated service codes for the negotiated rate.</td></tr><tr><td>BILLING_CODE_TYPE</td><td>VARCHAR</td><td>The type or standard of the billing code (e.g., ICD-10, CPT, etc.).</td></tr><tr><td>BILLING_CODE_TYPE_VERSION</td><td>VARCHAR</td><td>The version of the billing code type.</td></tr><tr><td>DESCRIPTION</td><td>VARCHAR</td><td>A description of the billing code.</td></tr><tr><td>NAME</td><td>VARCHAR</td><td>The name or title of the billing code.</td></tr><tr><td>TOC_ID</td><td>UUID</td><td>Links to the Reporting Plan ID in the table of contents.</td></tr></tbody></table>
