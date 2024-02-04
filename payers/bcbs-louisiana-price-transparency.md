@@ -12,6 +12,16 @@ description: >-
 
 {% embed url="https://bcbsla.sapphiremrfhub.com/" %}
 
+#### February 2024 Parsing
+
+Malformed JSON in one of the Dental/Vision files, specifically this file:
+
+[https://bcbsla.sapphiremrfhub.com/mrfs/202402/CAA\_JSON\_PROD\_BCBSLA\_20240201.gz](https://bcbsla.sapphiremrfhub.com/mrfs/202402/CAA\_JSON\_PROD\_BCBSLA\_20240201.gz)
+
+`An error occurred while processing the file 462430f0-99a9-4bf1-bfc0-37ed291e7ab7: parse error: unallowed token at this point in JSON text 61042,1891139473,1932830130, ], "tin": { "type": "ein", "val (right here) ------^`
+
+Unfortunately, the CSV files linked that appear to have the same or similar data are also inaccessible (e.g., [https://versanthealth.com/toc/bcbsla/2024\_01\_BCBSLA\_in-network-rates\_2.csv](https://versanthealth.com/toc/bcbsla/2024\_01\_BCBSLA\_in-network-rates\_2.csvhttps://versanthealth.com/toc/bcbsla/2024\_01\_BCBSLA\_in-network-rates\_3.csvhttps://versanthealth.com/toc/bcbsla/2024\_01\_BCBSLA\_in-network-rates\_4.csv))
+
 ### Schema: BCBS\_LOUISIANA
 
 ### Table 1: PROVIDERS
