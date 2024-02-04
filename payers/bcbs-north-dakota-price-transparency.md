@@ -12,6 +12,29 @@ description: >-
 
 {% embed url="https://mrfdata.hmhs.com/files/320/nd/inbound/local/2024-01-01_BlueCrossBlueShieldND_index.json" %}
 
+#### February 2024 Notes
+
+#### Error Explanation - 1 file is corrupted, specifically the Dental In Network Rates file
+
+An error was encountered while processing a file with ID `907002cf-7876-4b2f-95b2-da2b606393e1`. The error indicates a JSON parsing issue, specifically an "unallowed token" error at a certain point in the JSON text.
+
+**Error Details**
+
+* **File ID**: `907002cf-7876-4b2f-95b2-da2b606393e1`
+* **Error**: Parse error
+* **Issue**: Unallowed token in JSON
+* **Location**: Just after a list of numbers before `], "tin": { "type": "ein", "val`
+
+**Possible Cause**
+
+The token causing the error is likely due to a trailing comma after the last item in the array (right before the closing square bracket `]`). JSON does not allow trailing commas in arrays or objects.
+
+**Corrected JSON Excerpt**
+
+```json
+...1891139473,1932830130], "tin": { "type": "ein", "value"...
+```
+
 ### Schema: BCBS\_NORTH\_DAKOTA
 
 ### Table 1: PROVIDERS
