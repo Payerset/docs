@@ -10,7 +10,7 @@ description: >-
 
 **Table of Contents**&#x20;
 
-{% embed url="https://www.bcbsal.org/web/tcr" %}
+{% embed url="https://www.centene.com/price-transparency-files.html" %}
 
 ### Schema: AMBETTER
 
