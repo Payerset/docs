@@ -38,6 +38,7 @@
 * [Blue Shield California](payers/bs-california-price-transparency.md)
 * [CareFirst](payers/carefirst-price-transparency.md)
 * [Centene](payers/centene-price-transparency.md)
+* [HealthNet](payers/centene-price-transparency-1.md)
 * [Cigna](payers/cigna-price-transparency.md)
 * [Communtiy Care of North Carolina](payers/community-care-nc-price-transparency.md)
 * [ConnectiCare](payers/connecticare-price-transparency.md)
