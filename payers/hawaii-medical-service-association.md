@@ -1,7 +1,7 @@
 ---
 description: >-
   This data contains the price transparency machine-readable files provided by
-  HMSA that have been normalized into easy-to-use tables.
+  Highmark BCBS Delaware that have been normalized into easy-to-use tables.
 ---
 
 # Hawaii Medical Service Association
@@ -10,9 +10,9 @@ description: >-
 
 **Table of Contents**&#x20;
 
-{% embed url="https://hmsa.com/help-center/transparency-in-coverage-machine-readable-files/" %}
+{% embed url="https://mrfdata.hmhs.com/" %}
 
-### Schema: HMSA
+### Schema: HIGHMARK\_DELAWARE
 
 ### Table 1: PROVIDERS
 
