@@ -12,7 +12,7 @@ description: >-
 
 {% embed url="https://www.bluecrossnc.com/policies-best-practices/machine-readable-files" %}
 
-<mark style="color:red;">**NOTE**</mark> BCBS Alabama doesn't seem to update their TOC link. You can derive the link using this base link and the latest update date ([https://mrfmftprod.bcbsnc.com/prod/etl/outbound/table-of-contents/non-aso/2024-01-29\_blue-cross-and-blue-shield-of-north-carolina\_index.json](https://mrfmftprod.bcbsnc.com/prod/etl/outbound/table-of-contents/non-aso/2024-01-29\_blue-cross-and-blue-shield-of-north-carolina\_index.json))
+<mark style="color:red;">**NOTE**</mark> BCBS NC doesn't seem to update their TOC link. You can derive the link using this base link and the latest update date ([https://mrfmftprod.bcbsnc.com/prod/etl/outbound/table-of-contents/non-aso/2024-01-29\_blue-cross-and-blue-shield-of-north-carolina\_index.json](https://mrfmftprod.bcbsnc.com/prod/etl/outbound/table-of-contents/non-aso/2024-01-29\_blue-cross-and-blue-shield-of-north-carolina\_index.json))
 
 ### Schema: BCBS\_NORTH\_CAROLINA
 
