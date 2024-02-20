@@ -38,6 +38,7 @@
 * [Blue Cross Idaho](payers/bc-idaho-price-transparency.md)
 * [Blue Shield California](payers/bs-california-price-transparency.md)
 * [CareFirst](payers/carefirst-price-transparency.md)
+* [CareSource](payers/caresource-price-transparency.md)
 * [Centene](payers/centene-price-transparency.md)
 * [Cigna](payers/cigna-price-transparency.md)
 * [Communtiy Care of North Carolina](payers/community-care-nc-price-transparency.md)
