@@ -10,6 +10,12 @@ description: >-
 
 **Table of Contents**&#x20;
 
+
+
+{% hint style="warning" %}
+Sentara's JSON files are not parseable in their posted format. Specifically, there are escape characters present in the JSON (\\) and a few entries where there are multiple double quotes ("CPT "LOADED" .."). This makes the JSON invalid, but these errors are fixable with a tool like UltraEdit or similar text editing tool, at which point they can be parsed.
+{% endhint %}
+
 {% embed url="https://optimahealth.healthsparq.com/healthsparq/public/#/one/city=&state=&postalCode=&country=&insurerCode=OPTIMAH_I&brandCode=OPTIMAH&alphaPrefix=&ProductId=/machine-readable-transparency-in-coverage" %}
 
 ### Schema: SENTARA
