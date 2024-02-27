@@ -12,7 +12,7 @@
 ## 🤕 Payers
 
 * [Aetna](payers/aetna-price-transparency.md)
-* [Ambetter](payers/ambetter-price-transparency.md)
+* [Ambetter (Centene)](payers/ambetter-price-transparency.md)
 * [AmeriHealth](payers/amerihealth-price-transparency.md)
 * [Baylor Scott and White Health Plan](payers/baylor-scott-white-price-transparency.md)
 * [Blue Cross Blue Shield Alabama](payers/bcbs-alabama-price-transparency.md)
@@ -46,11 +46,12 @@
 * [Dean Health Plan](payers/dean-price-transparency.md)
 * [Elevance (Anthem)](payers/elevance-anthem-price-transparency.md)
 * [Emblem Health](payers/emblem-health-price-transparency.md)
+* [Fidelis (Centene)](payers/fidelis-price-transparency.md)
 * [Geisinger](payers/geisinger-price-transparency.md)
 * [Hawaii Medical Service Association](payers/hawaii-medical-service-association.md)
 * [HCSC](payers/hcsc-price-transparency.md)
 * [HealthFIRST](payers/healthfirst-price-transparency.md)
-* [HealthNet](payers/healthnet-price-transparency.md)
+* [HealthNet (Centene)](payers/healthnet-price-transparency.md)
 * [HealthPartners](payers/healthpartners-price-transparency.md)
 * [Hawaii Medical Service Association](payers/highmark-delaware-price-transparency.md)
 * [Highmark Blue Cross Blue Shield Pennsylvania](payers/highmark-bcbs-pennsylvania-price-transparency.md)
@@ -63,17 +64,19 @@
 * [Independence Blue Cross](payers/independence-blue-cross-price-transparency.md)
 * [Kaiser Permanente](payers/kaiser-price-transparency.md)
 * [Lifewise Assurance Company](payers/lifewise-price-transparency.md)
+* [Managed Health Network (Centene)](payers/managed-health-network-price-transparency.md)
 * [Medical Mutual of Ohio](payers/medical-mutual-ohio-price-transparency.md)
 * [Molina](payers/molina-price-transparency.md)
 * [Oscar](payers/oscar.md)
 * [Premera Blue Cross](payers/premera-blue-cross-price-transparency.md)
+* [QualChoice (Centene)](payers/qualchoice-price-transparency.md)
 * [Regence](payers/regence-price-transparency.md)
 * [Security Health Plan](payers/security-health-price-transparency.md)
 * [Select Health](payers/select-health-price-transparency.md)
 * [Sentara](payers/sentara-price-transparency.md)
 * [United Healthcare](payers/united-healthcare-price-transparency.md)
 * [UPMC Health System](payers/upmc-health-system-price-transparency.md)
-* [WellCare](payers/wellcare-price-transparency.md)
+* [WellCare (Centene)](payers/wellcare-price-transparency.md)
 
 ## 🔭 Payerset Rate Explorer™
 
