@@ -14,6 +14,10 @@ description: >-
 
 ### Schema: QUARTZ
 
+**Rates Records**: 2,952,652,337
+
+**Provider Records**: 11,749,145
+
 ### Table 1: PROVIDERS
 
 #### 1. Overview
