@@ -77,6 +77,7 @@
 * [Sentara](payers/sentara-price-transparency.md)
 * [United Healthcare](payers/united-healthcare-price-transparency.md)
 * [UPMC Health System](payers/upmc-health-system-price-transparency.md)
+* [VIVA Health](payers/viva-price-transparency.md)
 * [WellCare (Centene)](payers/wellcare-price-transparency.md)
 
 ## 🔭 Payerset Rate Explorer™
