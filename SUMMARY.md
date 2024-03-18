@@ -2,18 +2,18 @@
 
 * [Payerset Documentation](README.md)
 
-## 📄 Datalake Documentation
+## Datalake Documentation
 
 * [Data Dictionary](datalake-documentation/data-dictionary.md)
 * [NPI Data from NPPES](datalake-documentation/npi-data-from-nppes.md)
 * [Payerset Billing Code Classification](datalake-documentation/payerset-billing-code-classification.md)
 * [Taxonomy Data from NUCC](datalake-documentation/taxonomy-data-from-nucc.md)
 
-## 📊 Rate Explorer
+## Rate Explorer
 
 * [Data Dictionary](rate-explorer/data-dictionary.md)
 
-## 🅿️ Payers
+## Payers
 
 * [Aetna](payers/aetna-price-transparency.md)
 * [Ambetter (Centene)](payers/ambetter-price-transparency.md)
@@ -84,6 +84,6 @@
 * [VIVA Health](payers/viva-price-transparency.md)
 * [WellCare (Centene)](payers/wellcare-price-transparency.md)
 
-## ℹ️ Information & Requests
+## Information & Requests
 
 * [Request a Payer](information-and-requests/request-a-payer.md)
