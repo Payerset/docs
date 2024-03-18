@@ -1,15 +1,19 @@
 # Table of contents
 
-* [🏠 Home](README.md)
-* [📖 Payerset Datalake Documentation](payerset-datalake-documentation.md)
+* [Payerset Documentation](README.md)
 
-## 💰 Enrichment Data
+## 📄 Datalake Documentation
 
-* [NPI Data from NPPES](enrichment-data/npi-data-from-nppes.md)
-* [Payerset Billing Code Classification](enrichment-data/payerset-billing-code-classification.md)
-* [Taxonomy Data from NUCC](enrichment-data/taxonomy-data-from-nucc.md)
+* [Data Dictionary](datalake-documentation/data-dictionary.md)
+* [NPI Data from NPPES](datalake-documentation/npi-data-from-nppes.md)
+* [Payerset Billing Code Classification](datalake-documentation/payerset-billing-code-classification.md)
+* [Taxonomy Data from NUCC](datalake-documentation/taxonomy-data-from-nucc.md)
 
-## 🤕 Payers
+## 📊 Rate Explorer
+
+* [Data Dictionary](rate-explorer/data-dictionary.md)
+
+## 🅿️ Payers
 
 * [Aetna](payers/aetna-price-transparency.md)
 * [Ambetter (Centene)](payers/ambetter-price-transparency.md)
@@ -80,11 +84,6 @@
 * [VIVA Health](payers/viva-price-transparency.md)
 * [WellCare (Centene)](payers/wellcare-price-transparency.md)
 
-## 🔭 Payerset Rate Explorer™
-
-* [Supported NPIs](payerset-rate-explorer/npis.md)
-* [🩺 Supported Billing Codes](payerset-rate-explorer/billing-codes.md)
-
-## 🤓 Information & Requests
+## ℹ️ Information & Requests
 
 * [Request a Payer](information-and-requests/request-a-payer.md)

@@ -4,7 +4,7 @@ description: >-
   Machine-Readable files.
 ---
 
-# 📖 Payerset Datalake Documentation
+# Data Dictionary
 
 For pricing information, please see [https://payerset.com/pricing](https://payerset.com/pricing)
 

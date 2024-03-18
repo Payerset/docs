@@ -1,4 +1,8 @@
-# 🏠 Home
+---
+description: Documentation Overview
+---
+
+# Payerset Documentation
 
 At Payerset, we aim to be the premier provider of curated provider and payer price transparency datasets. Our mission is to empower healthcare organizations, insurance payers, researchers, and data-driven professionals with accurate and comprehensive data that enables them to make informed decisions, streamline operations, and uncover new opportunities. The datasets we offer are meticulously compiled, verified, and updated by our team of data experts, ensuring you have access to the most reliable and accurate information available in the industry.
 
