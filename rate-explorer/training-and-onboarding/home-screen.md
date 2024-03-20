@@ -2,7 +2,7 @@
 description: Learn how to navigate the Home Screen (Analyses)
 ---
 
-# Home Screen
+# 🏠 Home Screen
 
 The home screen contains a list of all of the analyses that you have created. If you're logging in for the first time, you'll be directed to create an analysis.&#x20;
 

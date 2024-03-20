@@ -2,7 +2,7 @@
 description: Learn how to create an analysis
 ---
 
-# Creating an Analysis
+# ⌨️ Creating an Analysis
 
 ### Analysis Creation
 
