@@ -12,6 +12,10 @@
 ## Rate Explorer
 
 * [Data Dictionary](rate-explorer/data-dictionary.md)
+* [Training & Onboarding](rate-explorer/training-and-onboarding/README.md)
+  * [Getting Started](rate-explorer/training-and-onboarding/getting-started.md)
+  * [Home Screen](rate-explorer/training-and-onboarding/home-screen.md)
+  * [Creating an Analysis](rate-explorer/training-and-onboarding/creating-an-analysis.md)
 
 ## Payers
 
