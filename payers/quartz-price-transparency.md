@@ -10,13 +10,13 @@ description: >-
 
 **Table of Contents**
 
-{% embed url="https://quartz.healthsparq.com/healthsparq/public/#/one/city=&state=&postalCode=&country=&insurerCode=QUARTZ_I&brandCode=QUARTZ&productCode=QTZ015/machine-readable-transparency-in-coverage" fullWidth="true" %}
+{% embed url="https://quartz.healthsparq.com/healthsparq/public/#/one/city=&state=&postalCode=&country=&insurerCode=QUARTZ_I&brandCode=QUARTZ&productCode=QTZ015/machine-readable-transparency-in-coverage" fullWidth="false" %}
 
 ### Compliance Scorecard
 
 Overall Rating: **5/5 - Excellent**
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><strong>Table of Contents</strong></td><td><strong>★★★★★</strong></td><td><mark style="color:green;"><strong>5/5</strong></mark></td><td>Are the MRFs kept up to date each month?</td><td></td></tr><tr><td><strong>Table of Contents</strong></td><td><strong>★★★★★</strong></td><td><mark style="color:green;"><strong>5/5</strong></mark></td><td>Is the Table of Contents link easily accessible?</td><td></td></tr><tr><td><strong>Table of Contents</strong></td><td><strong>★★★★★</strong></td><td><mark style="color:green;"><strong>5/5</strong></mark></td><td>Is the Table of Contents properly formatted?</td><td></td></tr><tr><td><strong>File Accessibility</strong></td><td><strong>★★★★★</strong></td><td><mark style="color:green;"><strong>5/5</strong></mark></td><td>Are there any barriers to downloading the files?</td><td></td></tr><tr><td><strong>File Accessibility</strong></td><td><strong>★★★★★</strong></td><td><mark style="color:green;"><strong>5/5</strong></mark></td><td>What percentage of the files is accessible (100%, 80%, 60%...)?</td><td></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><strong>Table of Contents</strong></td><td><strong>★★★★★</strong></td><td><mark style="color:green;"><strong>5/5</strong></mark></td><td><ul><li>Are the MRFs kept up to date each month? </li><li>Is the Table of Contents link easily accessible?</li><li>Is the Table of Contents properly formatted?</li></ul></td><td></td></tr><tr><td><strong>File Accessibility</strong></td><td><strong>★★★★★</strong></td><td><mark style="color:green;"><strong>5/5</strong></mark></td><td><ul><li>Are there any barriers to downloading the files?</li><li>Do the Table of Contents links expire before publishing new links?</li></ul></td><td></td></tr><tr><td><strong>Data Quality</strong></td><td><strong>★★★★★</strong></td><td><mark style="color:green;"><strong>5/5</strong></mark></td><td><ul><li><p>What percentage of the MRFs are properly formatted and parseable</p><ul><li>5 Stars - 100%</li><li>4 Stars - 80%...</li></ul></li></ul></td><td></td></tr></tbody></table>
 
 ### Schema: QUARTZ
 
@@ -30,8 +30,8 @@ Overall Rating: **5/5 - Excellent**
 
 * **MRFs Up-to-Date:** ✔️ Yes, the MRFs are kept up to date each month.
 * **Table of Contents Accessibility:** ✔️ The Table of Contents link is easily accessible.
-* **File Download Barriers:** ❌ No, there are no barriers to downloading the files.
-* **File Accessibility Percentage:** 100% of the files are accessible.
 * **Table of Contents Formatting:** ✔️ Yes, the Table of Contents is properly formatted.
+* **File Download Barriers:** ✔️ No, there are no barriers to downloading the files.
+* **File Accessibility Percentage:** 100% of the files are accessible.
 
 **Overall Assessment:** Quartz has done an exceptional job in publishing their machine-readable price transparency files. Our review process found no issues with the files, indicating a high level of compliance and user-friendliness.
