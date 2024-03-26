@@ -10,7 +10,7 @@ description: >-
 
 **Table of Contents**
 
-{% embed url="https://quartz.healthsparq.com/healthsparq/public/#/one/city=&state=&postalCode=&country=&insurerCode=QUARTZ_I&brandCode=QUARTZ&productCode=QTZ015/machine-readable-transparency-in-coverage" fullWidth="false" %}
+[https://mrf.payerset.com/quartz](https://mrf.payerset.com/quartz)
 
 ### Compliance Scorecard
 
