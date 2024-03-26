@@ -80,7 +80,7 @@
 * [Oscar](payers/oscar.md)
 * [Premera Blue Cross](payers/premera-blue-cross-price-transparency.md)
 * [QualChoice (Centene)](payers/qualchoice-price-transparency.md)
-* [Quartz Benefits](payers/quartz-price-transparency.md)
+* [🟢 Quartz Benefits](payers/quartz-price-transparency.md)
 * [Regence](payers/regence-price-transparency.md)
 * [Security Health Plan](payers/security-health-price-transparency.md)
 * [Select Health](payers/select-health-price-transparency.md)
