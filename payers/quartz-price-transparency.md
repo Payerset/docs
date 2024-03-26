@@ -14,9 +14,9 @@ description: >-
 
 ### Compliance Scorecard
 
-Overall Rating: **5/5 - Excellent**
+Overall Rating: <mark style="color:green;">**5/5 - Excellent**</mark>
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><strong>Table of Contents</strong></td><td><strong>★★★★★</strong></td><td><strong>5/5</strong></td><td>Are the MRFs kept up to date each month?</td><td></td></tr><tr><td><strong>Table of Contents</strong></td><td><strong>★★★★★</strong></td><td><strong>5/5</strong></td><td>Is the Table of Contents link easily accessible?</td><td></td></tr><tr><td><strong>Table of Contents</strong></td><td><strong>★★★★★</strong></td><td><strong>5/5</strong></td><td>Is the Table of Contents properly formatted?</td><td></td></tr><tr><td><strong>File Accessibility</strong></td><td><strong>★★★★★</strong></td><td><strong>5/5</strong></td><td>Are there any barriers to downloading the files?</td><td></td></tr><tr><td><strong>File Accessibility</strong></td><td><strong>★★★★★</strong></td><td><strong>5/5</strong></td><td>What percentage of the files is accessible (100%, 80%, 60%...)?</td><td></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><strong>Table of Contents</strong></td><td><mark style="color:green;"><strong>★★★★★</strong></mark></td><td><mark style="color:green;"><strong>5/5</strong></mark></td><td>Are the MRFs kept up to date each month?</td><td></td></tr><tr><td><strong>Table of Contents</strong></td><td><strong>★★★★★</strong></td><td><strong>5/5</strong></td><td>Is the Table of Contents link easily accessible?</td><td></td></tr><tr><td><strong>Table of Contents</strong></td><td><strong>★★★★★</strong></td><td><strong>5/5</strong></td><td>Is the Table of Contents properly formatted?</td><td></td></tr><tr><td><strong>File Accessibility</strong></td><td><strong>★★★★★</strong></td><td><strong>5/5</strong></td><td>Are there any barriers to downloading the files?</td><td></td></tr><tr><td><strong>File Accessibility</strong></td><td><strong>★★★★★</strong></td><td><strong>5/5</strong></td><td>What percentage of the files is accessible (100%, 80%, 60%...)?</td><td></td></tr></tbody></table>
 
 ### Schema: QUARTZ
 
