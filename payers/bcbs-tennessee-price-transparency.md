@@ -4,37 +4,44 @@ description: >-
   BCBS Tennessee that have been normalized into easy-to-use tables.
 ---
 
-# Blue Cross Blue Shield Tennessee
+# 🟡 Blue Cross Blue Shield Tennessee
 
 ### Payerset Notes
 
-**Table of Contents**&#x20;
+**Table of Contents**
 
-{% embed url="https://www.bcbst.com/tcr" %}
+[https://mrf.payerset.com/bcbs-tennessee](https://mrf.payerset.com/bcbs-tennessee)
+
+### Compliance Scorecard
+
+Overall Rating: <mark style="color:yellow;">**4/5**</mark>** - Good**
+
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><strong>Table of Contents</strong></td><td><strong>★★★★★</strong></td><td><mark style="color:green;"><strong>5/5</strong></mark></td><td><ul><li>Are the MRFs kept up to date each month? </li><li>Is the Table of Contents link easily accessible?</li><li>Is the Table of Contents properly formatted?</li></ul></td><td></td></tr><tr><td><strong>File Accessibility</strong></td><td><strong>★★★★★</strong></td><td><mark style="color:green;"><strong>5/5</strong></mark></td><td><ul><li>Are there any barriers to downloading the files?</li><li>Do the Table of Contents links expire before publishing new links?</li></ul></td><td></td></tr><tr><td><strong>Data Quality</strong></td><td><strong>★★★★☆</strong></td><td><mark style="color:yellow;"><strong>4/5</strong></mark></td><td><ul><li><p>What percentage of the MRFs are properly formatted and parseable</p><ul><li>5 Stars - 100%</li><li>4 Stars - 80%...</li></ul></li></ul></td><td></td></tr></tbody></table>
 
 ### Schema: BCBS\_TENNESSEE
 
-### Table 1: PROVIDERS
+**Rates Records**: 13,970,800,346
 
-#### 1. Overview
+**Provider Records**: 124,674,171,538
 
-The `PROVIDERS` table contains the mapping of provider identification numbers (NPI) and other related provider information. This table is designed to store provider-specific data.
+### Additional Observations
 
-#### 2. Columns
+**Machine-Readable Price Transparency Files Review**
 
-| Column Name    | Data Type | Description                                                          |
-| -------------- | --------- | -------------------------------------------------------------------- |
-| NPI            | VARCHAR   | The National Provider Identifier assigned to a healthcare provider.  |
-| NPI\_RATE\_KEY | VARCHAR   | A unique identifier for the provider in the rate negotiation system. |
-| TIN\_TYPE      | VARCHAR   | Type of Taxpayer Identification Number associated with the provider. |
-| TIN\_VALUE     | VARCHAR   | Taxpayer Identification Number value for the provider.               |
+* **MRFs Up-to-Date:** ✔️ Yes, the MRFs are kept up to date each month.
+* **Table of Contents Accessibility:** ✔️ The Table of Contents link is easily accessible.
+* **Table of Contents Formatting:** ✔️ Yes, the Table of Contents is properly formatted.
+* **File Download Barriers:** ✔️ No barriers to downloading the MRFs.
+* **File Accessibility Percentage:** ❌ 99% of the files are accessible.
 
-### Table 2: NEGOTIATED\_RATES
+{% hint style="warning" %}
+1 file is inaccessible, and it is a real plan, so this has to impact the rating. This is the plan that is inaccessible
 
-#### 1. Overview
+**Plan ID:** 14002&#x20;
 
-The `NEGOTIATED_RATES` table contains information about negotiated rates for various billing classes and codes. This table is used to store pricing data and rate negotiations.
+**Plan Name:** BCBST Fully Insured
 
-#### 2. Columns
+**File Location:** [https://bcbstn.mrf.bcbs.com/2024-02\_170\_22B0\_in-network-rates.json.gz](https://bcbstn.mrf.bcbs.com/2024-02\_170\_22B0\_in-network-rates.json.gz)
+{% endhint %}
 
-<table><thead><tr><th>Column Name</th><th width="159.33333333333331">Data Type</th><th>Description</th></tr></thead><tbody><tr><td>BILLING_CLASS</td><td>VARCHAR</td><td>The class or category of the billing code.</td></tr><tr><td>BILLING_CODE</td><td>VARCHAR</td><td>A unique identifier for the specific billing code.</td></tr><tr><td>EXPIRATION_DATE</td><td>VARCHAR</td><td>The expiration date of the negotiated rate.</td></tr><tr><td>NEGOTIATED_RATE</td><td>NUMBER</td><td>The negotiated rate for the specified billing code.</td></tr><tr><td>NEGOTIATED_TYPE</td><td>VARCHAR</td><td>The type of the negotiated rate (e.g., fixed, percentage, etc.).</td></tr><tr><td>NEGOTIATION_ARRANGEMENT</td><td>VARCHAR</td><td>The arrangement for the negotiated rate.</td></tr><tr><td>NPI_RATE_KEY</td><td>VARCHAR</td><td>A unique identifier for the provider in the rate negotiation system.</td></tr><tr><td>SERVICE_CODES</td><td>VARCHAR</td><td>The associated service codes for the negotiated rate.</td></tr><tr><td>BILLING_CODE_TYPE</td><td>VARCHAR</td><td>The type or standard of the billing code (e.g., ICD-10, CPT, etc.).</td></tr><tr><td>BILLING_CODE_TYPE_VERSION</td><td>VARCHAR</td><td>The version of the billing code type.</td></tr><tr><td>DESCRIPTION</td><td>VARCHAR</td><td>A description of the billing code.</td></tr><tr><td>NAME</td><td>VARCHAR</td><td>The name or title of the billing code.</td></tr><tr><td>TOC_ID</td><td>UUID</td><td>Links to the Reporting Plan ID in the table of contents.</td></tr></tbody></table>
+**Overall Assessment:** BCBS Tennessee does a good job of posting these files each month, but there is one file that is inaccessible and needs to be part of the dataset for a 5/5 rating. They duplicate provider data substantially, but that can be a result of interpretation of the CMS rules.
