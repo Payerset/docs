@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Payerset Documentation](README.md)
+* [PAYERSET DOCUMENTATION](README.md)
 
 ## Datalake Documentation
 
@@ -24,8 +24,8 @@
 * [🟡 Aetna](payers/aetna-price-transparency.md)
 * [🟡 Ambetter (Centene)](payers/ambetter-price-transparency.md)
 * [🔴 AmeriHealth](payers/amerihealth-price-transparency.md)
-* [Baylor Scott and White Health Plan](payers/baylor-scott-white-price-transparency.md)
-* [Blue Cross Blue Shield Alabama](payers/bcbs-alabama-price-transparency.md)
+* [🟡 Baylor Scott and White Health Plan](payers/baylor-scott-white-price-transparency.md)
+* [🟢 Blue Cross Blue Shield Alabama](payers/bcbs-alabama-price-transparency.md)
 * [Blue Cross Blue Shield Arizona](payers/bcbs-arizona-price-transparency.md)
 * [Blue Cross Blue Shield Arkansas](payers/bcbs-arkansas-price-transparency.md)
 * [Blue Cross Blue Shield Florida](payers/bcbs-florida-price-transparency.md)
