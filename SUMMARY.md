@@ -21,7 +21,7 @@
 
 ## Payers
 
-* [Aetna](payers/aetna-price-transparency.md)
+* [🟡 Aetna](payers/aetna-price-transparency.md)
 * [Ambetter (Centene)](payers/ambetter-price-transparency.md)
 * [AmeriHealth](payers/amerihealth-price-transparency.md)
 * [Baylor Scott and White Health Plan](payers/baylor-scott-white-price-transparency.md)

@@ -24,9 +24,9 @@ Overall Rating: **4/5 - Acceptable**
 
 ### Schema: SENTARA
 
-**Rates Records**: 260.96M
+**Rates Records**: 260,959,984
 
-**Provider Records**: 1.15M
+**Provider Records**: 1,146,828
 
 ### Additional Observations
 
