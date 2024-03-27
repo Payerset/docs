@@ -10,7 +10,7 @@ description: >-
 
 **Table of Contents - BSW does not have a formal TOC file, but they have links to their In Network rates on this page:**
 
-{% embed url="https://www.bswhealthplan.com/Pages/TransparencyInCoverage.aspx" %}
+[https://mrf.payerset.com/baylor-scott-white](https://mrf.payerset.com/baylor-scott-white)
 
 ### Schema: BAYLOR\_SCOTT\_WHITE
 

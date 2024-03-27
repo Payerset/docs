@@ -10,7 +10,7 @@ description: >-
 
 **Table of Contents**&#x20;
 
-{% embed url="https://www.amerihealth.com/developer-resources/index.html" %}
+https://mrf.payerset.com/amerihealth
 
 **Note:** This is not the same as AmeriHealth Caritas.
 

@@ -10,7 +10,7 @@ description: >-
 
 **Table of Contents**
 
-{% embed url="https://health1.aetna.com/app/public/#/one/insurerCode=AETNACVS_I&brandCode=ALICSI/machine-readable-transparency-in-coverage" %}
+https://mrf.payerset.com/aetna
 
 ### Schema: AETNA
 

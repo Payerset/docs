@@ -4,43 +4,38 @@ description: >-
   Sentara that have been normalized into easy-to-use tables.
 ---
 
-# Sentara
-
-### Payerset Notes
-
-**Table of Contents**&#x20;
-
-
+# 🟡 Sentara
 
 {% hint style="warning" %}
 Sentara's JSON files are not parseable in their posted format. Specifically, there are escape characters present in the JSON (\\) and a few entries where there are multiple double quotes ("CPT "LOADED" .."). This makes the JSON invalid, but these errors are fixable with a tool like UltraEdit or similar text editing tool, at which point they can be parsed.
 {% endhint %}
 
-{% embed url="https://optimahealth.healthsparq.com/healthsparq/public/#/one/city=&state=&postalCode=&country=&insurerCode=OPTIMAH_I&brandCode=OPTIMAH&alphaPrefix=&ProductId=/machine-readable-transparency-in-coverage" %}
+### Payerset Notes
+
+**Table of Contents**
+
+[https://mrf.payerset.com/sentara](https://mrf.payerset.com/sentara)
+
+### Compliance Scorecard
+
+Overall Rating: **4/5 - Acceptable**
+
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><strong>Table of Contents</strong></td><td><strong>★★★★☆</strong></td><td><mark style="color:yellow;"><strong>4/5</strong></mark></td><td><ul><li>Are the MRFs kept up to date each month? </li><li>Is the Table of Contents link easily accessible?</li><li>Is the Table of Contents properly formatted?</li></ul></td><td></td></tr><tr><td><strong>File Accessibility</strong></td><td><strong>★★★★★</strong></td><td><mark style="color:green;"><strong>5/5</strong></mark></td><td><ul><li>Are there any barriers to downloading the files?</li><li>Do the Table of Contents links expire before publishing new links?</li></ul></td><td></td></tr><tr><td><strong>Data Quality</strong></td><td><strong>★★★☆☆</strong></td><td><mark style="color:orange;"><strong>3/5</strong></mark></td><td><ul><li><p>What percentage of the MRFs are properly formatted and parseable</p><ul><li>5 Stars - 100%</li><li>4 Stars - 80%...</li></ul></li></ul></td><td></td></tr></tbody></table>
 
 ### Schema: SENTARA
 
-### Table 1: PROVIDERS
+**Rates Records**: 260.96M
 
-#### 1. Overview
+**Provider Records**: 1.15M
 
-The `PROVIDERS` table contains the mapping of provider identification numbers (NPI) and other related provider information. This table is designed to store provider-specific data.
+### Additional Observations
 
-#### 2. Columns
+**Machine-Readable Price Transparency Files Review**
 
-| Column Name    | Data Type | Description                                                          |
-| -------------- | --------- | -------------------------------------------------------------------- |
-| NPI            | VARCHAR   | The National Provider Identifier assigned to a healthcare provider.  |
-| NPI\_RATE\_KEY | VARCHAR   | A unique identifier for the provider in the rate negotiation system. |
-| TIN\_TYPE      | VARCHAR   | Type of Taxpayer Identification Number associated with the provider. |
-| TIN\_VALUE     | VARCHAR   | Taxpayer Identification Number value for the provider.               |
+* **MRFs Up-to-Date:** ✔️ Yes, the MRFs are kept up to date each month.
+* **Table of Contents Accessibility:** ✔️ The Table of Contents link is easily accessible.
+* **Table of Contents Formatting:** ✔️ Yes, the Table of Contents is properly formatted.
+* **File Download Barriers:** ✔️ No, there are no barriers to downloading the files.
+* **File Accessibility Percentage:** 100% of the files are accessible <mark style="color:red;">**once fixed**</mark> <mark style="color:red;"></mark><mark style="color:red;">(see note above)</mark>.
 
-### Table 2: NEGOTIATED\_RATES
-
-#### 1. Overview
-
-The `NEGOTIATED_RATES` table contains information about negotiated rates for various billing classes and codes. This table is used to store pricing data and rate negotiations.
-
-#### 2. Columns
-
-<table><thead><tr><th>Column Name</th><th width="159.33333333333331">Data Type</th><th>Description</th></tr></thead><tbody><tr><td>BILLING_CLASS</td><td>VARCHAR</td><td>The class or category of the billing code.</td></tr><tr><td>BILLING_CODE</td><td>VARCHAR</td><td>A unique identifier for the specific billing code.</td></tr><tr><td>EXPIRATION_DATE</td><td>VARCHAR</td><td>The expiration date of the negotiated rate.</td></tr><tr><td>NEGOTIATED_RATE</td><td>NUMBER</td><td>The negotiated rate for the specified billing code.</td></tr><tr><td>NEGOTIATED_TYPE</td><td>VARCHAR</td><td>The type of the negotiated rate (e.g., fixed, percentage, etc.).</td></tr><tr><td>NEGOTIATION_ARRANGEMENT</td><td>VARCHAR</td><td>The arrangement for the negotiated rate.</td></tr><tr><td>NPI_RATE_KEY</td><td>VARCHAR</td><td>A unique identifier for the provider in the rate negotiation system.</td></tr><tr><td>SERVICE_CODES</td><td>VARCHAR</td><td>The associated service codes for the negotiated rate.</td></tr><tr><td>BILLING_CODE_TYPE</td><td>VARCHAR</td><td>The type or standard of the billing code (e.g., ICD-10, CPT, etc.).</td></tr><tr><td>BILLING_CODE_TYPE_VERSION</td><td>VARCHAR</td><td>The version of the billing code type.</td></tr><tr><td>DESCRIPTION</td><td>VARCHAR</td><td>A description of the billing code.</td></tr><tr><td>NAME</td><td>VARCHAR</td><td>The name or title of the billing code.</td></tr><tr><td>TOC_ID</td><td>UUID</td><td>Links to the Reporting Plan ID in the table of contents.</td></tr></tbody></table>
+**Overall Assessment:** With the exception of the file corruption, which has been present since Sentara first posted the data in 2022, the files appear to be complete.

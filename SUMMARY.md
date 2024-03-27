@@ -84,7 +84,7 @@
 * [Regence](payers/regence-price-transparency.md)
 * [Security Health Plan](payers/security-health-price-transparency.md)
 * [Select Health](payers/select-health-price-transparency.md)
-* [Sentara](payers/sentara-price-transparency.md)
+* [🟡 Sentara](payers/sentara-price-transparency.md)
 * [United Healthcare](payers/united-healthcare-price-transparency.md)
 * [UPMC Health System](payers/upmc-health-system-price-transparency.md)
 * [VIVA Health](payers/viva-price-transparency.md)

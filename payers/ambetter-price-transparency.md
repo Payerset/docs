@@ -4,13 +4,13 @@ description: >-
   Ambetter that have been normalized into easy-to-use tables.
 ---
 
-# Ambetter
+# Ambetter (Centene)
 
 ### Payerset Notes
 
 **Table of Contents**&#x20;
 
-{% embed url="https://www.centene.com/price-transparency-files.html" %}
+https://mrf.payerset.com/ambetter
 
 ### Schema: AMBETTER
 
