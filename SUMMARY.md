@@ -2,12 +2,12 @@
 
 * [PAYERSET DOCUMENTATION](README.md)
 
-## Datalake Documentation
+## Data Lake
 
-* [Data Dictionary](datalake-documentation/data-dictionary.md)
-* [NPI Data from NPPES](datalake-documentation/npi-data-from-nppes.md)
-* [Payerset Billing Code Classification](datalake-documentation/payerset-billing-code-classification.md)
-* [Taxonomy Data from NUCC](datalake-documentation/taxonomy-data-from-nucc.md)
+* [Data Dictionary](data-lake/data-dictionary.md)
+* [NPI Data from NPPES](data-lake/npi-data-from-nppes.md)
+* [Payerset Billing Code Classification](data-lake/payerset-billing-code-classification.md)
+* [Taxonomy Data from NUCC](data-lake/taxonomy-data-from-nucc.md)
 
 ## Rate Explorer
 
@@ -59,10 +59,10 @@
 * [🟢 Fidelis (Centene)](payers/fidelis-price-transparency.md)
 * [🟠 Geisinger](payers/geisinger-price-transparency.md)
 * [⚪ HCSC](payers/hcsc-price-transparency.md)
-* [Hawaii Medical Service Association](payers/hawaii-medical-service-association.md)
-* [HealthFIRST](payers/healthfirst-price-transparency.md)
-* [HealthNet (Centene)](payers/healthnet-price-transparency.md)
-* [HealthPartners](payers/healthpartners-price-transparency.md)
+* [🟡 Hawaii Medical Service Association](payers/hawaii-medical-service-association.md)
+* [🟢 HealthFIRST](payers/healthfirst-price-transparency.md)
+* [🟢 HealthNet (Centene)](payers/healthnet-price-transparency.md)
+* [🟢 HealthPartners](payers/healthpartners-price-transparency.md)
 * [Highmark Blue Cross Blue Shield Delaware](payers/highmark-bcbs-delaware-price-transparency.md)
 * [Highmark Blue Cross Blue Shield Pennsylvania](payers/highmark-bcbs-pennsylvania-price-transparency.md)
 * [Highmark Blue Cross Blue Shield West Virginia](payers/highmark-west-virginia-price-transparency.md)

@@ -14,7 +14,7 @@ In the top right-hand side of the screen, you will see a button called **New ana
 
 ### Billing Codes
 
-First, choose the billing codes you are interested in analyzing. You can filter on code type (CPT/HCPCS/DRG) or categories/subcategories that Payerset has created. To learn more, see our [Payerset Billing Code Classification documentation](../../datalake-documentation/payerset-billing-code-classification.md). You can also use the search to find specific codes or code families, like "2744" or "Knee"
+First, choose the billing codes you are interested in analyzing. You can filter on code type (CPT/HCPCS/DRG) or categories/subcategories that Payerset has created. To learn more, see our [Payerset Billing Code Classification documentation](../../data-lake/payerset-billing-code-classification.md). You can also use the search to find specific codes or code families, like "2744" or "Knee"
 
 You can select codes individually or click the "Select all" button at the bottom to select all of the codes you have in your current filtered view.
 

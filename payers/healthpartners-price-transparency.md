@@ -4,13 +4,13 @@ description: >-
   HealthPartners that have been normalized into easy-to-use tables.
 ---
 
-# HealthPartners
+# 🟢 HealthPartners
 
 ### Payerset Notes
 
 **Table of Contents**
 
-[https://mrf.payerset.com/bs-california](https://mrf.payerset.com/bs-california)
+[https://mrf.payerset.com/healthpartners](https://mrf.payerset.com/healthpartners)
 
 ### Compliance Scorecard
 
@@ -20,9 +20,9 @@ Overall Rating: <mark style="color:green;">**5/5**</mark>** - Excellent**
 
 ### Schema: BS\_CALIFORNIA
 
-**Rates Records**: 301,672,917,762
+**Rates Records**: 1,427,869,518
 
-**Provider Records**: 162,828,183,815
+**Provider Records**: 2,316,846
 
 ### Additional Observations
 
@@ -32,12 +32,6 @@ Overall Rating: <mark style="color:green;">**5/5**</mark>** - Excellent**
 * **Table of Contents Accessibility:** ✔️ The Table of Contents link is easily accessible.
 * **Table of Contents Formatting:** ✔️ Yes, the Table of Contents is properly formatted.
 * **File Download Barriers:** ✔️ No barriers to downloading the MRFs.
-* **File Accessibility Percentage:** ✔️ 100% of the **medical** files are accessible.
+* **File Accessibility Percentage:** ✔️ 100% of the files are accessible.
 
-{% hint style="info" %}
-Several Dental files (apparently hosted by UnitedHealthcare) are inaccessible. This does not impact their overall rating, but is an area to address.
-
-**File Links:** [https://uhc-tic-mrf.azureedge.net/private-mrf/2023-12-01/2023-12-01\_Blue-Shield-of-California\_Dental\_0229\_in-network-rates.json.gz](https://uhc-tic-mrf.azureedge.net/private-mrf/2023-12-01/2023-12-01\_Blue-Shield-of-California\_Dental\_0229\_in-network-rates.json.gz)
-{% endhint %}
-
-**Overall Assessment:** Blue Shield California does a great job of posting these files each month. They duplicate provider data substantially, but that can be a result of interpretation of the CMS rules.
+**Overall Assessment:** HealthPartners does a great job of posting these files each month.
