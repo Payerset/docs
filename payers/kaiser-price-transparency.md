@@ -33,6 +33,12 @@ Overall Rating: <mark style="color:yellow;">**4/5**</mark>** - Good**
 * **Table of Contents Formatting:** ❌ Table of Contents is properly formatted for each region, but they should not be separated the way they are. This is a minor issue but does create a barrier.
 * **File Download Barriers:** ✔️ No barriers to downloading the MRFs.
 * **File Accessibility Percentage:** ✔️ 100% of the files are accessible.
-* **File Corruption:** ❌ 6 of the 23 files linked in the Tables of Contents are corrupted beyond repair. It's not clear whether these files are critical and contain relevant rates, as they each have very different names from the other files that work. We are giving Kaiser the benefit of the doubt here that they may be old or unneeded files.
+* **File Corruption:** ❌ 6 of the 23 files linked in the Tables of Contents are corrupted beyond repair. It's not clear whether these files are critical and contain relevant rates, as they each have very different names from the other files that work (FILE\_1, FILE\_2, etc...). We are giving Kaiser the benefit of the doubt here that they may be old or unneeded files, but cannot give a 5/5 rating.
 
 **Overall Assessment:** While the efforts to maintain up-to-date and accessible MRFs are commendable, addressing the identified issues will enhance the usability and reliability of the Machine-Readable Price Transparency Files. Correcting the format of the Table of Contents and ensuring all files are free from corruption are crucial steps in achieving full compliance and user satisfaction.
+
+**File Error Details**
+
+```
+Bad CRC-32 for file 'FILE_1.json'
+```

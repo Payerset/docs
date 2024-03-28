@@ -4,37 +4,38 @@ description: >-
   Molina that have been normalized into easy-to-use tables.
 ---
 
-# Molina
+# 🟡 Molina
 
 ### Payerset Notes
 
-**Table of Contents**&#x20;
+**Table of Contents**
 
-{% embed url="https://www.molinahealthcare.com/marketplace/wa/en-us/About/compinfo/PricingTransparency" %}
+[https://mrf.payerset.com/molina](https://mrf.payerset.com/molina)
+
+### Compliance Scorecard
+
+Overall Rating: <mark style="color:yellow;">**4/5**</mark>** - Good**
+
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><strong>Table of Contents</strong></td><td><strong>★★★☆☆</strong></td><td><mark style="color:orange;"><strong>3/5</strong></mark></td><td><ul><li>Are the MRFs kept up to date each month? </li><li>Is the Table of Contents link easily accessible?</li><li>Is the Table of Contents properly formatted?</li></ul></td><td></td></tr><tr><td><strong>File Accessibility</strong></td><td><strong>★★★☆☆</strong></td><td><mark style="color:orange;"><strong>3/5</strong></mark></td><td><ul><li>Are there any barriers to downloading the files?</li><li>Do the Table of Contents links expire before publishing new links?</li></ul></td><td></td></tr><tr><td><strong>Data Quality</strong></td><td><strong>★★★★★</strong></td><td><mark style="color:green;"><strong>5/5</strong></mark></td><td><ul><li><p>What percentage of the MRFs are properly formatted and parseable</p><ul><li>5 Stars - 100%</li><li>4 Stars - 80%...</li></ul></li></ul></td><td></td></tr></tbody></table>
 
 ### Schema: MOLINA
 
-### Table 1: PROVIDERS
+**Rates Records**: 43,891,217
 
-#### 1. Overview
+**Provider Records**: 385,597
 
-The `PROVIDERS` table contains the mapping of provider identification numbers (NPI) and other related provider information. This table is designed to store provider-specific data.
+### Additional Observations
 
-#### 2. Columns
+**Machine-Readable Price Transparency Files Review**
 
-| Column Name    | Data Type | Description                                                          |
-| -------------- | --------- | -------------------------------------------------------------------- |
-| NPI            | VARCHAR   | The National Provider Identifier assigned to a healthcare provider.  |
-| NPI\_RATE\_KEY | VARCHAR   | A unique identifier for the provider in the rate negotiation system. |
-| TIN\_TYPE      | VARCHAR   | Type of Taxpayer Identification Number associated with the provider. |
-| TIN\_VALUE     | VARCHAR   | Taxpayer Identification Number value for the provider.               |
+* **MRFs Up-to-Date:** ✔️ Yes, the MRFs are kept up to date each month, though each region appears to be updated separately and at different times.
+* **Table of Contents Accessibility:** ✔️ The Table of Contents link is easily accessible.
+* **Table of Contents Formatting:** ❌ Table of Contents is properly formatted for each region, but they should not be separated the way they are. This is a minor issue but does create a barrier.
+* **File Download Barriers:** ❌ Molina has very (overly) strict firewall rules that block IP addresses trying to download even just a few files. This severely limits the ability to access their files and requires sophisticated programming techniques to download/stream the files from multiple IP addresses simultaneously.
+* **File Accessibility Percentage:** ✔️ 100% of the files are accessible once you get past the firewall issues.
 
-### Table 2: NEGOTIATED\_RATES
+#### **Data Quality Issues**
 
-#### 1. Overview
+Molina is also not compliant in their data quality, as for the negotiated\_type fields they do not follow the allowed values, instead using their own values. It's unclear what these values mean, but they can likely be mapped.&#x20;
 
-The `NEGOTIATED_RATES` table contains information about negotiated rates for various billing classes and codes. This table is used to store pricing data and rate negotiations.
-
-#### 2. Columns
-
-<table><thead><tr><th>Column Name</th><th width="159.33333333333331">Data Type</th><th>Description</th></tr></thead><tbody><tr><td>BILLING_CLASS</td><td>VARCHAR</td><td>The class or category of the billing code.</td></tr><tr><td>BILLING_CODE</td><td>VARCHAR</td><td>A unique identifier for the specific billing code.</td></tr><tr><td>EXPIRATION_DATE</td><td>VARCHAR</td><td>The expiration date of the negotiated rate.</td></tr><tr><td>NEGOTIATED_RATE</td><td>NUMBER</td><td>The negotiated rate for the specified billing code.</td></tr><tr><td>NEGOTIATED_TYPE</td><td>VARCHAR</td><td>The type of the negotiated rate (e.g., fixed, percentage, etc.).</td></tr><tr><td>NEGOTIATION_ARRANGEMENT</td><td>VARCHAR</td><td>The arrangement for the negotiated rate.</td></tr><tr><td>NPI_RATE_KEY</td><td>VARCHAR</td><td>A unique identifier for the provider in the rate negotiation system.</td></tr><tr><td>SERVICE_CODES</td><td>VARCHAR</td><td>The associated service codes for the negotiated rate.</td></tr><tr><td>BILLING_CODE_TYPE</td><td>VARCHAR</td><td>The type or standard of the billing code (e.g., ICD-10, CPT, etc.).</td></tr><tr><td>BILLING_CODE_TYPE_VERSION</td><td>VARCHAR</td><td>The version of the billing code type.</td></tr><tr><td>DESCRIPTION</td><td>VARCHAR</td><td>A description of the billing code.</td></tr><tr><td>NAME</td><td>VARCHAR</td><td>The name or title of the billing code.</td></tr><tr><td>TOC_ID</td><td>UUID</td><td>Links to the Reporting Plan ID in the table of contents.</td></tr></tbody></table>
+**Overall Assessment:** Molina maintains up-to-date Machine-Readable Price Transparency Files (MRFs), but faces significant challenges in data quality compliance and file accessibility due to stringent firewall rules. Improvements in these areas are crucial for ensuring better access and understanding of the provided data.
