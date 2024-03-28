@@ -73,7 +73,7 @@
 * [Humana](payers/humana-price-transparency.md)
 * [Independence Blue Cross](payers/independence-blue-cross-price-transparency.md)
 * [Kaiser Permanente](payers/kaiser-price-transparency.md)
-* [Lifewise Assurance Company](payers/lifewise-price-transparency.md)
+* [🟢 Lifewise Assurance Company](payers/lifewise-price-transparency.md)
 * [Managed Health Network (Centene)](payers/managed-health-network-price-transparency.md)
 * [Medical Mutual of Ohio](payers/medical-mutual-ohio-price-transparency.md)
 * [Molina](payers/molina-price-transparency.md)
