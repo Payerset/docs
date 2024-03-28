@@ -4,37 +4,56 @@ description: >-
   CareSource that have been normalized into easy-to-use tables.
 ---
 
-# CareSource
+# 🟠 CareSource
 
 ### Payerset Notes
 
-**Table of Contents**&#x20;
+**Table of Contents**
 
-{% embed url="https://www.caresource.com/vendor/tic/tic-data-index.json" %}
+[https://mrf.payerset.com/caresource](https://mrf.payerset.com/caresource)
+
+{% hint style="info" %}
+Note that the employer files for CareSource are created and maintained by UnitedHealthcare - https://mrf.payerset.com/united-healthcare
+{% endhint %}
+
+### Compliance Scorecard
+
+Overall Rating: <mark style="color:orange;">**3/5**</mark>** - Below Expectations**
+
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><strong>Table of Contents</strong></td><td><strong>★★★★☆</strong></td><td><mark style="color:yellow;"><strong>4/5</strong></mark></td><td><ul><li>Are the MRFs kept up to date each month? </li><li>Is the Table of Contents link easily accessible?</li><li>Is the Table of Contents properly formatted?</li></ul></td><td></td></tr><tr><td><strong>File Accessibility</strong></td><td><strong>★★★☆☆</strong></td><td><mark style="color:orange;"><strong>3/5</strong></mark></td><td><ul><li>Are there any barriers to downloading the files?</li><li>Do the Table of Contents links expire before publishing new links?</li></ul></td><td></td></tr><tr><td><strong>Data Quality</strong></td><td><strong>★★☆☆☆</strong></td><td><mark style="color:red;"><strong>2/5</strong></mark></td><td><ul><li><p>What percentage of the MRFs are properly formatted and parseable</p><ul><li>5 Stars - 100%</li><li>4 Stars - 80%...</li></ul></li></ul></td><td></td></tr></tbody></table>
 
 ### Schema: CARESOURCE
 
-### Table 1: PROVIDERS
+**Rates Records**: 63,104
 
-#### 1. Overview
+**Provider Records**: 107,727
 
-The `PROVIDERS` table contains the mapping of provider identification numbers (NPI) and other related provider information. This table is designed to store provider-specific data.
+### Additional Observations
 
-#### 2. Columns
+**Machine-Readable Price Transparency Files Review**
 
-| Column Name    | Data Type | Description                                                          |
-| -------------- | --------- | -------------------------------------------------------------------- |
-| NPI            | VARCHAR   | The National Provider Identifier assigned to a healthcare provider.  |
-| NPI\_RATE\_KEY | VARCHAR   | A unique identifier for the provider in the rate negotiation system. |
-| TIN\_TYPE      | VARCHAR   | Type of Taxpayer Identification Number associated with the provider. |
-| TIN\_VALUE     | VARCHAR   | Taxpayer Identification Number value for the provider.               |
+* **MRFs Up-to-Date:** ✔️ Yes, the MRFs are kept up to date each month.
+* **Table of Contents Accessibility:** ✔️ The Table of Contents link is easily accessible.
+* **Table of Contents Formatting:** ✔️ Yes, the Table of Contents is properly formatted.
+* **File Download Barriers:** ❌ Several files linked in the Table of Contents are not accessible.
+* **File Accessibility Percentage:** ❌ only a few of the files are accessible and several of those have no data. Several files are corrupted (see below).
 
-### Table 2: NEGOTIATED\_RATES
+**Overall Assessment:** CareSource is currently not compliant with the CMS regulations and has several files that are invalid from a format and data perspective. These are potentially fixable manually but would require us to guess at what the data should be, and as such we do not manually change these particular files.
 
-#### 1. Overview
+There were a number of errors in the CareSource files, see below for details:
 
-The `NEGOTIATED_RATES` table contains information about negotiated rates for various billing classes and codes. This table is used to store pricing data and rate negotiations.
+```python
+An error occurred while processing the file 46beb1d9-f84d-4df8-bcd8-5b60dfd43b81: parse error: unallowed token at this point in JSON text
+                                       ],"provider_references":[  ],"l
+                     (right here) ------^
 
-#### 2. Columns
+An error occurred while processing the file 103649fa-1a67-4e24-a68e-6ec5b53862fb: parse error: unallowed token at this point in JSON text
+          :"Individual","in_networks":[,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+                     (right here) ------^
 
-<table><thead><tr><th>Column Name</th><th width="159.33333333333331">Data Type</th><th>Description</th></tr></thead><tbody><tr><td>BILLING_CLASS</td><td>VARCHAR</td><td>The class or category of the billing code.</td></tr><tr><td>BILLING_CODE</td><td>VARCHAR</td><td>A unique identifier for the specific billing code.</td></tr><tr><td>EXPIRATION_DATE</td><td>VARCHAR</td><td>The expiration date of the negotiated rate.</td></tr><tr><td>NEGOTIATED_RATE</td><td>NUMBER</td><td>The negotiated rate for the specified billing code.</td></tr><tr><td>NEGOTIATED_TYPE</td><td>VARCHAR</td><td>The type of the negotiated rate (e.g., fixed, percentage, etc.).</td></tr><tr><td>NEGOTIATION_ARRANGEMENT</td><td>VARCHAR</td><td>The arrangement for the negotiated rate.</td></tr><tr><td>NPI_RATE_KEY</td><td>VARCHAR</td><td>A unique identifier for the provider in the rate negotiation system.</td></tr><tr><td>SERVICE_CODES</td><td>VARCHAR</td><td>The associated service codes for the negotiated rate.</td></tr><tr><td>BILLING_CODE_TYPE</td><td>VARCHAR</td><td>The type or standard of the billing code (e.g., ICD-10, CPT, etc.).</td></tr><tr><td>BILLING_CODE_TYPE_VERSION</td><td>VARCHAR</td><td>The version of the billing code type.</td></tr><tr><td>DESCRIPTION</td><td>VARCHAR</td><td>A description of the billing code.</td></tr><tr><td>NAME</td><td>VARCHAR</td><td>The name or title of the billing code.</td></tr><tr><td>TOC_ID</td><td>UUID</td><td>Links to the Reporting Plan ID in the table of contents.</td></tr></tbody></table>
+An error occurred while processing the file fe3e3dd6-6e99-42ef-a8f7-0ed9a11b8c68: lexical error: invalid char in json text.
+                                       PK                     (right here) ------^
+
+An error occurred while processing the file 8651e28b-ad78-49d0-8640-9c8096b7d69e: lexical error: invalid char in json text.
+                                       PK                     (right here) ------^
+```

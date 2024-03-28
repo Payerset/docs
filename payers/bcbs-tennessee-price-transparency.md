@@ -45,3 +45,7 @@ Overall Rating: <mark style="color:yellow;">**4/5**</mark>** - Good**
 {% endhint %}
 
 **Overall Assessment:** BCBS Tennessee does a good job of posting these files each month, but there is one file that is inaccessible and needs to be part of the dataset for a 5/5 rating. They duplicate provider data substantially, but that can be a result of interpretation of the CMS rules.
+
+### Customer Anecdotes
+
+A customer has noted that for some codes, BCBS Tennessee includes many hundreds of rates for the same providers/modifiers. This is likely a mistake, as much of the data is clean, but it is important to note that this does cause BCBS Tennessee to be out of compliance.
