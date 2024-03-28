@@ -4,39 +4,35 @@ description: >-
   Kaiser Permanente that have been normalized into easy-to-use tables.
 ---
 
-# Kaiser Permanente
+# 🟡 Kaiser Permanente
 
 ### Payerset Notes
 
-**Table of Contents**&#x20;
+**Table of Contents**
 
-{% embed url="https://healthy.kaiserpermanente.org/front-door/machine-readable" %}
+[https://mrf.payerset.com/kaiser](https://mrf.payerset.com/kaiser)
 
-February 2024: A number of files are corrupted, specifically 16 of them either contain bad zip archives or corrupted JSON files that are not reparable.
+### Compliance Scorecard
+
+Overall Rating: <mark style="color:yellow;">**4/5**</mark>** - Good**
+
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><strong>Table of Contents</strong></td><td><strong>★★★★☆</strong></td><td><mark style="color:yellow;"><strong>4/5</strong></mark></td><td><ul><li>Are the MRFs kept up to date each month? </li><li>Is the Table of Contents link easily accessible?</li><li>Is the Table of Contents properly formatted?</li></ul></td><td></td></tr><tr><td><strong>File Accessibility</strong></td><td><strong>★★★★☆</strong></td><td><mark style="color:yellow;"><strong>4/5</strong></mark></td><td><ul><li>Are there any barriers to downloading the files?</li><li>Do the Table of Contents links expire before publishing new links?</li></ul></td><td></td></tr><tr><td><strong>Data Quality</strong></td><td><strong>★★★☆☆</strong></td><td><mark style="color:orange;"><strong>3/5</strong></mark></td><td><ul><li><p>What percentage of the MRFs are properly formatted and parseable</p><ul><li>5 Stars - 100%</li><li>4 Stars - 80%...</li></ul></li></ul></td><td></td></tr></tbody></table>
 
 ### Schema: KAISER
 
-### Table 1: PROVIDERS
+**Rates Records**: 967,526,321
 
-#### 1. Overview
+**Provider Records**: 128,954,349
 
-The `PROVIDERS` table contains the mapping of provider identification numbers (NPI) and other related provider information. This table is designed to store provider-specific data.
+### Additional Observations
 
-#### 2. Columns
+**Machine-Readable Price Transparency Files Review**
 
-| Column Name    | Data Type | Description                                                          |
-| -------------- | --------- | -------------------------------------------------------------------- |
-| NPI            | VARCHAR   | The National Provider Identifier assigned to a healthcare provider.  |
-| NPI\_RATE\_KEY | VARCHAR   | A unique identifier for the provider in the rate negotiation system. |
-| TIN\_TYPE      | VARCHAR   | Type of Taxpayer Identification Number associated with the provider. |
-| TIN\_VALUE     | VARCHAR   | Taxpayer Identification Number value for the provider.               |
+* **MRFs Up-to-Date:** ✔️ Yes, the MRFs are kept up to date each month.
+* **Table of Contents Accessibility:** ✔️ The Table of Contents link is easily accessible.
+* **Table of Contents Formatting:** ❌ Table of Contents is properly formatted for each region, but they should not be separated the way they are. This is a minor issue but does create a barrier.
+* **File Download Barriers:** ✔️ No barriers to downloading the MRFs.
+* **File Accessibility Percentage:** ✔️ 100% of the files are accessible.
+* **File Corruption:** ❌ 6 of the 23 files linked in the Tables of Contents are corrupted beyond repair. It's not clear whether these files are critical and contain relevant rates, as they each have very different names from the other files that work. We are giving Kaiser the benefit of the doubt here that they may be old or unneeded files.
 
-### Table 2: NEGOTIATED\_RATES
-
-#### 1. Overview
-
-The `NEGOTIATED_RATES` table contains information about negotiated rates for various billing classes and codes. This table is used to store pricing data and rate negotiations.
-
-#### 2. Columns
-
-<table><thead><tr><th>Column Name</th><th width="159.33333333333331">Data Type</th><th>Description</th></tr></thead><tbody><tr><td>BILLING_CLASS</td><td>VARCHAR</td><td>The class or category of the billing code.</td></tr><tr><td>BILLING_CODE</td><td>VARCHAR</td><td>A unique identifier for the specific billing code.</td></tr><tr><td>EXPIRATION_DATE</td><td>VARCHAR</td><td>The expiration date of the negotiated rate.</td></tr><tr><td>NEGOTIATED_RATE</td><td>NUMBER</td><td>The negotiated rate for the specified billing code.</td></tr><tr><td>NEGOTIATED_TYPE</td><td>VARCHAR</td><td>The type of the negotiated rate (e.g., fixed, percentage, etc.).</td></tr><tr><td>NEGOTIATION_ARRANGEMENT</td><td>VARCHAR</td><td>The arrangement for the negotiated rate.</td></tr><tr><td>NPI_RATE_KEY</td><td>VARCHAR</td><td>A unique identifier for the provider in the rate negotiation system.</td></tr><tr><td>SERVICE_CODES</td><td>VARCHAR</td><td>The associated service codes for the negotiated rate.</td></tr><tr><td>BILLING_CODE_TYPE</td><td>VARCHAR</td><td>The type or standard of the billing code (e.g., ICD-10, CPT, etc.).</td></tr><tr><td>BILLING_CODE_TYPE_VERSION</td><td>VARCHAR</td><td>The version of the billing code type.</td></tr><tr><td>DESCRIPTION</td><td>VARCHAR</td><td>A description of the billing code.</td></tr><tr><td>NAME</td><td>VARCHAR</td><td>The name or title of the billing code.</td></tr><tr><td>TOC_ID</td><td>UUID</td><td>Links to the Reporting Plan ID in the table of contents.</td></tr></tbody></table>
+**Overall Assessment:** While the efforts to maintain up-to-date and accessible MRFs are commendable, addressing the identified issues will enhance the usability and reliability of the Machine-Readable Price Transparency Files. Correcting the format of the Table of Contents and ensuring all files are free from corruption are crucial steps in achieving full compliance and user satisfaction.

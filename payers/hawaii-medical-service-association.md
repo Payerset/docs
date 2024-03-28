@@ -36,6 +36,8 @@ Overall Rating: <mark style="color:yellow;">**4/5**</mark>** - Good**
 
 **Overall Assessment:** HMSA does a great job of posting these files each month. They duplicate provider data substantially, but that can be a result of interpretation of the CMS rules.
 
+**Error Details by File:**
+
 ```
 An error occurred: 403 Client Error: Forbidden for url: https://bcbshi.mrf.bcbs.com/2024-02_310_32Q0_in-network-rates_1_of_1.json.gz?&Expires=1711116038&Signature=dShlmDYlVOSPh9GZ4NPdPOErwN~1mU2oQb87Z~wV3HLheklHM~POV3nyhAlP5Pllk8C1K1Y10YWptMs9cmo-kFqJqVPzosBM6olKmbGkIXxEdNzpaIE6AN1e87Uv1TShYNTPPHtphcxdnU69LcyetiIDrKIm~KK23SbzgNLLpWBZ1DhK1trhl9h9d4Xob~G7CURTvc5FIgorib3ZRWrdgizZRsEx4rRXtEpeyxBpY0cwxoRamjDrjb3gmBFbhTNB0sMwKLfiNgywMuNeeEi0-C2r0z0rRlC7o8Qn-hbtom9vXIGkzhycegL5jaa9JT4JGKpiINfEUiY~xvCJa9C0dQ__&Key-Pair-Id=K27TQMT39R1C8A
 An error occurred: 403 Client Error: Forbidden for url: https://bcbshi.mrf.bcbs.com/2024-02_040_05C0_in-network-rates_1_of_4.json.gz?&Expires=1711116038&Signature=eNdAPmMpyR7P1eWAj6zfcEhE-pw2j94kX91D8~xnp3X5FHYFzYkFs-2XXe5T09Jqz7vNFt05gmNxM4dS7ew1eqNV6hgCr3NjlRRazn1Rlfbd4XaYrIBHmI94cHDsB7pwenjaK5W-RCpo84InIz4AQ4n3QgtJmaf7ZKQx5otfcE8rjZrHsi6YGjCS~3O3wjVxSx~IPtcgRjR4o7~dInKYBHSOHAp21kpwVVpN1itAgTvNxZakN9dPg4Sna15igOMFHx49jYeUF21KP9P-GSeXLO-NElHpAP5ekeHbJrZUt18gU0Ka8zY-v5eD9tCkM40Qe3uQUmUVdURTI3cJF~UdJA__&Key-Pair-Id=K27TQMT39R1C8A
