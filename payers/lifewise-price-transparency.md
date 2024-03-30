@@ -26,4 +26,14 @@ Overall Rating: <mark style="color:green;">**5/5**</mark>** - Excellent**
 
 ### Additional Observations
 
+**Machine-Readable Price Transparency Files Review**
+
+* **MRFs Up-to-Date:** ✔️ Yes, the MRFs are kept up to date each month.
+* **Table of Contents Accessibility:** ✔️ The Table of Contents link is easily accessible.
+* **Table of Contents Formatting:** ✔️ Yes, the Table of Contents is properly formatted.
+* **File Download Barriers:** ✔️ No barriers to downloading the MRFs.
+* **File Accessibility Percentage:** ✔️ 100% of the files are accessible.
+
+### Additional Observations
+
 **Overall Assessment:** Lifewise has excellent, well-populated files with clear plan names.

@@ -12,6 +12,14 @@ description: >-
 
 [https://mrf.payerset.com/select-health](https://mrf.payerset.com/select-health)
 
+{% hint style="danger" %}
+We have created a Table of Contents in order to make the files parseable, but **please note** that this does not come from Select Health and **may have incorrect or missing data**. This is intended for us and others to be able to parse the negotiated rates as part of our standardized process.
+
+You can find the Table of Contents we created at this link:
+
+[https://mrf.payerset.com/select-health-toc](https://mrf.payerset.com/select-health-toc)
+{% endhint %}
+
 ### Compliance Scorecard
 
 Overall Rating: <mark style="color:red;">**2/5**</mark>** - Poor**
@@ -20,4 +28,18 @@ Overall Rating: <mark style="color:red;">**2/5**</mark>** - Poor**
 
 ### Schema: SELECT\_HEALTH
 
-**\*\*PAYER PARSING IN PROGRESS\*\***
+**Rates Records**: 1,463,864,859
+
+**Provider Records**: 47,889,661
+
+### Additional Observations
+
+**Machine-Readable Price Transparency Files Review**
+
+* **MRFs Up-to-Date:** ✔️ Yes, the MRFs are kept up to date each month.
+* **Table of Contents Accessibility:** ❌ The Table of Contents link is easily accessible.
+* **Table of Contents Formatting:** ❌ Yes, the Table of Contents is properly formatted.
+* **File Download Barriers:** ✔️ No barriers to downloading the MRFs.
+* **File Accessibility Percentage:** ✔️ 100% of the files are accessible.
+
+**Overall Assessment:** Select Health has not created a Table of Contents, and is thus out of compliance with the mandates. For smaller payers, this is less of an issue, as the Table of Contents can be easily crafted, but it was a very large effort to craft a Table of Contents for Select Health and we are not sure it's 100% correct because we had to make some assumptions. Additionally, we only included "in network files" as those are what typically contain the rates (and there are many rates for Select Health in these files, all of which are accessible and updated) but there could be other naming conventions we are not aware of.
