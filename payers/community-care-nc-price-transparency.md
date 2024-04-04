@@ -10,7 +10,7 @@ description: >-
 
 **Table of Contents**
 
-[https://mrf.payerset.com/community-care-nc](https://mrf.payerset.com/community-care-nc)
+We are unable to find the Table of Contents link
 
 ### Compliance Scorecard
 
@@ -26,4 +26,4 @@ Overall Rating: **1/5 - Not Compliant**
 
 ### Additional Observations
 
-**Overall Assessment:** <mark style="color:red;">**This payer is not compliant**</mark>, data is last from November 2023 and no files are accessible.&#x20;
+**Overall Assessment:** <mark style="color:red;">**This payer is not compliant.**</mark>
