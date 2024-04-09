@@ -4,7 +4,7 @@ description: >-
   United that have been normalized into easy-to-use tables.
 ---
 
-# 🟡 United Healthcare
+# 🟡 UnitedHealthcare
 
 ### Payerset Notes
 
@@ -36,6 +36,10 @@ Overall Rating: <mark style="color:yellow;">**4/5**</mark>** - Good**
 
 #### Data Quality Issues
 
-UnitedHealthcare does not publish many MS-DRG codes, causing them to be out of compliance in that regard. Additionally, many rates that are supposed to be tagged as `institutional` are instead tagged as `professional` which leads to confusing results. These issues must be fixed to get the maximum value out of this data for UnitedHealthcare.
+UnitedHealthcare publishes many MS-DRG codes with 4 digits, including a leading zero, causing them to be out of compliance in that regard (though we should assume this is not intentional). Additionally, many rates that are supposed to be tagged as `institutional` are instead tagged as `professional` which leads to confusing results. These issues must be fixed to get the maximum value out of this data for UnitedHealthcare.
+
+One interesting thing about UnitedHealthcare that we don't see in other payers is that they sometimes put multiple billing codes in the `billing_code` field. See the example below in which they put  `29888 AND 29882` in the same field. We do not know the reason for this, but don't believe it is in compliance.
+
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 **Overall Assessment:** Despite the very large volumes and questionable interpretation of the assignment, Aetna consistently puts out accessible, properly-formatted files with complete data.
