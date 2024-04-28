@@ -6,7 +6,7 @@ description: National Uniform Claim Committee (NUCC) Taxonomy Mapping Datase
 
 The National Uniform Claim Committee (NUCC) is an organization that focuses on standardizing data sets for non-institutional health care claims in the U.S. It was established in 1995, replacing the Uniform Claim Form Task Force, and plays a key role in the administrative simplification section of HIPAA. The NUCC, chaired by the American Medical Association, collaborates with a diverse group of health care stakeholders, including providers, payers, and vendors.&#x20;
 
-The dataset can be downloaded in CSV format from here: [https://www.nucc.org/index.php/code-sets-mainmenu-41/provider-taxonomy-mainmenu-40/csv-mainmenu-57](https://www.nucc.org/index.php/code-sets-mainmenu-41/provider-taxonomy-mainmenu-40/csv-mainmenu-57)
+The dataset can be downloaded in CSV format from here: [https://mrf.payerset.com/nucc](https://mrf.payerset.com/nucc)
 
 | Field          | Definition                                                                                                                                  |
 | -------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |

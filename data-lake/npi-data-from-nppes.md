@@ -14,6 +14,8 @@ The original dataset is available here from CMS: [https://npiregistry.cms.hhs.go
 Payerset also lightly transforms this data to provide Primary Taxonomy Code, using the switches in the dataset.
 {% endhint %}
 
+Here is a link directly to the NPPES download file: [https://mrf.payerset.com/nppes](https://mrf.payerset.com/nppes)
+
 ## Schema: ENRICHMENT\_DATA
 
 ## Table Name: NPPES
