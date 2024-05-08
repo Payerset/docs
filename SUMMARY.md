@@ -75,6 +75,7 @@
 * [🟡 Kaiser Permanente](payers/kaiser-price-transparency.md)
 * [🟢 Lifewise Assurance Company](payers/lifewise-price-transparency.md)
 * [🟢 Managed Health Network (Centene)](payers/managed-health-network-price-transparency.md)
+* [🟢 Medica](payers/medica.md)
 * [🟢 Medical Mutual of Ohio](payers/medical-mutual-ohio-price-transparency.md)
 * [🟡 Molina](payers/molina-price-transparency.md)
 * [🟡 Oscar](payers/oscar.md)
