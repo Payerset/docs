@@ -91,6 +91,7 @@
 * [🟢 UPMC Health System](payers/upmc-health-system-price-transparency.md)
 * [🟢 VIVA Health](payers/viva-price-transparency.md)
 * [🟢 WellCare (Centene)](payers/wellcare-price-transparency.md)
+* [🟢 Wellmark](payers/wellmark-price-transparency.md)
 
 ## Information & Requests
 
