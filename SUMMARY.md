@@ -46,6 +46,7 @@
 * [🟢 Blue Cross Blue Shield South Carolina](payers/bcbs-south-carolina-price-transparency.md)
 * [🟡 Blue Cross Blue Shield Tennessee](payers/bcbs-tennessee-price-transparency.md)
 * [🟢 Blue Cross Blue Shield Texas](payers/bcbs-texas-price-transparency.md)
+* [🟢 Blue Cross Blue Shield Vermont](payers/bcbs-vermont-price-transparency.md)
 * [🟢 Blue Cross Blue Shield Wyoming](payers/bcbs-wyoming-price-transparency.md)
 * [🟡 Blue Cross Idaho](payers/bc-idaho-price-transparency.md)
 * [🟢 Blue Shield California](payers/bs-california-price-transparency.md)
