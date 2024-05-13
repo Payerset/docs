@@ -37,6 +37,7 @@
 * [🟢 Blue Cross Blue Shield Michigan](payers/bcbs-michigan-price-transparency.md)
 * [🟢 Blue Cross Blue Shield Minnesota](payers/bcbs-minnesota-price-transparency.md)
 * [🟢 Blue Cross Blue Shield Mississippi](payers/bcbs-mississippi-price-transparency.md)
+* [🟢 Blue Cross Blue Shield Montana](payers/bcbs-montana-price-transparency.md)
 * [🟢 Blue Cross Blue Shield Nebraska](payers/bcbs-nebraska-price-transparency.md)
 * [🟢 Blue Cross Blue Shield New Mexico](payers/bcbs-new-mexico-price-transparency.md)
 * [🟢 Blue Cross Blue Shield North Carolina](payers/bcbs-north-carolina-price-transparency.md)
