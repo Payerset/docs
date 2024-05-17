@@ -55,7 +55,7 @@
 * [⚪ Centene](payers/centene-price-transparency.md)
 * [🟢 Cigna](payers/cigna-price-transparency.md)
 * [⚫ Community Care of North Carolina](payers/community-care-nc-price-transparency.md)
-* [⚫ ConnectiCare](payers/connecticare-price-transparency.md)
+* [🟢 ConnectiCare](payers/connecticare-price-transparency.md)
 * [🟠 Dean Health Plan](payers/dean-price-transparency.md)
 * [🟡 Elevance (Anthem)](payers/elevance-anthem-price-transparency.md)
 * [🔴 Emblem Health](payers/emblem-health-price-transparency.md)
