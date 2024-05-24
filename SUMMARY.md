@@ -74,7 +74,7 @@
 * [🟢 Highmark Blue Shield Pennsylvania](payers/highmark-bs-pennsylvania-price-transparency.md)
 * [🟠 Horizon Blue Cross Blue Shield New Jersey](payers/horizon-bcbs-new-jersey-price-transparency.md)
 * [⚪ Humana](payers/humana-price-transparency.md)
-* [⚫ Independence Blue Cross](payers/independence-blue-cross-price-transparency.md)
+* [🟢 Independence Blue Cross](payers/independence-blue-cross-price-transparency.md)
 * [🟡 Kaiser Permanente](payers/kaiser-price-transparency.md)
 * [🟢 Lifewise Assurance Company](payers/lifewise-price-transparency.md)
 * [🟢 Managed Health Network (Centene)](payers/managed-health-network-price-transparency.md)
