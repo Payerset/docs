@@ -35,3 +35,7 @@ Overall Rating: <mark style="color:green;">**5/5**</mark>** - Excellent**
 * **File Accessibility Percentage:** ✔️ 100% of the files are accessible.
 
 **Overall Assessment:** BCBS Mississippi does a great job of posting these files each month. They duplicate provider data substantially, but that can be a result of interpretation of the CMS rules.
+
+As of May 2024, there is a single file with invalid json: https://tcr.bcbsms.com/230\_7200\_in-network-rates.json.gz
+
+We will update this documentation when we dig into whether this file is consequential.

@@ -35,3 +35,7 @@ Overall Rating: <mark style="color:green;">**5/5**</mark>** - Excellent**
 * **File Accessibility Percentage:** ✔️ 100% of the files are accessible.
 
 **Overall Assessment:** BCBS Vermont does a great job of posting these files each month. They duplicate provider data substantially, but that can be a result of interpretation of the CMS rules.
+
+As of May 2024, one of the files is inaccessible: 403 Client Error: Forbidden for url: https://mrf-download.changehealthcare.com/bcbsvt/files/2024-04-01\_BCBSVT\_0021\_PPO\_NON\_QHP\_EPO\_in-network-rates.json.gz
+
+This file is from April and there does appear to be an updated one that is valid for May, so we are not removing a star.

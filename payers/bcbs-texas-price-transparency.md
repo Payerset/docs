@@ -35,3 +35,7 @@ Overall Rating: <mark style="color:green;">**5/5**</mark>** - Excellent**
 * **File Accessibility Percentage:** ✔️ 100% of the files are accessible.
 
 **Overall Assessment:** BCBS Texas does a great job of posting these files each month. They duplicate provider data substantially, but that can be a result of interpretation of the CMS rules.
+
+As of May 2024, one of the files has invalid json: https://app0004702110a5prdnc685.blob.core.windows.net/output/2024-04-12\_Blue-Cross-and-Blue-Shield-of-Texas\_MyBlue-Health-HMO-TX-Sanitas-capitation-rate\_in-network-rates.json.gz\_7e36514a6f6941f5bfc324c54023772912d0d042:
+
+This file is from April and there does appear to be an updated one that is valid for May, so we are not removing a star.

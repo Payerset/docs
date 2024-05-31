@@ -35,3 +35,5 @@ Overall Rating: <mark style="color:green;">**5/5**</mark>** - Excellent**
 * **File Accessibility Percentage:** ✔️ 100% of the files are accessible - though there is one file with an unsupported extension, but we believe this is not a "real" MRF.
 
 **Overall Assessment:** BCBS Michigan does a great job of posting these files each month. They duplicate provider data substantially, but that can be a result of interpretation of the CMS rules.
+
+As of May 2024, there is a single file that has invalid JSON, but it appears to be an old file from April, specifically this file: https://bcbsm.sapphiremrfhub.com/mrfs/202405/2024-04-08\_BCBSMI\_IH0000000015\_ffs\_in-network.json.gz\_14016f858662e4a37ed266f4f29eb7a54ad44ae1

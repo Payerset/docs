@@ -32,19 +32,9 @@ Overall Rating: <mark style="color:yellow;">**4/5**</mark>** - Good**
 * **Table of Contents Accessibility:** ✔️ The Table of Contents link is easily accessible.
 * **Table of Contents Formatting:** ✔️ Yes, the Table of Contents is properly formatted.
 * **File Download Barriers:** ✔️ No barriers to downloading the MRFs.
-* **File Accessibility Percentage:** ❌ 99% of the files are accessible.
+* **File Accessibility Percentage:** ✔️ 100% of the files are accessible.
 
-{% hint style="warning" %}
-1 file is inaccessible, and it is a real plan, so this has to impact the rating. This is the plan that is inaccessible
-
-**Plan ID:** 14002&#x20;
-
-**Plan Name:** BCBST Fully Insured
-
-**File Location:** [https://bcbstn.mrf.bcbs.com/2024-02\_170\_22B0\_in-network-rates.json.gz](https://bcbstn.mrf.bcbs.com/2024-02\_170\_22B0\_in-network-rates.json.gz)
-{% endhint %}
-
-**Overall Assessment:** BCBS Tennessee does a good job of posting these files each month, but there is one file that is inaccessible and needs to be part of the dataset for a 5/5 rating. They duplicate provider data substantially, but that can be a result of interpretation of the CMS rules.
+**Overall Assessment:** BCBS Tennessee does not post until the end of each month, but does keep up with posting their data. There is a link in their table of contents that is invalid ([https://d7k0rj9u1dp84.cloudfront.net/TCR\_Output\_JSON/C\_$folder$](https://d7k0rj9u1dp84.cloudfront.net/TCR\_Output\_JSON/C\_$folder$)) but this appears to be a result of a system error and we don't feel it's valid. They duplicate provider data substantially, but that can be a result of interpretation of the CMS rules.
 
 ### Customer Anecdotes
 

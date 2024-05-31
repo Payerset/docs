@@ -35,3 +35,7 @@ Overall Rating: <mark style="color:yellow;">**4/5**</mark>** - Good**
 * **File Accessibility Percentage:** ❌ 99% of the files are accessible.
 
 **Overall Assessment:** BCBS Kansas City has a few files that are inaccessible (403 Forbidden errors) and 1 file that is in a nonstandard format once unzipped, which cannot be parsed. Overall, reliable though.
+
+Here is an example of a missing file:
+
+https://bcbskc.mrf.bcbs.com/2023-07\_302\_42A0\_in-network-rates\_3\_of\_3.json.gz?\&Expires=1692367243\&Signature=NlILkF19ZhYnniZm6RqADTrx9u81EEBg3KG2FGYkmf0ZHo57t2exGAqdM29PKEXv4mhk7NzRVINj-pj\~RiKvtpCHho\~XJigU0H3ypqnNNsdN4SFCLD4xU-dGeXT\~yFpEloR42ehPBCSLBbGl4JFfmCtO593PTtQ17lMlNhiq7WBLkgpIjG0VS1YPCk2Q0CMQjvjoKXs31yYQkuELaPJ\~WFpPCYw6zHovwSlkUJkIVpCHPGXFvy0iuvhA5epdgQXqstF7hisCS1YVGjBjeZCKqdQzQTWv2OJo7E8xRMXQAD9UNvCyrvooudpg51CRpiM3PODHf-qmpOXUNarO79K6Xg\_\_\&Key-Pair-Id=K27TQMT39R1C8A

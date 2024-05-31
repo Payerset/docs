@@ -20,7 +20,7 @@ Overall Rating: <mark style="color:yellow;">**4/5**</mark>** - Good**
 
 ### Schema: AETNA
 
-**Rates Records**: 2,572,242,780,397
+**Rates Records**: 2,051,891,286,293
 
 **Provider Records**: 16,959,962,444
 
@@ -36,3 +36,5 @@ Overall Rating: <mark style="color:yellow;">**4/5**</mark>** - Good**
 * **Data Assessment:** Aetna duplicates their rate data for every related NPI under each TIN and for each Reporting Plan, even if rates are the same, making the data volumes very large. It is debatable whether this interpretation of the rules is acceptable, but it does at least give very good coverage of their rates across the country.
 
 **Overall Assessment:** Despite the very large volumes and questionable interpretation of the assignment, Aetna consistently puts out accessible, properly-formatted files with complete data.
+
+As of May 2024 there are new rate limits on Aetna's Table of Contents API - this causes the process to download all of the ToC files to take a little longer, but is not unreasonable.

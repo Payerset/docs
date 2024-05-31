@@ -32,6 +32,10 @@ Overall Rating: <mark style="color:yellow;">**4/5**</mark>** - Good**
 * **Table of Contents Accessibility:** ✔️ The Table of Contents link is easily accessible.
 * **Table of Contents Formatting:** ✔️ Yes, the Table of Contents is properly formatted, though there are multiple files when there should really only be one.
 * **File Download Barriers:** ✔️ No barriers to downloading the MRFs.
-* **File Accessibility Percentage: ❌** Only 26 of the 579 files are inaccessible.
+* **File Accessibility Percentage: ✔️** Only 1 of the files is inaccessible.
 
 **Overall Assessment:** CareFirst does a great job of posting these files each month. They duplicate provider data substantially, but that can be a result of interpretation of the CMS rules.
+
+This file does not exist, and though it is from April, it appears to be a valid file:
+
+https://mrf.carefirst.com/mrf-files/MPI\_PHCS\_innetworkrates\_20240401.zip

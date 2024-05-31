@@ -36,6 +36,8 @@ Overall Rating: <mark style="color:green;">**5/5**</mark>** - Excellent**
 
 **Overall Assessment:** BCBS North Dakota generally does a great job of posting these files each month. They duplicate provider data substantially, but that can be a result of interpretation of the CMS rules.
 
+**As of May 2024 this has still not been resolved:**
+
 There are some issues with one of their Dental files that we weren't able to manually fix, but we did not ding them a star for it. See the full JSON error below:
 
 #### Error Explanation - 1 file is corrupted, specifically the Dental In Network Rates file
