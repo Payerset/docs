@@ -4,7 +4,7 @@ description: >-
   Select Health that have been normalized into easy-to-use tables.
 ---
 
-# 🔴 Select Health
+# 🟡 Select Health
 
 ### Payerset Notes
 
@@ -42,4 +42,4 @@ Overall Rating: <mark style="color:red;">**2/5**</mark>** - Poor**
 * **File Download Barriers:** ✔️ No barriers to downloading the MRFs.
 * **File Accessibility Percentage:** ✔️ 100% of the files are accessible.
 
-**Overall Assessment:** Select Health has not created a Table of Contents, and is thus out of compliance with the mandates. For smaller payers, this is less of an issue, as the Table of Contents can be easily crafted, but it was a very large effort to craft a Table of Contents for Select Health and we are not sure it's 100% correct because we had to make some assumptions. Additionally, we only included "in network files" as those are what typically contain the rates (and there are many rates for Select Health in these files, all of which are accessible and updated) but there could be other naming conventions we are not aware of.
+**Overall Assessment:** Select Health has not created a Table of Contents, which makes the data difficult to get. For smaller payers, this is less of an issue, as the Table of Contents can be easily crafted, but it was a very large effort to craft a Table of Contents for Select Health and we are not sure it's 100% correct because we had to make some assumptions. Additionally, we only included "in network files" as those are what typically contain the rates (and there are many rates for Select Health in these files, all of which are accessible and updated) but there could be other naming conventions we are not aware of.

@@ -32,4 +32,10 @@ Overall Rating: <mark style="color:green;">**5/5**</mark>** - Excellent**
 * **Table of Contents Accessibility:** ✔️ The Table of Contents link is easily accessible.
 * **Table of Contents Formatting:** ✔️ Yes, the Table of Contents is properly formatted.
 * **File Download Barriers:** ✔️ No barriers to downloading the MRFs.
-* **File Accessibility Percentage:** ✔️ 100% of the files are accessible.
+* **File Accessibility Percentage:** ✔️ 99% of the files are accessible.
+
+Most of the files are accessible, but there are 2 April files that are not. We are giving them the benefit of the doubt that these are old files.
+
+2 inaccessible files: https://mrf.healthsparq.com/bcbsaz-egress.nophi.kyruushsq.com/prd/mrf/BCBSAZ\_I/BCBSAZ/2024-04-01/inNetworkRates/2024-04-01\_4CHS5PPO7PPOPPO03J0\_CORPORATE-HEALTH-SERVICES.json.gz&#x20;
+
+bad json: https://mrf.healthsparq.com/medica-egress.nophi.kyruushsq.com/prd/mrf/MEDICA\_I/MEDICA/2024-05-01/inNetworkRates/MEDICA\_in-network-rates\_20240412exp.json.gz\_44936668400d037dfc54b8b94ccd5008016a90e4:
