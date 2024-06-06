@@ -20,9 +20,9 @@ Overall Rating: <mark style="color:green;">**5/5**</mark>** - Excellent**
 
 ### Schema: WELLMARK
 
-**Rates Records**: 13,201,746,053
+**Rates Records**: 13,055,536,146
 
-**Provider Records**: 122,523,145,976
+**Provider Records**: 144,100,761,951
 
 ### Additional Observations
 

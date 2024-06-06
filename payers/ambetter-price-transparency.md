@@ -20,9 +20,9 @@ Overall Rating: <mark style="color:yellow;">**4/5**</mark>** - Good**
 
 ### Schema: AMBETTER
 
-**Rates Records**: 20,835,185
+**Rates Records**: 24,307,394
 
-**Provider Records**: 3,479,756
+**Provider Records**: 3,716,208
 
 ### Additional Observations
 

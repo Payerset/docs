@@ -20,9 +20,9 @@ Overall Rating: <mark style="color:yellow;">**4/5**</mark>** - Good**
 
 ### Schema: GEISINGER
 
-**Rates Records**: 386,877,981
+**Rates Records**: 577,408,024
 
-**Provider Records**: 746,384
+**Provider Records**: 4,181,300
 
 ### Additional Observations
 

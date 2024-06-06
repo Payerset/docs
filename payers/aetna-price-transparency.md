@@ -20,9 +20,9 @@ Overall Rating: <mark style="color:yellow;">**4/5**</mark>** - Good**
 
 ### Schema: AETNA
 
-**Rates Records**: 2,051,891,286,293
+**Rates Records**: 2,037,852,086,781
 
-**Provider Records**: 16,959,962,444
+**Provider Records**: 14,039,199,512
 
 ### Additional Observations
 

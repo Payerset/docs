@@ -20,9 +20,9 @@ Overall Rating: <mark style="color:green;">**5/5**</mark>** - Excellent**
 
 ### Schema: BCBS\_VERMONT
 
-**Rates Records**: 14,281,215,221
+**Rates Records**: 12,857,971,681
 
-**Provider Records**: 139,800,409,161
+**Provider Records**: 127,200,142,157
 
 ### Additional Observations
 

@@ -20,9 +20,9 @@ Overall Rating: <mark style="color:yellow;">**4/5**</mark>** - Good**
 
 ### Schema: CIGNA
 
-**Rates Records**: 4,876,124,250
+**Rates Records**: 5,078,731,503
 
-**Provider Records**: 44,877,277
+**Provider Records**: 44,736,261
 
 ### Additional Observations
 

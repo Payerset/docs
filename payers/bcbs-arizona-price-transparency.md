@@ -20,9 +20,9 @@ Overall Rating: <mark style="color:green;">**5/5**</mark>** - Excellent**
 
 ### Schema: BCBS\_ARIZONA
 
-**Rates Records**: 305,490,940,898
+**Rates Records**: 279,035,559,015
 
-**Provider Records**: 158,455,575,218
+**Provider Records**: 165,643,727,837
 
 ### Additional Observations
 

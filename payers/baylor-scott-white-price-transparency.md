@@ -20,9 +20,9 @@ Overall Rating: <mark style="color:yellow;">**4/5**</mark>** - Good**
 
 ### Schema: BAYLOR\_SCOTT\_WHITE
 
-**Rates Records**: 20,397,301
+**Rates Records**: 3,226,603
 
-**Provider Records**: 37,235,967
+**Provider Records**: 5,224,559
 
 ### Additional Observations
 
