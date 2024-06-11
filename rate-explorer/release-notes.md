@@ -144,7 +144,7 @@ description: >-
 * **Analysis Edit Update Delay**
   * Fixed delays in updating analyses after edits, ensuring immediate reflection of changes.
 
-### August 2023
+## August 2023
 
 * **Dashboard Initialization Improvement**
   * Fixed an issue where the dashboard wouldn't populate without a browser refresh after initial login, enhancing user experience.
