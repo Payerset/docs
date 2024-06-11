@@ -6,7 +6,106 @@ description: >-
 
 # Release Notes
 
-### March 2024
+## May 2024
+
+**Revenue Code Addition**
+
+* Add support for Revenue Code selection in addition to CPT/HCPCS/DRG, including categories and subcategories.&#x20;
+
+**Improved Pivot Dimension Deselection**
+
+* Made it more intuitive to deselect pivot dimensions to enhance user experience.
+
+**Global Filter for Expiration Date**
+
+* Added the ability to filter by expiration date in global filters, providing better control over data visibility.
+
+**Authentication Bug Fixed**
+
+* Fixed an issue where references to the old authentication link prevented analysis creation and testing.
+
+**Plan Filtering Options Added**
+
+* Implemented plan filtering options to allow for more precise data segmentation.
+
+**Pivot Table Freezing Issue Resolved**
+
+* Resolved an issue where adding multiple dimensions and measures would freeze the pivot table.
+
+**New Fields for Reporting Plan Types**
+
+* Added new fields for reporting plan type and plan name in both the explore tab and global filters.
+
+### **Data Parsing Improvements**
+
+* Added new payers: BCBS\_MONTANA, BCBS\_VERMONT, CONNECTICARE, DEAN, HMSA, HORIZON\_BCBS\_NJ, MEDICA, WELLMARK.
+* Added support for fixing incorrect service code formatting.
+* Updated parsing process to handle United Healthcare's new API.
+* Added support to process nested zip files in EC2 parser.
+* Increased request timeout in EC2 parsers.
+* Improved error handling, file extension validation, and task submission in EC2 parsers.
+* Refactored large file skipping, downloading logic, and removed unused code in EC2 parser scripts.
+* Optimized file processing, encoding conversion, and error messages in EC2 parsers.
+
+## April 2024
+
+**Analysis Editing Error Fixed**
+
+* Fixed an issue where editing an analysis could result in an error, improving reliability.
+
+**Payer List Filter Correction**
+
+* Corrected a bug where all payers appeared in the list regardless of row-level security settings.
+
+**Pivot Table Stability Enhancements**
+
+* Resolved an issue causing the pivot table to freeze when adding all measures and dimensions, ensuring smoother performance.
+
+**Pivot Table Apostrophe Bug Fix**
+
+* Fixed a bug where the pivot table would freeze when filtering by organization names containing apostrophes.
+
+**State-Based Data Access Control**
+
+* Implemented a feature to limit data access by state for specific users, enhancing data security and compliance.
+
+**Custom Domain for Authentication**
+
+* Configured the login mechanism to use a custom domain for Authentication Service to avoid issues with corporate firewalls.
+
+**Plan Column Addition Error Resolved**
+
+* Addressed an error that occurred when adding the Plan column in the QA environment, preventing application freezes.
+
+**Password Recovery and Magic Links Fixed**
+
+* Ensured that the password recovery and magic link functionality work correctly with the new domain.
+
+**Filter Counts Feature Implemented**
+
+* Added the Filter Counts feature to the analysis view, providing users with more precise filtering options.
+
+**Intermittent Analysis Update Error Fixed**
+
+* Fixed an issue where updating an analysis would sometimes result in an error.
+
+**Hover Box Display Issue Resolved**
+
+* Resolved an intermittent issue with hover boxes not displaying correctly.
+
+**Min and Max Rate Calculations Added**
+
+* Added Min and Max calculations for rate $ and rate % in the Explore View for enhanced analysis.
+
+**Visual Bug Fix for Single Code Selection**
+
+* Fixed a visual bug where a blur appeared when selecting only one billing code.
+
+**Min and Max Calculations Stability**
+
+* Addressed an issue where Min and Max calculations caused the pivot table to freeze.
+
+## March 2024
 
 * **Place of Service Codes Parsing Improvement**
   * Adjusted parsing logic to correctly differentiate between single and compound digits for Viva, improving accuracy in analysis.
@@ -25,7 +124,7 @@ description: >-
 * **Service Addition Consistency**
   * Resolved intermittent issues with adding new services to analyses, ensuring changes are consistently applied.
 
-### February 2024
+## February 2024
 
 * **Viva Place of Service Code Delimitation**
   * Corrected place of service codes for Viva, ensuring proper format and accuracy.
@@ -34,7 +133,7 @@ description: >-
 * **Browser Memory Optimization**
   * Implemented fixes for "Aw Snap!" browser memory errors, enhancing stability during intensive analyses.
 
-### September 2023
+## January 2024
 
 * **Payer Display Name Standardization**
   * Standardized payer display names on summary page for consistency across analyses.
