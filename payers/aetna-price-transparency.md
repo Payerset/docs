@@ -10,7 +10,14 @@ description: >-
 
 **Table of Contents**
 
+Aetna has multiple tables of contents:
+
 [https://mrf.payerset.com/aetna](https://mrf.payerset.com/aetna)
+
+* [Fully insured](https://health1.aetna.com/app/public/#/one/insurerCode=AETNACVS\_I\&brandCode=ALICFI/machine-readable-transparency-in-coverage)
+* [Self - insured - ALICSI](https://health1.aetna.com/app/public/#/one/insurerCode=AETNACVS\_I\&brandCode=ALICSI/machine-readable-transparency-in-coverage) / [ALICUNDER100](https://health1.aetna.com/app/public/#/one/insurerCode=AETNACVS\_I\&brandCode=ALICUNDER100/machine-readable-transparency-in-coverage)
+* [AetnaCVS Individual Exchange](https://health1.aetna.com/app/public/#/one/insurerCode=AETNACVS\_I\&brandCode=AETNACVS/machine-readable-transparency-in-coverage)
+* [Texas Health Plans](https://health1.aetna.com/app/public/#/one/insurerCode=AETNACVS\_I\&brandCode=TEXASFI/machine-readable-transparency-in-coverage)
 
 ### Compliance Scorecard
 
