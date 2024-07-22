@@ -6,6 +6,51 @@ description: >-
 
 # Release Notes
 
+## July 2024 Release Notes
+
+**Normalize TIN Values**
+
+* **Data Improvement**: TIN Values have been normalized with dashes removed for EINs, enabling simpler sorting.
+
+**Add EIN and County to Provider Selection**
+
+* **New Feature**: County has been mapped to each NPI and is now available for search when selecting providers. Additionally, County will be included in result sets to enable users to aggregate data at the county level.
+* **New Feature**: EINs have been linked to each NPI using the most common matches across 75 payers and is now available for search when selecting providers.
+
+**Clear All Filters Button**
+
+* **New Feature**: Added a "Clear All" button in the filter bar. This allows users to clear all applied filters with a single click, simplifying the process of resetting filters.
+
+**Select All Columns in the Data Tab (Detail Table View)**
+
+* **New Feature**: Users can now add all columns to the straight table in the Data tab with a single click. This functionality streamlines the process of viewing comprehensive data without manually selecting each column.
+
+**Limit Increases for Excel Export**
+
+* **Enhancement**: Increased the export limit for both straight tables and pivot tables to 500,000 rows. Users can now export larger datasets to Excel, accommodating more extensive data analysis and reporting needs.
+
+## June 2024 Release Notes
+
+**Edit Analysis Throwing Error**
+
+* **Bug Fix**: Resolved a consistent error occurring during analysis edits. Users should no longer encounter crashes or errors when editing their analyses.
+
+**Screen "Run Off"**
+
+* **Bug Fix**: Fixed an issue where global filters and graphs were cut off on the right edge when viewed on a 15-inch laptop screen at 100% zoom in Chrome. This fix ensures all content is fully visible without requiring zoom adjustments.
+
+**Expiration Date as a Global Filter**
+
+* **New Feature**: Added the ability to filter by expiration date in the global filters. This enhancement allows users to easily exclude expired rates from their pivot tables during data analysis.
+
+**Tool Tip - Hover and Pop Up Text on Provider Name in Selection List**
+
+* **Improvement**: Implemented tooltips that display the full provider name when hovering over truncated names in the provider selection list. This enhancement improves usability by making it easier to identify providers without needing to click on them.
+
+**Showing the Full Column Names in Data Tab**
+
+* **Improvement**: Users can now hover over column headers in the Data tab to view the full names or adjust the column width manually. This update addresses visibility issues for long column names, ensuring that all information is accessible.
+
 ## May 2024
 
 **Revenue Code Addition**
