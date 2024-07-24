@@ -6,7 +6,7 @@ description: >-
 
 # Release Notes
 
-## July 2024 Release Notes
+## July 2024
 
 **Normalize TIN Values**
 
@@ -29,7 +29,7 @@ description: >-
 
 * **Enhancement**: Increased the export limit for both straight tables and pivot tables to 500,000 rows. Users can now export larger datasets to Excel, accommodating more extensive data analysis and reporting needs.
 
-## June 2024 Release Notes
+## June 2024
 
 **Edit Analysis Throwing Error**
 
@@ -81,7 +81,7 @@ description: >-
 
 * Added new fields for reporting plan type and plan name in both the explore tab and global filters.
 
-### **Data Parsing Improvements**
+**Data Parsing Improvements**
 
 * Added new payers: BCBS\_MONTANA, BCBS\_VERMONT, CONNECTICARE, DEAN, HMSA, HORIZON\_BCBS\_NJ, MEDICA, WELLMARK.
 * Added support for fixing incorrect service code formatting.
