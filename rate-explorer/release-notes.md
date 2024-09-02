@@ -6,6 +6,31 @@ description: >-
 
 # Release Notes
 
+## August 2024
+
+#### **New Features**
+
+**Fee Schedule Generator**
+
+* Added a new mode that allows users to select a single NPI and generate an analysis with all billing codes and only modifiers 26, TC, and none.
+
+**Place of Service Code Mapping**
+
+* Implemented mapping of CMS place of service codes to their descriptive names in price transparency data. Users can now filter by "Place of Service" in global filters and add it to both pivot and detailed views to better understand where rates apply, such as inpatient versus outpatient facilities.
+
+**Filter Grid**
+
+* Introduced a new filter grid interface to help users quickly understand and filter data in their analyses. This feature allows users to see relationships across columns more intuitively, enhancing the overall data analysis experience and enabling much faster filtering to relevant data.
+
+**New Field: FACILITY\_FLAG**
+
+* Added a new "Facility Flag" field to differentiate between Facility and Non-Facility settings. This field is now available in the straight table, pivot table, and filters, providing users with more precise data categorization.
+
+#### **Bug Fixes**
+
+* **Copy to New Analysis**: Corrected functionality to ensure copying an analysis maintains the correct type.
+* **Pop-Up Tooltip Issue**: Fixed an issue where tooltips failed to appear for columns with numerous plan entries.
+
 ## July 2024
 
 **Normalize TIN Values**
