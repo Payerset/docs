@@ -21,9 +21,9 @@ Overall Rating: <mark style="color:green;">**5/5**</mark>** - Excellent**
 
 ### Schema: FIDELIS
 
-**Rates Records**: 159,144
+**Rates Records**: 105,224
 
-**Provider Records**: 190,106
+**Provider Records**: 794,247
 
 ### Additional Observations
 
