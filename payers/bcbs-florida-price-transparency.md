@@ -20,9 +20,9 @@ Overall Rating: <mark style="color:yellow;">**4/5**</mark>** - Good**
 
 ### Schema: BCBS\_FLORIDA
 
-**Rates Records**: 11,982,569,319
+**Rates Records**: 17,280,082,609
 
-**Provider Records**: 116,470,730,089
+**Provider Records**: 163,610,247,812
 
 ### Additional Observations
 

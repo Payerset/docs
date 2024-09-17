@@ -21,7 +21,7 @@
 
 ## Payers
 
-* [🟡 Aetna](payers/aetna-price-transparency.md)
+* [🟠 Aetna](payers/aetna-price-transparency.md)
 * [🟡 Ambetter (Centene)](payers/ambetter-price-transparency.md)
 * [🟢 AmeriHealth](payers/amerihealth-price-transparency.md)
 * [🟡 Baylor Scott and White Health Plan](payers/baylor-scott-white-price-transparency.md)
@@ -79,8 +79,11 @@
 * [🟢 Lifewise Assurance Company](payers/lifewise-price-transparency.md)
 * [🟢 Managed Health Network (Centene)](payers/managed-health-network-price-transparency.md)
 * [🟢 Medica](payers/medica.md)
+* [🟢 Medcost](payers/medcost.md)
+* [🟢 Meritain (TPA)](payers/meritain.md)
 * [🟢 Medical Mutual of Ohio](payers/medical-mutual-ohio-price-transparency.md)
 * [🟡 Molina](payers/molina-price-transparency.md)
+* [🟢 MVP HEALTH](payers/molina-price-transparency-1.md)
 * [🟡 Oscar](payers/oscar.md)
 * [🟡 Premera Blue Cross](payers/premera-blue-cross-price-transparency.md)
 * [🟢 QualChoice (Centene)](payers/qualchoice-price-transparency.md)
