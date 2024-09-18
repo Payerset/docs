@@ -21,7 +21,7 @@ Aetna has multiple tables of contents:
 
 ### Compliance Scorecard
 
-Overall Rating: <mark style="color:orange;">**3/5**</mark>** - Good**
+Overall Rating: <mark style="color:orange;">**3/5**</mark>** - Acceptable**
 
 <table data-view="cards"><thead><tr><th></th><th></th><th></th><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><strong>Table of Contents</strong></td><td><strong>★★★☆☆</strong></td><td><mark style="color:orange;"><strong>3/5</strong></mark></td><td><ul><li>Are the MRFs kept up to date each month? </li><li><mark style="color:red;">Is the Table of Contents link easily accessible?</mark></li><li>Is the Table of Contents properly formatted?</li></ul></td><td></td></tr><tr><td><strong>File Accessibility</strong></td><td><strong>★★★★☆</strong></td><td><mark style="color:yellow;"><strong>4/5</strong></mark></td><td><ul><li>Are there any barriers to downloading the files?</li><li>Do the Table of Contents links expire before publishing new links?</li></ul></td><td></td></tr><tr><td><strong>Data Quality</strong></td><td><strong>★★★☆☆</strong></td><td><mark style="color:orange;"><strong>3/5</strong></mark></td><td><ul><li>Is the data present in the files complete</li><li>Are there significant gaps in any type of data</li><li>Is the payer compliant with the regulations</li></ul></td><td></td></tr></tbody></table>
 
@@ -42,6 +42,6 @@ Overall Rating: <mark style="color:orange;">**3/5**</mark>** - Good**
 * **File Accessibility Percentage:** 99.7% of the files are accessible.
 * **Data Assessment:** Aetna duplicates their rate data for every related NPI under each TIN and for each Reporting Plan, even if rates are the same, making the data volumes very large. It is debatable whether this interpretation of the rules is acceptable, but it does at least give very good coverage of their rates across the country.
 
-**Overall Assessment:** Aetna publishes many thousands of duplicated data and much of the data is their base fee schedules. This is especially true for Professional rates for non-hospitals, which makes the data integrity questionable as it cannot be verified via Hospital MRFs. This is an ongoing issue that must be addressed.
+**Overall Assessment:** Aetna publishes many thousands of duplicated data and much of the data is their base fee schedules. This is especially true for Professional rates for non-hospitals, which makes the data integrity questionable as it cannot be verified via Hospital MRFs. This is an ongoing issue that must be addressed and as such Aetna has been downgraded from "Good" to "Acceptable".
 
 _As of May 2024 there are new rate limits on Aetna's Table of Contents API - this causes the process to download all of the ToC files to take a little longer, but is not unreasonable._

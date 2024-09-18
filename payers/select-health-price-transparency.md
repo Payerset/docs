@@ -12,7 +12,7 @@ description: >-
 
 [https://mrf.payerset.com/select-health](https://mrf.payerset.com/select-health)
 
-{% hint style="danger" %}
+{% hint style="info" %}
 We have created a Table of Contents in order to make the files parseable, but **please note** that this does not come from Select Health and **may have incorrect or missing data**. This is intended for us and others to be able to parse the negotiated rates as part of our standardized process.
 
 You can find the Table of Contents we created at this link:
