@@ -20,9 +20,9 @@ Overall Rating: <mark style="color:green;">**5/5**</mark>** - Excellent**
 
 ### Schema: MEDCOST
 
-**Rates Records**: 1,625,410,359
+**Rates Records**: 28,405,106,177
 
-**Provider Records**: 15,377,752
+**Provider Records**: 4,633,218
 
 ### Additional Observations
 

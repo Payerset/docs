@@ -20,9 +20,9 @@ Overall Rating: <mark style="color:green;">**5/5**</mark>** - Excellent**
 
 ### Schema: MVP\_HEALTH
 
-**Rates Records**: 43,891,217
+**Rates Records**: 11,117,552,655
 
-**Provider Records**: 385,597
+**Provider Records**: 369,518,695
 
 ### Additional Observations
 

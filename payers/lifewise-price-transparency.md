@@ -20,9 +20,9 @@ Overall Rating: <mark style="color:green;">**5/5**</mark>** - Excellent**
 
 ### Schema: LIFEWISE
 
-**Rates Records**: 2,523,211,021
+**Rates Records**: 3,004,125,448
 
-**Provider Records**: 622,850,774
+**Provider Records**: 4,988,990,386
 
 ### Additional Observations
 

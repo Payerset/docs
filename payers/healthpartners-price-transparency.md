@@ -20,9 +20,9 @@ Overall Rating: <mark style="color:green;">**5/5**</mark>** - Excellent**
 
 ### Schema: BS\_CALIFORNIA
 
-**Rates Records**: 1,427,869,518
+**Rates Records**: 1,543,747,894
 
-**Provider Records**: 2,316,846
+**Provider Records**: 2,290,878
 
 ### Additional Observations
 

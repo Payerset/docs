@@ -20,9 +20,9 @@ Overall Rating: <mark style="color:green;">**5/5**</mark>** - Excellent**
 
 ### Schema: MEDICA
 
-**Rates Records**: 1,625,410,359
+**Rates Records**: 4,458,254,689
 
-**Provider Records**: 15,377,752
+**Provider Records**: 782,126,606
 
 ### Additional Observations
 
@@ -34,8 +34,8 @@ Overall Rating: <mark style="color:green;">**5/5**</mark>** - Excellent**
 * **File Download Barriers:** ✔️ No barriers to downloading the MRFs.
 * **File Accessibility Percentage:** ✔️ 99% of the files are accessible.
 
-Most of the files are accessible, but there are 2 April files that are not. We are giving them the benefit of the doubt that these are old files.
+Most of the files are accessible, but there are 2 July files that are not. We are giving them the benefit of the doubt that these are old files.
 
 2 inaccessible files: https://mrf.healthsparq.com/bcbsaz-egress.nophi.kyruushsq.com/prd/mrf/BCBSAZ\_I/BCBSAZ/2024-04-01/inNetworkRates/2024-04-01\_4CHS5PPO7PPOPPO03J0\_CORPORATE-HEALTH-SERVICES.json.gz&#x20;
 
-bad json: https://mrf.healthsparq.com/medica-egress.nophi.kyruushsq.com/prd/mrf/MEDICA\_I/MEDICA/2024-05-01/inNetworkRates/MEDICA\_in-network-rates\_20240412exp.json.gz\_44936668400d037dfc54b8b94ccd5008016a90e4:
+bad json: Unsupported file extension: .json\&origin=oh - https://transparency-in-coverage.optum.com/?file=CMC\_Transplant\_MRRF.json\&origin=oh

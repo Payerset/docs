@@ -20,9 +20,9 @@ Overall Rating: <mark style="color:green;">**5/5**</mark>** - Excellent**
 
 ### Schema: HEALTHFIRST
 
-**Rates Records**: 4,810,233,534
+**Rates Records**: 4,377,249,035
 
-**Provider Records**: 28,891,734
+**Provider Records**: 29,382,820
 
 ### Additional Observations
 

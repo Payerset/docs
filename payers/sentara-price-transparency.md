@@ -4,7 +4,7 @@ description: >-
   Sentara that have been normalized into easy-to-use tables.
 ---
 
-# 🟡 Sentara
+# 🟡 Sentara (Optima)
 
 {% hint style="warning" %}
 Sentara's JSON files are not parseable in their posted format. Specifically, there are escape characters present in the JSON (\\) and a few entries where there are multiple double quotes ("CPT "LOADED" .."). This makes the JSON invalid, but these errors are fixable with a tool like UltraEdit or similar text editing tool, at which point they can be parsed.
@@ -24,9 +24,9 @@ Overall Rating: <mark style="color:yellow;">**4/5**</mark>** - Good**
 
 ### Schema: SENTARA
 
-**Rates Records**: 260,959,984
+**Rates Records**: 309,116,118
 
-**Provider Records**: 1,146,828
+**Provider Records**: 1,316,468
 
 ### Additional Observations
 

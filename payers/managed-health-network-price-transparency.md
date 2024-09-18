@@ -21,9 +21,9 @@ Overall Rating: <mark style="color:green;">**5/5**</mark>** - Excellent**
 
 ### Schema: MANAGED\_HEALTH\_NETWORK
 
-**Rates Records**: 161,559
+**Rates Records**: 1,422,083
 
-**Provider Records**: 4,663
+**Provider Records**: 1,394,176
 
 ### Additional Observations
 

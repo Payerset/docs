@@ -20,9 +20,9 @@ Overall Rating: <mark style="color:yellow;">**4/5**</mark>** - Good**
 
 ### Schema: SECURITY\_HEALTH
 
-**Rates Records**: 43,435,366
+**Rates Records**: 42,374,682
 
-**Provider Records**: 3,106,258
+**Provider Records**: 1,938,917
 
 ### Additional Observations
 

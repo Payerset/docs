@@ -20,9 +20,9 @@ Overall Rating: <mark style="color:green;">**5/5**</mark>** - Excellent**
 
 ### Schema: QUARTZ
 
-**Rates Records**: 2,952,652,337
+**Rates Records**: 3,062,579,775
 
-**Provider Records**: 11,749,145
+**Provider Records**: 11,451,525
 
 ### Additional Observations
 

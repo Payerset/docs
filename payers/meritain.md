@@ -20,9 +20,9 @@ Overall Rating: <mark style="color:green;">**5/5**</mark>** - Excellent**
 
 ### Schema: MERITAIN
 
-**Rates Records**: 1,625,410,359
+**Rates Records**: 39,680,331,464
 
-**Provider Records**: 15,377,752
+**Provider Records**: 377,118,363
 
 ### Additional Observations
 

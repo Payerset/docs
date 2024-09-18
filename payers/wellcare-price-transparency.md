@@ -20,9 +20,9 @@ Overall Rating: <mark style="color:green;">**5/5**</mark>** - Excellent**
 
 ### Schema: WELLCARE
 
-**Rates Records**: 1,426,547,781
+**Rates Records**: 869,506,976
 
-**Provider Records**: 16,225,087
+**Provider Records**: 16,221,408
 
 ### Additional Observations
 

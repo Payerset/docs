@@ -21,9 +21,9 @@ Overall Rating: <mark style="color:green;">**5/5**</mark>** - Excellent**
 
 ### Schema: QUALCHOICE
 
-**Rates Records**: 2,612,797
+**Rates Records**: 1,420,211
 
-**Provider Records**: 147,747
+**Provider Records**: 4,111,092
 
 ### Additional Observations
 

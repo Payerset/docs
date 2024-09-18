@@ -20,9 +20,9 @@ Overall Rating: <mark style="color:yellow;">**4/5**</mark>** - Good**
 
 ### Schema: MOLINA
 
-**Rates Records**: 43,891,217
+**Rates Records**: 307,833,841
 
-**Provider Records**: 385,597
+**Provider Records**: 335,947
 
 ### Additional Observations
 

@@ -20,9 +20,9 @@ Overall Rating: <mark style="color:green;">**5/5**</mark>** - Excellent**
 
 ### Schema: UPMC
 
-**Rates Records**: 63,299,177
+**Rates Records**: 63,716,334
 
-**Provider Records**: 560,883
+**Provider Records**: 696,106
 
 ### Additional Observations
 

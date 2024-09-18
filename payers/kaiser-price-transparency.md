@@ -20,9 +20,9 @@ Overall Rating: <mark style="color:yellow;">**4/5**</mark>** - Good**
 
 ### Schema: KAISER
 
-**Rates Records**: 967,526,321
+**Rates Records**: 2,009,158,787
 
-**Provider Records**: 128,954,349
+**Provider Records**: 139,834,924
 
 ### Additional Observations
 
