@@ -2,15 +2,21 @@
 description: Learn how to create an analysis
 ---
 
-# ⌨️ Creating an Analysis
+# 📊 Creating a Comparison Analysis
 
 ### Analysis Creation
 
 Now onto the fun part, creating an analysis!
 
-In the top right-hand side of the screen, you will see a button called **New analysis** - click that to start choosing billing codes, payers, and providers for your dataset.
+The Comparison Analysis tool allows you to select a series of billing codes, payers, and providers to compare rates across these dimensions.
+
+To create a Comparison Analysis, in the top right-hand side of the screen, you will see a button called **New analysis** - click that to start choosing billing codes, payers, and providers for your dataset.
 
 <figure><img src="../../.gitbook/assets/CleanShot 2024-03-19 at 21.09.36@2x.png" alt=""><figcaption><p>Create a new analysis</p></figcaption></figure>
+
+Click Comparison Analysis
+
+<figure><img src="../../.gitbook/assets/CleanShot 2024-09-24 at 11.43.43@2x.png" alt=""><figcaption></figcaption></figure>
 
 ### Billing Codes
 

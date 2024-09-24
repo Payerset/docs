@@ -15,7 +15,8 @@
 * [Training & Onboarding](rate-explorer/training-and-onboarding/README.md)
   * [🧑‍🎨 Getting Started](rate-explorer/training-and-onboarding/getting-started.md)
   * [🏠 Home Screen](rate-explorer/training-and-onboarding/home-screen.md)
-  * [⌨️ Creating an Analysis](rate-explorer/training-and-onboarding/creating-an-analysis.md)
+  * [📊 Creating a Comparison Analysis](rate-explorer/training-and-onboarding/creating-a-comparison-analysis.md)
+  * [💲 Creating a Fee Schedule](rate-explorer/training-and-onboarding/creating-a-fee-schedule.md)
   * [📈 Analyzing your Data](rate-explorer/training-and-onboarding/analyzing-your-data.md)
 * [Release Notes](rate-explorer/release-notes.md)
 
