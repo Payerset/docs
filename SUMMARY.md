@@ -92,7 +92,7 @@
 * [🟢 Quartz Benefits](payers/quartz-price-transparency.md)
 * [🟡 Regence](payers/regence-price-transparency.md)
 * [🟡 Security Health Plan](payers/security-health-price-transparency.md)
-* [🟡 Select Health](payers/select-health-price-transparency.md)
+* [🟠 Select Health](payers/select-health-price-transparency.md)
 * [🟡 Sentara (Optima)](payers/sentara-price-transparency.md)
 * [🟡 UnitedHealthcare](payers/united-healthcare-price-transparency.md)
 * [🟢 UPMC Health System](payers/upmc-health-system-price-transparency.md)
