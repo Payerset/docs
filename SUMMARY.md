@@ -1,6 +1,6 @@
 # Table of contents
 
-* [PAYERSET DOCUMENTATION](README.md)
+* [Payerset Product Documentation](README.md)
 
 ## Data Lake
 
