@@ -87,6 +87,7 @@
 * [🟡 Molina](payers/molina-price-transparency.md)
 * [🟢 MVP HEALTH](payers/molina-price-transparency-1.md)
 * [🟡 Oscar](payers/oscar.md)
+* [🟡 Optum](payers/optum.md)
 * [🟡 Premera Blue Cross](payers/premera-blue-cross-price-transparency.md)
 * [🟢 QualChoice (Centene)](payers/qualchoice-price-transparency.md)
 * [🟢 Quartz Benefits](payers/quartz-price-transparency.md)
