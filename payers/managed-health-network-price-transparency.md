@@ -9,6 +9,10 @@ description: >-
 
 ### Payerset Notes
 
+{% hint style="warning" %}
+From the Centene Website as of November 2024: MHN is now included in Ambetter CA for marketplace plans and in Healthnet for commercial plans.
+{% endhint %}
+
 **Table of Contents**
 
 [https://mrf.payerset.com/managed-health-network](https://mrf.payerset.com/managed-health-network)
