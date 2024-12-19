@@ -19,6 +19,16 @@ We'll select "Create a Rate Comparison from the homescreen.
 
 <figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption><p>Create a Rate Comparison</p></figcaption></figure>
 
+### Choose Date Snapshot
+
+Payerset provides you with both current and historical views of rates. The system automatically populates data with the most recent available date. Additionally, you can select an alternative snapshot date from the dropdown menu to explore how rates have evolved over time, gaining valuable insights into trends and changes.
+
+{% hint style="warning" %}
+Stay tuned for further enhancements to utilizing these historical rates for advanced analysis and comparisons&#x20;
+{% endhint %}
+
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
 ### Choose your Services (Billing Codes)
 
 First, choose the billing codes you are interested in analyzing. You can filter on code type (CPT/HCPCS/DRG) or categories/subcategories that Payerset has created. To learn more, see our [Payerset Billing Code Classification documentation](../../data-lake/payerset-billing-code-classification.md). You can also use the search to find specific codes or code families, like "2744" or "Knee".

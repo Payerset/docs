@@ -12,7 +12,7 @@ Analyzing rate comparisons and fee schedules is the core function of Payerset, p
 
 When your analysis is finished loading, you will land on the Summary screen, which shows you the total number of rates, providers, and services that apply to your selections and filters, as well as a distribution plot visualization of the data.
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption><p>Analysis Overview</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>Analysis Overview</p></figcaption></figure>
 
 There are a few key features you can use on this screen to quickly compare rates across payers and providers.&#x20;
 
@@ -20,7 +20,7 @@ There are a few key features you can use on this screen to quickly compare rates
 
 You can see which payers, NPIs, and billing codes you have selected by hovering over the blue/green/purple chips at the top right of the page. If you have selected any data that does not contain rates (in the example below, you can see QualChoice does not have any data for the selected NPIs and billing codes), you will see an indicator that the data is Not Found.
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption><p>Filter Details</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption><p>Filter Details</p></figcaption></figure>
 
 ### Distribution Plot
 
