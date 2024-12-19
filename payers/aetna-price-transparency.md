@@ -14,14 +14,14 @@ Aetna has multiple tables of contents:
 
 [https://mrf.payerset.com/aetna](https://mrf.payerset.com/aetna)
 
-* [Fully insured](https://health1.aetna.com/app/public/#/one/insurerCode=AETNACVS\_I\&brandCode=ALICFI/machine-readable-transparency-in-coverage)
-* [Self - insured - ALICSI](https://health1.aetna.com/app/public/#/one/insurerCode=AETNACVS\_I\&brandCode=ALICSI/machine-readable-transparency-in-coverage) / [ALICUNDER100](https://health1.aetna.com/app/public/#/one/insurerCode=AETNACVS\_I\&brandCode=ALICUNDER100/machine-readable-transparency-in-coverage)
-* [AetnaCVS Individual Exchange](https://health1.aetna.com/app/public/#/one/insurerCode=AETNACVS\_I\&brandCode=AETNACVS/machine-readable-transparency-in-coverage)
-* [Texas Health Plans](https://health1.aetna.com/app/public/#/one/insurerCode=AETNACVS\_I\&brandCode=TEXASFI/machine-readable-transparency-in-coverage)
+* [Fully insured](https://health1.aetna.com/app/public/#/one/insurerCode=AETNACVS_I\&brandCode=ALICFI/machine-readable-transparency-in-coverage)
+* [Self - insured - ALICSI](https://health1.aetna.com/app/public/#/one/insurerCode=AETNACVS_I\&brandCode=ALICSI/machine-readable-transparency-in-coverage) / [ALICUNDER100](https://health1.aetna.com/app/public/#/one/insurerCode=AETNACVS_I\&brandCode=ALICUNDER100/machine-readable-transparency-in-coverage)
+* [AetnaCVS Individual Exchange](https://health1.aetna.com/app/public/#/one/insurerCode=AETNACVS_I\&brandCode=AETNACVS/machine-readable-transparency-in-coverage)
+* [Texas Health Plans](https://health1.aetna.com/app/public/#/one/insurerCode=AETNACVS_I\&brandCode=TEXASFI/machine-readable-transparency-in-coverage)
 
 ### Compliance Scorecard
 
-Overall Rating: <mark style="color:orange;">**3/5**</mark>** - Needs Improvement**
+Overall Rating: <mark style="color:orange;">**3/5**</mark>**&#x20;- Needs Improvement**
 
 <table data-view="cards"><thead><tr><th></th><th></th><th></th><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><strong>Table of Contents</strong></td><td><strong>★★★☆☆</strong></td><td><mark style="color:orange;"><strong>3/5</strong></mark></td><td><ul><li>Are the MRFs kept up to date each month? </li><li><mark style="color:red;">Is the Table of Contents link easily accessible?</mark></li><li>Is the Table of Contents properly formatted?</li></ul></td><td></td></tr><tr><td><strong>File Accessibility</strong></td><td><strong>★★★★☆</strong></td><td><mark style="color:yellow;"><strong>4/5</strong></mark></td><td><ul><li>Are there any barriers to downloading the files?</li><li>Do the Table of Contents links expire before publishing new links?</li></ul></td><td></td></tr><tr><td><strong>Data Quality</strong></td><td><strong>★★★☆☆</strong></td><td><mark style="color:orange;"><strong>3/5</strong></mark></td><td><ul><li>Is the data present in the files complete</li><li>Are there significant gaps in any type of data</li><li>Is the payer compliant with the regulations</li></ul></td><td></td></tr></tbody></table>
 

@@ -15,9 +15,10 @@
 * [Training & Onboarding](rate-explorer/training-and-onboarding/README.md)
   * [🧑‍🎨 Getting Started](rate-explorer/training-and-onboarding/getting-started.md)
   * [🏠 Home Screen](rate-explorer/training-and-onboarding/home-screen.md)
-  * [📊 Creating a Comparison Analysis](rate-explorer/training-and-onboarding/creating-a-comparison-analysis.md)
+  * [📊 Creating a Rate Comparison](rate-explorer/training-and-onboarding/creating-a-rate-comparison.md)
   * [💲 Creating a Fee Schedule](rate-explorer/training-and-onboarding/creating-a-fee-schedule.md)
   * [📈 Analyzing your Data](rate-explorer/training-and-onboarding/analyzing-your-data.md)
+  * [Hospital MRF - Standard Charges \[BETA\]](rate-explorer/training-and-onboarding/hospital-mrf-standard-charges-beta.md)
 * [Release Notes](rate-explorer/release-notes.md)
 
 ## Payers

@@ -14,7 +14,7 @@ description: >-
 
 ### Compliance Scorecard
 
-Overall Rating: <mark style="color:green;">**5/5**</mark>** - Excellent**
+Overall Rating: <mark style="color:green;">**5/5**</mark>**&#x20;- Excellent**
 
 <table data-view="cards"><thead><tr><th></th><th></th><th></th><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><strong>Table of Contents</strong></td><td><strong>★★★★★</strong></td><td><mark style="color:green;"><strong>5/5</strong></mark></td><td><ul><li>Are the MRFs kept up to date each month? </li><li>Is the Table of Contents link easily accessible?</li><li>Is the Table of Contents properly formatted?</li></ul></td><td></td></tr><tr><td><strong>File Accessibility</strong></td><td><strong>★★★★★</strong></td><td><mark style="color:green;"><strong>5/5</strong></mark></td><td><ul><li>Are there any barriers to downloading the files?</li><li>Do the Table of Contents links expire before publishing new links?</li></ul></td><td></td></tr><tr><td><strong>Data Quality</strong></td><td><strong>★★★★★</strong></td><td><mark style="color:green;"><strong>5/5</strong></mark></td><td><ul><li><p>What percentage of the MRFs are properly formatted and parseable</p><ul><li>5 Stars - 100%</li><li>4 Stars - 80%...</li></ul></li></ul></td><td></td></tr></tbody></table>
 
@@ -37,7 +37,7 @@ Overall Rating: <mark style="color:green;">**5/5**</mark>** - Excellent**
 {% hint style="info" %}
 Several Dental files (apparently hosted by UnitedHealthcare) are inaccessible. This does not impact their overall rating, but is an area to address.
 
-**File Links:** [https://uhc-tic-mrf.azureedge.net/private-mrf/2023-12-01/2023-12-01\_Blue-Shield-of-California\_Dental\_0229\_in-network-rates.json.gz](https://uhc-tic-mrf.azureedge.net/private-mrf/2023-12-01/2023-12-01\_Blue-Shield-of-California\_Dental\_0229\_in-network-rates.json.gz)
+**File Links:** [https://uhc-tic-mrf.azureedge.net/private-mrf/2023-12-01/2023-12-01\_Blue-Shield-of-California\_Dental\_0229\_in-network-rates.json.gz](https://uhc-tic-mrf.azureedge.net/private-mrf/2023-12-01/2023-12-01_Blue-Shield-of-California_Dental_0229_in-network-rates.json.gz)
 {% endhint %}
 
 **Overall Assessment:** Blue Shield California does a great job of posting these files each month. They duplicate provider data substantially, but that can be a result of interpretation of the CMS rules.

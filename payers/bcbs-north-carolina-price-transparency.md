@@ -7,7 +7,7 @@ description: >-
 # 🟢 Blue Cross Blue Shield North Carolina
 
 {% hint style="warning" %}
-BCBS NC occasionally doesn't update their TOC link. You can derive the link using this base link and the latest update date ([https://mrfmftprod.bcbsnc.com/prod/etl/outbound/table-of-contents/non-aso/2024-01-29\_blue-cross-and-blue-shield-of-north-carolina\_index.json](https://mrfmftprod.bcbsnc.com/prod/etl/outbound/table-of-contents/non-aso/2024-01-29\_blue-cross-and-blue-shield-of-north-carolina\_index.json))
+BCBS NC occasionally doesn't update their TOC link. You can derive the link using this base link and the latest update date ([https://mrfmftprod.bcbsnc.com/prod/etl/outbound/table-of-contents/non-aso/2024-01-29\_blue-cross-and-blue-shield-of-north-carolina\_index.json](https://mrfmftprod.bcbsnc.com/prod/etl/outbound/table-of-contents/non-aso/2024-01-29_blue-cross-and-blue-shield-of-north-carolina_index.json))
 
 We will update it at the link below if it is not updated, so each quarter it will update, but if you want it more than quarterly you may have to derive it.
 {% endhint %}
@@ -20,7 +20,7 @@ We will update it at the link below if it is not updated, so each quarter it wil
 
 ### Compliance Scorecard
 
-Overall Rating: <mark style="color:green;">**5/5**</mark>** - Excellent**
+Overall Rating: <mark style="color:green;">**5/5**</mark>**&#x20;- Excellent**
 
 <table data-view="cards"><thead><tr><th></th><th></th><th></th><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><strong>Table of Contents</strong></td><td><strong>★★★★☆</strong></td><td><mark style="color:yellow;"><strong>4/5</strong></mark></td><td><ul><li>Are the MRFs kept up to date each month? </li><li>Is the Table of Contents link easily accessible?</li><li>Is the Table of Contents properly formatted?</li></ul></td><td></td></tr><tr><td><strong>File Accessibility</strong></td><td><strong>★★★★★</strong></td><td><mark style="color:green;"><strong>5/5</strong></mark></td><td><ul><li>Are there any barriers to downloading the files?</li><li>Do the Table of Contents links expire before publishing new links?</li></ul></td><td></td></tr><tr><td><strong>Data Quality</strong></td><td><strong>★★★★★</strong></td><td><mark style="color:green;"><strong>5/5</strong></mark></td><td><ul><li><p>What percentage of the MRFs are properly formatted and parseable</p><ul><li>5 Stars - 100%</li><li>4 Stars - 80%...</li></ul></li></ul></td><td></td></tr></tbody></table>
 

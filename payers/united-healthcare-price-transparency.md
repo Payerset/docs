@@ -14,7 +14,7 @@ description: >-
 
 ### Compliance Scorecard - September 2024
 
-Overall Rating: <mark style="color:yellow;">**4/5**</mark>** - Good**
+Overall Rating: <mark style="color:yellow;">**4/5**</mark>**&#x20;- Good**
 
 <table data-view="cards"><thead><tr><th></th><th></th><th></th><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><strong>Table of Contents</strong></td><td><strong>★★★☆☆</strong></td><td><mark style="color:orange;"><strong>3/5</strong></mark></td><td><ul><li>Are the MRFs kept up to date each month? </li><li><mark style="color:red;">Is the Table of Contents link easily accessible?</mark></li><li>Is the Table of Contents properly formatted?</li></ul></td><td></td></tr><tr><td><strong>File Accessibility</strong></td><td><strong>★★★★☆</strong></td><td><mark style="color:yellow;"><strong>4/5</strong></mark></td><td><ul><li>Are there any barriers to downloading the files?</li><li>Do the Table of Contents links expire before publishing new links?</li></ul></td><td></td></tr><tr><td><strong>Data Quality</strong></td><td><strong>★★★★☆</strong></td><td><mark style="color:yellow;"><strong>4/5</strong></mark></td><td><ul><li>Is the data present in the files complete</li><li>Are there significant gaps in any type of data</li><li>Is the payer compliant with the regulations</li></ul></td><td></td></tr></tbody></table>
 
@@ -56,8 +56,8 @@ An error occurred: 500 Server Error: Internal Server Error for url: https://tran
 
 One interesting thing about UnitedHealthcare that we don't see in other payers is that they sometimes put multiple billing codes in the `billing_code` field. See the example below in which they put  `29888 AND 29882` in the same field. We do not know the reason for this, but don't believe it is in compliance.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
 
-**Additionally, many rates are "hidden"** in custom billing codes with the CSTM-ALL billing code type. Payerset has created a CSV export of all of this data by state so anyone can view the data. The links are available in this Google Sheet:[https://docs.google.com/spreadsheets/d/1P5ggBP6y9OeMmIUpHKE1hys0\_0sCuC72rAobbowh9t4/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1P5ggBP6y9OeMmIUpHKE1hys0\_0sCuC72rAobbowh9t4/edit?usp=sharing)
+**Additionally, many rates are "hidden"** in custom billing codes with the CSTM-ALL billing code type. Payerset has created a CSV export of all of this data by state so anyone can view the data. The links are available in this Google Sheet:[https://docs.google.com/spreadsheets/d/1P5ggBP6y9OeMmIUpHKE1hys0\_0sCuC72rAobbowh9t4/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1P5ggBP6y9OeMmIUpHKE1hys0_0sCuC72rAobbowh9t4/edit?usp=sharing)
 
 **Overall Assessment:** Despite the very large volumes and questionable interpretation of the assignment, UnitedHealthcare consistently puts out accessible, properly-formatted files with complete data.

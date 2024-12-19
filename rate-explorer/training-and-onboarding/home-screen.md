@@ -4,28 +4,27 @@ description: Learn how to navigate the Home Screen (Analyses)
 
 # 🏠 Home Screen
 
-The home screen contains a list of all of the analyses that you have created. If you're logging in for the first time, you'll be directed to create an analysis.&#x20;
+The home screen serves as your starting point for creating new analyses and revisiting any saved analyses you've previously created. If this is your first time logging in, you will be prompted to create a new analysis.
 
-Click on any analysis to open it. You can also use the search to find a specific analysis you have made in the past (hint: make sure to press enter after you type your search terms)
+On the home screen, you will also find information about your saved analyses, including the Payers, NPIs, and Billing Codes you selected. Hover over any tag to view the complete list of your selections.
 
-You will also see some metadata about your analyses like which Payers, NPIs, and Billing Codes you chose - hover over the tag to see the full list of selections.
+To open an existing analysis, simply click on it. This will allow you to explore the associated data. If you're looking for a specific analysis you’ve created in the past, you can also use the search function. (Tip: Remember to press Enter after typing your search terms.)
 
-<figure><img src="../../.gitbook/assets/CleanShot 2024-03-19 at 17.22.03@2x.png" alt=""><figcaption><p>Rate Explorer Home Screen</p></figcaption></figure>
 
-{% hint style="info" %}
-To get back to the home screen at any time, click the Payerset P logo in the top left corner.
-{% endhint %}
 
-In addition to finding and opening analyses, you can also Rename, Edit, Copy, and Delete analyses by clicking the 3 dots on the right side of the page for the corresponding analysis you want to alter.&#x20;
-
-<figure><img src="../../.gitbook/assets/CleanShot 2024-03-19 at 17.23.50@2x.png" alt=""><figcaption><p>Rate Explorer Context Menu</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption><p>Home Screen</p></figcaption></figure>
 
 {% hint style="info" %}
-Copying a new analysis, then editing the new one is a great way to branch off different datasets without losing your progress.
+To get back to the home screen at any time, click the Payerset logo in the top left corner.
 {% endhint %}
 
+\
 You can also modify your account settings, like changing your email address, display name, and password, by clicking the avatar in the top right corner and selecting "Account"
 
-<figure><img src="../../.gitbook/assets/CleanShot 2024-03-19 at 17.27.04@2x.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption><p>Profile</p></figcaption></figure>
 
-Learn how to Create a New analysis next!
+{% hint style="info" %}
+You can collapse the left-hand navigation at any time using the tray icon to the right of the Payerset logo.
+{% endhint %}
+
+But enough of the intro, to get started, let's create our first analysis using the Rate Comparison Tool!
