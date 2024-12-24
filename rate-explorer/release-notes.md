@@ -1,10 +1,28 @@
 ---
 description: >-
-  Below you will find release notes for improvements and fixes for Rate
-  Explorer.
+  Below you will find release notes for improvements and fixes for the Payerset
+  Price Intelligence platform.
 ---
 
 # Release Notes
+
+## December 2024
+
+**View Negotiated Rates Over Time**
+
+Users can now access historical negotiated rates between payers and providers, making it possible to compare pricing trends over time. With historical rate comparisons, you can now analyze trends in negotiated rates over time, assess payer-provider contract changes, compare pricing fluctuations across different periods, and identify patterns in cost shifts across various services and regions.\
+\
+This can be foudn on both Rate Comparisons as well as Fee schedules.
+
+\
+**Access Standard Hospital Charges (Beta)**
+
+The Standard Charges tool (currently in beta) enables users to view the published prices for hospital services across various hospital systems and locations. With the Standard  Charges feature, you can now compare published prices for services across different hospital systems and locations, analyze cost variations by service type, and assess how pricing differs between facilities within the same region or network.
+
+\
+**Improved Navigation**
+
+The updated user interface offers a more streamlined way to view and analyze payer and provider data. It simplifies the process of accessing saved analyses and provides easier navigation to our documentation.
 
 ## August 2024
 
