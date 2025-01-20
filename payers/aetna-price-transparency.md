@@ -18,6 +18,7 @@ Aetna has multiple tables of contents:
 * [Self - insured - ALICSI](https://health1.aetna.com/app/public/#/one/insurerCode=AETNACVS_I\&brandCode=ALICSI/machine-readable-transparency-in-coverage) / [ALICUNDER100](https://health1.aetna.com/app/public/#/one/insurerCode=AETNACVS_I\&brandCode=ALICUNDER100/machine-readable-transparency-in-coverage)
 * [AetnaCVS Individual Exchange](https://health1.aetna.com/app/public/#/one/insurerCode=AETNACVS_I\&brandCode=AETNACVS/machine-readable-transparency-in-coverage)
 * [Texas Health Plans](https://health1.aetna.com/app/public/#/one/insurerCode=AETNACVS_I\&brandCode=TEXASFI/machine-readable-transparency-in-coverage)
+* [Aetna Signature Administrators](https://health1.aetna.com/app/public/#/one/insurerCode=AETNACVS_I\&brandCode=ASA/machine-readable-transparency-in-coverage?searchTerm=ASA_01\&lock=true)
 
 ### Compliance Scorecard
 
