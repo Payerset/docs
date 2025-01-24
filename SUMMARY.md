@@ -4,10 +4,15 @@
 
 ## Data Lake
 
-* [Data Dictionary](data-lake/data-dictionary.md)
+* [Data Dictionary](data-lake/data-dictionary/README.md)
+  * [EIN to NPI Map](data-lake/data-dictionary/ein-to-npi-map.md)
 * [NPI Data from NPPES](data-lake/npi-data-from-nppes.md)
 * [Payerset Billing Code Classification](data-lake/payerset-billing-code-classification.md)
 * [Taxonomy Data from NUCC](data-lake/taxonomy-data-from-nucc.md)
+
+***
+
+* [HOSPITAL TRANSPARENCY](hospital-transparency.md)
 
 ## Rate Explorer
 
