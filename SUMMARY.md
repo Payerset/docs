@@ -10,9 +10,9 @@
 * [Payerset Billing Code Classification](data-lake/payerset-billing-code-classification.md)
 * [Taxonomy Data from NUCC](data-lake/taxonomy-data-from-nucc.md)
 
-***
+## Hospital Transparency
 
-* [HOSPITAL TRANSPARENCY](hospital-transparency.md)
+* [MRF Links by State](hospital-transparency/mrf-links-by-state.md)
 
 ## Rate Explorer
 
