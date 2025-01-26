@@ -10,10 +10,6 @@
 * [Payerset Billing Code Classification](data-lake/payerset-billing-code-classification.md)
 * [Taxonomy Data from NUCC](data-lake/taxonomy-data-from-nucc.md)
 
-## Hospital Transparency
-
-* [MRF Links by State](hospital-transparency/mrf-links-by-state.md)
-
 ## Rate Explorer
 
 * [Data Dictionary](rate-explorer/data-dictionary.md)
@@ -26,7 +22,11 @@
   * [Hospital MRF - Standard Charges \[BETA\]](rate-explorer/training-and-onboarding/hospital-mrf-standard-charges-beta.md)
 * [Release Notes](rate-explorer/release-notes.md)
 
-## Payers
+## Hospital Transparency
+
+* [MRF Links by State](hospital-transparency/mrf-links-by-state.md)
+
+## Payer Transparency <a href="#payers" id="payers"></a>
 
 * [🟠 Aetna](payers/aetna-price-transparency.md)
 * [🟡 Ambetter (Centene)](payers/ambetter-price-transparency.md)
