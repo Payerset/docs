@@ -1,6 +1,22 @@
 # Table of contents
 
-* [Payerset Product Documentation](README.md)
+* [Payerset Resource Center](README.md)
+
+## Using Payerset Platform
+
+* [Training & Onboarding](using-payerset-platform/training-and-onboarding/README.md)
+  * [🧑‍🎨 Getting Started](using-payerset-platform/training-and-onboarding/getting-started.md)
+  * [🏠 Home Screen](using-payerset-platform/training-and-onboarding/home-screen.md)
+  * [📊 Creating a Rate Comparison](using-payerset-platform/training-and-onboarding/creating-a-rate-comparison.md)
+  * [💲 Creating a Fee Schedule](using-payerset-platform/training-and-onboarding/creating-a-fee-schedule.md)
+  * [📈 Analyzing your Data](using-payerset-platform/training-and-onboarding/analyzing-your-data.md)
+  * [Hospital MRF - Standard Charges \[BETA\]](using-payerset-platform/training-and-onboarding/hospital-mrf-standard-charges-beta.md)
+* [Data Dictionary](using-payerset-platform/data-dictionary.md)
+* [Release Notes](using-payerset-platform/release-notes.md)
+
+## Hospital Transparency
+
+* [MRF Links by State](hospital-transparency/mrf-links-by-state.md)
 
 ## Data Lake
 
@@ -9,22 +25,6 @@
 * [NPI Data from NPPES](data-lake/npi-data-from-nppes.md)
 * [Payerset Billing Code Classification](data-lake/payerset-billing-code-classification.md)
 * [Taxonomy Data from NUCC](data-lake/taxonomy-data-from-nucc.md)
-
-## Rate Explorer
-
-* [Data Dictionary](rate-explorer/data-dictionary.md)
-* [Training & Onboarding](rate-explorer/training-and-onboarding/README.md)
-  * [🧑‍🎨 Getting Started](rate-explorer/training-and-onboarding/getting-started.md)
-  * [🏠 Home Screen](rate-explorer/training-and-onboarding/home-screen.md)
-  * [📊 Creating a Rate Comparison](rate-explorer/training-and-onboarding/creating-a-rate-comparison.md)
-  * [💲 Creating a Fee Schedule](rate-explorer/training-and-onboarding/creating-a-fee-schedule.md)
-  * [📈 Analyzing your Data](rate-explorer/training-and-onboarding/analyzing-your-data.md)
-  * [Hospital MRF - Standard Charges \[BETA\]](rate-explorer/training-and-onboarding/hospital-mrf-standard-charges-beta.md)
-* [Release Notes](rate-explorer/release-notes.md)
-
-## Hospital Transparency
-
-* [MRF Links by State](hospital-transparency/mrf-links-by-state.md)
 
 ## Payer Transparency <a href="#payers" id="payers"></a>
 

@@ -1,8 +1,8 @@
 ---
+icon: flag-usa
 description: >-
   Below are ~600 hospitals that are compliant, or compliant enough to normalize,
   with the latest mandate from CMS.
-icon: flag-usa
 layout:
   title:
     visible: true
@@ -26,7 +26,7 @@ Please note that some of these MRF Links go directly to file downloads, while ot
 
 The record count indicates the number of records contained in each hospital file based on the way that Payerset flattens and normalizes the dataset - it is intended to be a guide for how much data is present in each file should you try to download and use the file yourself.
 
-Additional information about what data is contained in these files can be found in our [hospital-mrf-standard-charges-beta.md](../rate-explorer/training-and-onboarding/hospital-mrf-standard-charges-beta.md "mention") onboarding documentation.
+Additional information about what data is contained in these files can be found in our [hospital-mrf-standard-charges-beta.md](../using-payerset-platform/training-and-onboarding/hospital-mrf-standard-charges-beta.md "mention") onboarding documentation.
 
 ### Alabama
 

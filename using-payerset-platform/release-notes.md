@@ -2,6 +2,7 @@
 description: >-
   Below you will find release notes for improvements and fixes for the Payerset
   Price Intelligence platform.
+hidden: true
 ---
 
 # Release Notes
