@@ -38,7 +38,7 @@ Overall Rating: <mark style="color:red;">**2/5**</mark>**&#x20;- Below Expectati
 * **File Download Barriers:** ❌ Several files linked in the Table of Contents are not accessible.
 * **File Accessibility Percentage:** ❌ only a few of the files are accessible and several of those have no data. Several files are corrupted (see below).
 
-**Overall Assessment:** CareSource is somehow less compliant as of May 2024 than previously.
+**Overall Assessment:** CareSource remains one of the least compliant Payers in the country.
 
 Not only do they have .zip files nested within .zip files for several layers, but they also are not putting the correct fields into their machine-readable files. See the screenshot and description below:
 

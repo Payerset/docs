@@ -8,6 +8,8 @@ description: >-
 
 ### Payerset Notes
 
+We are currently investigating why recent files of Humana seem to be missing.
+
 Humana has some of the most voluminous data, and we believe they will soon be forced to change their practices, but for now we parse out nearly 12 million files to get to trillions of rows of data. In order to combat this, there is a single table that contains all of the joined data rather than the providers and rates being separate.
 
 {% hint style="warning" %}
