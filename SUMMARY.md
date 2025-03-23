@@ -145,22 +145,22 @@
 * [🟠 Sentara (Optima)](payers/sentara-price-transparency.md)
 * [🔴 Sharp Health Plan](payers/sentara-price-transparency-1.md)
 * [🔴 Spectrum / Priority Health](payers/sentara-price-transparency-2.md)
-* [🟢 SummaCare](payers/viva-price-transparency.md)
+* [🟢 SummaCare](payers/summacare.md)
 * [🔴 The Health Plan of the Upper Ohio Valley](payers/sentara-price-transparency-3.md)
-* [🟢 The Jefferson Health Plan](payers/viva-price-transparency-1.md)
-* [🟢 Ucare](payers/viva-price-transparency-2.md)
+* [🟢 The Jefferson Health Plan](payers/viva-price-transparency.md)
+* [🟢 Ucare](payers/viva-price-transparency-1.md)
 * [🟡 UnitedHealthcare](payers/united-healthcare-price-transparency.md)
 * [🟢 Univera Healthcare](payers/upmc-health-system-price-transparency.md)
 * [🟢 UPMC Health System](payers/upmc-health-system-price-transparency-1.md)
-* [🟠 Valley Health Plan](payers/viva-price-transparency-3.md)
-* [🔴 VIVA Health](payers/viva-price-transparency-4.md)
+* [🟠 Valley Health Plan](payers/viva-price-transparency-2.md)
+* [🔴 VIVA Health](payers/viva-price-transparency-3.md)
 * [🟢 WellCare (Centene)](payers/wellcare-price-transparency.md)
 * [🟢 Wellmark](payers/wellmark-price-transparency.md)
 
 ***
 
-* [🔴 Wellsense](viva-price-transparency.md)
-* [🟡 Wisconsin Physicians Health (WPS)](viva-price-transparency-1.md)
+* [🔴 Wellsense](wellsense.md)
+* [🟡 Wisconsin Physicians Health (WPS)](wisconsin-physicians-health.md)
 
 ## Information & Requests
 
