@@ -4,7 +4,7 @@ description: >-
   Community Care of NC that have been normalized into easy-to-use tables.
 ---
 
-# ⚫ Community Care of North Carolina
+# 🔴 Community Care of North Carolina
 
 ### Payerset Notes
 

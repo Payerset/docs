@@ -4,7 +4,7 @@ description: >-
   Sentara that have been normalized into easy-to-use tables.
 ---
 
-# 🟠 Sentara (Optima)
+# 🟡 Sentara (Optima)
 
 {% hint style="warning" %}
 Sentara's JSON files are not parseable in their posted format. Specifically, there are escape characters present in the JSON (\\) and a few entries where there are multiple double quotes ("CPT "LOADED" .."). This makes the JSON invalid, but these errors are fixable with a tool like UltraEdit or similar text editing tool, at which point they can be parsed.
@@ -18,9 +18,9 @@ Sentara's JSON files are not parseable in their posted format. Specifically, the
 
 ### Compliance Scorecard
 
-Overall Rating: <mark style="color:orange;">**3/5**</mark>**&#x20;- Below Expectations**
+Overall Rating: <mark style="color:yellow;">**3/5**</mark>**&#x20;- Below Expectations**
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><strong>Table of Contents</strong></td><td><strong>★★★★☆</strong></td><td><mark style="color:yellow;"><strong>4/5</strong></mark></td><td><ul><li>Are the MRFs kept up to date each month? </li><li>Is the Table of Contents link easily accessible?</li><li>Is the Table of Contents properly formatted?</li></ul></td><td></td></tr><tr><td><strong>File Accessibility</strong></td><td><strong>★★★★★</strong></td><td><mark style="color:green;"><strong>5/5</strong></mark></td><td><ul><li>Are there any barriers to downloading the files?</li><li>Do the Table of Contents links expire before publishing new links?</li></ul></td><td></td></tr><tr><td><strong>Data Quality</strong></td><td><strong>★★★☆☆</strong></td><td><mark style="color:orange;"><strong>3/5</strong></mark></td><td><ul><li><p>What percentage of the MRFs are properly formatted and parseable</p><ul><li>5 Stars - 100%</li><li>4 Stars - 80%...</li></ul></li></ul></td><td></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><strong>Table of Contents</strong></td><td><strong>★★★★☆</strong></td><td><mark style="color:green;"><strong>4/5</strong></mark></td><td><ul><li>Are the MRFs kept up to date each month? </li><li>Is the Table of Contents link easily accessible?</li><li>Is the Table of Contents properly formatted?</li></ul></td><td></td></tr><tr><td><strong>File Accessibility</strong></td><td><strong>★★★★★</strong></td><td><mark style="color:green;"><strong>5/5</strong></mark></td><td><ul><li>Are there any barriers to downloading the files?</li><li>Do the Table of Contents links expire before publishing new links?</li></ul></td><td></td></tr><tr><td><strong>Data Quality</strong></td><td><strong>★★★☆☆</strong></td><td><mark style="color:yellow;"><strong>3/5</strong></mark></td><td><ul><li><p>What percentage of the MRFs are properly formatted and parseable</p><ul><li>5 Stars - 100%</li><li>4 Stars - 80%...</li></ul></li></ul></td><td></td></tr></tbody></table>
 
 ### Schema: SENTARA
 

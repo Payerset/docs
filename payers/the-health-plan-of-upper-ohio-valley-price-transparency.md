@@ -5,7 +5,7 @@ description: >-
   easy-to-use tables.
 ---
 
-# 🔴 The Health Plan of the Upper Ohio Valley
+# 🟠 The Health Plan of the Upper Ohio Valley
 
 ### Payerset Notes
 
@@ -15,9 +15,9 @@ description: >-
 
 ### Compliance Scorecard
 
-Overall Rating: **2**<mark style="color:red;">**/5**</mark>**&#x20;- Below Expectations**
+Overall Rating: <mark style="color:orange;">**2/5**</mark>**&#x20;- Below Expectations**
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><strong>Table of Contents</strong></td><td><strong>★★★★☆</strong></td><td>3/5</td><td><ul><li>Are the MRFs kept up to date each month? </li><li>Is the Table of Contents link easily accessible?</li><li>Is the Table of Contents properly formatted?</li></ul></td><td></td></tr><tr><td><strong>File Accessibility</strong></td><td><strong>★★★★★</strong></td><td><mark style="color:red;">1/5</mark></td><td><ul><li>Are there any barriers to downloading the files?</li><li>Do the Table of Contents links expire before publishing new links?</li></ul></td><td></td></tr><tr><td><strong>Data Quality</strong></td><td><strong>★★★☆☆</strong></td><td><mark style="color:red;">1<strong>/5</strong></mark></td><td><ul><li><p>What percentage of the MRFs are properly formatted and parseable</p><ul><li>5 Stars - 100%</li><li>4 Stars - 80%...</li></ul></li></ul></td><td></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><strong>Table of Contents</strong></td><td><strong>★★★☆☆</strong></td><td><mark style="color:yellow;"><strong>3/5</strong></mark></td><td><ul><li>Are the MRFs kept up to date each month? </li><li>Is the Table of Contents link easily accessible?</li><li>Is the Table of Contents properly formatted?</li></ul></td><td></td></tr><tr><td><strong>File Accessibility</strong></td><td><strong>★☆☆☆☆</strong></td><td><mark style="color:red;"><strong>1/5</strong></mark></td><td><ul><li>Are there any barriers to downloading the files?</li><li>Do the Table of Contents links expire before publishing new links?</li></ul></td><td></td></tr><tr><td><strong>Data Quality</strong></td><td><strong>★☆☆☆☆</strong></td><td><mark style="color:red;">1<strong>/5</strong></mark></td><td><ul><li><p>What percentage of the MRFs are properly formatted and parseable</p><ul><li>5 Stars - 100%</li><li>4 Stars - 80%...</li></ul></li></ul></td><td></td></tr></tbody></table>
 
 ### Schema: THE\_HEALTH\_PLAN\_OF\_THE\_UPPER\_OHIO\_VALLEY
 
