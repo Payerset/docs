@@ -2,17 +2,17 @@
 
 * [Payerset Resource Center](README.md)
 
-## Using Payerset Platform
+## Using The Payerset Platform
 
-* [Training & Onboarding](using-payerset-platform/training-and-onboarding/README.md)
-  * [🧑‍🎨 Getting Started](using-payerset-platform/training-and-onboarding/getting-started.md)
-  * [🏠 Home Screen](using-payerset-platform/training-and-onboarding/home-screen.md)
-  * [📊 Creating a Rate Comparison](using-payerset-platform/training-and-onboarding/creating-a-rate-comparison.md)
-  * [💲 Creating a Fee Schedule](using-payerset-platform/training-and-onboarding/creating-a-fee-schedule.md)
-  * [📈 Analyzing your Data](using-payerset-platform/training-and-onboarding/analyzing-your-data.md)
-  * [Hospital MRF - Standard Charges \[BETA\]](using-payerset-platform/training-and-onboarding/hospital-mrf-standard-charges-beta.md)
-* [Data Dictionary](using-payerset-platform/data-dictionary.md)
-* [Release Notes](using-payerset-platform/release-notes.md)
+* [Training & Onboarding](using-the-payerset-platform/training-and-onboarding/README.md)
+  * [🧑‍🎨 Getting Started](using-the-payerset-platform/training-and-onboarding/getting-started.md)
+  * [🏠 Home Screen](using-the-payerset-platform/training-and-onboarding/home-screen.md)
+  * [📊 Creating a Rate Comparison](using-the-payerset-platform/training-and-onboarding/creating-a-rate-comparison.md)
+  * [💲 Creating a Fee Schedule](using-the-payerset-platform/training-and-onboarding/creating-a-fee-schedule.md)
+  * [📈 Analyzing your Data](using-the-payerset-platform/training-and-onboarding/analyzing-your-data.md)
+  * [Hospital MRF - Standard Charges \[BETA\]](using-the-payerset-platform/training-and-onboarding/hospital-mrf-standard-charges-beta.md)
+* [Data Dictionary](using-the-payerset-platform/data-dictionary.md)
+* [Release Notes](using-the-payerset-platform/release-notes.md)
 
 ## Hospital Transparency
 
