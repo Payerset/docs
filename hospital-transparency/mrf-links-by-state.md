@@ -1,8 +1,8 @@
 ---
 description: >-
-  Below are ~3,300 hospitals that are compliant, or compliant enough to
-  normalize, with the latest mandates from CMS. We are continously reviewing and
-  adding files based on updated standards.
+  Below are the hospitals that are compliant, or compliant enough to normalize,
+  with the latest mandates from CMS. We are continuously reviewing and adding
+  files based on meeting updated standards.
 icon: flag-usa
 layout:
   title:
