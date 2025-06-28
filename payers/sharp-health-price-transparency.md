@@ -34,4 +34,4 @@ Overall Rating: <mark style="color:red;">**1/5**</mark>**&#x20;- Below Expectati
 * **File Download Barriers:** ✔️ No, there are no barriers to downloading the files.
 * **File Accessibility Percentage:** No, files are not accessible at all
 
-**Overall Assessment:** Sharp Health Plan does a poor job of making files accessible and formatting for consumption. They link to an internal network drive, which is obviously inacessible. In addition, the files that are accessible link to providers that don't exist and even for ones that do, provider refernces are in separate files which make gaining insights extremely tedious. Shart Health Plan is not complying in the spirit of Transaprency regulations.
+**Overall Assessment:** Sharp Health Plan does a poor job of making files accessible and formatting for consumption. They link to an internal network drive, which is obviously inaccessible. In addition, the files that are accessible link to providers that don't exist and even for ones that do, provider references are in separate files which make gaining insights extremely tedious. Sharp Health Plan is not complying in the spirit of Transparency regulations.
