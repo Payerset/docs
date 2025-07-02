@@ -41,7 +41,7 @@
 * [🟢 Blue Cross Blue Shield Alabama](payers/bcbs-alabama-price-transparency.md)
 * [🟢 Blue Cross Blue Shield Arizona](payers/bcbs-arizona-price-transparency.md)
 * [🟢 Blue Cross Blue Shield Arkansas](payers/bcbs-arkansas-price-transparency.md)
-* [🟢 Blue Cross Blue Shield Florida](payers/bcbs-florida-price-transparency.md)
+* [🟡 Blue Cross Blue Shield Florida](payers/bcbs-florida-price-transparency.md)
 * [🟢 Blue Cross Blue Shield Illinois](payers/bcbs-illinois-price-transparency.md)
 * [🟢 Blue Cross Blue Shield Kansas](payers/bcbs-kansas-price-transparency.md)
 * [🟢 Blue Cross Blue Shield Kansas City](payers/bcbs-kansas-city-price-transparency.md)
