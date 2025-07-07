@@ -2,10 +2,14 @@
 description: Documentation Overview
 ---
 
-# PAYERSET DOCUMENTATION
+# Payerset Resource Center
 
-At Payerset, we aim to be the premier provider of curated provider and payer price transparency datasets. Our mission is to empower healthcare organizations, insurance carriers, researchers, consultants, and data-driven professionals with accurate and comprehensive data that enables them to make informed decisions, streamline operations, and uncover new opportunities. The datasets we offer are meticulously compiled, verified, and updated by our team of data experts, ensuring you have access to the most reliable and accurate information available in the industry.
+Our mission is to empower healthcare organizations, insurance carriers, researchers, consultants, and data-driven professionals with the most accurate and comprehensive healthcare price transparency data on the market. \
+\
+This resource center is aimed to customers to have an understanding of the data structures, payer & provider compliance with the CMS mandates, and how to use the Payerset platform.
 
-Our documentation site is designed to provide you with a comprehensive understanding of the structure and content of our datasets, making it easy for you to navigate and harness the full potential of the data we provide. If you have any questions or require further assistance, our dedicated support team is just an email away at [info@payerset.com](mailto:info@payerset.com). We are committed to delivering an exceptional experience and look forward to helping you unlock the true value of healthcare data for your organization.
+If you have any questions or require further assistance, please reach out to [info@payerset.com](mailto:info@payerset.com). We are committed to delivering an exceptional experience and look forward to helping you unlock the true value of healthcare data for your organization.
 
-This documentation is intended for our Payerset Data Lake™ and Payerset Rate Explorer™ customers to have an understanding of the data structures, payer compliance with the CMS mandates, and how to use the Rate Explorer portal.
+
+
+<table data-view="cards"><thead><tr><th align="center"></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center">Guides to Using Payerset</td><td><a href=".gitbook/assets/cropped-Group.png">cropped-Group.png</a></td><td><a href="using-the-payerset-platform/training-and-onboarding/">training-and-onboarding</a></td></tr><tr><td align="center">Payerset Data Lake Resources</td><td><a href=".gitbook/assets/cropped-Vector1.png">cropped-Vector1.png</a></td><td><a href="broken-reference">Broken link</a></td></tr><tr><td align="center">Hospital Price Transparency MRF Resources</td><td><a href=".gitbook/assets/cropped-Group 437.png">cropped-Group 437.png</a></td><td><a href="broken-reference">Broken link</a></td></tr><tr><td align="center">Payer Transparency Scorecard</td><td><a href=".gitbook/assets/cropped-check.png">cropped-check.png</a></td><td><a href="broken-reference">Broken link</a></td></tr></tbody></table>

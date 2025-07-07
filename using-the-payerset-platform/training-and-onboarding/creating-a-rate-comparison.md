@@ -1,7 +1,3 @@
----
-description: Learn how to create an analysis
----
-
 # 📊 Creating a Rate Comparison
 
 ### Analysis Creation
@@ -27,7 +23,7 @@ Payerset provides you with both current and historical views of rates. The syste
 Stay tuned for further enhancements to utilizing these historical rates for advanced analysis and comparisons&#x20;
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Choose your Services (Billing Codes)
 

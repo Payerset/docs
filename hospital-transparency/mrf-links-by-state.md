@@ -4,17 +4,6 @@ description: >-
   with the latest mandates from CMS. We are continuously reviewing and adding
   files based on meeting updated standards.
 icon: flag-usa
-layout:
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # MRF Links by State

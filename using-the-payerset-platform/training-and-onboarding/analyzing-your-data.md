@@ -1,5 +1,5 @@
 ---
-description: Learn how to use the analysis tools in Rate Explorer
+description: Learn how to use the analysis tools in Payerset
 ---
 
 # 📈 Analyzing your Data
