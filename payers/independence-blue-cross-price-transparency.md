@@ -20,9 +20,9 @@ Overall Rating: <mark style="color:green;">**5/5**</mark>**&#x20;- Excellent**
 
 ### Schema: INDEPENDENCE\_BLUE\_CROSS
 
-**Rates Records**: 13,344,920,927
+**Rates Records**: 781,409
 
-**Provider Records**: 149,758,486,755
+**Provider Records**: 23,100,827
 
 ### Additional Observations
 

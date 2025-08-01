@@ -20,9 +20,9 @@ Overall Rating: <mark style="color:green;">**4/5**</mark>**- Good**
 
 ### Schema: OSCAR
 
-**Rates Records**: 17,282,187,878
+**Rates Records**: 65,592,977
 
-**Provider Records**: 148,670,900,267
+**Provider Records**: 26,634,499,358
 
 ### Additional Observations
 

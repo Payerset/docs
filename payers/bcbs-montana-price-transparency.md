@@ -20,9 +20,9 @@ Overall Rating: <mark style="color:green;">**5/5**</mark>**&#x20;- Excellent**
 
 ### Schema: BCBS\_MONTANA
 
-**Rates Records**: 7,539,175,056
+**Rates Records**: 32,440,745
 
-**Provider Records**: 69,547,805,987
+**Provider Records**: 17,335,453
 
 ### Additional Observations
 

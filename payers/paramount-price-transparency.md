@@ -20,9 +20,9 @@ Overall Rating: <mark style="color:green;">**4/5**</mark> **- Good**
 
 ### Schema: PARAMOUNT
 
-**Rates Records**: 4,332,567
+**Rates Records**: 3,283,725
 
-**Provider Records**: 1,519,813
+**Provider Records**: 45,096
 
 ### Additional Observations
 

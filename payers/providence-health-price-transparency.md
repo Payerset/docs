@@ -20,9 +20,9 @@ Overall Rating: <mark style="color:green;">**4/5**</mark>**&#x20;- Good**
 
 ### Schema: PROVIDENCE\_HEALTH
 
-**Rates Records**: 54,374,682
+**Rates Records**: 8,470,746,402
 
-**Provider Records**: 12,938,917
+**Provider Records**: 5,486,853
 
 ### Additional Observations
 

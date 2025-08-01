@@ -20,9 +20,9 @@ Overall Rating: <mark style="color:green;">**5/5**</mark>**&#x20;- Excellent**
 
 ### Schema: BCBS\_LOUISIANA
 
-**Rates Records**: 19,069,634,388
+**Rates Records**: 50,943,766
 
-**Provider Records**: 126,252,848,301
+**Provider Records**: 32,530,475,995
 
 ### Additional Observations
 

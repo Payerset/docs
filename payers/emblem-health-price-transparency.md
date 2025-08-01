@@ -20,9 +20,9 @@ Overall Rating: <mark style="color:green;">**4/5**</mark>**&#x20;- Good**
 
 ### Schema: EMBLEM\_HEALTH
 
-**Rates Records**: 17,656,365,846
+**Rates Records**: 17,956,521,649
 
-**Provider Records**: 46,382,894
+**Provider Records**: 56,945,014
 
 ### Additional Observations
 

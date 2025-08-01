@@ -20,9 +20,9 @@ Overall Rating: <mark style="color:green;">**5/5**</mark> **- Excellent**
 
 ### Schema: AMERIHEALTH
 
-**Rates Records**: 2,325,318
+**Rates Records**: 1,447,690
 
-**Provider Records**: 2,401,531
+**Provider Records**: 16,993,891
 
 ### Additional Observations
 

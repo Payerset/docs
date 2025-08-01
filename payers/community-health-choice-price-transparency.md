@@ -20,9 +20,9 @@ Overall Rating: <mark style="color:green;">**4/5**</mark>**&#x20;- Good**
 
 ### Schema: COMMUNITY\_HEALTH\_CHOICE
 
-**Rates Records**: 19,042,487
+**Rates Records**: 23,940
 
-**Provider Records**: 649,035
+**Provider Records**: 15,579
 
 ### Additional Observations
 

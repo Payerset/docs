@@ -20,9 +20,9 @@ Overall Rating: <mark style="color:yellow;">**3/5**</mark>**&#x20;- Needs Improv
 
 ### Schema: MEDCOST
 
-**Rates Records**: 28,405,106,177
+**Rates Records**: 24,261,569,510
 
-**Provider Records**: 4,633,218
+**Provider Records**: 30,886,461,191
 
 ### Additional Observations
 

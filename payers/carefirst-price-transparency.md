@@ -20,9 +20,9 @@ Overall Rating: <mark style="color:green;">**5/5**</mark>**&#x20;- Excellent**
 
 ### Schema: CAREFIRST
 
-**Rates Records**: 4,545,593,971
+**Rates Records**: 17,725,991
 
-**Provider Records**: 90,764,046,721
+**Provider Records**: 457,643
 
 ### Additional Observations
 

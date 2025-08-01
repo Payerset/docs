@@ -20,9 +20,9 @@ Overall Rating: <mark style="color:green;">**4/5**</mark>**&#x20;- Good**
 
 ### Schema: CHRISTUS\_HEALTH\_PLAN
 
-**Rates Records**: 14,281,215,221
+**Rates Records**: 117,679,059
 
-**Provider Records**: 139,800,409,161
+**Provider Records**: 236,493
 
 ### Additional Observations
 

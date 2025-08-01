@@ -20,9 +20,9 @@ Overall Rating: <mark style="color:green;">**4/5**</mark> **- Good**
 
 ### Schema: ALLWAYS\_HEALTH\_PARTNERS
 
-**Rates Records**: 8,325,318
+**Rates Records**: 10,035,042
 
-**Provider Records**: 2,401,531
+**Provider Records**: 1,988,205
 
 ### Additional Observations
 

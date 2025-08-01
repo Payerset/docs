@@ -20,9 +20,9 @@ Overall Rating: <mark style="color:green;">**4/5**</mark>**&#x20;- Good**
 
 ### Schema: REGENCE
 
-**Rates Records**: 2,952,652,337
+**Rates Records**: 169,542,293,303
 
-**Provider Records**: 11,749,145
+**Provider Records**: 4,6193,725
 
 ### Additional Observations
 

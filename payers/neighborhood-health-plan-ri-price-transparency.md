@@ -21,9 +21,9 @@ Overall Rating: <mark style="color:green;">**5/5**</mark>**&#x20;- Excellent**
 
 ### Schema: NEIGHBORHOOD\_HEALTH\_PLAN
 
-**Rates Records**: 12,171,252,065
+**Rates Records**: 14,397,431
 
-**Provider Records**: 169,081,234
+**Provider Records**: 3,871,606
 
 ### Additional Observations
 

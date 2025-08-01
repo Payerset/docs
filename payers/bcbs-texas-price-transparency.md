@@ -20,9 +20,9 @@ Overall Rating: <mark style="color:green;">**5/5**</mark>**&#x20;- Excellent**
 
 ### Schema: BCBS\_TEXAS
 
-**Rates Records**: 14,281,215,221
+**Rates Records**: 1,243,861,531
 
-**Provider Records**: 139,800,409,161
+**Provider Records**: 1,486,906,983
 
 ### Additional Observations
 

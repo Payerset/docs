@@ -20,9 +20,9 @@ Overall Rating: <mark style="color:green;">**4/5**</mark>**&#x20;- Good**
 
 ### Schema: COMMUNITY\_CARE\_OK
 
-**Rates Records**: 40,066,258
+**Rates Records**: 600,88,956
 
-**Provider Records**: 162,155,872
+**Provider Records**: 197,412,824
 
 ### Additional Observations
 

@@ -21,9 +21,9 @@ Overall Rating: <mark style="color:green;">**5/5**</mark>**&#x20;- Excellent**
 
 ### Schema: EXCELLUS\_BCBS
 
-**Rates Records**: 105,224
+**Rates Records**: 187,461,202
 
-**Provider Records**: 794,247
+**Provider Records**: 1,162,896
 
 ### Additional Observations
 

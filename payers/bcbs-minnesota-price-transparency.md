@@ -20,9 +20,9 @@ Overall Rating: <mark style="color:green;">**5/5**</mark>**&#x20;- Excellent**
 
 ### Schema: BCBS\_MINNESOTA
 
-**Rates Records**: 18,256,474,138
+**Rates Records**: 389,795,839
 
-**Provider Records**: 192,289,214,678
+**Provider Records**: 177,288,483
 
 ### Additional Observations
 

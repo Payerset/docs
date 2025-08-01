@@ -20,9 +20,9 @@ Overall Rating: <mark style="color:yellow;">**3.5/5**</mark>**&#x20;- Average**
 
 ### Schema: MODA\_HEALTH
 
-**Rates Records**: 9,086,331
+**Rates Records**: 1,971,944,645
 
-**Provider Records**: 2,118,363
+**Provider Records**: 14,283,432,770
 
 ### Additional Observations
 

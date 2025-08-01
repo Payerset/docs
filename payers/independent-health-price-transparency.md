@@ -20,9 +20,9 @@ Overall Rating: <mark style="color:green;">**5/5**</mark>**&#x20;- Excellent**
 
 ### Schema: INDEPENDENT\_HEALTH
 
-**Rates Records**: 2,413,333
+**Rates Records**: 1,020,382
 
-**Provider Records**: 1,486,755
+**Provider Records**: 47,410,327
 
 ### Additional Observations
 

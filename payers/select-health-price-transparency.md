@@ -28,9 +28,9 @@ Overall Rating: <mark style="color:yellow;">**3/5**</mark>**&#x20;- Needs Improv
 
 ### Schema: SELECT\_HEALTH
 
-**Rates Records**: 1,675,198,630
+**Rates Records**: 2,786,522,891
 
-**Provider Records**: 54,734,651
+**Provider Records**: 104,388,281
 
 ### Additional Observations
 

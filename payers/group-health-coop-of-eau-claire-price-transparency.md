@@ -21,9 +21,9 @@ Overall Rating: <mark style="color:red;">**1/5**</mark>**&#x20;- Below Expectati
 
 ### Schema: GROUP\_HEALTH\_COOPERATIVE\_OF\_EAU\_CLAIRE
 
-**Rates Records**: 1,143,131
+**Rates Records**: 25,364,718
 
-**Provider Records**: 431,184
+**Provider Records**: 913,024
 
 ### Additional Observations
 

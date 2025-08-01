@@ -20,9 +20,9 @@ Overall Rating: <mark style="color:green;">**5/5**</mark>**&#x20;- Excellent**
 
 ### Schema: BCBS\_ARKANSAS
 
-**Rates Records**: 16,203,081,214
+**Rates Records**: 2,717,689,955
 
-**Provider Records**: 142,965,446,243
+**Provider Records**: 127,450
 
 ### Additional Observations
 

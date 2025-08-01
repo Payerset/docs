@@ -20,9 +20,9 @@ Overall Rating: <mark style="color:green;">**5/5**</mark>**&#x20;- Excellent**
 
 ### Schema: BCBS\_OKLAHOMA
 
-**Rates Records**: 13,201,746,053
+**Rates Records**: 61,111,117
 
-**Provider Records**: 122,523,145,976
+**Provider Records**: 111,590,388
 
 ### Additional Observations
 

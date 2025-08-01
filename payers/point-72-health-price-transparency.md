@@ -20,9 +20,9 @@ Overall Rating: <mark style="color:green;">**4/5**</mark>**&#x20;- Good**
 
 ### Schema: POINT\_72
 
-**Rates Records**: 85,313,231
+**Rates Records**: 955,438,459
 
-**Provider Records**: 1,432,654
+**Provider Records**: 8,954,287
 
 ### Additional Observations
 

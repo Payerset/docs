@@ -20,9 +20,9 @@ Overall Rating: <mark style="color:green;">**5/5**</mark>**&#x20;- Excellent**
 
 ### Schema: MEDICA
 
-**Rates Records**: 4,458,254,689
+**Rates Records**: 4,365,599,035
 
-**Provider Records**: 782,126,606
+**Provider Records**: 298,026,888
 
 ### Additional Observations
 

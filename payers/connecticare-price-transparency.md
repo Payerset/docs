@@ -20,9 +20,9 @@ Overall Rating: <mark style="color:green;">**5/5**</mark>**&#x20;- Excellent**
 
 ### Schema: CONNECTICARE
 
-**Rates Records**: 19,042,487
+**Rates Records**: 179,785,134
 
-**Provider Records**: 649,035
+**Provider Records**: 678,966
 
 ### Additional Observations
 

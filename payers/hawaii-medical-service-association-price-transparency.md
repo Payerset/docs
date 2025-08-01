@@ -20,9 +20,9 @@ Overall Rating: <mark style="color:green;">**4/5**</mark>**&#x20;- Good**
 
 ### Schema: HMSA
 
-**Rates Records**: 13,404,115,120
+**Rates Records**: 25,698,524
 
-**Provider Records**: 127,503,463,500
+**Provider Records**: 27,101
 
 ### Additional Observations
 

@@ -20,9 +20,9 @@ Overall Rating: <mark style="color:green;">**5/5**</mark>**&#x20;- Very Good**
 
 ### Schema: HEALTH\_ALLIANCE\_PLAN
 
-**Rates Records**: 1,856,343
+**Rates Records**: 3,5261,920
 
-**Provider Records**: 2,531,877
+**Provider Records**: 458,213
 
 ### Additional Observations
 

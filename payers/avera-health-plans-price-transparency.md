@@ -20,9 +20,9 @@ Overall Rating: <mark style="color:green;">**4/5**</mark> **- Good**
 
 ### Schema: AVERA
 
-**Rates Records**: 6,535,417
+**Rates Records**: 158,376
 
-**Provider Records**: 2,132,633
+**Provider Records**: 5,553,635
 
 ### Additional Observations
 

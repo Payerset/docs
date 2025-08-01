@@ -20,9 +20,9 @@ Overall Rating: <mark style="color:green;">**5/5**</mark>**&#x20;- Excellent**
 
 ### Schema: BCBS\_KANSAS
 
-**Rates Records**: 13,915,017,974
+**Rates Records**: 5,719,673
 
-**Provider Records**: 122,916,499,912
+**Provider Records**: 2,873,224,423
 
 ### Additional Observations
 

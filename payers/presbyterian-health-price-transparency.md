@@ -20,9 +20,9 @@ Overall Rating: <mark style="color:green;">**5/5**</mark>**&#x20;- Excellent**
 
 ### Schema: PRESBYTERIAN\_HEALTH\_PLAN
 
-**Rates Records**: 2,562,519,765
+**Rates Records**: 165,993
 
-**Provider Records**: 9,151,925
+**Provider Records**: 4,116,956
 
 ### Additional Observations
 

@@ -20,9 +20,9 @@ Overall Rating: <mark style="color:green;">**4/5**</mark>**&#x20;- Good**
 
 ### Schema: OPTUM
 
-**Rates Records**: 8,327,946,410
+**Rates Records**: 9,173,270,678
 
-**Provider Records**: 387,271,370
+**Provider Records**: 409,038,958
 
 ### Additional Observations
 

@@ -21,9 +21,9 @@ Overall Rating: <mark style="color:green;">**5/5**</mark>**&#x20;- Excellent**
 
 ### Schema: HIGHMARK\_NE\_NEW\_YORK
 
-**Rates Records**: 13,530,897,708
+**Rates Records**: 147,941
 
-**Provider Records**: 123,250,447,285
+**Provider Records**: 501,593
 
 ### Additional Observations
 

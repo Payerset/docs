@@ -20,9 +20,9 @@ Overall Rating: <mark style="color:green;">**5/5**</mark>**&#x20;- Excellent**
 
 ### Schema: BCBS\_MASSACHUSETTS
 
-**Rates Records**: 18,638,055,875
+**Rates Records**: 20,306,154
 
-**Provider Records**: 193,406,257,200
+**Provider Records**: 1,102,549,127
 
 ### Additional Observations
 

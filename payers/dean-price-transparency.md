@@ -20,9 +20,9 @@ Overall Rating: <mark style="color:orange;">**2/5**</mark>**&#x20;- Below Expect
 
 ### Schema: DEAN
 
-**Rates Records**: 2,279,448,413
+**Rates Records**: 4,080,798,668
 
-**Provider Records**: 5,914,864
+**Provider Records**: 8,936,466
 
 ### Additional Observations
 

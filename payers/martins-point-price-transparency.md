@@ -20,9 +20,9 @@ Overall Rating: <mark style="color:green;">**5/5**</mark>**&#x20;- Excellent**
 
 ### Schema: MARTINS\_POINT
 
-**Rates Records**: 3,758,254
+**Rates Records**: 305,372,897
 
-**Provider Records**: 782,215
+**Provider Records**: 4,231,758
 
 ### Additional Observations
 

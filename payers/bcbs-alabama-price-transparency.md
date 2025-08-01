@@ -20,9 +20,9 @@ Overall Rating: <mark style="color:green;">**5/5**</mark>**&#x20;- Excellent**
 
 ### Schema: BCBS\_ALABAMA
 
-**Rates Records**: 17,507,735,993
+**Rates Records**: 46,019,001
 
-**Provider Records**: 182,619,335,096
+**Provider Records**: 5,061,362,218
 
 ### Additional Observations
 

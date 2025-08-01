@@ -20,9 +20,9 @@ Overall Rating: <mark style="color:green;">**5/5**</mark>**&#x20;- Excellent**
 
 ### Schema: HIGHMARK\_WEST\_VIRGINIA
 
-**Rates Records**: 13,382,380,631
+**Rates Records**: 353,999
 
-**Provider Records**: 130,877,184,404
+**Provider Records**: 908,054
 
 ### Additional Observations
 

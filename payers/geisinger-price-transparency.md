@@ -20,9 +20,9 @@ Overall Rating: <mark style="color:yellow;">**3/5**</mark>**&#x20;- Needs Improv
 
 ### Schema: GEISINGER
 
-**Rates Records**: 744,429,806
+**Rates Records**: 17,563,741
 
-**Provider Records**: 8,708,875
+**Provider Records**: 0
 
 ### Additional Observations
 

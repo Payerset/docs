@@ -20,9 +20,9 @@ Overall Rating: <mark style="color:green;">**4/5**</mark>**&#x20;- Good**
 
 ### Schema: ELEVANCE
 
-**Rates Records**: 34,628,517,904
+**Rates Records**: 11,201,844,102
 
-**Provider Records**: 2,871,631,392,106
+**Provider Records**: 2,818,941,743,629
 
 ### Additional Observations
 

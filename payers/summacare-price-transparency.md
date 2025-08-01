@@ -20,9 +20,9 @@ Overall Rating: <mark style="color:green;">**4/5**</mark> **- Good**
 
 ### Schema: SUMMACARE
 
-**Rates Records**: 12,383,474
+**Rates Records**: 1,093,592,444
 
-**Provider Records**: 3,385,016
+**Provider Records**: 4,922,196
 
 ### Additional Observations
 

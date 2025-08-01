@@ -20,9 +20,9 @@ Overall Rating: <mark style="color:green;">**5/5**</mark>**&#x20;- Excellent**
 
 ### Schema: UNIVERA\_HEALTHCARE
 
-**Rates Records**: 28,794,622
+**Rates Records**: 153,409,436
 
-**Provider Records**: 705,643,134
+**Provider Records**: 337,928
 
 ### Additional Observations
 

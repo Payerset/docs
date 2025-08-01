@@ -20,9 +20,9 @@ Overall Rating: <mark style="color:green;">**5/5**</mark>**&#x20;- Excellent**
 
 ### Schema: BCBS\_MICHIGAN
 
-**Rates Records**: 51,323,012,250
+**Rates Records**: 14,308,210
 
-**Provider Records**: 208,009,720,972
+**Provider Records**: 9,379,383,865
 
 ### Additional Observations
 

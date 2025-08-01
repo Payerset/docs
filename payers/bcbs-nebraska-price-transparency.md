@@ -20,9 +20,9 @@ Overall Rating: <mark style="color:green;">**5/5**</mark>**&#x20;- Excellent**
 
 ### Schema: BCBS\_NEBRASKA
 
-**Rates Records**: 7,689,372,348
+**Rates Records**: 62,511,569
 
-**Provider Records**: 66,915,264,013
+**Provider Records**: 472,165
 
 ### Additional Observations
 

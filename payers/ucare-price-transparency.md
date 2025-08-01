@@ -20,9 +20,9 @@ Overall Rating: <mark style="color:green;">**4/5**</mark> **- Good**
 
 ### Schema: UCARE
 
-**Rates Records**: 4,131,107
+**Rates Records**: 198,016
 
-**Provider Records**: 1,817,149
+**Provider Records**: 3,274,900
 
 ### Additional Observations
 

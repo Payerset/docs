@@ -20,9 +20,9 @@ Overall Rating: <mark style="color:green;">**5/5**</mark>**&#x20;- Excellent**
 
 ### Schema: HIGHMARK\_DELAWARE
 
-**Rates Records**: 13,314,248,400
+**Rates Records**: 176,670
 
-**Provider Records**: 130,760,098,447
+**Provider Records**: 501,372
 
 ### Additional Observations
 

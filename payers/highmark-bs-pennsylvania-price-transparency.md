@@ -20,9 +20,9 @@ Overall Rating: <mark style="color:green;">**5/5**</mark>**&#x20;- Excellent**
 
 ### Schema: HIGHMARK\_BS\_PENNSYLVANIA
 
-**Rates Records**: 18,087,955,168
+**Rates Records**: 1,503,827
 
-**Provider Records**: 180,238,869,222
+**Provider Records**: 5,571,944
 
 ### Additional Observations
 

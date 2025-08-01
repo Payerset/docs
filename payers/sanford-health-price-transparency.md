@@ -20,9 +20,9 @@ Overall Rating: <mark style="color:green;">**5/5**</mark>**&#x20;- Excellent**
 
 ### Schema: SANFORD
 
-**Rates Records**: 1,,759,435
+**Rates Records**: 185,301,966
 
-**Provider Records**: 451,525
+**Provider Records**: 4,156,957
 
 ### Additional Observations
 

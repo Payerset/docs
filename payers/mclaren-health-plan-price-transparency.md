@@ -20,9 +20,9 @@ Overall Rating: <mark style="color:green;">**5/5**</mark>**&#x20;- Excellent**
 
 ### Schema: MCLAREN\_HEALTH\_PLAN
 
-**Rates Records**: 2,578,441
+**Rates Records**: 12,449
 
-**Provider Records**: 278,125
+**Provider Records**: 610,588
 
 ### Additional Observations
 

@@ -20,9 +20,9 @@ Overall Rating: <mark style="color:green;">**4/5**</mark>**&#x20;- Meets Expecta
 
 ### Schema: HARVARD\_PILGRIM
 
-**Rates Records**: 2,865,012
+**Rates Records**: 1,108,578,252
 
-**Provider Records**: 941,988
+**Provider Records**: 8,205,907
 
 ### Additional Observations
 

@@ -20,9 +20,9 @@ Overall Rating: <mark style="color:green;">**4/5**</mark>**&#x20;- Good**
 
 ### Schema: BC\_IDAHO
 
-**Rates Records**: 17,280,082,609
+**Rates Records**: 88,550,994
 
-**Provider Records**: 163,610,247,812
+**Provider Records**: 39,787,765,984
 
 ### Additional Observations
 

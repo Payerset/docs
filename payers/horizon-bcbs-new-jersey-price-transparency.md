@@ -20,9 +20,9 @@ Overall Rating: <mark style="color:green;">**4/5**</mark>**&#x20;- Good**
 
 ### Schema: HORIZON\_BCBS\_NJ
 
-**Rates Records**: 13,685,544,758
+**Rates Records**: 8,875,553,684
 
-**Provider Records**: 15,191,518,344
+**Provider Records**: 217,620,094,728
 
 ### Additional Observations
 

@@ -20,9 +20,9 @@ Overall Rating: <mark style="color:green;">**4/5**</mark>**&#x20;- Good**
 
 ### Schema: BCBS\_TENNESSEE
 
-**Rates Records**: 14,979,485,224
+**Rates Records**: 286,922,047
 
-**Provider Records**: 292,222,979,632
+**Provider Records**: 6,871,461,157
 
 ### Additional Observations
 

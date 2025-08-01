@@ -21,9 +21,9 @@ Overall Rating: <mark style="color:green;">**5/5**</mark>**&#x20;- Excellent**
 
 ### Schema: HEALTHNET
 
-**Rates Records**: 1,420,211
+**Rates Records**: 11,203
 
-**Provider Records**: 4,111,092
+**Provider Records**: 6,459
 
 ### Additional Observations
 

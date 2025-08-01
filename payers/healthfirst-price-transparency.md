@@ -20,9 +20,9 @@ Overall Rating: **4/5 - Meets Expectations**
 
 ### Schema: HEALTHFIRST
 
-**Rates Records**: 12,555,349
+**Rates Records**: 5,058,948,216
 
-**Provider Records**: 6,489,987
+**Provider Records**: 50,374,715
 
 ### Additional Observations
 

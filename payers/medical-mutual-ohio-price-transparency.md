@@ -20,9 +20,9 @@ Overall Rating: <mark style="color:green;">**5/5**</mark>**&#x20;- Excellent**
 
 ### Schema: MEDICAL\_MUTUAL\_OHIO
 
-**Rates Records**: 3,391,559
+**Rates Records**: 223,908,152
 
-**Provider Records**: 1,559,369
+**Provider Records**: 229,620,756
 
 ### Additional Observations
 

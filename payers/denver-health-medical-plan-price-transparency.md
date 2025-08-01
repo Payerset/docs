@@ -20,9 +20,9 @@ Overall Rating: <mark style="color:orange;">**2/5**</mark>**&#x20;- Below Expect
 
 ### Schema: DENVER\_HEALTH\_MEDICAL\_PLAN
 
-**Rates Records**: 0
+**Rates Records**: 512,813,004
 
-**Provider Records**: 398,000
+**Provider Records**: 1,209,354
 
 ### Additional Observations
 

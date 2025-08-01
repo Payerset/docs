@@ -20,9 +20,9 @@ Overall Rating: <mark style="color:orange;">**2/5**</mark>**&#x20;- Below Expect
 
 ### Schema: SPECTRUM\_PRIORITY\_HEALTH
 
-**Rates Records**: N/A
+**Rates Records**: 1,223,884,349
 
-**Provider Records**: N/A
+**Provider Records**: 363,457,083
 
 ### Additional Observations
 

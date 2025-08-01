@@ -20,9 +20,9 @@ Overall Rating: <mark style="color:green;">**4/5**</mark> **- Good**
 
 ### Schema: THE\_JEFFERSON\_HEALTH\_PLAN
 
-**Rates Records**: 4,131,107
+**Rates Records**: 38,847
 
-**Provider Records**: 1,817,149
+**Provider Records**: 1,581,146
 
 ### Additional Observations
 

@@ -20,9 +20,9 @@ Overall Rating: <mark style="color:yellow;">**3/5**</mark>**&#x20;- Needs Improv
 
 ### Schema: MOLINA
 
-**Rates Records**: 307,833,841
+**Rates Records**: 339,087,628
 
-**Provider Records**: 335,947
+**Provider Records**: 444,196
 
 ### Additional Observations
 

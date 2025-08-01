@@ -20,9 +20,9 @@ Overall Rating: <mark style="color:green;">**4/5**</mark> **- Good**
 
 ### Schema: TUFTS
 
-**Rates Records**: 6,332,567
+**Rates Records**: 208,426,775
 
-**Provider Records**: 519,813
+**Provider Records**: 23,682,970
 
 ### Additional Observations
 

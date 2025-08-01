@@ -20,9 +20,9 @@ Overall Rating: <mark style="color:green;">**5/5**</mark>**&#x20;- Excellent**
 
 ### Schema: BCBS\_NORTH\_DAKOTA
 
-**Rates Records**: 13,201,746,053
+**Rates Records**: 1,759,424,211
 
-**Provider Records**: 122,523,145,976
+**Provider Records**: 10,011,041
 
 ### Additional Observations
 

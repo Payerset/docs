@@ -26,9 +26,9 @@ Overall Rating: <mark style="color:green;">**5/5**</mark>**&#x20;- Excellent**
 
 ### Schema: BCBS\_NORTH\_CAROLINA
 
-**Rates Records**: 19,595,539,910
+**Rates Records**: 24,127,839,480
 
-**Provider Records**: 160,253,339,539
+**Provider Records**: 991,136
 
 ### Additional Observations
 

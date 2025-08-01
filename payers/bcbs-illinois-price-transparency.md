@@ -20,9 +20,9 @@ Overall Rating: <mark style="color:green;">**5/5**</mark>**&#x20;- Excellent**
 
 ### Schema: BCBS\_ILLINOIS
 
-**Rates Records**: 13,884,712,438
+**Rates Records**: 867,737,841
 
-**Provider Records**: 142,406,997,310
+**Provider Records**: 400,700,713
 
 ### Additional Observations
 

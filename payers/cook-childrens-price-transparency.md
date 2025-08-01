@@ -20,9 +20,9 @@ Overall Rating: <mark style="color:yellow;">**3.5/5**</mark>**&#x20;- Average**
 
 ### Schema: COOK\_CHILDRENS
 
-**Rates Records**: 34,628,517,904
+**Rates Records**: 283,543,398
 
-**Provider Records**: 2,871,631,392,106
+**Provider Records**: 3,923,192
 
 ### Additional Observations
 

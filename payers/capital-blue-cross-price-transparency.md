@@ -20,9 +20,9 @@ Overall Rating: <mark style="color:green;">**5/5**</mark>**&#x20;- Excellent**
 
 ### Schema: CAPITAL\_BC
 
-**Rates Records**: 301,672,917,762
+**Rates Records**: 93,240,392
 
-**Provider Records**: 162,828,183,815
+**Provider Records**: 759,388
 
 ### Additional Observations
 

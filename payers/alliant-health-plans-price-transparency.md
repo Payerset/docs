@@ -20,9 +20,9 @@ Overall Rating: <mark style="color:green;">**5/5**</mark> **- Excellent**
 
 ### Schema: ALLIANT\_HEALTH\_PLANS
 
-**Rates Records**: 2,325,318
+**Rates Records**: 11,693,835
 
-**Provider Records**: 2,401,531
+**Provider Records**: 76,018
 
 ### Additional Observations
 

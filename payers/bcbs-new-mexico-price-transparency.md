@@ -20,9 +20,9 @@ Overall Rating: <mark style="color:green;">**5/5**</mark>**&#x20;- Excellent**
 
 ### Schema: BCBS\_NEW\_MEXICO
 
-**Rates Records**: 13,231,765,097
+**Rates Records**: 39,473,084
 
-**Provider Records**: 122,563,668,433
+**Provider Records**: 39,565,673
 
 ### Additional Observations
 
