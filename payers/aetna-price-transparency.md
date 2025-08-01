@@ -28,9 +28,9 @@ Overall Rating: <mark style="color:yellow;">**3/5**</mark>**&#x20;- Needs Improv
 
 ### Schema: AETNA
 
-**Rates Records**: 1,009,036,846,294
+**Rates Records**: 3,851,996,049,274 (3.8 trillion)
 
-**Provider Records**: 1,3131,987,722
+**Provider Records**: 43,537,952,247
 
 ### Additional Observations
 
