@@ -22,6 +22,8 @@
 ## Data Lake
 
 * [Data Dictionary](data-lake/data-dictionary/README.md)
+  * [Payer Transparency (TiC)](data-lake/data-dictionary/payer-transparency-tic.md)
+  * [Hospital Transparency](data-lake/data-dictionary/hospital-transparency.md)
   * [Employer Reporting Plans](data-lake/data-dictionary/employer-reporting-plans.md)
   * [EIN to NPI Map](data-lake/data-dictionary/ein-to-npi-map.md)
 * [NPI Data from NPPES](data-lake/npi-data-from-nppes.md)
