@@ -19,6 +19,7 @@ Aetna has multiple tables of contents:
 * [AetnaCVS Individual Exchange](https://health1.aetna.com/app/public/#/one/insurerCode=AETNACVS_I\&brandCode=AETNACVS/machine-readable-transparency-in-coverage)
 * [Texas Health Plans](https://health1.aetna.com/app/public/#/one/insurerCode=AETNACVS_I\&brandCode=TEXASFI/machine-readable-transparency-in-coverage)
 * [Aetna Signature Administrators](https://health1.aetna.com/app/public/#/one/insurerCode=AETNACVS_I\&brandCode=ASA/machine-readable-transparency-in-coverage?searchTerm=ASA_01\&lock=true)
+* [Aetna Federal Workers Plan](https://health1.aetna.com/app/public/#/one/insurerCode=AETNACVS_I\&brandCode=AFEHBPFI/machine-readable-transparency-in-coverage)
 
 ### Compliance Scorecard
 
