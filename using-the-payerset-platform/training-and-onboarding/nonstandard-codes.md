@@ -1,8 +1,8 @@
 # 📇 Nonstandard Codes
 
-In some cases, negotiated rates in healthcare price transparency files use codes that fall outside the standard CPT, HCPCS, RC, or MS-DRG structures These can represent carveouts or other situations where standard codes aren’t used. In the Payerset platform, these are referred to as nonstandard codes.
+In some cases, negotiated rates in healthcare price transparency files use codes that fall outside the standard CPT, HCPCS, RC, or MS-DRG structures. These can represent carveouts or other situations where standard codes aren’t used. In the Payerset platform, these are referred to as nonstandard codes.
 
-With Payerset, you can easily find and work with nonstandard codes in two places:
+You can easily find and work with nonstandard codes in two places:
 
 1. The Nonstandard Codes module
 2. Any Fee Schedule you generate (nonstandard codes are always included by default)
@@ -11,7 +11,7 @@ With Payerset, you can easily find and work with nonstandard codes in two places
 
 #### Access the Nonstandard Codes Module
 
-From the Payerset homepage, click the Nonstandard Codes menu item and select “Create an Analysis”.
+From the homepage, click the Nonstandard Codes menu item and select “Create an Analysis”.
 
 First, use the filters on the left-hand panel along with the search bar to choose the Payers you want to include in this analysis.
 
