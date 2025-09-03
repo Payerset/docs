@@ -156,6 +156,7 @@
 * [🟢 The Jefferson Health Plan](payers/jefferson-health-price-transparency.md)
 * [🟢 Tufts Health Plan](payers/tufts-health-price-transparency.md)
 * [🟢 Ucare](payers/ucare-price-transparency.md)
+* [🟢 UHA Health Plan](payers/uha-health-plan.md)
 * [🟢 UnitedHealthcare](payers/united-healthcare-price-transparency.md)
 * [🟢 Univera Healthcare](payers/univera-healthcare-price-transparency.md)
 * [🟢 UPMC Health System](payers/upmc-health-system-price-transparency.md)
