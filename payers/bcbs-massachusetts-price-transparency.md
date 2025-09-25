@@ -20,9 +20,15 @@ Overall Rating: <mark style="color:green;">**5/5**</mark>**&#x20;- Excellent**
 
 ### Schema: BCBS\_MASSACHUSETTS
 
-**Rates Records**: 20,306,154
+#### **Data Validation**
 
-**Provider Records**: 1,102,549,127
+| Record Type                   | Record Count  |
+| ----------------------------- | ------------- |
+| Negotiated Rates              | 21,005,573    |
+| Nonstandard Codes             | 6,579,535     |
+| Providers                     | 1,183,741,307 |
+| Bundled Codes                 | 2,617,333,228 |
+| Covered Services (Capitation) | 40            |
 
 ### Additional Observations
 

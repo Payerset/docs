@@ -20,9 +20,15 @@ Overall Rating: <mark style="color:green;">**5/5**</mark>**&#x20;- Excellent**
 
 ### Schema: BCBS\_MICHIGAN
 
-**Rates Records**: 14,308,210
+#### **Data Validation**
 
-**Provider Records**: 9,379,383,865
+| Record Type                   | Record Count  |
+| ----------------------------- | ------------- |
+| Negotiated Rates              | 21,262,028    |
+| Nonstandard Codes             | 4,435         |
+| Providers                     | 9,648,150,077 |
+| Bundled Codes                 | 475,842,213   |
+| Covered Services (Capitation) | 335,390       |
 
 ### Additional Observations
 
