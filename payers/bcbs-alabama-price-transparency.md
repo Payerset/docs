@@ -20,9 +20,15 @@ Overall Rating: <mark style="color:green;">**5/5**</mark>**&#x20;- Excellent**
 
 ### Schema: BCBS\_ALABAMA
 
-**Rates Records**: 46,019,001
+#### **Data Validation**
 
-**Provider Records**: 5,061,362,218
+| Record Type                   | Record Count  |
+| ----------------------------- | ------------- |
+| Negotiated Rates              | 48,292,610    |
+| Nonstandard Codes             | 33,814,824    |
+| Providers                     | 5,280,975,411 |
+| Bundled Codes                 | 0             |
+| Covered Services (Capitation) | 0             |
 
 ### Additional Observations
 

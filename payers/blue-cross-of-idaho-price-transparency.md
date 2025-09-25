@@ -20,9 +20,15 @@ Overall Rating: <mark style="color:green;">**4/5**</mark>**&#x20;- Good**
 
 ### Schema: BC\_IDAHO
 
-**Rates Records**: 88,550,994
+#### **Data Validation**
 
-**Provider Records**: 39,787,765,984
+| Record Type                   | Record Count   |
+| ----------------------------- | -------------- |
+| Negotiated Rates              | 67,073,732     |
+| Nonstandard Codes             | 319            |
+| Providers                     | 33,655,041,535 |
+| Bundled Codes                 | 0              |
+| Covered Services (Capitation) | 0              |
 
 ### Additional Observations
 

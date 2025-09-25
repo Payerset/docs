@@ -4,7 +4,7 @@ description: >-
   BCBS Florida that have been normalized into easy-to-use tables.
 ---
 
-# 🟡 Blue Cross Blue Shield Florida
+# 🟡 Florida Blue
 
 ### Payerset Notes
 
@@ -20,9 +20,15 @@ Overall Rating: <mark style="color:yellow;">**3/5**</mark>**&#x20;- Good**
 
 ### Schema: BCBS\_FLORIDA
 
-**Rates Records**: 8,575,678,005
+#### **Data Validation**
 
-**Provider Records**: 9,230,773,559
+| Record Type                   | Record Count    |
+| ----------------------------- | --------------- |
+| Negotiated Rates              | 15,32,85,12,253 |
+| Nonstandard Codes             | 14,153,493,616  |
+| Providers                     | 16,518,345,353  |
+| Bundled Codes                 | 0               |
+| Covered Services (Capitation) | 320             |
 
 ### Additional Observations
 

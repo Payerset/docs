@@ -1,16 +1,21 @@
 ---
 description: >-
   This data contains the price transparency machine-readable files provided by
-  BCBS Arizona that have been normalized into easy-to-use tables.
+  Massachusetts General Brigham that have been normalized into easy-to-use
+  tables.
 ---
 
-# 🟢 Blue Cross Blue Shield Arizona
+# 🟢 Massachusetts General Brigham
 
 ### Payerset Notes
 
+{% hint style="warning" %}
+Mass General Brigham has incorporated AllWays Health into their network.
+{% endhint %}
+
 **Table of Contents**
 
-[https://mrf.payerset.com/bcbs-arizona](https://mrf.payerset.com/bcbs-arizona)
+[https://mrf.payerset.com/mass-general-brigham](https://mrf.payerset.com/mass-general-brigham)
 
 ### Compliance Scorecard
 
@@ -18,17 +23,11 @@ Overall Rating: <mark style="color:green;">**5/5**</mark>**&#x20;- Excellent**
 
 <table data-view="cards"><thead><tr><th></th><th></th><th></th><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><strong>Table of Contents</strong></td><td><strong>★★★★★</strong></td><td><mark style="color:green;"><strong>5/5</strong></mark></td><td><ul><li>Are the MRFs kept up to date each month? </li><li>Is the Table of Contents link easily accessible?</li><li>Is the Table of Contents properly formatted?</li></ul></td><td></td></tr><tr><td><strong>File Accessibility</strong></td><td><strong>★★★★★</strong></td><td><mark style="color:green;"><strong>5/5</strong></mark></td><td><ul><li>Are there any barriers to downloading the files?</li><li>Do the Table of Contents links expire before publishing new links?</li></ul></td><td></td></tr><tr><td><strong>Data Quality</strong></td><td><strong>★★★★★</strong></td><td><mark style="color:green;"><strong>5/5</strong></mark></td><td><ul><li><p>What percentage of the MRFs are properly formatted and parseable</p><ul><li>5 Stars - 100%</li><li>4 Stars - 80%...</li></ul></li></ul></td><td></td></tr></tbody></table>
 
-### Schema: BCBS\_ARIZONA
+### Schema: MASS\_GENERAL\_BRIGHAM
 
-#### **Data Validation**
+**Rates Records**: 1,422,083
 
-| Record Type                   | Record Count    |
-| ----------------------------- | --------------- |
-| Negotiated Rates              | 267,346,509,195 |
-| Nonstandard Codes             | 76,247          |
-| Providers                     | 16,849,485      |
-| Bundled Codes                 | 0               |
-| Covered Services (Capitation) | 0               |
+**Provider Records**: 1,394,176
 
 ### Additional Observations
 
@@ -40,4 +39,4 @@ Overall Rating: <mark style="color:green;">**5/5**</mark>**&#x20;- Excellent**
 * **File Download Barriers:** ✔️ No barriers to downloading the MRFs.
 * **File Accessibility Percentage:** ✔️ 100% of the files are accessible.
 
-**Overall Assessment:** BCBS Arizona does a great job of posting these files each month. They duplicate provider data substantially, but that can be a result of interpretation of the CMS rules.
+**Overall Assessment:** Mass General Brigham appears to post their files consistently with accuracy.

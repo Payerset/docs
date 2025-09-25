@@ -20,9 +20,15 @@ Overall Rating: <mark style="color:green;">**5/5**</mark>**&#x20;- Excellent**
 
 ### Schema: BCBS\_KANSAS
 
-**Rates Records**: 5,719,673
+#### **Data Validation**
 
-**Provider Records**: 2,873,224,423
+| Record Type                   | Record Count  |
+| ----------------------------- | ------------- |
+| Negotiated Rates              | 5,656,989     |
+| Nonstandard Codes             | 220,804       |
+| Providers                     | 2,942,975,582 |
+| Bundled Codes                 | 0             |
+| Covered Services (Capitation) | 0             |
 
 ### Additional Observations
 

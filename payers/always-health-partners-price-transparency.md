@@ -1,10 +1,14 @@
 ---
 description: >-
   This data contains the price transparency machine-readable files provided by
-  Always Health Partners, which have been normalized into easy-to-use tables.
+  AllWays Health Partners, which have been normalized into easy-to-use tables.
 ---
 
-# 🟢 Always Health Partners
+# ⚪ AllWays Health Partners
+
+{% hint style="warning" %}
+AllWays Health Partners is now Massachusetts General Brigham. See their page [here](massachusetts-general-brigham.md). Their history is still available in the Payerset platform by choosing previous dates.
+{% endhint %}
 
 ### Payerset Notes
 
@@ -20,9 +24,15 @@ Overall Rating: <mark style="color:green;">**4/5**</mark> **- Good**
 
 ### Schema: ALLWAYS\_HEALTH\_PARTNERS
 
-**Rates Records**: 10,035,042
+#### **Data Validation**
 
-**Provider Records**: 1,988,205
+| Record Type                   | Record Count |
+| ----------------------------- | ------------ |
+| Negotiated Rates              | 10,035,042   |
+| Nonstandard Codes             | 0            |
+| Providers                     | 1,988,205    |
+| Bundled Codes                 | 0            |
+| Covered Services (Capitation) | 0            |
 
 ### Additional Observations
 

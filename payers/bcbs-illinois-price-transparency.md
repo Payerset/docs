@@ -20,9 +20,15 @@ Overall Rating: <mark style="color:green;">**5/5**</mark>**&#x20;- Excellent**
 
 ### Schema: BCBS\_ILLINOIS
 
-**Rates Records**: 867,737,841
+#### **Data Validation**
 
-**Provider Records**: 400,700,713
+| Record Type                   | Record Count  |
+| ----------------------------- | ------------- |
+| Negotiated Rates              | 1,385,897,221 |
+| Nonstandard Codes             | 101,215       |
+| Providers                     | 1,039,663,152 |
+| Bundled Codes                 | 0             |
+| Covered Services (Capitation) | 243,504,149   |
 
 ### Additional Observations
 

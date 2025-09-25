@@ -20,9 +20,15 @@ Overall Rating: <mark style="color:green;">**4/5**</mark>**&#x20;- Good**
 
 ### Schema: AMBETTER
 
-**Rates Records**: 4,553,132
+#### **Data Validation**
 
-**Provider Records**: 61,610,696
+| Record Type                   | Record Count |
+| ----------------------------- | ------------ |
+| Negotiated Rates              | 7,039,078    |
+| Nonstandard Codes             | 0            |
+| Providers                     | 140,257,643  |
+| Bundled Codes                 | 0            |
+| Covered Services (Capitation) | 0            |
 
 ### Additional Observations
 

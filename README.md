@@ -1,5 +1,19 @@
 ---
 description: Documentation Overview
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
 ---
 
 # Payerset Resource Center
@@ -12,4 +26,4 @@ If you have any questions or require further assistance, please reach out to [in
 
 
 
-<table data-card-size="large" data-view="cards"><thead><tr><th align="center"></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center">Guides to Using Payerset</td><td><a href=".gitbook/assets/cropped-Group.png">cropped-Group.png</a></td><td><a href="using-the-payerset-platform/training-and-onboarding/">training-and-onboarding</a></td></tr><tr><td align="center">Payerset Data Lake Resources</td><td><a href=".gitbook/assets/cropped-Vector1.png">cropped-Vector1.png</a></td><td><a href="broken-reference">Broken link</a></td></tr><tr><td align="center">Hospital Price Transparency MRF Resources</td><td><a href=".gitbook/assets/cropped-Group 437.png">cropped-Group 437.png</a></td><td><a href="broken-reference">Broken link</a></td></tr><tr><td align="center">Payer Transparency Scorecard</td><td><a href=".gitbook/assets/cropped-check.png">cropped-check.png</a></td><td><a href="broken-reference">Broken link</a></td></tr></tbody></table>
+<table data-card-size="large" data-view="cards"><thead><tr><th align="center"></th><th data-hidden data-card-cover data-type="image">Cover image</th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center"><strong>Guides to Using Payerset</strong></td><td><a href=".gitbook/assets/cropped-Group.png">cropped-Group.png</a></td><td><a href="using-the-payerset-platform/training-and-onboarding/">training-and-onboarding</a></td></tr><tr><td align="center"><strong>Payerset Data Lake Resources</strong></td><td><a href=".gitbook/assets/cropped-Vector1.png">cropped-Vector1.png</a></td><td><a href="broken-reference">Broken link</a></td></tr><tr><td align="center"><strong>Hospital Price Transparency MRF Resources</strong></td><td><a href=".gitbook/assets/cropped-Group 437.png">cropped-Group 437.png</a></td><td><a href="broken-reference">Broken link</a></td></tr><tr><td align="center"><strong>Payer Transparency Scorecard</strong></td><td><a href=".gitbook/assets/cropped-check.png">cropped-check.png</a></td><td><a href="broken-reference">Broken link</a></td></tr><tr><td align="center"></td><td></td><td></td></tr></tbody></table>

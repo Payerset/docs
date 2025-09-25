@@ -20,9 +20,15 @@ Overall Rating: <mark style="color:green;">**5/5**</mark>**&#x20;- Excellent**
 
 ### Schema: BCBS\_ARKANSAS
 
-**Rates Records**: 2,717,689,955
+#### **Data Validation**
 
-**Provider Records**: 127,450
+| Record Type                   | Record Count  |
+| ----------------------------- | ------------- |
+| Negotiated Rates              | 2,041,999,692 |
+| Nonstandard Codes             | 0             |
+| Providers                     | 128,006       |
+| Bundled Codes                 | 0             |
+| Covered Services (Capitation) | 0             |
 
 ### Additional Observations
 

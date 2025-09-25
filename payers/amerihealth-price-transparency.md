@@ -6,6 +6,10 @@ description: >-
 
 # 🟢 AmeriHealth
 
+{% hint style="danger" %}
+AmeriHealth was not compliant in August 2025, their file links were broken. This has been rectified in September, which is the data the Payerset platform is displaying in the latest refresh.
+{% endhint %}
+
 ### Payerset Notes
 
 **Table of Contents**
@@ -20,9 +24,15 @@ Overall Rating: <mark style="color:green;">**5/5**</mark> **- Excellent**
 
 ### Schema: AMERIHEALTH
 
-**Rates Records**: 1,447,690
+#### **Data Validation**
 
-**Provider Records**: 16,993,891
+| Record Type                   | Record Count |
+| ----------------------------- | ------------ |
+| Negotiated Rates              | 273,3680     |
+| Nonstandard Codes             | 0            |
+| Providers                     | 2,558,319    |
+| Bundled Codes                 | 311,787      |
+| Covered Services (Capitation) | 0            |
 
 ### Additional Observations
 

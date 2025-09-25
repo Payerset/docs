@@ -20,9 +20,15 @@ Overall Rating: <mark style="color:green;">**4/5**</mark> **- Good**
 
 ### Schema: AULTCARE
 
-**Rates Records**: 2,325,318
+#### **Data Validation**
 
-**Provider Records**: 2,401,531
+| Record Type                   | Record Count |
+| ----------------------------- | ------------ |
+| Negotiated Rates              | 77,605       |
+| Nonstandard Codes             | 319          |
+| Providers                     | 653,623      |
+| Bundled Codes                 | 0            |
+| Covered Services (Capitation) | 0            |
 
 ### Additional Observations
 
