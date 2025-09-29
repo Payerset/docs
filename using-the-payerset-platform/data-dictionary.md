@@ -15,7 +15,7 @@ Please note that the Claims data is only available with the upgraded Payerset Pr
 | Field Name                              | Friendly Name                                          | Description / Sample Value                                                                     |
 | --------------------------------------- | ------------------------------------------------------ | ---------------------------------------------------------------------------------------------- |
 | `NPI`                                   | NPI                                                    | Unique 10-digit National Provider Identifier. e.g. `1043270564`                                |
-| `TIN`                                   | TIN Value                                              | 9-digit Tax Identification Number for the provider. e.g. `123456789`                           |
+| `SETTING`                               | Setting                                                | Derived from Type of Bill on the claim data, this is the Inpatient or Outpatient setting.      |
 | `PLACE_OF_SERVICE_CODE`                 | Service Code                                           | Two-digit CMS Place-of-Service code. e.g. `11`                                                 |
 | `PLACE_OF_SERVICE_NAME`                 | Place of Service                                       | Human-readable name for the POS code. e.g. `Office`                                            |
 | `CHANNEL`                               | Channel                                                | High-level payer channel grouping. e.g. `Commercial`                                           |
