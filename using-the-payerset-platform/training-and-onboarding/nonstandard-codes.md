@@ -43,4 +43,4 @@ Within a Fee Schedule, you can identify nonstandard codes by the value “CSTM-A
 ## Helpful Tips for Working with Nonstandard Codes
 
 * We have cleaned the data for ease of use and nonstandard codes show in the field “Billing Code” along with standard code. If you are looking at the files directly, this may not match.
-* Use the field “MRF Billing Code Name” to see the description of the nonstandard code\
+* Use the field “MRF Billing Code Name” to see the description of the nonstandard code<br>

@@ -19,6 +19,5 @@ The dataset can be downloaded in CSV format from here: [https://mrf.payerset.com
 | Display Name   | The name displayed for the particular taxonomy code, which is often a more reader-friendly version of the classification or specialization. |
 | Section        | Indicates the section under which the taxonomy code falls, such as "Individual".                                                            |
 
-\
-
+<br>
 

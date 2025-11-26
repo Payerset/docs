@@ -4,7 +4,7 @@
 
 Payerset Rate Explorer is a tool designed to enhance health plan price transparency, offering access to comprehensive payer Machine Readable Files (MRF) data for analysis and comparison. Created to address the complexities and opacity of healthcare pricing, the portal enables users to easily navigate, understand, and benchmark healthcare pricing data across different payers and organizations. By providing clear, accessible, and actionable pricing insights, Rate Explorer supports informed decision-making in healthcare pricing and strategy.
 
-The Payers we currently support are listed to the left under the **PAYERS** section of the documentation. Additionally, you can find information about the various fields that are available in the [Rate Explorer Data Dictionary](../data-dictionary.md).
+The Payers we currently support are listed to the left under the **PAYERS** section of the documentation. Additionally, you can find information about the various fields that are available in the [Rate Explorer Data Dictionary](../data-dictionary/).
 
 You can learn more about Rate Explorer at [https://payerset.com/rate-explorer](https://www.payerset.com/rateexplorer)
 

@@ -12,7 +12,8 @@
   * [📈 Analyzing your Data](using-the-payerset-platform/training-and-onboarding/analyzing-your-data.md)
   * [Hospital MRF - Standard Charges](using-the-payerset-platform/training-and-onboarding/hospital-mrf-standard-charges-beta.md)
   * [📇 Nonstandard Codes](using-the-payerset-platform/training-and-onboarding/nonstandard-codes.md)
-* [Data Dictionary](using-the-payerset-platform/data-dictionary.md)
+* [Data Dictionary](using-the-payerset-platform/data-dictionary/README.md)
+  * [Medicare Inpatient Methodology](using-the-payerset-platform/data-dictionary/medicare-inpatient-methodology.md)
 * [Release Notes](using-the-payerset-platform/release-notes.md)
 
 ## Hospital Transparency
