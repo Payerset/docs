@@ -40,6 +40,6 @@ When you're ready, click "Generate Fee Schedule" and Payerset will crawl our dat
 
 Once the analysis completes, you will see some KPIs detailing how many rates were found, as well as a visualization showing the distribution of those rates by billing code for each payer.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 In the next section, we'll go over how to use this visualization, as well as the data details table and the exploration pivot table.

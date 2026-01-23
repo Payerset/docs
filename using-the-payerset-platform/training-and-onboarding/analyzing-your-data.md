@@ -2,7 +2,7 @@
 description: Learn how to use the analysis tools in Payerset
 ---
 
-# 📈 Analyzing your Data
+# 📈 Analyzing your Rates
 
 ## Overview
 
@@ -12,7 +12,7 @@ Analyzing rate comparisons and fee schedules is the core function of Payerset, p
 
 When your analysis is finished loading, you will land on the Summary screen, which shows you the total number of rates, providers, and services that apply to your selections and filters, as well as a distribution plot visualization of the data.
 
-<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>Analysis Overview</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption><p>Analysis Overview</p></figcaption></figure>
 
 There are a few key features you can use on this screen to quickly compare rates across payers and providers.&#x20;
 

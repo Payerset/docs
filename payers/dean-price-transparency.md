@@ -43,4 +43,4 @@ The provider references in many of the Dean MRFs link to non-existent files, mak
 This Dean issue exists for both February and March, so while it appears to be a mistake, it’s a mistake they have not caught. We are reporting this Dean issue through official CMS channels.\
 As you can see in the screenshot below, there are 36 rates present for code 470, which may give you an idea of the ranges they are paying out for this service, but unfortunately, we are unable to map those back to their specific providers.
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
