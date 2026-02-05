@@ -36,6 +36,6 @@ Overall Rating: <mark style="color:orange;">**2/5**</mark>**&#x20;- Below Expect
 
 **Overall Assessment:**&#x20;
 
-There have been no updates since August 2024, causing us to downgrade Viva's compliance score.
+There have been no updates since March 2025, causing us to downgrade Viva's compliance score.
 
 VIVA publishes one very large (150GB+) file with all of their rates. We did not reduce their rating for the Table of Contents issue because creating a table of contents for 1 file is not a big deal. Unfortunately, this file has not been updated since September, so we must assume they are not following the mandate.
