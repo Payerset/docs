@@ -4,7 +4,7 @@ description: >-
   VIVA Health that have been normalized into easy-to-use tables.
 ---
 
-# 🟡 VIVA Health
+# 🟢 VIVA Health
 
 ### Payerset Notes
 
@@ -14,7 +14,7 @@ description: >-
 
 ### Compliance Scorecard
 
-Overall Rating: <mark style="color:$warning;">**3/5**</mark> **- Acceptable**
+Overall Rating: <mark style="color:$success;">**4/5**</mark> **- Acceptable**
 
 {% hint style="danger" %}
 [Not Using Schema 2.0](#user-content-fn-1)[^1]
@@ -42,6 +42,6 @@ Overall Rating: <mark style="color:$warning;">**3/5**</mark> **- Acceptable**
 
 **Viva has updated for February 2026** but is not using the Schema 2.0
 
-VIVA publishes one very large (150GB+) file with all of their rates. We did not reduce their rating for the Table of Contents issue because creating a table of contents for 1 file is not a big deal. Unfortunately, this file has not been updated since September, so we must assume they are not following the mandate.
+VIVA publishes one very large (150GB+) file with all of their rates. We did not reduce their rating for the Table of Contents issue because creating a table of contents for 1 file is not a big deal.
 
 [^1]: 

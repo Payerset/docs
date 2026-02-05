@@ -166,7 +166,7 @@
 * [🟢 Univera Healthcare](payers/univera-healthcare-price-transparency.md)
 * [🟢 UPMC Health System](payers/upmc-health-system-price-transparency.md)
 * [🟠 Valley Health Plan](payers/valley-health-price-transparency.md)
-* [🟡 VIVA Health](payers/viva-price-transparency.md)
+* [🟢 VIVA Health](payers/viva-price-transparency.md)
 * [🟢 WellCare (Centene)](payers/wellcare-price-transparency.md)
 * [🟢 Wellmark](payers/wellmark-price-transparency.md)
 * [🔴 Wellsense](payers/wellsense-price-transparency.md)
