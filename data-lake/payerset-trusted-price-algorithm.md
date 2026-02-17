@@ -2,7 +2,7 @@
 
 ## Overview
 
-Payerset Denormalized Fee Schedules are the result of processing Transparency in Coverage (TiC) machine-readable files published by health insurance payers under federal price transparency regulations. The raw TiC data contains billions of individual negotiated rate records spread across thousands of files per payer. This dataset condenses that data into a single, queryable fee schedule: one record per provider, billing code, entity type, and plan type, with the most representative negotiated rate selected through a priority-based algorithm.
+The Payerset Trusted Price™ Algorithm procudes denormalized fee schedules from the Transparency in Coverage (TiC) machine-readable files published by health insurance carriers under federal price transparency regulations. The raw TiC data contains trillions of individual negotiated rate records spread across thousands of files per payer. This dataset condenses that data into a single, queryable fee schedule: one record per provider, billing code, entity type, and plan type, (along with a few other dimensions) with the most representative negotiated rate selected through a priority-based algorithm.
 
 > **Schema Compatibility:** This documentation describes **Schema 2.0** of the Payerset Denormalized Fee Schedules. It is backwards-compatible with Schema 1.x — all fields present in Schema 1.x retain their original names and semantics. Schema 2.0 adds the `setting` field and removes the `taxonomy_grouping`, `taxonomy_classification`, and `taxonomy_specialization` fields that were present in Schema 1.x.
 
