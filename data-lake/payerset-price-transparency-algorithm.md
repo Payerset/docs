@@ -1,8 +1,8 @@
-# Payerset Trusted Price Algorithm
+# Payerset Price Transparency Algorithm
 
 ## Overview
 
-The Payerset Trusted Price™ Algorithm procudes denormalized fee schedules from the Transparency in Coverage (TiC) machine-readable files published by health insurance carriers under federal price transparency regulations. The raw TiC data contains trillions of individual negotiated rate records spread across thousands of files per payer. This dataset condenses that data into a single, queryable fee schedule: one record per provider, billing code, entity type, and plan type, (along with a few other dimensions) with the most representative negotiated rate selected through a priority-based algorithm.
+The Payerset Price Transparency Algorithm procudes denormalized fee schedules from the Transparency in Coverage (TiC) machine-readable files published by health insurance carriers under federal price transparency regulations. The raw TiC data contains trillions of individual negotiated rate records spread across thousands of files per payer. This dataset condenses that data into a single, queryable fee schedule: one record per provider, billing code, entity type, and plan type, (along with a few other dimensions) with the most representative negotiated rate selected through a priority-based algorithm.
 
 > **Schema Compatibility:** This documentation describes **Schema 2.0** of the Payerset Denormalized Fee Schedules. It is backwards-compatible with Schema 1.x — all fields present in Schema 1.x retain their original names and semantics, with Setting overtaking the service\_codes rollup in terms of prioritization.
 
@@ -59,7 +59,7 @@ Before any rate selection occurs, raw TiC records are filtered to include only:
 
 Records that do not meet all of these criteria are excluded before priority scoring.
 
-### The Trusted Price Algorithm
+### The Algorithm
 
 When multiple plans from the same payer report different negotiated rates for the same provider and billing code, the algorithm selects the most representative rate through a priority scoring system. Lower scores indicate higher trustworthiness.
 
@@ -256,7 +256,7 @@ payer={PAYER}/
 | `medicare_ratio`     | DOUBLE  | `rate_avg / medicare_benchmark`. NULL when no benchmark is available.                                                        |
 | `hospital_benchmark` | DOUBLE  | Hospital chargemaster/MRF benchmark rate. Only populated for the Hospital entity type; NULL for Individual and Organization. |
 | `hospital_ratio`     | DOUBLE  | `rate_avg / hospital_benchmark`. NULL when no benchmark is available.                                                        |
-| `priority_score`     | INTEGER | Composite priority score of the winning rate (lower = more trustworthy). See The Trusted Price Algorithm.                    |
+| `priority_score`     | INTEGER | Composite priority score of the winning rate (lower = more trustworthy). See The Algorithm.                                  |
 | `confidence`         | VARCHAR | Composite confidence rating: `HIGH`, `MEDIUM`, or `LOW`. See Confidence Scoring.                                             |
 
 ### Hive Partition Columns
