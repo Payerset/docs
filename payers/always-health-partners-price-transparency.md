@@ -43,4 +43,4 @@ Overall Rating: <mark style="color:green;">**4/5**</mark> **- Good**
 * **File Download Barriers:** ✔️ No barriers to download
 * **File Accessibility Percentage:** ✔️ All files available.
 
-**Overall Assessment:** Aways Health Partners has had some issues with delays in updating MRFs in a timely manner. Other than delays, the quality is fair and consistent amongst peers.
+**Overall Assessment:** AllWays Health Partners has had some issues with delays in updating MRFs in a timely manner. Other than delays, the quality is fair and consistent amongst peers.

@@ -33,9 +33,9 @@ Overall Rating: <mark style="color:green;">**4/5**</mark> **- Good**
 
 **Machine-Readable Price Transparency Files Review**
 
-* **MRFs Up-to-Date:** :x: Yes, the MRFs are kept up to date each month.
-* **Table of Contents Accessibility:** :heavy\_check\_mark: There is no table of contents, one has to be made.
-* **Table of Contents Formatting:** :heavy\_check\_mark: There is no table of contents, one has to be made.
+* **MRFs Up-to-Date:** ✔️ Yes, the MRFs are kept up to date each month.
+* **Table of Contents Accessibility:** ❌ There is no standard Table of Contents provided.
+* **Table of Contents Formatting:** ❌ There is no standard Table of Contents provided.
 * **File Download Barriers:** ✔️ No barriers to downloading the MRFs.
 * **File Accessibility Percentage:** ✔️ 100% of the files are accessible.
 

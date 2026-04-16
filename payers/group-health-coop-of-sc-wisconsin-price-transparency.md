@@ -37,7 +37,7 @@ Overall Rating: <mark style="color:green;">**4/5**</mark>**&#x20;- Meets Expecta
 * **MRFs Up-to-Date:** ✔️ Yes, the MRFs are kept up to date each month.
 * **Table of Contents Accessibility:** ✔️ The Table of Contents link is easily accessible.
 * **Table of Contents Formatting:** ✔️ Yes, the Table of Contents is properly formatted.
-* **File Download Barriers:** ✔️ No barriers to downloading the MRFs, though the provider links do not work properly (see below).
-* **File Accessibility Percentage:** ✔️ The provider references in many of the Dean MRFs link to non-existent files, making it impossible to trace the rates back to the respective providers.
+* **File Download Barriers:** ✔️ No barriers to downloading the MRFs.
+* **File Accessibility Percentage:** ✔️ 100% of the files are accessible.
 
 **Overall Assessment: Sometimes the data is published a little late, but overall Group Health Cooperative of SC Wisconsin does a good job of publishing their files in a timely manner with consistent quality.**

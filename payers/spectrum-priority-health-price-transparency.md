@@ -35,8 +35,8 @@ Overall Rating: <mark style="color:orange;">**2/5**</mark>**&#x20;- Below Expect
 
 * **MRFs Up-to-Date:** ✔️ Yes, the MRFs are kept up to date each month.
 * **Table of Contents Accessibility:** :x: The Table of Contents link is inaccessible.
-* **Table of Contents Formatting:** :x: Yes, the Table of Contents is unnecessarily complicated.
+* **Table of Contents Formatting:** ❌ The Table of Contents format is unnecessarily complicated.
 * **File Download Barriers:** ✔️ No, there are no barriers to downloading the files.
 * **File Accessibility Percentage:** :x: No, files are not accessible at all
 
-**Overall Assessment:** Spectrum / Priority Healthdoes links to files that are behid permissions in AWS, making files completely inaccessible.
+**Overall Assessment:** Spectrum / Priority Health links to files that are behind permissions in AWS, making files completely inaccessible.

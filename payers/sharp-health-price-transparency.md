@@ -35,7 +35,7 @@ Overall Rating: <mark style="color:red;">**1/5**</mark>**&#x20;- Below Expectati
 
 * **MRFs Up-to-Date:** ✔️ Yes, the MRFs are kept up to date each month.
 * **Table of Contents Accessibility:** :x: The Table of Contents link is inaccessible.
-* **Table of Contents Formatting:** :x: Yes, the Table of Contents is unnecessarily complicated.
+* **Table of Contents Formatting:** ❌ The Table of Contents format is unnecessarily complicated.
 * **File Download Barriers:** ✔️ No, there are no barriers to downloading the files.
 * **File Accessibility Percentage:** No, files are not accessible at all
 

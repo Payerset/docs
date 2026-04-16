@@ -42,8 +42,8 @@ Overall Rating: <mark style="color:yellow;">**3/5**</mark>**&#x20;- Needs Improv
 **Machine-Readable Price Transparency Files Review**
 
 * **MRFs Up-to-Date:** ✔️ Yes, the MRFs are kept up to date each month.
-* **Table of Contents Accessibility:** ❌ The Table of Contents link is easily accessible.
-* **Table of Contents Formatting:** ❌ Yes, the Table of Contents is properly formatted.
+* **Table of Contents Accessibility:** ❌ Select Health does not provide a standard Table of Contents. Payerset has created one to enable parsing.
+* **Table of Contents Formatting:** ❌ Select Health does not provide a standard Table of Contents.
 * **File Download Barriers:** ✔️ No barriers to downloading the MRFs.
 * **File Accessibility Percentage:** ✔️ 100% of the files are accessible.
 

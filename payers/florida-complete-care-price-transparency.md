@@ -33,7 +33,7 @@ Overall Rating: <mark style="color:orange;">**2/5**</mark>**&#x20;- Below Expect
 
 **Machine-Readable Price Transparency Files Review**
 
-* **MRFs Up-to-Date:** :warning: The MRFs have some incosistencies in getting posted
+* **MRFs Up-to-Date:** :warning: The MRFs have some inconsistencies in getting posted
 * **Table of Contents Accessibility:** :warning:  The Table of Contents link is not easily accessible.
 * **Table of Contents Formatting:** :warning:  See above
 * **File Download Barriers:** ✔️ No barriers to downloading the MRFs, though the provider links do not work properly (see below).

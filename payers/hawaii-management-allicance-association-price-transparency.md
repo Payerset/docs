@@ -34,10 +34,10 @@ Overall Rating: <mark style="color:orange;">**2/5**</mark>**- Below Expectations
 
 **Machine-Readable Price Transparency Files Review**
 
-* **MRFs Up-to-Date:** :x: Yes, the MRFs are kept up to date each month.
+* **MRFs Up-to-Date:** ✔️ Yes, the MRFs are kept up to date each month.
 * **Table of Contents Accessibility:** ✔️ The Table of Contents link is easily accessible.
-* **Table of Contents Formatting:** :x: Yes, the Table of Contents is properly formatted.
+* **Table of Contents Formatting:** ✔️ Yes, the Table of Contents is properly formatted.
 * **File Download Barriers:** ✔️ No barriers to downloading the MRFs, though the provider links do not work properly (see below).
-* **File Accessibility Percentage:** ✔️ The provider references in many of the Dean MRFs link to non-existent files, making it impossible to trace the rates back to the respective providers.
+* **File Accessibility Percentage:** ❌ Some provider references link to non-existent files, making it difficult to trace rates back to respective providers.
 
 **Overall Assessment:** HMAA struggles with both timeliness in updating the data as well as having fairly significant data quality issues. We are hoping they get more consistent in their practices.
