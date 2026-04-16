@@ -20,9 +20,14 @@ Overall Rating: <mark style="color:green;">**4/5**</mark>**&#x20;- Good**
 
 ### Schema: PROVIDENCE\_HEALTH
 
-**Rates Records**: 8,470,746,402
+#### **Data Validation**
 
-**Provider Records**: 5,486,853
+| Record Type                   | Record Count |
+| ----------------------------- | ------------ |
+| Providers                     | 280,504,731 |
+| Rates                         | 2,398,225,908 |
+| Bundled Codes                 | 4,118,455 |
+| Covered Services (Capitation) | 0 |
 
 ### Additional Observations
 

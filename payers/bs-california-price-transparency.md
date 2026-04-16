@@ -20,9 +20,14 @@ Overall Rating: <mark style="color:green;">**5/5**</mark>**&#x20;- Excellent**
 
 ### Schema: BS\_CALIFORNIA
 
-**Rates Records**: 301,672,917,762
+#### **Data Validation**
 
-**Provider Records**: 162,828,183,815
+| Record Type                   | Record Count |
+| ----------------------------- | ------------ |
+| Providers                     | 312,635,476 |
+| Rates                         | 94,399,806,603 |
+| Bundled Codes                 | 0 |
+| Covered Services (Capitation) | 0 |
 
 ### Additional Observations
 

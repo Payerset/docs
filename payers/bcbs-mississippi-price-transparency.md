@@ -20,9 +20,14 @@ Overall Rating: <mark style="color:green;">**5/5**</mark>**&#x20;- Excellent**
 
 ### Schema: BCBS\_MISSISSIPPI
 
-**Rates Records**: 650,852,219
+#### **Data Validation**
 
-**Provider Records**: 72,134
+| Record Type                   | Record Count |
+| ----------------------------- | ------------ |
+| Providers                     | 102,565 |
+| Rates                         | 719,709,210 |
+| Bundled Codes                 | 0 |
+| Covered Services (Capitation) | 0 |
 
 ### Additional Observations
 

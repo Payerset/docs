@@ -20,9 +20,14 @@ Overall Rating: **N/A (see notes at bottom)**
 
 ### Schema: PARTNERS\_HEALTHCARE
 
-**Rates Records**: 1,484,890,123
+#### **Data Validation**
 
-**Provider Records**: 1,035,829,671
+| Record Type                   | Record Count |
+| ----------------------------- | ------------ |
+| Providers                     | 0 |
+| Rates                         | 0 |
+| Bundled Codes                 | 0 |
+| Covered Services (Capitation) | 0 |
 
 ### Additional Observations
 

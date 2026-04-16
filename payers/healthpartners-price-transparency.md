@@ -20,9 +20,14 @@ Overall Rating: <mark style="color:green;">**5/5**</mark>**&#x20;- Excellent**
 
 ### Schema: HEALTHPARTNERS
 
-**Rates Records**: 1,767,818,289
+#### **Data Validation**
 
-**Provider Records**: 2,250,258
+| Record Type                   | Record Count |
+| ----------------------------- | ------------ |
+| Providers                     | 2,307,372 |
+| Rates                         | 1,849,206,845 |
+| Bundled Codes                 | 0 |
+| Covered Services (Capitation) | 0 |
 
 ### Additional Observations
 

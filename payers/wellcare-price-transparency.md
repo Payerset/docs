@@ -20,9 +20,14 @@ Overall Rating: <mark style="color:green;">**5/5**</mark>**&#x20;- Excellent**
 
 ### Schema: WELLCARE
 
-**Rates Records**: 794,597,383
+#### **Data Validation**
 
-**Provider Records**: 8,638,384
+| Record Type                   | Record Count |
+| ----------------------------- | ------------ |
+| Providers                     | 19,165,430 |
+| Rates                         | 1,371,451,585 |
+| Bundled Codes                 | 0 |
+| Covered Services (Capitation) | 0 |
 
 ### Additional Observations
 

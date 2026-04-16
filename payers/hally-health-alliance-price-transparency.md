@@ -20,9 +20,14 @@ Overall Rating: **4/5 - Meets Expectations**
 
 ### Schema: HEALTH\_ALLIANCE
 
-**Rates Records**: 1,377,249,035
+#### **Data Validation**
 
-**Provider Records**: 3,413,414
+| Record Type                   | Record Count |
+| ----------------------------- | ------------ |
+| Providers                     | 0 |
+| Rates                         | 0 |
+| Bundled Codes                 | 0 |
+| Covered Services (Capitation) | 0 |
 
 ### Additional Observations
 

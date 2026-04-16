@@ -20,15 +20,20 @@ Overall Rating: <mark style="color:red;">**1/5**</mark> **- Out of Compliance**
 
 ### Schema: WELLSENSE
 
-**Rates Records**: 512,383,474
+#### **Data Validation**
 
-**Provider Records**: 38,385,016
+| Record Type                   | Record Count |
+| ----------------------------- | ------------ |
+| Providers                     | 0 |
+| Rates                         | 0 |
+| Bundled Codes                 | 0 |
+| Covered Services (Capitation) | 0 |
 
 ### Additional Observations
 
 **Machine-Readable Price Transparency Files Review**
 
-* **MRFs Up-to-Date:** :x: Yes, the MRFs are kept up to date each month.
+* **MRFs Up-to-Date:** ❌ No, the MRFs have not been updated since December 2022.
 * **Table of Contents Accessibility:** ❌ There is no table of contents, one has to be made.
 * **Table of Contents Formatting:** ❌ There is no table of contents, one has to be made.
 * **File Download Barriers:** ✔️ No barriers to downloading the MRFs.
@@ -36,4 +41,4 @@ Overall Rating: <mark style="color:red;">**1/5**</mark> **- Out of Compliance**
 
 **Overall Assessment:**&#x20;
 
-There have been no updates since Decembter 2022, causing us to downgrade Viva's compliance score to completely out of compliance.
+There have been no updates since December 2022, causing us to downgrade WellSense's compliance score to completely out of compliance.

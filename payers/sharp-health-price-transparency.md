@@ -20,9 +20,14 @@ Overall Rating: <mark style="color:red;">**1/5**</mark>**&#x20;- Below Expectati
 
 ### Schema: SHARP\_HEALTH\_PLAN
 
-**Rates Records**: N/A
+#### **Data Validation**
 
-**Provider Records**: N/A
+| Record Type                   | Record Count |
+| ----------------------------- | ------------ |
+| Providers                     | 0 |
+| Rates                         | 0 |
+| Bundled Codes                 | 0 |
+| Covered Services (Capitation) | 0 |
 
 ### Additional Observations
 
@@ -30,7 +35,7 @@ Overall Rating: <mark style="color:red;">**1/5**</mark>**&#x20;- Below Expectati
 
 * **MRFs Up-to-Date:** ✔️ Yes, the MRFs are kept up to date each month.
 * **Table of Contents Accessibility:** :x: The Table of Contents link is inaccessible.
-* **Table of Contents Formatting:** :x: Yes, the Table of Contents is unnecessarily complicated.
+* **Table of Contents Formatting:** ❌ The Table of Contents format is unnecessarily complicated.
 * **File Download Barriers:** ✔️ No, there are no barriers to downloading the files.
 * **File Accessibility Percentage:** No, files are not accessible at all
 

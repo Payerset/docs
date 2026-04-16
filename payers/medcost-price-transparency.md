@@ -20,9 +20,14 @@ Overall Rating: <mark style="color:yellow;">**3/5**</mark>**&#x20;- Needs Improv
 
 ### Schema: MEDCOST
 
-**Rates Records**: 24,261,569,510
+#### **Data Validation**
 
-**Provider Records**: 30,886,461,191
+| Record Type                   | Record Count |
+| ----------------------------- | ------------ |
+| Providers                     | 45,170,068,399 |
+| Rates                         | 18,050,690,876 |
+| Bundled Codes                 | 2,083,672 |
+| Covered Services (Capitation) | 0 |
 
 ### Additional Observations
 

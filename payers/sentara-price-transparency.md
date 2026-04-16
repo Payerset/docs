@@ -24,9 +24,14 @@ Overall Rating: <mark style="color:yellow;">**3/5**</mark>**&#x20;- Below Expect
 
 ### Schema: SENTARA
 
-**Rates Records**: 309,116,118
+#### **Data Validation**
 
-**Provider Records**: 1,316,468
+| Record Type                   | Record Count |
+| ----------------------------- | ------------ |
+| Providers                     | 1,603,033 |
+| Rates                         | 1,046,236,154 |
+| Bundled Codes                 | 0 |
+| Covered Services (Capitation) | 0 |
 
 ### Additional Observations
 

@@ -20,9 +20,14 @@ Overall Rating: <mark style="color:green;">**5/5**</mark>**&#x20;- Excellent**
 
 ### Schema: MEDICAL\_MUTUAL\_OHIO
 
-**Rates Records**: 223,908,152
+#### **Data Validation**
 
-**Provider Records**: 229,620,756
+| Record Type                   | Record Count |
+| ----------------------------- | ------------ |
+| Providers                     | 229,877,846 |
+| Rates                         | 259,652,067 |
+| Bundled Codes                 | 1,060,451 |
+| Covered Services (Capitation) | 1,060,451 |
 
 ### Additional Observations
 

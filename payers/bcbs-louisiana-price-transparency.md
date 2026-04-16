@@ -20,9 +20,14 @@ Overall Rating: <mark style="color:green;">**5/5**</mark>**&#x20;- Excellent**
 
 ### Schema: BCBS\_LOUISIANA
 
-**Rates Records**: 50,943,766
+#### **Data Validation**
 
-**Provider Records**: 32,530,475,995
+| Record Type                   | Record Count |
+| ----------------------------- | ------------ |
+| Providers                     | 3,617,782,537 |
+| Rates                         | 1,575,914,348 |
+| Bundled Codes                 | 0 |
+| Covered Services (Capitation) | 0 |
 
 ### Additional Observations
 

@@ -21,9 +21,14 @@ Overall Rating: <mark style="color:green;">**5/5**</mark>**&#x20;- Excellent**
 
 ### Schema: NEIGHBORHOOD\_HEALTH\_PLAN
 
-**Rates Records**: 14,397,431
+#### **Data Validation**
 
-**Provider Records**: 3,871,606
+| Record Type                   | Record Count |
+| ----------------------------- | ------------ |
+| Providers                     | 333,602 |
+| Rates                         | 2,038 |
+| Bundled Codes                 | 0 |
+| Covered Services (Capitation) | 0 |
 
 ### Additional Observations
 

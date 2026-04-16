@@ -21,9 +21,14 @@ Overall Rating: <mark style="color:green;">**5/5**</mark>**&#x20;- Excellent**
 
 ### Schema: HIGHMARK\_NE\_NEW\_YORK
 
-**Rates Records**: 147,941
+#### **Data Validation**
 
-**Provider Records**: 501,593
+| Record Type                   | Record Count |
+| ----------------------------- | ------------ |
+| Providers                     | 464,210 |
+| Rates                         | 128,498 |
+| Bundled Codes                 | 0 |
+| Covered Services (Capitation) | 0 |
 
 ### Additional Observations
 

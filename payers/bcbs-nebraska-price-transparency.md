@@ -20,9 +20,14 @@ Overall Rating: <mark style="color:green;">**5/5**</mark>**&#x20;- Excellent**
 
 ### Schema: BCBS\_NEBRASKA
 
-**Rates Records**: 62,511,569
+#### **Data Validation**
 
-**Provider Records**: 472,165
+| Record Type                   | Record Count |
+| ----------------------------- | ------------ |
+| Providers                     | 400,181 |
+| Rates                         | 43,902,876 |
+| Bundled Codes                 | 0 |
+| Covered Services (Capitation) | 0 |
 
 ### Additional Observations
 

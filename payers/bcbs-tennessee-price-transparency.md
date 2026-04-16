@@ -20,9 +20,14 @@ Overall Rating: <mark style="color:green;">**4/5**</mark>**&#x20;- Good**
 
 ### Schema: BCBS\_TENNESSEE
 
-**Rates Records**: 286,922,047
+#### **Data Validation**
 
-**Provider Records**: 6,871,461,157
+| Record Type                   | Record Count |
+| ----------------------------- | ------------ |
+| Providers                     | 4,283,212,654 |
+| Rates                         | 100,875,560 |
+| Bundled Codes                 | 0 |
+| Covered Services (Capitation) | 0 |
 
 ### Additional Observations
 

@@ -20,9 +20,14 @@ Overall Rating: <mark style="color:green;">**4/5**</mark>**&#x20;- Good**
 
 ### Schema: CIGNA
 
-**Rates Records**: 5,042,350,358
+#### **Data Validation**
 
-**Provider Records**: 407,010,572
+| Record Type                   | Record Count |
+| ----------------------------- | ------------ |
+| Providers                     | 397,293,253 |
+| Rates                         | 4,858,834,150 |
+| Bundled Codes                 | 0 |
+| Covered Services (Capitation) | 0 |
 
 ### Additional Observations
 

@@ -20,9 +20,14 @@ Overall Rating: <mark style="color:orange;">**2/5**</mark>**&#x20;- Below Expect
 
 ### Schema: DEAN
 
-**Rates Records**: 4,080,798,668
+#### **Data Validation**
 
-**Provider Records**: 8,936,466
+| Record Type                   | Record Count |
+| ----------------------------- | ------------ |
+| Providers                     | 0 |
+| Rates                         | 0 |
+| Bundled Codes                 | 0 |
+| Covered Services (Capitation) | 0 |
 
 ### Additional Observations
 

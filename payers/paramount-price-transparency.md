@@ -1,7 +1,7 @@
 ---
 description: >-
   This data contains the price transparency machine-readable files provided by
-  Paramountthat have been normalized into easy-to-use tables.
+  Paramount that have been normalized into easy-to-use tables.
 ---
 
 # 🟢 Paramount
@@ -20,17 +20,22 @@ Overall Rating: <mark style="color:green;">**4/5**</mark> **- Good**
 
 ### Schema: PARAMOUNT
 
-**Rates Records**: 3,283,725
+#### **Data Validation**
 
-**Provider Records**: 45,096
+| Record Type                   | Record Count |
+| ----------------------------- | ------------ |
+| Providers                     | 54,487 |
+| Rates                         | 1,632,966 |
+| Bundled Codes                 | 0 |
+| Covered Services (Capitation) | 0 |
 
 ### Additional Observations
 
 **Machine-Readable Price Transparency Files Review**
 
-* **MRFs Up-to-Date:** :x: Yes, the MRFs are kept up to date each month.
-* **Table of Contents Accessibility:** :heavy\_check\_mark: There is no table of contents, one has to be made.
-* **Table of Contents Formatting:** :heavy\_check\_mark: There is no table of contents, one has to be made.
+* **MRFs Up-to-Date:** ✔️ Yes, the MRFs are kept up to date each month.
+* **Table of Contents Accessibility:** ❌ There is no standard Table of Contents provided.
+* **Table of Contents Formatting:** ❌ There is no standard Table of Contents provided.
 * **File Download Barriers:** ✔️ No barriers to downloading the MRFs.
 * **File Accessibility Percentage:** ✔️ 100% of the files are accessible.
 

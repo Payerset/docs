@@ -20,9 +20,14 @@ Overall Rating: <mark style="color:green;">**5/5**</mark>**&#x20;- Excellent**
 
 ### Schema: MEDICA
 
-**Rates Records**: 4,365,599,035
+#### **Data Validation**
 
-**Provider Records**: 298,026,888
+| Record Type                   | Record Count |
+| ----------------------------- | ------------ |
+| Providers                     | 322,747,273 |
+| Rates                         | 11,309,780,775 |
+| Bundled Codes                 | 4,108,828 |
+| Covered Services (Capitation) | 0 |
 
 ### Additional Observations
 

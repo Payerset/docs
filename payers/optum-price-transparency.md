@@ -20,9 +20,14 @@ Overall Rating: <mark style="color:green;">**4/5**</mark>**&#x20;- Good**
 
 ### Schema: OPTUM
 
-**Rates Records**: 9,173,270,678
+#### **Data Validation**
 
-**Provider Records**: 409,038,958
+| Record Type                   | Record Count |
+| ----------------------------- | ------------ |
+| Providers                     | 473,693,991 |
+| Rates                         | 10,940,192,874 |
+| Bundled Codes                 | 0 |
+| Covered Services (Capitation) | 0 |
 
 ### Additional Observations
 

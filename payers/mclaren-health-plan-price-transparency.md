@@ -20,9 +20,14 @@ Overall Rating: <mark style="color:green;">**5/5**</mark>**&#x20;- Excellent**
 
 ### Schema: MCLAREN\_HEALTH\_PLAN
 
-**Rates Records**: 12,449
+#### **Data Validation**
 
-**Provider Records**: 610,588
+| Record Type                   | Record Count |
+| ----------------------------- | ------------ |
+| Providers                     | 89,286 |
+| Rates                         | 103,902 |
+| Bundled Codes                 | 0 |
+| Covered Services (Capitation) | 0 |
 
 ### Additional Observations
 

@@ -20,9 +20,14 @@ Overall Rating: <mark style="color:green;">**5/5**</mark>**&#x20;- Excellent**
 
 ### Schema: QUARTZ
 
-**Rates Records**: 2,223,526,713
+#### **Data Validation**
 
-**Provider Records**: 9,899,691
+| Record Type                   | Record Count |
+| ----------------------------- | ------------ |
+| Providers                     | 13,739,820 |
+| Rates                         | 2,714,364,776 |
+| Bundled Codes                 | 227,807,122 |
+| Covered Services (Capitation) | 0 |
 
 ### Additional Observations
 

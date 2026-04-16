@@ -20,9 +20,14 @@ Overall Rating: <mark style="color:yellow;">**3.5/5**</mark>**&#x20;- Average**
 
 ### Schema: MODA\_HEALTH
 
-**Rates Records**: 1,971,944,645
+#### **Data Validation**
 
-**Provider Records**: 14,283,432,770
+| Record Type                   | Record Count |
+| ----------------------------- | ------------ |
+| Providers                     | 16,643,957,430 |
+| Rates                         | 1,941,651,841 |
+| Bundled Codes                 | 3,088,209 |
+| Covered Services (Capitation) | 1,004,537 |
 
 ### Additional Observations
 
@@ -30,8 +35,8 @@ Overall Rating: <mark style="color:yellow;">**3.5/5**</mark>**&#x20;- Average**
 
 * **MRFs Up-to-Date:** ✔️ Yes, the MRFs are kept up to date each month.
 * **Table of Contents Accessibility:** ✔️ The Table of Contents link is easily accessible.
-* **Table of Contents Formatting:** :x: Yes, the Table of Contents is properly formatted.
+* **Table of Contents Formatting:** ❌ The Table of Contents requires additional processing to access due to embedded HTML elements.
 * **File Download Barriers:** ✔️ No barriers to downloading the MRFs.
 * **File Accessibility Percentage:** :heavy\_check\_mark: 100% of the files are accessible.
 
-**Moda Health has formatting issues, including erroenous HTML elements in certain files that make parsing and formatting difficult.**
+**Moda Health has formatting issues, including erroneous HTML elements in certain files that make parsing and formatting difficult.**

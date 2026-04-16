@@ -24,11 +24,10 @@ Overall Rating: <mark style="color:green;">**4/5**</mark>**&#x20;- Good**
 
 | Record Type                   | Record Count |
 | ----------------------------- | ------------ |
-| Negotiated Rates              | 599,339      |
-| Nonstandard Codes             | 0            |
-| Providers                     | 27,044,425   |
-| Bundled Codes                 | 0            |
-| Covered Services (Capitation) | 0            |
+| Providers                     | 52,481,550 |
+| Rates                         | 1,214,486 |
+| Bundled Codes                 | 596,938 |
+| Covered Services (Capitation) | 0 |
 
 ### Additional Observations
 

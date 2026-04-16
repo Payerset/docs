@@ -20,9 +20,14 @@ Overall Rating: <mark style="color:green;">**4/5**</mark>**&#x20;- Good**
 
 ### Schema: KAISER
 
-**Rates Records**: 4,657,541,742
+#### **Data Validation**
 
-**Provider Records**: 145,616,578
+| Record Type                   | Record Count |
+| ----------------------------- | ------------ |
+| Providers                     | 7,070,772 |
+| Rates                         | 4,717,674,227 |
+| Bundled Codes                 | 480,349,138 |
+| Covered Services (Capitation) | 0 |
 
 ### Additional Observations
 

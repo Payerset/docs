@@ -20,9 +20,14 @@ Overall Rating: **1/5 - Not Compliant**
 
 ### Schema: COMMUNITY\_CARE\_NC
 
-**Rates Records**: 0
+#### **Data Validation**
 
-**Provider Records**: 0
+| Record Type                   | Record Count |
+| ----------------------------- | ------------ |
+| Providers                     | 0 |
+| Rates                         | 0 |
+| Bundled Codes                 | 0 |
+| Covered Services (Capitation) | 0 |
 
 ### Additional Observations
 

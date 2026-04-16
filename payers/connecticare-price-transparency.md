@@ -20,9 +20,14 @@ Overall Rating: <mark style="color:green;">**5/5**</mark>**&#x20;- Excellent**
 
 ### Schema: CONNECTICARE
 
-**Rates Records**: 179,785,134
+#### **Data Validation**
 
-**Provider Records**: 678,966
+| Record Type                   | Record Count |
+| ----------------------------- | ------------ |
+| Providers                     | 217,047 |
+| Rates                         | 2,278,777 |
+| Bundled Codes                 | 0 |
+| Covered Services (Capitation) | 0 |
 
 ### Additional Observations
 

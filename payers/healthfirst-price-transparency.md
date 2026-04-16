@@ -20,9 +20,14 @@ Overall Rating: **4/5 - Meets Expectations**
 
 ### Schema: HEALTHFIRST
 
-**Rates Records**: 5,058,948,216
+#### **Data Validation**
 
-**Provider Records**: 50,374,715
+| Record Type                   | Record Count |
+| ----------------------------- | ------------ |
+| Providers                     | 149,165,495 |
+| Rates                         | 4,696,044,580 |
+| Bundled Codes                 | 0 |
+| Covered Services (Capitation) | 0 |
 
 ### Additional Observations
 

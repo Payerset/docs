@@ -21,9 +21,14 @@ Overall Rating: <mark style="color:green;">**5/5**</mark>**&#x20;- Excellent**
 
 ### Schema: HEALTHNET
 
-**Rates Records**: 11,203
+#### **Data Validation**
 
-**Provider Records**: 6,459
+| Record Type                   | Record Count |
+| ----------------------------- | ------------ |
+| Providers                     | 4,150 |
+| Rates                         | 1,373,568 |
+| Bundled Codes                 | 0 |
+| Covered Services (Capitation) | 0 |
 
 ### Additional Observations
 

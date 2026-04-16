@@ -20,17 +20,22 @@ Overall Rating: <mark style="color:green;">**4/5**</mark> **- Good**
 
 ### Schema: SUMMACARE
 
-**Rates Records**: 1,093,592,444
+#### **Data Validation**
 
-**Provider Records**: 4,922,196
+| Record Type                   | Record Count |
+| ----------------------------- | ------------ |
+| Providers                     | 229,774 |
+| Rates                         | 90,547,425 |
+| Bundled Codes                 | 0 |
+| Covered Services (Capitation) | 0 |
 
 ### Additional Observations
 
 **Machine-Readable Price Transparency Files Review**
 
-* **MRFs Up-to-Date:** :x: Yes, the MRFs are kept up to date each month.
-* **Table of Contents Accessibility:** :heavy\_check\_mark: There is no table of contents, one has to be made.
-* **Table of Contents Formatting:** :heavy\_check\_mark: There is no table of contents, one has to be made.
+* **MRFs Up-to-Date:** ✔️ Yes, the MRFs are kept up to date each month.
+* **Table of Contents Accessibility:** ❌ There is no standard Table of Contents provided.
+* **Table of Contents Formatting:** ❌ There is no standard Table of Contents provided.
 * **File Download Barriers:** ✔️ No barriers to downloading the MRFs.
 * **File Accessibility Percentage:** ✔️ 100% of the files are accessible.
 

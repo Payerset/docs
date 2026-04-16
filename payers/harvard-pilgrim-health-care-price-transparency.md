@@ -20,9 +20,14 @@ Overall Rating: <mark style="color:green;">**4/5**</mark>**&#x20;- Meets Expecta
 
 ### Schema: HARVARD\_PILGRIM
 
-**Rates Records**: 1,108,578,252
+#### **Data Validation**
 
-**Provider Records**: 8,205,907
+| Record Type                   | Record Count |
+| ----------------------------- | ------------ |
+| Providers                     | 9,153,614 |
+| Rates                         | 1,215,261,020 |
+| Bundled Codes                 | 0 |
+| Covered Services (Capitation) | 0 |
 
 ### Additional Observations
 
@@ -31,7 +36,7 @@ Overall Rating: <mark style="color:green;">**4/5**</mark>**&#x20;- Meets Expecta
 * **MRFs Up-to-Date:** ✔️ Yes, the MRFs are kept up to date each month.
 * **Table of Contents Accessibility:** ✔️ The Table of Contents link is easily accessible.
 * **Table of Contents Formatting:** ✔️ Yes, the Table of Contents is properly formatted.
-* **File Download Barriers:** ✔️ No barriers to downloading the MRFs, though the provider links do not work properly (see below).
-* **File Accessibility Percentage:** ✔️ The provider references in many of the Dean MRFs link to non-existent files, making it impossible to trace the rates back to the respective providers.
+* **File Download Barriers:** ✔️ No barriers to downloading the MRFs.
+* **File Accessibility Percentage:** ✔️ 100% of the files are accessible.
 
 **Overall Assessment:** Harvard Pilgrim Health Care does a good job publishing on time with a good quality. Keep it up!

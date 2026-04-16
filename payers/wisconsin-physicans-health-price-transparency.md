@@ -21,9 +21,14 @@ Overall Rating: <mark style="color:yellow;">**3/5**</mark>**&#x20;- Average**
 
 ### Schema: WISCONSIN\_PHYSICIANS\_HEALTH
 
-**Rates Records**: 5,656,041,754
+#### **Data Validation**
 
-**Provider Records**: 5,680,533
+| Record Type                   | Record Count |
+| ----------------------------- | ------------ |
+| Providers                     | 1,175,582 |
+| Rates                         | 932,594,701 |
+| Bundled Codes                 | 0 |
+| Covered Services (Capitation) | 0 |
 
 ### Additional Observations
 

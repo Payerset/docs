@@ -20,9 +20,14 @@ Overall Rating: <mark style="color:green;">**5/5**</mark>**&#x20;- Excellent**
 
 ### Schema: MARTINS\_POINT
 
-**Rates Records**: 305,372,897
+#### **Data Validation**
 
-**Provider Records**: 4,231,758
+| Record Type                   | Record Count |
+| ----------------------------- | ------------ |
+| Providers                     | 12,550,976 |
+| Rates                         | 548,834,585 |
+| Bundled Codes                 | 0 |
+| Covered Services (Capitation) | 0 |
 
 ### Additional Observations
 

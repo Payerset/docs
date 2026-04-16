@@ -21,18 +21,23 @@ Overall Rating: <mark style="color:red;">**1/5**</mark>**&#x20;- Below Expectati
 
 ### Schema: GROUP\_HEALTH\_COOPERATIVE\_OF\_EAU\_CLAIRE
 
-**Rates Records**: 25,364,718
+#### **Data Validation**
 
-**Provider Records**: 913,024
+| Record Type                   | Record Count |
+| ----------------------------- | ------------ |
+| Providers                     | 0 |
+| Rates                         | 0 |
+| Bundled Codes                 | 0 |
+| Covered Services (Capitation) | 0 |
 
 ### Additional Observations
 
 **Machine-Readable Price Transparency Files Review**
 
-* **MRFs Up-to-Date:** ❌ Yes, the MRFs are kept up to date each month.
+* **MRFs Up-to-Date:** ❌ No, the MRFs have not been updated since June 2024.
 * **Table of Contents Accessibility:** ✔️ The Table of Contents link is easily accessible.
 * **Table of Contents Formatting:** ✔️ Yes, the Table of Contents is properly formatted.
 * **File Download Barriers:** ✔️ No barriers to downloading the MRFs, though the provider links do not work properly (see below).
-* **File Accessibility Percentage:** ✔️ The provider references in many of the Dean MRFs link to non-existent files, making it impossible to trace the rates back to the respective providers.
+* **File Accessibility Percentage:** ❌ Some provider references link to non-existent files, making it difficult to trace rates back to respective providers.
 
 **Overall Assessment:** Group Health Cooperative of Eau Claire has not updated files since June 2024 and **is severely out of compliance**.

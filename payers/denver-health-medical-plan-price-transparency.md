@@ -20,9 +20,14 @@ Overall Rating: <mark style="color:orange;">**2/5**</mark>**&#x20;- Below Expect
 
 ### Schema: DENVER\_HEALTH\_MEDICAL\_PLAN
 
-**Rates Records**: 512,813,004
+#### **Data Validation**
 
-**Provider Records**: 1,209,354
+| Record Type                   | Record Count |
+| ----------------------------- | ------------ |
+| Providers                     | 0 |
+| Rates                         | 0 |
+| Bundled Codes                 | 0 |
+| Covered Services (Capitation) | 0 |
 
 ### Additional Observations
 
@@ -31,7 +36,7 @@ Overall Rating: <mark style="color:orange;">**2/5**</mark>**&#x20;- Below Expect
 * **MRFs Up-to-Date:** ❌ No, the MRFs are severely out of date
 * **Table of Contents Accessibility:** ✔️ The Table of Contents link is easily accessible.
 * **Table of Contents Formatting:** ✔️ Yes, the Table of Contents is properly formatted.
-* **File Download Barriers:** ✔️ Several files linked in the Table of Contents are not accessible.
-* **File Accessibility Percentage:** \✔️ only a few of the files are accessible and several of those have no data. Several files are corrupted (see below).
+* **File Download Barriers:** ❌ Several files linked in the Table of Contents are not accessible.
+* **File Accessibility Percentage:** ❌ Only a few of the files are accessible and several of those have no data.
 
 **Overall Assessment:** Denver Health Medical Plan is severely out of compliance. As of February 2025, the most recent data only available from Sep 2024.&#x20;

@@ -20,9 +20,14 @@ Overall Rating: <mark style="color:yellow;">**3/5**</mark>**&#x20; - Average**
 
 ### Schema: MERITAIN
 
-**Rates Records**: 52,513,936,718
+#### **Data Validation**
 
-**Provider Records**: 725,110,545
+| Record Type                   | Record Count |
+| ----------------------------- | ------------ |
+| Providers                     | 2,245,512,350 |
+| Rates                         | 46,104,141,150 |
+| Bundled Codes                 | 7,053,754 |
+| Covered Services (Capitation) | 0 |
 
 ### Additional Observations
 
@@ -32,7 +37,7 @@ Overall Rating: <mark style="color:yellow;">**3/5**</mark>**&#x20; - Average**
 * **Table of Contents Accessibility:** ✔️ The Table of Contents link is easily accessible.
 * **Table of Contents Formatting:** ✔️ Yes, the Table of Contents is properly formatted.
 * **File Download Barriers:** ✔️ No barriers to downloading the MRFs.
-* **File Accessibility Percentage:** :x: 100% of the files are accessible.
+* **File Accessibility Percentage:** ❌ Most files are accessible, though approximately 175 files are currently not accessible.
 
 **Meritain uses the same source and provider as Aetna** and so their files are similarly duplicated, but overall there are not very many and they appear to be complete.
 

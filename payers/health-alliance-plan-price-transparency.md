@@ -20,9 +20,14 @@ Overall Rating: <mark style="color:green;">**5/5**</mark>**&#x20;- Very Good**
 
 ### Schema: HEALTH\_ALLIANCE\_PLAN
 
-**Rates Records**: 3,5261,920
+#### **Data Validation**
 
-**Provider Records**: 458,213
+| Record Type                   | Record Count |
+| ----------------------------- | ------------ |
+| Providers                     | 537,348 |
+| Rates                         | 36,185,362 |
+| Bundled Codes                 | 189,169,134 |
+| Covered Services (Capitation) | 0 |
 
 ### Additional Observations
 

@@ -24,15 +24,20 @@ Overall Rating: <mark style="color:$success;">**4/5**</mark> **- Acceptable**
 
 ### Schema: VIVA
 
-**Rates Records**: 1,8242,878
+#### **Data Validation**
 
-**Provider Records**: 512,390,351
+| Record Type                   | Record Count |
+| ----------------------------- | ------------ |
+| Providers                     | 0 |
+| Rates                         | 0 |
+| Bundled Codes                 | 0 |
+| Covered Services (Capitation) | 0 |
 
 ### Additional Observations
 
 **Machine-Readable Price Transparency Files Review**
 
-* **MRFs Up-to-Date:** :x: Yes, the MRFs are kept up to date each month.
+* **MRFs Up-to-Date:** ✔️ Yes, the MRFs have been updated for February 2026.
 * **Table of Contents Accessibility:** ❌ There is no table of contents, one has to be made.
 * **Table of Contents Formatting:** ❌ There is no table of contents, one has to be made.
 * **File Download Barriers:** ✔️ No barriers to downloading the MRFs.

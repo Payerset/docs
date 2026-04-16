@@ -28,17 +28,22 @@ Overall Rating: <mark style="color:yellow;">**3/5**</mark>**&#x20;- Needs Improv
 
 ### Schema: SELECT\_HEALTH
 
-**Rates Records**: 2,786,522,891
+#### **Data Validation**
 
-**Provider Records**: 104,388,281
+| Record Type                   | Record Count |
+| ----------------------------- | ------------ |
+| Providers                     | 321,063,313 |
+| Rates                         | 8,246,648,932 |
+| Bundled Codes                 | 0 |
+| Covered Services (Capitation) | 0 |
 
 ### Additional Observations
 
 **Machine-Readable Price Transparency Files Review**
 
 * **MRFs Up-to-Date:** ✔️ Yes, the MRFs are kept up to date each month.
-* **Table of Contents Accessibility:** ❌ The Table of Contents link is easily accessible.
-* **Table of Contents Formatting:** ❌ Yes, the Table of Contents is properly formatted.
+* **Table of Contents Accessibility:** ❌ Select Health does not provide a standard Table of Contents. Payerset has created one to enable parsing.
+* **Table of Contents Formatting:** ❌ Select Health does not provide a standard Table of Contents.
 * **File Download Barriers:** ✔️ No barriers to downloading the MRFs.
 * **File Accessibility Percentage:** ✔️ 100% of the files are accessible.
 

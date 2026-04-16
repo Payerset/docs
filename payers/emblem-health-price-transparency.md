@@ -20,9 +20,14 @@ Overall Rating: <mark style="color:green;">**4/5**</mark>**&#x20;- Good**
 
 ### Schema: EMBLEM\_HEALTH
 
-**Rates Records**: 17,956,521,649
+#### **Data Validation**
 
-**Provider Records**: 56,945,014
+| Record Type                   | Record Count |
+| ----------------------------- | ------------ |
+| Providers                     | 2,691,938 |
+| Rates                         | 13,205,062 |
+| Bundled Codes                 | 0 |
+| Covered Services (Capitation) | 0 |
 
 ### Additional Observations
 

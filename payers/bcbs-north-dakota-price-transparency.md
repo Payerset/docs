@@ -20,9 +20,14 @@ Overall Rating: <mark style="color:green;">**5/5**</mark>**&#x20;- Excellent**
 
 ### Schema: BCBS\_NORTH\_DAKOTA
 
-**Rates Records**: 1,759,424,211
+#### **Data Validation**
 
-**Provider Records**: 10,011,041
+| Record Type                   | Record Count |
+| ----------------------------- | ------------ |
+| Providers                     | 10,166,841 |
+| Rates                         | 1,956,697,127 |
+| Bundled Codes                 | 0 |
+| Covered Services (Capitation) | 0 |
 
 ### Additional Observations
 

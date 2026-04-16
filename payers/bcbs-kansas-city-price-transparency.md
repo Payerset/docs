@@ -20,9 +20,14 @@ Overall Rating: <mark style="color:green;">**4/5**</mark>**&#x20;- Good**
 
 ### Schema: BCBS\_KANSAS\_CITY
 
-**Rates Records**: 197,169,497
+#### **Data Validation**
 
-**Provider Records**: 4,605,811,594
+| Record Type                   | Record Count |
+| ----------------------------- | ------------ |
+| Providers                     | 986,686,604 |
+| Rates                         | 526,383,355 |
+| Bundled Codes                 | 0 |
+| Covered Services (Capitation) | 0 |
 
 ### Additional Observations
 
@@ -31,7 +36,7 @@ Overall Rating: <mark style="color:green;">**4/5**</mark>**&#x20;- Good**
 * **MRFs Up-to-Date:** ✔️ Yes, the MRFs are kept up to date each month.
 * **Table of Contents Accessibility:** ✔️ The Table of Contents link is easily accessible.
 * **Table of Contents Formatting:** ✔️ Yes, the Table of Contents is properly formatted.
-* **File Download Barriers:** ❌ No barriers to downloading the MRFs.
+* **File Download Barriers:** ✔️ No barriers to downloading the MRFs.
 * **File Accessibility Percentage:** ❌ 99% of the files are accessible.
 
 **Overall Assessment:** BCBS Kansas City has a few files that are inaccessible (403 Forbidden errors) and 1 file that is in a nonstandard format once unzipped, which cannot be parsed. Overall, reliable though.

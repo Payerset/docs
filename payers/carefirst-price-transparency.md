@@ -20,9 +20,14 @@ Overall Rating: <mark style="color:green;">**5/5**</mark>**&#x20;- Excellent**
 
 ### Schema: CAREFIRST
 
-**Rates Records**: 17,725,991
+#### **Data Validation**
 
-**Provider Records**: 457,643
+| Record Type                   | Record Count |
+| ----------------------------- | ------------ |
+| Providers                     | 23,720,338 |
+| Rates                         | 439,494,380 |
+| Bundled Codes                 | 0 |
+| Covered Services (Capitation) | 0 |
 
 ### Additional Observations
 

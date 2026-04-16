@@ -20,18 +20,23 @@ Overall Rating: <mark style="color:orange;">**2.5/5**</mark>**&#x20;- Below Expe
 
 ### Schema: VALLEY\_HEALTH\_PLAN
 
-**Rates Records**: 12,144,193
+#### **Data Validation**
 
-**Provider Records**: 2,413,956
+| Record Type                   | Record Count |
+| ----------------------------- | ------------ |
+| Providers                     | 0 |
+| Rates                         | 0 |
+| Bundled Codes                 | 0 |
+| Covered Services (Capitation) | 0 |
 
 ### Additional Observations
 
 **Machine-Readable Price Transparency Files Review**
 
 * **MRFs Up-to-Date:** ✔️ Yes, the MRFs are kept up to date each month.
-* **Table of Contents Accessibility:** :heavy\_check\_mark: There is no table of contents, one has to be made.
-* **Table of Contents Formatting:** :heavy\_check\_mark: There is no table of contents, one has to be made.
-* **File Download Barriers:** :heavy\_check\_mark: No barriers to downloading the MRFs
-* **File Accessibility Percentage:** :x: 100% of the files are accessible, although we have to implement workarounds to access.
+* **Table of Contents Accessibility:** ❌ There is no standard Table of Contents provided.
+* **Table of Contents Formatting:** ❌ There is no standard Table of Contents provided.
+* **File Download Barriers:** ❌ Files are posted to locations that are not publicly accessible.
+* **File Accessibility Percentage:** ❌ Published file links point to blocked locations, and files are not publicly accessible.
 
-**Overall Assessment:** Valley Health Plan publishes data timely and in a good quality. There are occasional delays. However,  the file sare posted to blocked locations and have to be implement workarounds.
+**Overall Assessment:** Valley Health Plan publishes files, however the published file links point to blocked locations that are not publicly accessible. This significantly limits the ability to access and use the data.

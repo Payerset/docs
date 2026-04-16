@@ -20,9 +20,14 @@ Overall Rating: <mark style="color:green;">**5/5**</mark>**&#x20;- Excellent**
 
 ### Schema: BCBS\_TEXAS
 
-**Rates Records**: 1,243,861,531
+#### **Data Validation**
 
-**Provider Records**: 1,486,906,983
+| Record Type                   | Record Count |
+| ----------------------------- | ------------ |
+| Providers                     | 3,607,906,942 |
+| Rates                         | 4,597,045,802 |
+| Bundled Codes                 | 0 |
+| Covered Services (Capitation) | 0 |
 
 ### Additional Observations
 

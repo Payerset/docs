@@ -20,9 +20,14 @@ Overall Rating: <mark style="color:green;">**5/5**</mark>**&#x20;- Excellent**
 
 ### Schema: SANFORD
 
-**Rates Records**: 185,301,966
+#### **Data Validation**
 
-**Provider Records**: 4,156,957
+| Record Type                   | Record Count |
+| ----------------------------- | ------------ |
+| Providers                     | 2,969,194 |
+| Rates                         | 222,408,390 |
+| Bundled Codes                 | 10,987 |
+| Covered Services (Capitation) | 0 |
 
 ### Additional Observations
 

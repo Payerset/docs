@@ -20,15 +20,20 @@ Overall Rating: <mark style="color:green;">**4/5**</mark>**&#x20;- Meets Expecta
 
 ### Schema: OHIO\_HEALTH\_CHOICE\_PLAN
 
-**Rates Records**: 13,911,876
+#### **Data Validation**
 
-**Provider Records**: 169,081
+| Record Type                   | Record Count |
+| ----------------------------- | ------------ |
+| Providers                     | 0 |
+| Rates                         | 44,775 |
+| Bundled Codes                 | 0 |
+| Covered Services (Capitation) | 0 |
 
 ### Additional Observations
 
 **Machine-Readable Price Transparency Files Review**
 
-* **MRFs Up-to-Date:** :x: Yes, the MRFs are kept up to date each month, though each region appears to be updated separately and at different times.
+* **MRFs Up-to-Date:** ✔️ Yes, the MRFs are kept up to date each month, though each region appears to be updated separately and at different times.
 * **Table of Contents Accessibility:** ✔️ The Table of Contents link is easily accessible.
 * **Table of Contents Formatting:** ✔️ Table of Contents is properly formatted.
 * **File Download Barriers:** ✔️ There are no barriers.

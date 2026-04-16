@@ -20,9 +20,14 @@ Overall Rating: <mark style="color:green;">**5/5**</mark>**&#x20;- Excellent**
 
 ### Schema: MVP\_HEALTH
 
-**Rates Records**: 35,079,689,843
+#### **Data Validation**
 
-**Provider Records**: 383,304,523
+| Record Type                   | Record Count |
+| ----------------------------- | ------------ |
+| Providers                     | 2,949,488 |
+| Rates                         | 34,407,402,424 |
+| Bundled Codes                 | 0 |
+| Covered Services (Capitation) | 0 |
 
 ### Additional Observations
 

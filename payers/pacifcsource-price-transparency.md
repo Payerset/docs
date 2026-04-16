@@ -20,9 +20,14 @@ Overall Rating: <mark style="color:red;">**1/5**</mark>**&#x20;- Not in Complian
 
 ### Schema: PACIFICSOURCE
 
-**Rates Records**: 784,914,397
+#### **Data Validation**
 
-**Provider Records**: 62,355
+| Record Type                   | Record Count |
+| ----------------------------- | ------------ |
+| Providers                     | 0 |
+| Rates                         | 9,417,600,768 |
+| Bundled Codes                 | 0 |
+| Covered Services (Capitation) | 0 |
 
 ### Additional Observations
 

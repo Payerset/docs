@@ -20,9 +20,14 @@ Overall Rating: <mark style="color:yellow;">**3/5**</mark>**&#x20;- Needs Improv
 
 ### Schema: GEISINGER
 
-**Rates Records**: 17,563,741
+#### **Data Validation**
 
-**Provider Records**: 0
+| Record Type                   | Record Count |
+| ----------------------------- | ------------ |
+| Providers                     | 994,984 |
+| Rates                         | 418,571,827 |
+| Bundled Codes                 | 0 |
+| Covered Services (Capitation) | 1,076,918 |
 
 ### Additional Observations
 

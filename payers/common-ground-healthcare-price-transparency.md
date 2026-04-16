@@ -20,16 +20,21 @@ Overall Rating: <mark style="color:yellow;">**3/5**</mark>**&#x20;- Average**
 
 ### Schema: COMMON\_GROUND\_HEALTHCARE
 
-**Rates Records**: 40,066,258
+#### **Data Validation**
 
-**Provider Records**: 162,155,872
+| Record Type                   | Record Count |
+| ----------------------------- | ------------ |
+| Providers                     | 0 |
+| Rates                         | 0 |
+| Bundled Codes                 | 0 |
+| Covered Services (Capitation) | 0 |
 
 ### Additional Observations
 
 **Machine-Readable Price Transparency Files Review**
 
 * **MRFs Up-to-Date:** ❌ No, the MRFs are sometimes delayed in being updated.
-* **Table of Contents Accessibility:** ❌  The Table of Contents link is easily accessible.
+* **Table of Contents Accessibility:** ❌ The Table of Contents files are accessible but nested in multiple layers, requiring extra processing to locate.
 * **Table of Contents Formatting:** ✔️ Yes, the Table of Contents is properly formatted.
 * **File Download Barriers:** ✔️ No barriers to downloading the MRFs.
 * **File Accessibility Percentage:** ✔️ 100% of the files are accessible.

@@ -20,9 +20,14 @@ Overall Rating: <mark style="color:green;">**5/5**</mark>**&#x20;- Excellent**
 
 ### Schema: LIFEWISE
 
-**Rates Records**: 203,3194,043
+#### **Data Validation**
 
-**Provider Records**: 5,574,826,393
+| Record Type                   | Record Count |
+| ----------------------------- | ------------ |
+| Providers                     | 5,332,372,544 |
+| Rates                         | 2,145,697,771 |
+| Bundled Codes                 | 0 |
+| Covered Services (Capitation) | 0 |
 
 ### Additional Observations
 

@@ -21,9 +21,14 @@ Overall Rating: <mark style="color:green;">**5/5**</mark>**&#x20;- Excellent**
 
 ### Schema: EXCELLUS\_BCBS
 
-**Rates Records**: 187,461,202
+#### **Data Validation**
 
-**Provider Records**: 1,162,896
+| Record Type                   | Record Count |
+| ----------------------------- | ------------ |
+| Providers                     | 563,190 |
+| Rates                         | 47,560,541 |
+| Bundled Codes                 | 0 |
+| Covered Services (Capitation) | 0 |
 
 ### Additional Observations
 

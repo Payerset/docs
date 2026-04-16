@@ -20,17 +20,22 @@ Overall Rating: <mark style="color:green;">**4/5**</mark> **- Good**
 
 ### Schema: THE\_JEFFERSON\_HEALTH\_PLAN
 
-**Rates Records**: 38,847
+#### **Data Validation**
 
-**Provider Records**: 1,581,146
+| Record Type                   | Record Count |
+| ----------------------------- | ------------ |
+| Providers                     | 0 |
+| Rates                         | 0 |
+| Bundled Codes                 | 0 |
+| Covered Services (Capitation) | 0 |
 
 ### Additional Observations
 
 **Machine-Readable Price Transparency Files Review**
 
-* **MRFs Up-to-Date:** :x: Yes, the MRFs are kept up to date each month.
-* **Table of Contents Accessibility:** :heavy\_check\_mark: There is no table of contents, one has to be made.
-* **Table of Contents Formatting:** :heavy\_check\_mark: There is no table of contents, one has to be made.
+* **MRFs Up-to-Date:** ❌ No, the MRFs have not been updated since July 2025.
+* **Table of Contents Accessibility:** ❌ There is no standard Table of Contents provided.
+* **Table of Contents Formatting:** ❌ There is no standard Table of Contents provided.
 * **File Download Barriers:** ✔️ No barriers to downloading the MRFs.
 * **File Accessibility Percentage:** ✔️ 100% of the files are accessible.
 

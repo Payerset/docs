@@ -20,9 +20,14 @@ Overall Rating: <mark style="color:green;">**4/5**</mark>**&#x20;- Good**
 
 ### Schema: CAPITAL\_HEALTH\_PLAN
 
-**Rates Records**: 582,593,060
+#### **Data Validation**
 
-**Provider Records**: 7,844,012
+| Record Type                   | Record Count |
+| ----------------------------- | ------------ |
+| Providers                     | 23,252,034 |
+| Rates                         | 893,498,601 |
+| Bundled Codes                 | 0 |
+| Covered Services (Capitation) | 0 |
 
 ### Additional Observations
 
