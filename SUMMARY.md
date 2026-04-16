@@ -172,7 +172,6 @@
 * [⚪ OSF HealthCare](payers/osf-healthcare-price-transparency.md)
 * [🔴 PacificSource](payers/pacifcsource-price-transparency.md)
 * [🟢 Paramount](payers/paramount-price-transparency.md)
-* [🔴 Partners Healthcare](payers/partners-healthcare-price-transparency.md)
 * [⚪ Partnership HealthPlan](payers/partnership-healthplan-price-transparency.md)
 * [🟢 PHCS](payers/phcs-price-transparency.md)
 * [🟢 Physicians Health Plan (University of Michigan)](payers/physicians-health-plan-univ-michigan-price-transparency.md)
