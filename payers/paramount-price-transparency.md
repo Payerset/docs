@@ -20,9 +20,14 @@ Overall Rating: <mark style="color:green;">**4/5**</mark> **- Good**
 
 ### Schema: PARAMOUNT
 
-**Rates Records**: 3,283,725
+#### **Data Validation**
 
-**Provider Records**: 45,096
+| Record Type                   | Record Count |
+| ----------------------------- | ------------ |
+| Providers                     | 54,487 |
+| Rates                         | 1,632,966 |
+| Bundled Codes                 | 0 |
+| Covered Services (Capitation) | 0 |
 
 ### Additional Observations
 

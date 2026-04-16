@@ -21,9 +21,14 @@ Overall Rating: <mark style="color:green;">**4/5**</mark>**&#x20;- Good**
 
 ### Schema: PHYSICIANS\_HEALTH\_PLAN\_WI
 
-**Rates Records**: 31,642,438
+#### **Data Validation**
 
-**Provider Records**: 126,433
+| Record Type                   | Record Count |
+| ----------------------------- | ------------ |
+| Providers                     | 0 |
+| Rates                         | 0 |
+| Bundled Codes                 | 0 |
+| Covered Services (Capitation) | 0 |
 
 ### Additional Observations
 

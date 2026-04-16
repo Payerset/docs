@@ -20,9 +20,14 @@ Overall Rating: <mark style="color:green;">**4/5**</mark>**&#x20;- Good**
 
 ### Schema: UNITED\_HEALTHCARE
 
-**Rates Records**: 2,504,451,141,515
+#### **Data Validation**
 
-**Provider Records**: 12,310,072,571
+| Record Type                   | Record Count |
+| ----------------------------- | ------------ |
+| Providers                     | 16,361,358,915 |
+| Rates                         | 5,481,967,712,142 |
+| Bundled Codes                 | 0 |
+| Covered Services (Capitation) | 0 |
 
 ### Additional Observations
 

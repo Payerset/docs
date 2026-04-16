@@ -20,9 +20,14 @@ Overall Rating: <mark style="color:green;">**4/5**</mark>**&#x20;- Meets Expecta
 
 ### Schema: OHIO\_HEALTH\_CHOICE\_PLAN
 
-**Rates Records**: 13,911,876
+#### **Data Validation**
 
-**Provider Records**: 169,081
+| Record Type                   | Record Count |
+| ----------------------------- | ------------ |
+| Providers                     | 0 |
+| Rates                         | 44,775 |
+| Bundled Codes                 | 0 |
+| Covered Services (Capitation) | 0 |
 
 ### Additional Observations
 

@@ -24,9 +24,14 @@ Overall Rating: <mark style="color:red;">1</mark><mark style="color:red;">**/5**
 
 ### Schema: CARESOURCE
 
-**Rates Records**: 0
+#### **Data Validation**
 
-**Provider Records**: 398,000
+| Record Type                   | Record Count |
+| ----------------------------- | ------------ |
+| Providers                     | 294,277 |
+| Rates                         | 11,149,287 |
+| Bundled Codes                 | 0 |
+| Covered Services (Capitation) | 0 |
 
 ### Additional Observations
 

@@ -20,9 +20,14 @@ Overall Rating: <mark style="color:green;">**4/5**</mark>**&#x20;- Good**
 
 ### Schema: SECURITY\_HEALTH
 
-**Rates Records**: 61,100,294
+#### **Data Validation**
 
-**Provider Records**: 3,115,847
+| Record Type                   | Record Count |
+| ----------------------------- | ------------ |
+| Providers                     | 3,064,026 |
+| Rates                         | 60,749,407 |
+| Bundled Codes                 | 0 |
+| Covered Services (Capitation) | 0 |
 
 ### Additional Observations
 

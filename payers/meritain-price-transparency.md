@@ -20,9 +20,14 @@ Overall Rating: <mark style="color:yellow;">**3/5**</mark>**&#x20; - Average**
 
 ### Schema: MERITAIN
 
-**Rates Records**: 52,513,936,718
+#### **Data Validation**
 
-**Provider Records**: 725,110,545
+| Record Type                   | Record Count |
+| ----------------------------- | ------------ |
+| Providers                     | 2,245,512,350 |
+| Rates                         | 46,104,141,150 |
+| Bundled Codes                 | 7,053,754 |
+| Covered Services (Capitation) | 0 |
 
 ### Additional Observations
 

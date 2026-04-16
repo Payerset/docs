@@ -24,9 +24,14 @@ Overall Rating: <mark style="color:green;">**4/5**</mark> **- Good**
 
 ### Schema: AVMED\_HEALTH\_PLAN
 
-**Rates Records**: 10,325,318
+#### **Data Validation**
 
-**Provider Records**: 4,401,911
+| Record Type                   | Record Count |
+| ----------------------------- | ------------ |
+| Providers                     | 757,340 |
+| Rates                         | 237,487,408 |
+| Bundled Codes                 | 0 |
+| Covered Services (Capitation) | 0 |
 
 ### Additional Observations
 

@@ -20,9 +20,14 @@ Overall Rating: <mark style="color:orange;">**2/5**</mark>**&#x20;- Below Expect
 
 ### Schema: SPECTRUM\_PRIORITY\_HEALTH
 
-**Rates Records**: 1,223,884,349
+#### **Data Validation**
 
-**Provider Records**: 363,457,083
+| Record Type                   | Record Count |
+| ----------------------------- | ------------ |
+| Providers                     | 356,829,718 |
+| Rates                         | 849,729,354 |
+| Bundled Codes                 | 0 |
+| Covered Services (Capitation) | 0 |
 
 ### Additional Observations
 

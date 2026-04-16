@@ -20,9 +20,14 @@ Overall Rating: <mark style="color:green;">**4/5**</mark>**&#x20;- Good**
 
 ### Schema: BCBS\_KANSAS\_CITY
 
-**Rates Records**: 197,169,497
+#### **Data Validation**
 
-**Provider Records**: 4,605,811,594
+| Record Type                   | Record Count |
+| ----------------------------- | ------------ |
+| Providers                     | 986,686,604 |
+| Rates                         | 526,383,355 |
+| Bundled Codes                 | 0 |
+| Covered Services (Capitation) | 0 |
 
 ### Additional Observations
 

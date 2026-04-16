@@ -20,9 +20,14 @@ Overall Rating: <mark style="color:green;">**4/5**</mark> **- Good**
 
 ### Schema: THE\_JEFFERSON\_HEALTH\_PLAN
 
-**Rates Records**: 38,847
+#### **Data Validation**
 
-**Provider Records**: 1,581,146
+| Record Type                   | Record Count |
+| ----------------------------- | ------------ |
+| Providers                     | 0 |
+| Rates                         | 0 |
+| Bundled Codes                 | 0 |
+| Covered Services (Capitation) | 0 |
 
 ### Additional Observations
 

@@ -20,9 +20,14 @@ Overall Rating: <mark style="color:green;">**5/5**</mark>**&#x20;- Excellent**
 
 ### Schema: BCBS\_SOUTH\_CAROLINA
 
-**Rates Records**: 17,338,157
+#### **Data Validation**
 
-**Provider Records**: 397,748,799
+| Record Type                   | Record Count |
+| ----------------------------- | ------------ |
+| Providers                     | 430,582,317 |
+| Rates                         | 17,617,171 |
+| Bundled Codes                 | 0 |
+| Covered Services (Capitation) | 0 |
 
 ### Additional Observations
 

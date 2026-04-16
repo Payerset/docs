@@ -28,9 +28,14 @@ Overall Rating: <mark style="color:yellow;">**3/5**</mark>**&#x20;- Needs Improv
 
 ### Schema: SELECT\_HEALTH
 
-**Rates Records**: 2,786,522,891
+#### **Data Validation**
 
-**Provider Records**: 104,388,281
+| Record Type                   | Record Count |
+| ----------------------------- | ------------ |
+| Providers                     | 321,063,313 |
+| Rates                         | 8,246,648,932 |
+| Bundled Codes                 | 0 |
+| Covered Services (Capitation) | 0 |
 
 ### Additional Observations
 

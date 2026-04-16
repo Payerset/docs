@@ -20,9 +20,14 @@ Overall Rating: <mark style="color:green;">**5/5**</mark>**&#x20;- Excellent**
 
 ### Schema: WELLMARK
 
-**Rates Records**: 13,055,536,146
+#### **Data Validation**
 
-**Provider Records**: 144,100,761,951
+| Record Type                   | Record Count |
+| ----------------------------- | ------------ |
+| Providers                     | 307,804 |
+| Rates                         | 16,670,233 |
+| Bundled Codes                 | 0 |
+| Covered Services (Capitation) | 0 |
 
 ### Additional Observations
 

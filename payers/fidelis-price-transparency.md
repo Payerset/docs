@@ -21,9 +21,14 @@ Overall Rating: <mark style="color:green;">**5/5**</mark>**&#x20;- Excellent**
 
 ### Schema: FIDELIS
 
-**Rates Records**: 336,308
+#### **Data Validation**
 
-**Provider Records**: 814,101
+| Record Type                   | Record Count |
+| ----------------------------- | ------------ |
+| Providers                     | 107,844 |
+| Rates                         | 11,765 |
+| Bundled Codes                 | 0 |
+| Covered Services (Capitation) | 0 |
 
 ### Additional Observations
 

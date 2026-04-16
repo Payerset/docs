@@ -20,9 +20,14 @@ Overall Rating: <mark style="color:green;">**4/5**</mark>**&#x20;- Meets Expecta
 
 ### Schema: HARVARD\_PILGRIM
 
-**Rates Records**: 1,108,578,252
+#### **Data Validation**
 
-**Provider Records**: 8,205,907
+| Record Type                   | Record Count |
+| ----------------------------- | ------------ |
+| Providers                     | 9,153,614 |
+| Rates                         | 1,215,261,020 |
+| Bundled Codes                 | 0 |
+| Covered Services (Capitation) | 0 |
 
 ### Additional Observations
 

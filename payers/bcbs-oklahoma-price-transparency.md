@@ -20,9 +20,14 @@ Overall Rating: <mark style="color:green;">**5/5**</mark>**&#x20;- Excellent**
 
 ### Schema: BCBS\_OKLAHOMA
 
-**Rates Records**: 61,111,117
+#### **Data Validation**
 
-**Provider Records**: 111,590,388
+| Record Type                   | Record Count |
+| ----------------------------- | ------------ |
+| Providers                     | 250,771,089 |
+| Rates                         | 240,348,810 |
+| Bundled Codes                 | 0 |
+| Covered Services (Capitation) | 0 |
 
 ### Additional Observations
 

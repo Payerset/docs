@@ -31,13 +31,12 @@ Overall Rating: <mark style="color:yellow;">**3/5**</mark>**&#x20;- Acceptable**
 
 #### **Data Validation**
 
-| Record Type                   | Record Count                     |
-| ----------------------------- | -------------------------------- |
-| Negotiated Rates              | 3,412,221,099,172 (3.4 trillion) |
-| Nonstandard Codes             | 49,630,284,043 (49.6 billion)    |
-| Providers                     | 30,607,946,935 (30.6 billion)    |
-| Bundled Codes                 | 0                                |
-| Covered Services (Capitation) | 0                                |
+| Record Type                   | Record Count |
+| ----------------------------- | ------------ |
+| Providers                     | 25,725,025,494 |
+| Rates                         | 624,079,278,054 |
+| Bundled Codes                 | 0 |
+| Covered Services (Capitation) | 0 |
 
 ### Additional Observations
 

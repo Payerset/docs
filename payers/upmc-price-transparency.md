@@ -14,6 +14,15 @@ description: >-
 
 ### Schema: UPMC
 
+#### **Data Validation**
+
+| Record Type                   | Record Count |
+| ----------------------------- | ------------ |
+| Providers                     | 0 |
+| Rates                         | 0 |
+| Bundled Codes                 | 0 |
+| Covered Services (Capitation) | 0 |
+
 ### Table 1: PROVIDERS
 
 #### 1. Overview

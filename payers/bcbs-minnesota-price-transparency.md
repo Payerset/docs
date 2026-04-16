@@ -20,9 +20,14 @@ Overall Rating: <mark style="color:green;">**5/5**</mark>**&#x20;- Excellent**
 
 ### Schema: BCBS\_MINNESOTA
 
-**Rates Records**: 389,795,839
+#### **Data Validation**
 
-**Provider Records**: 177,288,483
+| Record Type                   | Record Count |
+| ----------------------------- | ------------ |
+| Providers                     | 128,506,006 |
+| Rates                         | 3,538,270,636 |
+| Bundled Codes                 | 0 |
+| Covered Services (Capitation) | 0 |
 
 ### Additional Observations
 

@@ -20,9 +20,14 @@ Overall Rating: <mark style="color:green;">**5/5**</mark>**&#x20;- Excellent**
 
 ### Schema: HIGHMARK\_DELAWARE
 
-**Rates Records**: 176,670
+#### **Data Validation**
 
-**Provider Records**: 501,372
+| Record Type                   | Record Count |
+| ----------------------------- | ------------ |
+| Providers                     | 478,454 |
+| Rates                         | 158,923 |
+| Bundled Codes                 | 0 |
+| Covered Services (Capitation) | 0 |
 
 ### Additional Observations
 

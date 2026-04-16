@@ -20,9 +20,14 @@ Overall Rating: <mark style="color:green;">**4/5**</mark>**&#x20;- Good**
 
 ### Schema: HORIZON\_BCBS\_NJ
 
-**Rates Records**: 8,875,553,684
+#### **Data Validation**
 
-**Provider Records**: 217,620,094,728
+| Record Type                   | Record Count |
+| ----------------------------- | ------------ |
+| Providers                     | 34,017,836,979 |
+| Rates                         | 6,769,633,888 |
+| Bundled Codes                 | 0 |
+| Covered Services (Capitation) | 0 |
 
 ### Additional Observations
 

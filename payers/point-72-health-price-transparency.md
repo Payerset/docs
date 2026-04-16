@@ -20,9 +20,14 @@ Overall Rating: <mark style="color:green;">**4/5**</mark>**&#x20;- Good**
 
 ### Schema: POINT\_72
 
-**Rates Records**: 955,438,459
+#### **Data Validation**
 
-**Provider Records**: 8,954,287
+| Record Type                   | Record Count |
+| ----------------------------- | ------------ |
+| Providers                     | 54,010,661 |
+| Rates                         | 1,760,474,561 |
+| Bundled Codes                 | 0 |
+| Covered Services (Capitation) | 0 |
 
 ### Additional Observations
 

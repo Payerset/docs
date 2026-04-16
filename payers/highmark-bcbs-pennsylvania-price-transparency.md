@@ -20,9 +20,14 @@ Overall Rating: <mark style="color:green;">**4/5**</mark>**&#x20;- Good**
 
 ### Schema: HIGHMARK\_BCBS\_PENNSYLVANIA
 
-**Rates Records**: 1,138,049
+#### **Data Validation**
 
-**Provider Records**: 4,397,291
+| Record Type                   | Record Count |
+| ----------------------------- | ------------ |
+| Providers                     | 4,077,467 |
+| Rates                         | 1,092,705 |
+| Bundled Codes                 | 0 |
+| Covered Services (Capitation) | 0 |
 
 ### Additional Observations
 

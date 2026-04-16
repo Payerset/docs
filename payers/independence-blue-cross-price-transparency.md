@@ -20,9 +20,14 @@ Overall Rating: <mark style="color:green;">**5/5**</mark>**&#x20;- Excellent**
 
 ### Schema: INDEPENDENCE\_BLUE\_CROSS
 
-**Rates Records**: 781,409
+#### **Data Validation**
 
-**Provider Records**: 23,100,827
+| Record Type                   | Record Count |
+| ----------------------------- | ------------ |
+| Providers                     | 6,064,274 |
+| Rates                         | 839,484 |
+| Bundled Codes                 | 0 |
+| Covered Services (Capitation) | 0 |
 
 ### Additional Observations
 

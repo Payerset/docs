@@ -21,9 +21,14 @@ Overall Rating: <mark style="color:orange;">**2/5**</mark>**- Below Expectations
 
 ### Schema: HAWAII\_MANAGEMENT\_ALLIANCE\_ASSOCIATION
 
-**Rates Records**: 4,135,522
+#### **Data Validation**
 
-**Provider Records**: 1,131,513
+| Record Type                   | Record Count |
+| ----------------------------- | ------------ |
+| Providers                     | 0 |
+| Rates                         | 0 |
+| Bundled Codes                 | 0 |
+| Covered Services (Capitation) | 0 |
 
 ### Additional Observations
 

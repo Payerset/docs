@@ -20,9 +20,14 @@ Overall Rating: <mark style="color:green;">**4/5**</mark>**&#x20;- Good**
 
 ### Schema: BCBS\_TRIPLE\_S
 
-**Rates Records**: 7,769,950
+#### **Data Validation**
 
-**Provider Records**: 53,686
+| Record Type                   | Record Count |
+| ----------------------------- | ------------ |
+| Providers                     | 56,620 |
+| Rates                         | 7,981,434 |
+| Bundled Codes                 | 0 |
+| Covered Services (Capitation) | 0 |
 
 ### Additional Observations
 

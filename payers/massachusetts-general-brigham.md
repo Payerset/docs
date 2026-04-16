@@ -25,9 +25,14 @@ Overall Rating: <mark style="color:green;">**5/5**</mark>**&#x20;- Excellent**
 
 ### Schema: MASS\_GENERAL\_BRIGHAM
 
-**Rates Records**: 1,422,083
+#### **Data Validation**
 
-**Provider Records**: 1,394,176
+| Record Type                   | Record Count |
+| ----------------------------- | ------------ |
+| Providers                     | 19,261,636 |
+| Rates                         | 3,616,458,761 |
+| Bundled Codes                 | 0 |
+| Covered Services (Capitation) | 149,540 |
 
 ### Additional Observations
 

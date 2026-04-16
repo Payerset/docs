@@ -20,9 +20,14 @@ Overall Rating: <mark style="color:green;">**5/5**</mark>**&#x20;- Excellent**
 
 ### Schema: HIGHMARK\_WEST\_VIRGINIA
 
-**Rates Records**: 353,999
+#### **Data Validation**
 
-**Provider Records**: 908,054
+| Record Type                   | Record Count |
+| ----------------------------- | ------------ |
+| Providers                     | 913,460 |
+| Rates                         | 346,516 |
+| Bundled Codes                 | 0 |
+| Covered Services (Capitation) | 0 |
 
 ### Additional Observations
 

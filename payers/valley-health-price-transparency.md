@@ -20,9 +20,14 @@ Overall Rating: <mark style="color:orange;">**2.5/5**</mark>**&#x20;- Below Expe
 
 ### Schema: VALLEY\_HEALTH\_PLAN
 
-**Rates Records**: 12,144,193
+#### **Data Validation**
 
-**Provider Records**: 2,413,956
+| Record Type                   | Record Count |
+| ----------------------------- | ------------ |
+| Providers                     | 0 |
+| Rates                         | 0 |
+| Bundled Codes                 | 0 |
+| Covered Services (Capitation) | 0 |
 
 ### Additional Observations
 

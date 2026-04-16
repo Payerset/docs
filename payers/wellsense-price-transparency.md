@@ -20,9 +20,14 @@ Overall Rating: <mark style="color:red;">**1/5**</mark> **- Out of Compliance**
 
 ### Schema: WELLSENSE
 
-**Rates Records**: 512,383,474
+#### **Data Validation**
 
-**Provider Records**: 38,385,016
+| Record Type                   | Record Count |
+| ----------------------------- | ------------ |
+| Providers                     | 0 |
+| Rates                         | 0 |
+| Bundled Codes                 | 0 |
+| Covered Services (Capitation) | 0 |
 
 ### Additional Observations
 

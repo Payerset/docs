@@ -20,9 +20,14 @@ Overall Rating: <mark style="color:red;">**1/5**</mark>**&#x20;- Below Expectati
 
 ### Schema: SHARP\_HEALTH\_PLAN
 
-**Rates Records**: N/A
+#### **Data Validation**
 
-**Provider Records**: N/A
+| Record Type                   | Record Count |
+| ----------------------------- | ------------ |
+| Providers                     | 0 |
+| Rates                         | 0 |
+| Bundled Codes                 | 0 |
+| Covered Services (Capitation) | 0 |
 
 ### Additional Observations
 

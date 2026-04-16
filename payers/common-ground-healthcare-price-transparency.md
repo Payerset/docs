@@ -20,9 +20,14 @@ Overall Rating: <mark style="color:yellow;">**3/5**</mark>**&#x20;- Average**
 
 ### Schema: COMMON\_GROUND\_HEALTHCARE
 
-**Rates Records**: 40,066,258
+#### **Data Validation**
 
-**Provider Records**: 162,155,872
+| Record Type                   | Record Count |
+| ----------------------------- | ------------ |
+| Providers                     | 0 |
+| Rates                         | 0 |
+| Bundled Codes                 | 0 |
+| Covered Services (Capitation) | 0 |
 
 ### Additional Observations
 

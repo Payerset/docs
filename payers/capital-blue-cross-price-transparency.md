@@ -20,9 +20,14 @@ Overall Rating: <mark style="color:green;">**5/5**</mark>**&#x20;- Excellent**
 
 ### Schema: CAPITAL\_BC
 
-**Rates Records**: 93,240,392
+#### **Data Validation**
 
-**Provider Records**: 759,388
+| Record Type                   | Record Count |
+| ----------------------------- | ------------ |
+| Providers                     | 841,653 |
+| Rates                         | 92,603,559 |
+| Bundled Codes                 | 0 |
+| Covered Services (Capitation) | 0 |
 
 ### Additional Observations
 

@@ -20,9 +20,14 @@ Overall Rating: <mark style="color:green;">**4/5**</mark>**&#x20;- Good**
 
 ### Schema: ELEVANCE
 
-**Rates Records**: 11,201,844,102
+#### **Data Validation**
 
-**Provider Records**: 2,818,941,743,629
+| Record Type                   | Record Count |
+| ----------------------------- | ------------ |
+| Providers                     | 3,328,972,757,787 |
+| Rates                         | 11,874,874,463 |
+| Bundled Codes                 | 0 |
+| Covered Services (Capitation) | 0 |
 
 ### Additional Observations
 

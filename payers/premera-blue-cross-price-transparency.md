@@ -20,9 +20,14 @@ Overall Rating: <mark style="color:green;">**4/5**</mark>**- Good**
 
 ### Schema: OSCAR
 
-**Rates Records**: 65,592,977
+#### **Data Validation**
 
-**Provider Records**: 26,634,499,358
+| Record Type                   | Record Count |
+| ----------------------------- | ------------ |
+| Providers                     | 18,620,483,452 |
+| Rates                         | 2,152,153,847 |
+| Bundled Codes                 | 0 |
+| Covered Services (Capitation) | 0 |
 
 ### Additional Observations
 

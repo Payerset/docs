@@ -20,9 +20,14 @@ Overall Rating: <mark style="color:green;">**5/5**</mark>**&#x20;- Excellent**
 
 ### Schema: CONTRA\_COSTA
 
-**Rates Records**: 19,042,487
+#### **Data Validation**
 
-**Provider Records**: 649,035
+| Record Type                   | Record Count |
+| ----------------------------- | ------------ |
+| Providers                     | 16,906 |
+| Rates                         | 8,180,110 |
+| Bundled Codes                 | 108 |
+| Covered Services (Capitation) | 0 |
 
 ### Additional Observations
 

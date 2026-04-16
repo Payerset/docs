@@ -21,9 +21,14 @@ Overall Rating: <mark style="color:green;">**5/5**</mark>**&#x20;- Excellent**
 
 ### Schema: QUALCHOICE
 
-**Rates Records**: 557,828
+#### **Data Validation**
 
-**Provider Records**: 8,391,790
+| Record Type                   | Record Count |
+| ----------------------------- | ------------ |
+| Providers                     | 794,302 |
+| Rates                         | 310,298 |
+| Bundled Codes                 | 0 |
+| Covered Services (Capitation) | 0 |
 
 ### Additional Observations
 

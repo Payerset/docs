@@ -20,9 +20,14 @@ Overall Rating: <mark style="color:orange;">**2/5**</mark>**&#x20;- Below Expect
 
 ### Schema: FLORIDA\_COMPLETE\_CARE
 
-**Rates Records**: 2,279,448,413
+#### **Data Validation**
 
-**Provider Records**: 5,914,864
+| Record Type                   | Record Count |
+| ----------------------------- | ------------ |
+| Providers                     | 0 |
+| Rates                         | 0 |
+| Bundled Codes                 | 0 |
+| Covered Services (Capitation) | 0 |
 
 ### Additional Observations
 

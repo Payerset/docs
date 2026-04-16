@@ -24,9 +24,14 @@ Overall Rating: <mark style="color:$success;">**4/5**</mark> **- Acceptable**
 
 ### Schema: VIVA
 
-**Rates Records**: 1,8242,878
+#### **Data Validation**
 
-**Provider Records**: 512,390,351
+| Record Type                   | Record Count |
+| ----------------------------- | ------------ |
+| Providers                     | 0 |
+| Rates                         | 0 |
+| Bundled Codes                 | 0 |
+| Covered Services (Capitation) | 0 |
 
 ### Additional Observations
 

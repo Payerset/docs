@@ -20,9 +20,14 @@ Overall Rating: <mark style="color:green;">**5/5**</mark>**&#x20;- Excellent**
 
 ### Schema: INDEPENDENT\_HEALTH
 
-**Rates Records**: 1,020,382
+#### **Data Validation**
 
-**Provider Records**: 47,410,327
+| Record Type                   | Record Count |
+| ----------------------------- | ------------ |
+| Providers                     | 8,972,917 |
+| Rates                         | 627,895 |
+| Bundled Codes                 | 749,392 |
+| Covered Services (Capitation) | 0 |
 
 ### Additional Observations
 

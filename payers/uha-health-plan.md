@@ -20,9 +20,14 @@ Overall Rating: <mark style="color:green;">**5/5**</mark>**&#x20;- Excellent**
 
 ### Schema: UPMC
 
-**Rates Records**: 20,508,239
+#### **Data Validation**
 
-**Provider Records**: 2,093,554
+| Record Type                   | Record Count |
+| ----------------------------- | ------------ |
+| Providers                     | 2,010,948 |
+| Rates                         | 20,357,632 |
+| Bundled Codes                 | 0 |
+| Covered Services (Capitation) | 0 |
 
 ### Additional Observations
 

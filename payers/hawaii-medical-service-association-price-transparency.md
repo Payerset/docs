@@ -20,9 +20,14 @@ Overall Rating: <mark style="color:green;">**4/5**</mark>**&#x20;- Good**
 
 ### Schema: HMSA
 
-**Rates Records**: 25,698,524
+#### **Data Validation**
 
-**Provider Records**: 27,101
+| Record Type                   | Record Count |
+| ----------------------------- | ------------ |
+| Providers                     | 29,112 |
+| Rates                         | 73,482,830 |
+| Bundled Codes                 | 0 |
+| Covered Services (Capitation) | 0 |
 
 ### Additional Observations
 

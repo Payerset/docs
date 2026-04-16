@@ -21,9 +21,14 @@ Overall Rating: <mark style="color:green;">**4/5**</mark>**&#x20;- Good**
 
 ### Schema: PHYSICIANS\_HEALTH\_PLAN\_N\_INDIANA
 
-**Rates Records**: 9,153,827
+#### **Data Validation**
 
-**Provider Records**: 148,121
+| Record Type                   | Record Count |
+| ----------------------------- | ------------ |
+| Providers                     | 202,227 |
+| Rates                         | 12,922,928 |
+| Bundled Codes                 | 0 |
+| Covered Services (Capitation) | 0 |
 
 ### Additional Observations
 

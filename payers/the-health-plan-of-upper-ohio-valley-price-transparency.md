@@ -21,9 +21,14 @@ Overall Rating: <mark style="color:orange;">**2/5**</mark>**&#x20;- Below Expect
 
 ### Schema: THE\_HEALTH\_PLAN\_OF\_THE\_UPPER\_OHIO\_VALLEY
 
-**Rates Records**: N/A
+#### **Data Validation**
 
-**Provider Records**: N/A
+| Record Type                   | Record Count |
+| ----------------------------- | ------------ |
+| Providers                     | 0 |
+| Rates                         | 0 |
+| Bundled Codes                 | 0 |
+| Covered Services (Capitation) | 0 |
 
 ### Additional Observations
 

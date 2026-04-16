@@ -20,9 +20,14 @@ Overall Rating: <mark style="color:green;">**4/5**</mark>**&#x20;- Good**
 
 ### Schema: REGENCE
 
-**Rates Records**: 169,542,293,303
+#### **Data Validation**
 
-**Provider Records**: 4,6193,725
+| Record Type                   | Record Count |
+| ----------------------------- | ------------ |
+| Providers                     | 837,884 |
+| Rates                         | 8,988,535,697 |
+| Bundled Codes                 | 0 |
+| Covered Services (Capitation) | 0 |
 
 ### Additional Observations
 

@@ -20,9 +20,14 @@ Overall Rating: <mark style="color:yellow;">**3.5/5**</mark>**&#x20;- Average**
 
 ### Schema: MODA\_HEALTH
 
-**Rates Records**: 1,971,944,645
+#### **Data Validation**
 
-**Provider Records**: 14,283,432,770
+| Record Type                   | Record Count |
+| ----------------------------- | ------------ |
+| Providers                     | 16,643,957,430 |
+| Rates                         | 1,941,651,841 |
+| Bundled Codes                 | 3,088,209 |
+| Covered Services (Capitation) | 1,004,537 |
 
 ### Additional Observations
 

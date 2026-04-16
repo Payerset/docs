@@ -20,9 +20,14 @@ Overall Rating: <mark style="color:green;">**4/5**</mark> **- Good**
 
 ### Schema: TUFTS
 
-**Rates Records**: 208,426,775
+#### **Data Validation**
 
-**Provider Records**: 23,682,970
+| Record Type                   | Record Count |
+| ----------------------------- | ------------ |
+| Providers                     | 12,563,912 |
+| Rates                         | 225,652 |
+| Bundled Codes                 | 7,894 |
+| Covered Services (Capitation) | 0 |
 
 ### Additional Observations
 

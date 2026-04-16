@@ -20,9 +20,14 @@ Overall Rating: <mark style="color:green;">**5/5**</mark>**&#x20;- Excellent**
 
 ### Schema: BCBS\_WYOMING
 
-**Rates Records**: 275,596,896
+#### **Data Validation**
 
-**Provider Records**: 15,771,348
+| Record Type                   | Record Count |
+| ----------------------------- | ------------ |
+| Providers                     | 6,593,405 |
+| Rates                         | 343,749,493 |
+| Bundled Codes                 | 0 |
+| Covered Services (Capitation) | 0 |
 
 ### Additional Observations
 

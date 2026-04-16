@@ -20,9 +20,14 @@ Overall Rating: <mark style="color:yellow;">**3.5/5**</mark>**&#x20;- Average**
 
 ### Schema: COOK\_CHILDRENS
 
-**Rates Records**: 283,543,398
+#### **Data Validation**
 
-**Provider Records**: 3,923,192
+| Record Type                   | Record Count |
+| ----------------------------- | ------------ |
+| Providers                     | 11,209,549 |
+| Rates                         | 220,123,878 |
+| Bundled Codes                 | 0 |
+| Covered Services (Capitation) | 0 |
 
 ### Additional Observations
 

@@ -17,3 +17,12 @@ Humana is not provided as part of the standard Data Lake or Rate Explorer soluti
 {% endhint %}
 
 ### Schema: HUMANA
+
+#### **Data Validation**
+
+| Record Type                   | Record Count |
+| ----------------------------- | ------------ |
+| Providers                     | 0 |
+| Rates                         | 0 |
+| Bundled Codes                 | 0 |
+| Covered Services (Capitation) | 0 |
