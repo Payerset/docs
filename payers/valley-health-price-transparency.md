@@ -14,9 +14,9 @@ description: >-
 
 ### Compliance Scorecard
 
-Overall Rating: <mark style="color:orange;">**2.5/5**</mark>**&#x20;- Below Expectations**
+Overall Rating: <mark style="color:orange;">**3/5**</mark>**&#x20;- Below Expectations**
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><strong>Table of Contents</strong></td><td><strong>★★★★☆</strong></td><td><mark style="color:green;"><strong>4/5</strong></mark></td><td><ul><li>Are the MRFs kept up to date each month? </li><li>Is the Table of Contents link easily accessible?</li><li>Is the Table of Contents properly formatted?</li></ul></td><td></td></tr><tr><td><strong>File Accessibility</strong></td><td><strong>★★☆☆☆</strong></td><td><mark style="color:orange;"><strong>2/5</strong></mark></td><td><ul><li>Are there any barriers to downloading the files?</li><li>Do the Table of Contents links expire before publishing new links?</li></ul></td><td></td></tr><tr><td><strong>Data Quality</strong></td><td><strong>★★★☆☆</strong></td><td><mark style="color:yellow;"><strong>3/5</strong></mark></td><td><ul><li><p>What percentage of the MRFs are properly formatted and parseable</p><ul><li>5 Stars - 100%</li><li>4 Stars - 80%...</li></ul></li></ul></td><td></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><strong>Table of Contents</strong></td><td><strong>★★★★☆</strong></td><td><mark style="color:green;"><strong>4/5</strong></mark></td><td><ul><li>Are the MRFs kept up to date each month?</li><li>Is the Table of Contents link easily accessible?</li><li>Is the Table of Contents properly formatted?</li></ul></td><td></td></tr><tr><td><strong>File Accessibility</strong></td><td><strong>★★☆☆☆</strong></td><td><mark style="color:orange;"><strong>2/5</strong></mark></td><td><ul><li>Are there any barriers to downloading the files?</li><li>Do the Table of Contents links expire before publishing new links?</li></ul></td><td></td></tr><tr><td><strong>Data Quality</strong></td><td><strong>★★★☆☆</strong></td><td><mark style="color:yellow;"><strong>3/5</strong></mark></td><td><ul><li><p>What percentage of the MRFs are properly formatted and parseable</p><ul><li>5 Stars - 100%</li><li>4 Stars - 80%...</li></ul></li></ul></td><td></td></tr></tbody></table>
 
 ### Schema: VALLEY\_HEALTH\_PLAN
 
@@ -24,18 +24,18 @@ Overall Rating: <mark style="color:orange;">**2.5/5**</mark>**&#x20;- Below Expe
 
 | Record Type                   | Record Count |
 | ----------------------------- | ------------ |
-| Providers                     | 0 |
-| Rates                         | 0 |
-| Bundled Codes                 | 0 |
-| Covered Services (Capitation) | 0 |
+| Providers                     | 0            |
+| Rates                         | 0            |
+| Bundled Codes                 | 0            |
+| Covered Services (Capitation) | 0            |
 
 ### Additional Observations
 
 **Machine-Readable Price Transparency Files Review**
 
 * **MRFs Up-to-Date:** ✔️ Yes, the MRFs are kept up to date each month.
-* **Table of Contents Accessibility:** ❌ There is no standard Table of Contents provided.
-* **Table of Contents Formatting:** ❌ There is no standard Table of Contents provided.
+* **Table of Contents Accessibility:** ✔️ There is a standard Table of Contents provided that is updated monthly
+* **Table of Contents Formatting:** ✔️ The formatting is correct
 * **File Download Barriers:** ❌ Files are posted to locations that are not publicly accessible.
 * **File Accessibility Percentage:** ❌ Published file links point to blocked locations, and files are not publicly accessible.
 
