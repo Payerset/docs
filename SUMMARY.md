@@ -15,6 +15,7 @@
   * [📇 Nonstandard Codes](using-the-payerset-platform/training-and-onboarding/nonstandard-codes.md)
 * [Data Dictionary](using-the-payerset-platform/data-dictionary/README.md)
   * [Medicare Inpatient Methodology](using-the-payerset-platform/data-dictionary/medicare-inpatient-methodology.md)
+* [Claims Projection Methodology](using-the-payerset-platform/claims-projection-methodology.md)
 * [Release Notes](using-the-payerset-platform/release-notes.md)
 
 ## Hospital Transparency
