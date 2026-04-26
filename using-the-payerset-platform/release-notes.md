@@ -7,6 +7,16 @@ hidden: true
 
 # Release Notes
 
+## Q1 2026
+
+## Q4 2025
+
+## Q3 2025
+
+## Q2 2025
+
+## Q1 2025
+
 ## December 2024
 
 **View Negotiated Rates Over Time**
@@ -18,7 +28,7 @@ This can be found on both Rate Comparisons as well as Fee Schedules.
 \
 **Access Standard Hospital Charges (Beta)**
 
-The Standard Charges tool (currently in beta as we continue to validate the dataset) enables users to view the published prices for hospital services across various hospital systems and locations. With the Standard  Charges feature, you can now compare published prices for services across different hospital systems and locations, analyze cost variations by service type, and assess how pricing differs between facilities within the same region or network.
+The Standard Charges tool (currently in beta as we continue to validate the dataset) enables users to view the published prices for hospital services across various hospital systems and locations. With the Standard Charges feature, you can now compare published prices for services across different hospital systems and locations, analyze cost variations by service type, and assess how pricing differs between facilities within the same region or network.
 
 \
 **Improved Navigation**
@@ -99,7 +109,7 @@ The updated user interface offers a more streamlined way to view and analyze pay
 
 **Revenue Code Addition**
 
-* Add support for Revenue Code selection in addition to CPT/HCPCS/DRG, including categories and subcategories.&#x20;
+* Add support for Revenue Code selection in addition to CPT/HCPCS/DRG, including categories and subcategories.
 
 **Improved Pivot Dimension Deselection**
 
