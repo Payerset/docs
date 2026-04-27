@@ -13,16 +13,16 @@ BILLING_NPI_NBR × PROCEDURE_CD × PAYER_ID × PAYER_CHANNEL_NAME × POS_CD × R
 For every cell we publish:
 
 * `OBSERVED_UNITS` — the count we directly observed in the source claims feed.
-* `PROJECTED_UNITS` — our estimate of the _true_ count of services rendered by that NPI in that cell, including services that fell outside our sample. This is the median of a 500-draw parametric bootstrap.
-* `PROJECTED_UNITS_P5`, `PROJECTED_UNITS_P95` — the 5th and 95th percentile of the same bootstrap.
+* `PROJECTED_UNITS` — our estimate of the _true_ count of services rendered by that NPI in that cell, including services that fell outside our sample. Computed as `OBSERVED_UNITS / COVERAGE_ESTIMATE`.
+* `PROJECTED_UNITS_P5`, `PROJECTED_UNITS_P95` — the 5th and 95th percentile of a 500-draw parametric bootstrap that adds observation and coverage noise around the deterministic point.
 * `COVERAGE_ESTIMATE` — the implied share of the universe captured by `OBSERVED_UNITS`. Bounded to `[0.05, 1.00]`.
 * `COVERAGE_SOURCE` — which tier of the hierarchy produced the estimate (see §6).
 * `COVERAGE_GRAIN` — the grain at which the coverage fraction was estimated (e.g. `county|procedure|medicaid_universe`).
 * `CONFIDENCE_BUCKET` — `high`, `medium`, `low`, or `suppress`.
 
-The point estimate is `PROJECTED_UNITS = OBSERVED_UNITS / COVERAGE_ESTIMATE`. The bootstrap adds observation noise (Negative Binomial around `OBSERVED_UNITS`) and coverage noise (lognormal around `COVERAGE_ESTIMATE`) to produce the percentile bounds.
+The point estimate is `PROJECTED_UNITS = OBSERVED_UNITS / COVERAGE_ESTIMATE`. The bootstrap, used only for `PROJECTED_UNITS_P5` and `PROJECTED_UNITS_P95`, adds observation noise (Negative Binomial around `OBSERVED_UNITS`) and coverage noise (lognormal around `COVERAGE_ESTIMATE`) to characterize the uncertainty around that point.
 
-#### 1.1 What `OBSERVED_UNITS` is — and what it is not
+#### 1.1 What `OBSERVED_UNITS` is
 
 `OBSERVED_UNITS` is the unit count from the **source claims feed (PurpleLab) only**. It is not a pooled or deduplicated combination of multiple data sources. The pipeline ingests several other datasets, but each plays a different role and none of them adds to `OBSERVED_UNITS`:
 
@@ -37,17 +37,17 @@ The reference datasets shape `COVERAGE_ESTIMATE`, which determines how `OBSERVED
 
 The PurpleLab `CLAIMS_ORDERED` feed exposes two volume fields per row:
 
-* **`ATTRIBUTED_TOTAL_UNITS`** — units on the original-claim grain, attributed to the billing NPI on that row. Populated for \~94% of professional rows and \~97% of inpatient rows.
+* **`ATTRIBUTED_TOTAL_UNITS`** — units on the original-claim grain, attributed to the billing NPI on that row. Populated for \~94% of professional rows and \~97% of institutional rows.
 * **`COUNT_OF_UNITS`** — units sourced from a matched remittance advice. Only populated for \~13–16% of rows (the remit-matched subset).
 
 We sum `ATTRIBUTED_TOTAL_UNITS` because it reflects the full claim population in the feed. Rows where `ATTRIBUTED_TOTAL_UNITS` is null are remits without a matched open claim and are skipped — they have no billing-NPI grain row to attribute to. This is implemented in `stages/ingest.py`.
 
 ### 2. Inputs
 
-| Input              | Source                     | Grain                                                                                                               | Notes                                                                                                                      |
-| ------------------ | -------------------------- | ------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
-| Source claims      | PurpleLab `CLAIMS_ORDERED` | one row per `BILLING_NPI_NBR × PROCEDURE_CD × PAYER_ID × PAYER_CHANNEL_NAME × POS_CD × RATE_YEAR` after aggregation | Includes professional and inpatient (`CLAIM_TYPE_CD = 'P' / 'I'`). Volume sourced from `ATTRIBUTED_TOTAL_UNITS` (see §1.2) |
-| Provider directory | Enriched NPPES (Type 2)    | one row per organization NPI                                                                                        | Includes county FIPS, primary taxonomy, CBSA, lifetime claim count                                                         |
+| Input              | Source                     | Grain                                                                                                               | Notes                                                                                                                                                                                                                                       |
+| ------------------ | -------------------------- | ------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Source claims      | PurpleLab `CLAIMS_ORDERED` | one row per `BILLING_NPI_NBR × PROCEDURE_CD × PAYER_ID × PAYER_CHANNEL_NAME × POS_CD × RATE_YEAR` after aggregation | Includes professional and institutional (`CLAIM_TYPE_CD = 'P' / 'I'`); the institutional bucket spans inpatient, outpatient hospital, SNF, home health, etc., distinguished by TOB. Volume sourced from `ATTRIBUTED_TOTAL_UNITS` (see §1.2) |
+| Provider directory | Enriched NPPES (Type 2)    | one row per organization NPI                                                                                        | Includes county FIPS, primary taxonomy, CBSA, lifetime claim count                                                                                                                                                                          |
 
 Claims are joined to the provider directory on rendering NPI to attach county, primary taxonomy, and CBSA before any aggregation.
 
@@ -84,7 +84,9 @@ For each `(provider_county_fips, procedure_cd, payer_channel_name)` combination 
 
 #### Stage 3 — Projection and bootstrap
 
-For each cell, `PROJECTED_UNITS = OBSERVED_UNITS / COVERAGE_ESTIMATE`, with `COVERAGE_ESTIMATE` clamped to `[min_coverage, max_coverage]`. Confidence intervals are produced by a 500-draw parametric bootstrap that combines two noise sources:
+For each cell, the deterministic point estimate is `PROJECTED_UNITS = OBSERVED_UNITS / COVERAGE_ESTIMATE`, with `COVERAGE_ESTIMATE` clamped to `[min_coverage, max_coverage]`. Because `max_coverage = 1.0`, the implied factor `1 / COVERAGE_ESTIMATE` is in `[1.0, 1 / min_coverage]` and `PROJECTED_UNITS >= OBSERVED_UNITS` on every projectable row by construction.
+
+Confidence intervals (`PROJECTED_UNITS_P5`, `PROJECTED_UNITS_P95`) are produced by a 500-draw parametric bootstrap that combines two noise sources:
 
 * **Observation noise:** Negative Binomial around `OBSERVED_UNITS` with dispersion `k = 10` (variance = mu + mu²/k).
 * **Coverage noise:** Lognormal around `COVERAGE_ESTIMATE`, parameterised so that `E[c] ≈ coverage_estimate` and `sd(c)/E[c] ≈ rel_sd`, then clipped to `[min_coverage, max_coverage]`.
@@ -97,7 +99,9 @@ The relative SD on the coverage draw is chosen by tier:
 | `direct_inpatient_benchmark` | 0.10        |
 | `channel_prior`              | 0.50        |
 
-The relative SD encodes our prior on how noisy each tier is: a Medicaid cell whose denominator comes directly from T-MSIS is treated as much tighter than a cell that fell through to a channel-wide prior. Per draw, `projected_draw = observed_draw / coverage_draw`. The 5th, 50th, and 95th percentiles across 500 draws become `PROJECTED_UNITS_P5`, `PROJECTED_UNITS` (median), and `PROJECTED_UNITS_P95`.
+The relative SD encodes our prior on how noisy each tier is: a Medicaid cell whose denominator comes directly from T-MSIS is treated as much tighter than a cell that fell through to a channel-wide prior. Per draw, `projected_draw = observed_draw / coverage_draw`. `PROJECTED_UNITS_P5` and `PROJECTED_UNITS_P95` are the 5th and 95th percentiles across the 500 draws; the median is not published, since the deterministic point estimate already serves that role.
+
+**Hard invariant: `PROJECTED_UNITS / P5 / P95 >= OBSERVED_UNITS`.** The deterministic point already satisfies this because `COVERAGE_ESTIMATE` is clamped to `<= max_coverage = 1.0`. The bootstrap percentiles can otherwise drift slightly below `OBSERVED_UNITS` when `COVERAGE_ESTIMATE` is at the 1.0 ceiling — lognormal coverage draws clipped at the ceiling are biased below 1.0, and the Negative Binomial observation noise is right-skewed for low counts. We therefore floor `PROJECTED_UNITS_P5` and `PROJECTED_UNITS_P95` at `OBSERVED_UNITS` after the bootstrap. Where the P5 floor binds, the cell is essentially complete in the source data (`COVERAGE_ESTIMATE = 1.0`) and `PROJECTED_UNITS_P5 = OBSERVED_UNITS = PROJECTED_UNITS`; `PROJECTED_UNITS_P95` retains its right-tail uplift.
 
 The bootstrap is parallelised: stages 1–2 are pure DuckDB SQL and use DuckDB's intra-query thread pool (`run.threads`); stage 3 dispatches projection batches to a `concurrent.futures.ProcessPoolExecutor` (`run.workers`). Per-batch RNGs are derived deterministically from `(seed, batch_idx)` via `numpy.random.SeedSequence`, so output is byte-identical regardless of worker completion order.
 
@@ -207,7 +211,7 @@ A future release will refine this check to operate at service-line counts and to
 
 ### 9. Reference run results
 
-This section summarizes the V3 reference run on the full PurpleLab claims feed, calibration vintage `20260423-dev`, executed April 25, 2026. It is updated with each material release.
+This section summarizes the V3 reference run on the full PurpleLab claims feed, calibration vintage `20260423`, executed April 2026. It is updated with each material release.
 
 #### 9.1 Headline
 
@@ -224,36 +228,38 @@ The implied coverage is consistent with the source feed's documented market shar
 
 #### 9.2 Coverage source mix
 
-| Coverage source              | Cells          | Observed units | Share of observed |
-| ---------------------------- | -------------- | -------------- | ----------------- |
-| `tmsis_direct`               | 525,426        | 11,255,190,000 | 20.51%            |
-| `direct_inpatient_benchmark` | 61,824         | 15,405,070     | 0.03%             |
-| `channel_prior`              | 8,844,479      | 43,580,000,000 | 79.44%            |
-| `suppress`                   | 4,894,730      | 9,797,506      | 0.02%             |
-| **Total**                    | **14,326,459** | **\~54.86B**   | **\~100%**        |
+The table below counts **coverage cells** at the `(county × procedure × channel)` grain — the key on which `COVERAGE_ESTIMATE` is computed. This is a coarser grain than the per-row output (208M rows; see §9.1): each coverage cell typically fans out to many output rows during projection (one per billing NPI × payer × POS × rate year that hits that triplet).
+
+| Coverage source              | Coverage cells (county × procedure × channel) | Observed units | Share of observed |
+| ---------------------------- | --------------------------------------------- | -------------- | ----------------- |
+| `tmsis_direct`               | 525,426                                       | 11,255,190,000 | 20.51%            |
+| `direct_inpatient_benchmark` | 61,824                                        | 15,405,070     | 0.03%             |
+| `channel_prior`              | 8,844,479                                     | 43,580,000,000 | 79.44%            |
+| `suppress`                   | 4,894,730                                     | 9,797,506      | 0.02%             |
+| **Total**                    | **14,326,459**                                | **\~54.86B**   | **\~100%**        |
 
 The `tmsis_direct` tier carries 20.51% of all observed units — every one of those units is projected from a denominator sourced directly from state Medicaid agency reporting rather than from a channel-wide prior.
 
-The `direct_inpatient_benchmark` tier serves only 61,824 cells and 0.03% of observed units. That is by design: PurpleLab's claims feed is overwhelmingly ambulatory, and this tier only fires on Medicare-channel inpatient cells (the source HCPCS must map to an MS-DRG with a county-level CMS Medicare FFS denominator, and the cell must clear the `direct_min_observed_units` floor of 20). Where it fires, it replaces a channel-prior projection with an administrative-truth denominator and upgrades the cell to `high` confidence.
+The `direct_inpatient_benchmark` tier serves only 61,824 coverage cells and 0.03% of observed units. That is by design: PurpleLab's claims feed is overwhelmingly ambulatory, and this tier only fires on Medicare-channel inpatient cells (the source HCPCS must map to an MS-DRG with a county-level CMS Medicare FFS denominator, and the cell must clear the `direct_min_observed_units` floor of 20). Where it fires, it replaces a channel-prior projection with an administrative-truth denominator and upgrades the cell to `high` confidence.
 
-The `channel_prior` tier is the largest by both cells and units. This is structural: every Commercial cell falls here (no comparable free Commercial denominator is available), as does every Medicare or Medicaid cell whose county × procedure key isn't covered by T-MSIS or CMS Inpatient.
+The `channel_prior` tier is the largest by both coverage cells and units. This is structural: every Commercial cell falls here (no comparable free Commercial denominator is available), as does every Medicare or Medicaid cell whose county × procedure key isn't covered by T-MSIS or CMS Inpatient.
 
-The `suppress` tier accumulates 4.9M cells but only 9.8M observed units (0.02% of total). These are HCPCS × county × channel combinations with no administrative-truth denominator and observed counts below `peer_min_observed_units` (default 5). The aggregate impact on universe estimates is negligible.
+The `suppress` tier accumulates 4.9M coverage cells but only 9.8M observed units (0.02% of total). These are HCPCS × county × channel combinations with no administrative-truth denominator and observed counts below `peer_min_observed_units` (default 5). The aggregate impact on universe estimates is negligible.
 
 #### 9.3 QA outcomes
 
-| Check                                            | Result                                                                | Disposition |
-| ------------------------------------------------ | --------------------------------------------------------------------- | ----------- |
-| Medicare-vs-PUF flagged pairs                    | 112,074 (state × procedure) pairs with \`                             | delta       |
-| Coverage hierarchy completeness                  | 100% of cells assigned to a tier                                      | Pass        |
-| `tmsis_direct` confidence upgrades               | 525,426 Medicaid cells moved to `high` / `medium` confidence          | Pass        |
-| `direct_inpatient_benchmark` confidence upgrades | 61,824 Medicare inpatient cells moved to `high` / `medium` confidence | Pass        |
+| Check                                            | Result                                                                         | Disposition |
+| ------------------------------------------------ | ------------------------------------------------------------------------------ | ----------- |
+| Medicare-vs-PUF flagged pairs                    | 112,074 (state × procedure) pairs with \`                                      | delta       |
+| Coverage hierarchy completeness                  | 100% of coverage cells assigned to a tier                                      | Pass        |
+| `tmsis_direct` confidence upgrades               | 525,426 Medicaid coverage cells moved to `high` / `medium` confidence          | Pass        |
+| `direct_inpatient_benchmark` confidence upgrades | 61,824 Medicare inpatient coverage cells moved to `high` / `medium` confidence | Pass        |
 
 #### 9.4 Effect of administrative-truth tiers
 
-The 525,426 Medicaid cells served by `tmsis_direct` would otherwise route through `channel_prior` (0.80 prior, 1.25× uplift). T-MSIS swaps in the actual reported Medicaid universe for that county × procedure, replacing a national channel constant with a denominator that varies by geography and procedure. The point estimate for any individual cell can shift in either direction; the systematic improvement is in the variance of the projection.
+The 525,426 Medicaid coverage cells served by `tmsis_direct` would otherwise route through `channel_prior` (0.80 prior, 1.25× uplift). T-MSIS swaps in the actual reported Medicaid universe for that county × procedure, replacing a national channel constant with a denominator that varies by geography and procedure. The point estimate for any individual cell can shift in either direction; the systematic improvement is in the variance of the projection.
 
-The 61,824 Medicare-channel inpatient cells served by `direct_inpatient_benchmark` are similarly displaced — under a channel-prior-only configuration they would be projected at the Medicare prior (0.75, 1.33× uplift) regardless of geography or DRG mix. The CMS Inpatient PUF substitutes county × MS-DRG Medicare FFS discharges as the denominator. Both administrative-truth tiers carry a tighter bootstrap relative SD (0.10) than the channel prior (0.50).
+The 61,824 Medicare-channel inpatient coverage cells served by `direct_inpatient_benchmark` are similarly displaced — under a channel-prior-only configuration they would be projected at the Medicare prior (0.75, 1.33× uplift) regardless of geography or DRG mix. The CMS Inpatient PUF substitutes county × MS-DRG Medicare FFS discharges as the denominator. Both administrative-truth tiers carry a tighter bootstrap relative SD (0.10) than the channel prior (0.50).
 
 #### 9.5 Runtime
 
@@ -311,12 +317,12 @@ What was simplified:
 * Pipeline reduced from five stages to four: refs → ingest → coverage → projection → QA.
 * Reference data set reduced from seven sources to four (channel priors, T-MSIS, CMS Inpatient, CMS Physician PUF for QA).
 
-Net effect at full population (vs the V2 reference run on the same input):
+Net effect at full population (vs the V2 reference run on the same input). Counts below are coverage cells at the `(county × procedure × channel)` grain (see §9.2):
 
-* `tmsis_direct` cells: unchanged (525,426; 20.51% of observed units).
-* `direct_inpatient_benchmark` cells: unchanged (61,824; 0.03% of observed units).
-* Cells previously in `direct_pop_benchmark` or `peer_group` reroute to `channel_prior`. The number of cells in `channel_prior` increases from 8.80M to 8.84M and its observed-unit share rises from 77.48% to 79.44%. Universe uplift moves from 1.492× to 1.501× — a small, expected bump because cells previously projected at the population-benchmark coverage now project at the (slightly higher) channel-prior coverage.
-* `suppress` cells unchanged (4.89M; 0.02% of observed units).
+* `tmsis_direct`: unchanged (525,426; 20.51% of observed units).
+* `direct_inpatient_benchmark`: unchanged (61,824; 0.03% of observed units).
+* Coverage cells previously in `direct_pop_benchmark` or `peer_group` reroute to `channel_prior`. `channel_prior` grows from 8.80M to 8.84M coverage cells and its observed-unit share rises from 77.48% to 79.44%. Universe uplift moves from 1.492× to 1.501× — a small, expected bump because cells previously projected at the population-benchmark coverage now project at the (slightly higher) channel-prior coverage.
+* `suppress`: unchanged (4.89M; 0.02% of observed units).
 
 The simplification removes a code-and-data dependency that was not pulling its weight: at V2 release, `direct_pop_benchmark` accounted for 1.96% of observed units and `peer_group` accounted for less than 0.001%, while requiring six external reference datasets and a roughly 12-stage download/build pipeline. The two administrative-truth tiers (T-MSIS and CMS Inpatient) carry the projection fidelity that the population benchmark was supposed to deliver, with denominators drawn from administrative reporting rather than survey-derived utilization rates.
 
