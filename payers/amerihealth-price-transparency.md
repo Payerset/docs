@@ -7,7 +7,7 @@ description: >-
 # 🟢 AmeriHealth
 
 {% hint style="danger" %}
-AmeriHealth was not compliant in August 2025, their file links were broken. This has been rectified in September, which is the data the Payerset platform is displaying in the latest refresh.
+AmeriHealth was not compliant in February 2026, their file links were broken. This has been rectified in April, which is the data the Payerset platform is displaying in the latest refresh.
 {% endhint %}
 
 ### Payerset Notes
@@ -20,7 +20,7 @@ AmeriHealth was not compliant in August 2025, their file links were broken. This
 
 Overall Rating: <mark style="color:green;">**5/5**</mark> **- Excellent**
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><strong>Table of Contents</strong></td><td><strong>★★★★★</strong></td><td><mark style="color:green;"><strong>5/5</strong></mark></td><td><ul><li>Are the MRFs kept up to date each month? </li><li>Is the Table of Contents link easily accessible?</li><li>Is the Table of Contents properly formatted?</li></ul></td><td></td></tr><tr><td><strong>File Accessibility</strong></td><td><strong>★★★★★</strong></td><td><mark style="color:green;"><strong>5/5</strong></mark></td><td><ul><li>Are there any barriers to downloading the files?</li><li>Do the Table of Contents links expire before publishing new links?</li></ul></td><td></td></tr><tr><td><strong>Data Quality</strong></td><td><strong>★★★★★</strong></td><td><mark style="color:green;"><strong>5/5</strong></mark></td><td><ul><li><p>What percentage of the MRFs are properly formatted and parseable</p><ul><li>5 Stars - 100%</li><li>4 Stars - 80%...</li></ul></li></ul></td><td></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><strong>Table of Contents</strong></td><td><strong>★★★★★</strong></td><td><mark style="color:green;"><strong>5/5</strong></mark></td><td><ul><li>Are the MRFs kept up to date each month?</li><li>Is the Table of Contents link easily accessible?</li><li>Is the Table of Contents properly formatted?</li></ul></td><td></td></tr><tr><td><strong>File Accessibility</strong></td><td><strong>★★★★★</strong></td><td><mark style="color:green;"><strong>5/5</strong></mark></td><td><ul><li>Are there any barriers to downloading the files?</li><li>Do the Table of Contents links expire before publishing new links?</li></ul></td><td></td></tr><tr><td><strong>Data Quality</strong></td><td><strong>★★★★★</strong></td><td><mark style="color:green;"><strong>5/5</strong></mark></td><td><ul><li><p>What percentage of the MRFs are properly formatted and parseable</p><ul><li>5 Stars - 100%</li><li>4 Stars - 80%...</li></ul></li></ul></td><td></td></tr></tbody></table>
 
 ### Schema: AMERIHEALTH
 
@@ -28,10 +28,10 @@ Overall Rating: <mark style="color:green;">**5/5**</mark> **- Excellent**
 
 | Record Type                   | Record Count |
 | ----------------------------- | ------------ |
-| Providers                     | 106,708 |
-| Rates                         | 765,773 |
-| Bundled Codes                 | 13,185 |
-| Covered Services (Capitation) | 0 |
+| Providers                     | 106,708      |
+| Rates                         | 765,773      |
+| Bundled Codes                 | 13,185       |
+| Covered Services (Capitation) | 0            |
 
 ### Additional Observations
 
