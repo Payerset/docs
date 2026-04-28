@@ -7,14 +7,18 @@ This document describes how Payerset estimates the universe-level claim volume t
 Each row in our output represents a single cell at the source-claims grain:
 
 ```
-BILLING_NPI_NBR × PROCEDURE_CD × PAYER_ID × PAYER_CHANNEL_NAME × POS_CD × RATE_YEAR
+BILLING_NPI_NBR × PROCEDURE_CD × PAYER_ID × PAYER_CHANNEL_NAME × CLAIM_TYPE_CD × SETTING × RATE_YEAR
 ```
+
+`CLAIM_TYPE_CD` is `P` (professional) or `I` (institutional); `SETTING` is `Office`, `Outpatient`, `Inpatient`, or `Other`. Together they replace the place-of-service dimension used in earlier versions — POS is no more granular than (claim\_type, setting) for downstream consumers, and rows that previously differed only by POS within the same setting now collapse into one cell.
 
 For every cell we publish:
 
 * `OBSERVED_UNITS` — the count we directly observed in the source claims feed.
 * `PROJECTED_UNITS` — our estimate of the _true_ count of services rendered by that NPI in that cell, including services that fell outside our sample. Computed as `OBSERVED_UNITS / COVERAGE_ESTIMATE`.
 * `PROJECTED_UNITS_P5`, `PROJECTED_UNITS_P95` — the 5th and 95th percentile of a 500-draw parametric bootstrap that adds observation and coverage noise around the deterministic point.
+* `ATTRIBUTED_CHARGE_AMT` — the sum of PurpleLab `ATTRIBUTED_CHARGE_AMT` over the cell, i.e. observed billed-charge dollars at the source grain.
+* `ATTRIBUTED_CHARGE_AMT_PROJECTED` — projected billed-charge dollars. Computed as observed charge dollars × the same `1 / COVERAGE_ESTIMATE` factor used on units; equivalently, the cell's average price per unit times `PROJECTED_UNITS`.
 * `COVERAGE_ESTIMATE` — the implied share of the universe captured by `OBSERVED_UNITS`. Bounded to `[0.05, 1.00]`.
 * `COVERAGE_SOURCE` — which tier of the hierarchy produced the estimate (see §6).
 * `COVERAGE_GRAIN` — the grain at which the coverage fraction was estimated (e.g. `county|procedure|medicaid_universe`).
@@ -22,7 +26,7 @@ For every cell we publish:
 
 The point estimate is `PROJECTED_UNITS = OBSERVED_UNITS / COVERAGE_ESTIMATE`. The bootstrap, used only for `PROJECTED_UNITS_P5` and `PROJECTED_UNITS_P95`, adds observation noise (Negative Binomial around `OBSERVED_UNITS`) and coverage noise (lognormal around `COVERAGE_ESTIMATE`) to characterize the uncertainty around that point.
 
-#### 1.1 What `OBSERVED_UNITS` is
+#### 1.1 What `OBSERVED_UNITS` is — and what it is not
 
 `OBSERVED_UNITS` is the unit count from the **source claims feed (PurpleLab) only**. It is not a pooled or deduplicated combination of multiple data sources. The pipeline ingests several other datasets, but each plays a different role and none of them adds to `OBSERVED_UNITS`:
 
@@ -44,10 +48,10 @@ We sum `ATTRIBUTED_TOTAL_UNITS` because it reflects the full claim population in
 
 ### 2. Inputs
 
-| Input              | Source                     | Grain                                                                                                               | Notes                                                                                                                                                                                                                                       |
-| ------------------ | -------------------------- | ------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Source claims      | PurpleLab `CLAIMS_ORDERED` | one row per `BILLING_NPI_NBR × PROCEDURE_CD × PAYER_ID × PAYER_CHANNEL_NAME × POS_CD × RATE_YEAR` after aggregation | Includes professional and institutional (`CLAIM_TYPE_CD = 'P' / 'I'`); the institutional bucket spans inpatient, outpatient hospital, SNF, home health, etc., distinguished by TOB. Volume sourced from `ATTRIBUTED_TOTAL_UNITS` (see §1.2) |
-| Provider directory | Enriched NPPES (Type 2)    | one row per organization NPI                                                                                        | Includes county FIPS, primary taxonomy, CBSA, lifetime claim count                                                                                                                                                                          |
+| Input              | Source                     | Grain                                                                                                                                | Notes                                                                                                                                                                                                                                                                                                                                                                   |
+| ------------------ | -------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Source claims      | PurpleLab `CLAIMS_ORDERED` | one row per `BILLING_NPI_NBR × PROCEDURE_CD × PAYER_ID × PAYER_CHANNEL_NAME × CLAIM_TYPE_CD × SETTING × RATE_YEAR` after aggregation | Includes professional and institutional (`CLAIM_TYPE_CD = 'P' / 'I'`); the institutional bucket spans inpatient, outpatient hospital, SNF, home health, etc., distinguished by TOB. `SETTING` resolves to `Office` / `Outpatient` / `Inpatient` / `Other`. Volume sourced from `ATTRIBUTED_TOTAL_UNITS` (see §1.2); charge dollars sourced from `ATTRIBUTED_CHARGE_AMT` |
+| Provider directory | Enriched NPPES (Type 2)    | one row per organization NPI                                                                                                         | Includes county FIPS, primary taxonomy, CBSA, lifetime claim count                                                                                                                                                                                                                                                                                                      |
 
 Claims are joined to the provider directory on rendering NPI to attach county, primary taxonomy, and CBSA before any aggregation.
 
@@ -76,7 +80,7 @@ Channel priors, the CMS Physician PUF, the T-MSIS Medicaid aggregate, and the CM
 
 The source parquet is filtered to the configured states (if any) and the configured `sample_fraction`. Sampling is deterministic and NPI-keyed: a hash of the NPI is compared to the fraction so that _all_ services for a sampled NPI are retained, never partial cuts of an NPI's history. This preserves within-NPI volume relationships, which is necessary for coverage estimation.
 
-The claims grain is built by aggregating sampled service lines to `BILLING_NPI_NBR × PROCEDURE_CD × PAYER_ID × PAYER_CHANNEL_NAME × POS_CD × RATE_YEAR`, joined to NPPES for geography and taxonomy. Multiple modifier / TOB rows in the source collapse into one grain row at this stage.
+The claims grain is built by aggregating sampled service lines to `BILLING_NPI_NBR × PROCEDURE_CD × PAYER_ID × PAYER_CHANNEL_NAME × CLAIM_TYPE_CD × SETTING × RATE_YEAR`, joined to NPPES for geography and taxonomy. Multiple modifier rows, POS codes within a setting, and TOB rows in the source collapse into one grain row at this stage.
 
 #### Stage 2 — Coverage hierarchy
 
@@ -164,31 +168,34 @@ Cells with `OBSERVED_UNITS < peer_min_observed_units` and no administrative-trut
 
 ### 7. Output schema
 
-Output is partitioned parquet at `output_root/state=XX/year=YYYY/part-*.parquet`, written with zstd compression. Each row corresponds to one `(BILLING_NPI_NBR, PROCEDURE_CD, PAYER_ID, PAYER_CHANNEL_NAME, POS_CD, RATE_YEAR)` cell.
+Output is partitioned parquet at `output_root/state=XX/year=YYYY/part-*.parquet`, written with zstd compression. Each row corresponds to one `(BILLING_NPI_NBR, PROCEDURE_CD, PAYER_ID, PAYER_CHANNEL_NAME, CLAIM_TYPE_CD, SETTING, RATE_YEAR)` cell.
 
-| Column                 | Type    | Description                                                |
-| ---------------------- | ------- | ---------------------------------------------------------- |
-| `BILLING_NPI_NBR`      | int64   | Rendering / billing provider NPI                           |
-| `PROCEDURE_CD`         | string  | HCPCS / CPT code (or MS-DRG for inpatient rows)            |
-| `PAYER_ID`             | int64   | Source payer identifier                                    |
-| `PAYER_CHANNEL_NAME`   | string  | `Commercial` \| `Medicare` \| `Medicaid`                   |
-| `POS_CD`               | string  | Place-of-service code (`UNK` if missing)                   |
-| `OBSERVED_UNITS`       | float64 | Source-claims unit count (sum of `ATTRIBUTED_TOTAL_UNITS`) |
-| `PROJECTED_UNITS`      | float64 | Bootstrap median                                           |
-| `PROJECTED_UNITS_P5`   | float64 | 5th percentile (bootstrap)                                 |
-| `PROJECTED_UNITS_P95`  | float64 | 95th percentile (bootstrap)                                |
-| `COVERAGE_ESTIMATE`    | float64 | Coverage fraction used to scale observed → projected       |
-| `COVERAGE_SOURCE`      | string  | Tier name (see §6)                                         |
-| `COVERAGE_GRAIN`       | string  | Grain at which coverage was estimated                      |
-| `CONFIDENCE_BUCKET`    | string  | `high` \| `medium` \| `low` \| `suppress`                  |
-| `PROVIDER_COUNTY_FIPS` | string  | 5-digit county FIPS (from NPPES)                           |
-| `PROVIDER_STATE`       | string  | Two-letter state (from NPPES)                              |
-| `DATA_PERIOD_START`    | date32  | Min `REPORT_DD` over the cell                              |
-| `DATA_PERIOD_END`      | date32  | Max `REPORT_DD` over the cell                              |
-| `CALIBRATION_VINTAGE`  | string  | Run identifier from `config.yaml`                          |
-| `RATE_YEAR`            | int64   | Source `RATE_YEAR`                                         |
+| Column                            | Type    | Description                                                                  |
+| --------------------------------- | ------- | ---------------------------------------------------------------------------- |
+| `BILLING_NPI_NBR`                 | int64   | Rendering / billing provider NPI                                             |
+| `PROCEDURE_CD`                    | string  | HCPCS / CPT code (or MS-DRG for inpatient rows)                              |
+| `PAYER_ID`                        | int64   | Source payer identifier                                                      |
+| `PAYER_CHANNEL_NAME`              | string  | `Commercial` \| `Medicare` \| `Medicaid`                                     |
+| `CLAIM_TYPE_CD`                   | string  | `P` (professional) \| `I` (institutional)                                    |
+| `SETTING`                         | string  | `Office` \| `Outpatient` \| `Inpatient` \| `Other`                           |
+| `OBSERVED_UNITS`                  | float64 | Source-claims unit count (sum of `ATTRIBUTED_TOTAL_UNITS`)                   |
+| `PROJECTED_UNITS`                 | float64 | Deterministic point: `OBSERVED_UNITS / COVERAGE_ESTIMATE`                    |
+| `PROJECTED_UNITS_P5`              | float64 | 5th percentile (bootstrap), floored at `OBSERVED_UNITS`                      |
+| `PROJECTED_UNITS_P95`             | float64 | 95th percentile (bootstrap), floored at `OBSERVED_UNITS`                     |
+| `ATTRIBUTED_CHARGE_AMT`           | float64 | Source-claims billed-charge dollars (sum of `ATTRIBUTED_CHARGE_AMT`)         |
+| `ATTRIBUTED_CHARGE_AMT_PROJECTED` | float64 | Projected billed-charge dollars: `ATTRIBUTED_CHARGE_AMT / COVERAGE_ESTIMATE` |
+| `COVERAGE_ESTIMATE`               | float64 | Coverage fraction used to scale observed → projected                         |
+| `COVERAGE_SOURCE`                 | string  | Tier name (see §6)                                                           |
+| `COVERAGE_GRAIN`                  | string  | Grain at which coverage was estimated                                        |
+| `CONFIDENCE_BUCKET`               | string  | `high` \| `medium` \| `low` \| `suppress`                                    |
+| `PROVIDER_COUNTY_FIPS`            | string  | 5-digit county FIPS (from NPPES)                                             |
+| `PROVIDER_STATE`                  | string  | Two-letter state (from NPPES)                                                |
+| `DATA_PERIOD_START`               | date32  | Min `REPORT_DD` over the cell                                                |
+| `DATA_PERIOD_END`                 | date32  | Max `REPORT_DD` over the cell                                                |
+| `CALIBRATION_VINTAGE`             | string  | Run identifier from `config.yaml`                                            |
+| `RATE_YEAR`                       | int64   | Source `RATE_YEAR`                                                           |
 
-Suppressed cells pass through with `OBSERVED_UNITS` set, `PROJECTED_UNITS / P5 / P95` NULL, and `COVERAGE_SOURCE = 'suppress'`.
+Suppressed cells pass through with `OBSERVED_UNITS` and `ATTRIBUTED_CHARGE_AMT` set, `PROJECTED_UNITS / P5 / P95` and `ATTRIBUTED_CHARGE_AMT_PROJECTED` NULL, and `COVERAGE_SOURCE = 'suppress'`.
 
 ### 8. QA and validation
 
