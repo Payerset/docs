@@ -222,20 +222,23 @@ This section summarizes the V3 reference run on the full PurpleLab claims feed, 
 
 #### 9.1 Headline
 
-| Metric                   | Value                                              |
-| ------------------------ | -------------------------------------------------- |
-| Active rendering NPIs    | 474,366 (27.79% of 1,706,813 Type-2 NPIs in NPPES) |
-| Claims grain rows        | 208,236,867                                        |
-| Observed units           | 54,866,012,445                                     |
-| Projected units          | 82,372,848,585                                     |
-| Implied average coverage | 67.0%                                              |
-| Universe uplift          | 1.501×                                             |
+| Metric                           | Value                                              |
+| -------------------------------- | -------------------------------------------------- |
+| Active rendering NPIs            | 474,366 (27.79% of 1,706,813 Type-2 NPIs in NPPES) |
+| Output rows (claims grain)       | 203,789,732                                        |
+| Observed units                   | 54,866,012,445                                     |
+| Projected units                  | 77,235,449,496                                     |
+| Observed billed-charge dollars   | $7,151,662,941,633                                 |
+| Projected billed-charge dollars  | $9,913,699,079,363                                 |
+| Implied average coverage         | 71.0%                                              |
+| Universe uplift (units)          | 1.408×                                             |
+| Universe uplift (charge dollars) | 1.386×                                             |
 
-The implied coverage is consistent with the source feed's documented market share. The universe uplift represents the multiplier from the observed claims captured by the source feed to the estimated true universe of services rendered.
+The implied coverage is consistent with the source feed's documented market share. The universe uplift represents the multiplier from the observed claims captured by the source feed to the estimated true universe of services rendered. The unit and dollar uplifts differ slightly because the implied coverage at high-priced cells (e.g. inpatient stays anchored by `direct_inpatient_benchmark` at coverage ≈ 1.0) is higher than at low-priced cells, so the dollar-weighted average coverage runs a few points above the unit-weighted figure.
 
 #### 9.2 Coverage source mix
 
-The table below counts **coverage cells** at the `(county × procedure × channel)` grain — the key on which `COVERAGE_ESTIMATE` is computed. This is a coarser grain than the per-row output (208M rows; see §9.1): each coverage cell typically fans out to many output rows during projection (one per billing NPI × payer × POS × rate year that hits that triplet).
+The table below counts **coverage cells** at the `(county × procedure × channel)` grain — the key on which `COVERAGE_ESTIMATE` is computed. This is a coarser grain than the per-row output (203.8M rows; see §9.1): each coverage cell typically fans out to many output rows during projection (one per billing NPI × payer × claim-type × setting × rate-year that hits that triplet).
 
 | Coverage source              | Coverage cells (county × procedure × channel) | Observed units | Share of observed |
 | ---------------------------- | --------------------------------------------- | -------------- | ----------------- |
@@ -272,13 +275,13 @@ The 61,824 Medicare-channel inpatient coverage cells served by `direct_inpatient
 
 End-to-end runtime on a Mac Studio M3 Ultra (32 logical cores, 64 GB RAM):
 
-| Stage                                             | Time                               |
-| ------------------------------------------------- | ---------------------------------- |
-| 0. reference loads                                | \~1 s                              |
-| 1. ingest + geography (208M-row claims\_grain)    | 7 s                                |
-| 2. coverage hierarchy                             | \~25 s                             |
-| 3. projection + bootstrap (208M rows × 500 draws) | dominant; depends on `run.workers` |
-| 4. QA                                             | 3 s                                |
+| Stage                                               | Time                               |
+| --------------------------------------------------- | ---------------------------------- |
+| 0. reference loads                                  | \~1 s                              |
+| 1. ingest + geography (203.8M-row claims\_grain)    | 7 s                                |
+| 2. coverage hierarchy                               | \~25 s                             |
+| 3. projection + bootstrap (203.8M rows × 500 draws) | dominant; depends on `run.workers` |
+| 4. QA                                               | 3 s                                |
 
 Stage 3 dominates total runtime (\~99%). It is parallelized via `concurrent.futures.ProcessPoolExecutor` (`run.workers`); on the same hardware with `workers: 31` it scales near-linearly with worker count, as batches are independent and the bootstrap is CPU-bound NumPy.
 
