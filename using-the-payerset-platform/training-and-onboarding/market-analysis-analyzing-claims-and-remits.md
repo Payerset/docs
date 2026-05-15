@@ -81,7 +81,7 @@ Each row represents a distinct combination of:
 
 Additional contextual fields may also be included and can affect the granularity of a row, such as modifiers, place of service, and other attributes that further define the scope of the data.\
 \
-Full definitions can be found [here in our data dictionary](../data-dictionary/#claims-data).
+Full definitions can be found [here in our data dictionary](/broken/pages/1wb7SCWxnvz3YQpW3iJD#claims-data).
 
 ***
 

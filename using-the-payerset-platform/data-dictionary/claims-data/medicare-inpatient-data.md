@@ -4,7 +4,7 @@ description: Data dictionary fields for Medicare inpatient data in Payerset.
 
 # Medicare Inpatient Data
 
-For Medicare inpatient rate calculations, see [Medicare Inpatient Methodology](medicare-inpatient-methodology.md).
+For Medicare inpatient rate calculations, see Medicare Inpatient Methodology.
 
 ### Inpatient Data
 
