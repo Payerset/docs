@@ -14,7 +14,12 @@
   * [🖥️ Market Analysis - Analyzing Claims and Remits](using-the-payerset-platform/training-and-onboarding/market-analysis-analyzing-claims-and-remits.md)
   * [📇 Nonstandard Codes](using-the-payerset-platform/training-and-onboarding/nonstandard-codes.md)
 * [Data Dictionary](using-the-payerset-platform/data-dictionary/README.md)
-  * [Medicare Inpatient Methodology](using-the-payerset-platform/data-dictionary/medicare-inpatient-methodology.md)
+  * [Payer Transparency](using-the-payerset-platform/data-dictionary/payer-transparency.md)
+  * [Hospital Transparency](using-the-payerset-platform/data-dictionary/hospital-transparency.md)
+  * [Claims Data](using-the-payerset-platform/data-dictionary/claims-data.md)
+  * [Medicare Data](using-the-payerset-platform/data-dictionary/medicare-data/README.md)
+    * [Medicare Inpatient Methodology](using-the-payerset-platform/data-dictionary/medicare-data/medicare-inpatient-methodology.md)
+  * [Nonstandard Codes](using-the-payerset-platform/data-dictionary/nonstandard-codes.md)
 * [Claims Projection Methodology](using-the-payerset-platform/claims-projection-methodology.md)
 * [Release Notes](using-the-payerset-platform/release-notes.md)
 
