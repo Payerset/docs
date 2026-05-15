@@ -76,8 +76,8 @@ Tier assignments are payer-specific. For payers without an explicit tier configu
 | Negotiated Type | Score | Rationale                                                                          |
 | --------------- | ----- | ---------------------------------------------------------------------------------- |
 | `negotiated`    | 1,000 | Directly negotiated dollar amount — most reliable                                  |
-| `fee schedule`  | 2,000 | Published fee schedule rate — reliable but may not reflect actual negotiated terms |
-| `derived`       | 3,000 | Calculated from other rates — less transparent methodology                         |
+| `derived`       | 2,000 | Published fee schedule rate — reliable but may not reflect actual negotiated terms |
+| `fee schedule`  | 3,000 | Calculated from other rates — less transparent methodology                         |
 | `percentage`    | 4,000 | Percentage of an undisclosed base rate — requires conversion for usability         |
 | Other / unknown | 5,000 | Catch-all for non-standard types                                                   |
 
