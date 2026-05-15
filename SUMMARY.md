@@ -18,6 +18,8 @@
   * [Hospital Transparency](using-the-payerset-platform/data-dictionary/hospital-transparency.md)
   * [Claims Data](using-the-payerset-platform/data-dictionary/claims-data.md)
   * [Medicare Data](using-the-payerset-platform/data-dictionary/medicare-data/README.md)
+    * [Medicare Inpatient Data](using-the-payerset-platform/data-dictionary/medicare-data/medicare-inpatient-data.md)
+    * [Medicare Outpatient Data](using-the-payerset-platform/data-dictionary/medicare-data/medicare-outpatient-data.md)
     * [Medicare Inpatient Methodology](using-the-payerset-platform/data-dictionary/medicare-data/medicare-inpatient-methodology.md)
   * [Nonstandard Codes](using-the-payerset-platform/data-dictionary/nonstandard-codes.md)
 * [Claims Projection Methodology](using-the-payerset-platform/claims-projection-methodology.md)
