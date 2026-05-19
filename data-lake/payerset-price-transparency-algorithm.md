@@ -53,9 +53,11 @@ Before any rate selection occurs, raw TiC records are filtered to include only:
 
 * **Billing code types:** CPT, HCPCS, or MS-DRG.
 * **Negotiation arrangement:** Fee-for-service (`ffs`) only.
-* **Billing code modifier:** Blank or `00` (base rates only, no modifier-specific variants).
+* **Billing code modifier:** Blank, `00`, `JZ`, `KX`, `GA`, `LT`, `RT`, or `NULL`.
 * **Service codes:** `11` (Office), `21` (Inpatient Hospital), `22` (Outpatient Hospital), or blank (unspecified).
 * **Valid NPIs:** 10 digits, starting with `1` or `2`.
+
+Modifier handling occurs before priority scoring. Blank or global (`00`) remains the preferred full-rate representation for a procedure. When a blank or `00` modifier is present, it is prioritized. When it is not present, `JZ`, `KX`, `GA`, `LT`, `RT`, and `NULL` are eligible and are treated as the full rate for that procedure.
 
 Records that do not meet all of these criteria are excluded before priority scoring.
 
