@@ -21,7 +21,10 @@ Payerset has not identified accessible machine-readable files published by Healt
 
 | Record Type                   | Record Count |
 | ----------------------------- | ------------ |
-| Providers                     | 0 |
-| Rates                         | 0 |
-| Bundled Codes                 | 0 |
-| Covered Services (Capitation) | 0 |
+| Providers                     | 200,421,059,597 |
+| Rates                         | 27,715,862,369 |
+| Nonstandard Codes             | 1,217,632,539 |
+| Bundled Codes                 | 945,600,182 |
+| Covered Services (Capitation) | 61,606 |
+
+_Updated for May 2026._

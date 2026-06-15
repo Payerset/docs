@@ -21,7 +21,10 @@ Clover Health's price transparency data is published under UnitedHealthcare. See
 
 | Record Type                   | Record Count |
 | ----------------------------- | ------------ |
-| Providers                     | 0 |
-| Rates                         | 0 |
+| Providers                     | 3,132,722 |
+| Rates                         | 1,074,297,771 |
+| Nonstandard Codes             | 255,903 |
 | Bundled Codes                 | 0 |
 | Covered Services (Capitation) | 0 |
+
+_Updated for May 2026._

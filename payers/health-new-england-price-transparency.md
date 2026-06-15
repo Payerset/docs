@@ -17,8 +17,11 @@ description: >-
 
 | Record Type                   | Record Count |
 | ----------------------------- | ------------ |
-| Providers                     | 135,010 |
-| Rates                         | 180,754 |
+| Providers                     | 134,350 |
+| Rates                         | 176,855 |
+| Nonstandard Codes             | 104 |
 | Bundled Codes                 | 0 |
 | Covered Services (Capitation) | 0 |
+
+_Updated for May 2026._
 

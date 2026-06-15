@@ -24,10 +24,13 @@ Overall Rating: <mark style="color:green;">**5/5**</mark>**&#x20;- Excellent**
 
 | Record Type                   | Record Count |
 | ----------------------------- | ------------ |
-| Providers                     | 87,665 |
-| Rates                         | 142,895,665 |
+| Providers                     | 89,047 |
+| Rates                         | 174,837,880 |
+| Nonstandard Codes             | 122,775 |
 | Bundled Codes                 | 0 |
 | Covered Services (Capitation) | 0 |
+
+_Updated for May 2026._
 
 ### Additional Observations
 
