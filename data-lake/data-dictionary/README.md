@@ -14,8 +14,8 @@ Please see below for various data dictionaries available for different types of 
 [payer-transparency-tic.md](payer-transparency-tic.md)
 {% endcontent-ref %}
 
-{% content-ref url="/broken/pages/ggqZWaskxqLPt7sd8oUj" %}
-[Broken link](/broken/pages/ggqZWaskxqLPt7sd8oUj)
+{% content-ref url="https://app.gitbook.com/s/nHb9ExJ17VBEWyiaRHha/hospital-transparency" %}
+[Hospital Transparency](https://app.gitbook.com/s/nHb9ExJ17VBEWyiaRHha/hospital-transparency)
 {% endcontent-ref %}
 
 {% content-ref url="employer-reporting-plans.md" %}

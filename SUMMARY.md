@@ -16,13 +16,13 @@
 * [Data Dictionary](using-the-payerset-platform/data-dictionary/README.md)
   * [Payer Transparency](using-the-payerset-platform/data-dictionary/payer-transparency.md)
   * [Hospital Transparency](using-the-payerset-platform/data-dictionary/hospital-transparency.md)
-  * [Medicare Data](using-the-payerset-platform/data-dictionary/medicare-data.md)
+  * [Medicare Data](using-the-payerset-platform/data-dictionary/medicare-data/README.md)
+    * [Medicare Inpatient Data](using-the-payerset-platform/data-dictionary/medicare-data/medicare-inpatient-data.md)
+    * [Medicare Outpatient Data](using-the-payerset-platform/data-dictionary/medicare-data/medicare-outpatient-data.md)
+    * [Medicare Inpatient Methodology](using-the-payerset-platform/data-dictionary/medicare-data/medicare-inpatient-methodology.md)
   * [Claims Data](using-the-payerset-platform/data-dictionary/claims-data/README.md)
-    * [Medicare Inpatient Data](using-the-payerset-platform/data-dictionary/claims-data/medicare-inpatient-data.md)
-    * [Medicare Outpatient Data](using-the-payerset-platform/data-dictionary/claims-data/medicare-outpatient-data.md)
-    * [Medicare Inpatient Methodology](using-the-payerset-platform/data-dictionary/claims-data/medicare-inpatient-methodology.md)
+    * [Claims Projection Methodology](using-the-payerset-platform/data-dictionary/claims-data/claims-projection-methodology.md)
   * [Nonstandard Codes](using-the-payerset-platform/data-dictionary/nonstandard-codes.md)
-* [Claims Projection Methodology](using-the-payerset-platform/claims-projection-methodology.md)
 * [Release Notes](using-the-payerset-platform/release-notes.md)
 
 ## Hospital Transparency
