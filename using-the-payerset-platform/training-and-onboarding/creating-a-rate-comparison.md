@@ -29,7 +29,7 @@ Stay tuned for further enhancements to utilizing these historical rates for adva
 
 First, choose the billing codes you are interested in analyzing. You can filter on code type (CPT/HCPCS/DRG) or categories/subcategories that Payerset has created. To learn more, see our [Payerset Billing Code Classification documentation](../../data-lake/payerset-billing-code-classification.md). You can also use the search to find specific codes or code families, like "2744" or "Knee".
 
-<figure><img src="../../.gitbook/assets/Kapture 2024-12-18 at 13.01.52.gif" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Kapture 2024-12-18 at 13.01.52.gif" alt=""><figcaption></figcaption></figure>
 
 You can select codes individually or click the "Select all" button at the bottom to select all of the codes you have in your current filtered view. We'll use the "Select all" option.
 
