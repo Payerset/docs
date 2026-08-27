@@ -2,10 +2,6 @@
 
 Instantly access benchmarked negotiated rates by specific providers, billing codes, and plan types.
 
-{% hint style="info" %}
-🎞️ **GIF needed:** Overview of the Provider Lookup tool.
-{% endhint %}
-
 ### Step 1: Find Your Provider
 
 Start by searching for the exact practitioner or facility you want to analyze.
