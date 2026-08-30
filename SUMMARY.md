@@ -30,6 +30,13 @@
   * [Nonstandard Codes](using-the-payerset-platform/data-dictionary/nonstandard-codes.md)
 * [Release Notes](using-the-payerset-platform/release-notes.md)
 
+## Payerset MCP & AI Connectors
+
+* [Microsoft 365 Copilot](payerset-mcp-and-ai-connectors/microsoft-365-copilot.md)
+* [ChatGPT - OpenAI](payerset-mcp-and-ai-connectors/chatgpt-openai.md)
+* [Claude - Anthropic](payerset-mcp-and-ai-connectors/claude-anthropic.md)
+* [Google Gemini](payerset-mcp-and-ai-connectors/google-gemini.md)
+
 ## Hospital Transparency
 
 * [MRF Links by State](hospital-transparency/mrf-links-by-state.md)
