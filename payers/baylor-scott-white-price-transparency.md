@@ -32,7 +32,7 @@ Overall Rating: <mark style="color:green;">**4/5**</mark>**&#x20;- Good**
 
 _Updated for August 2026._
 
-**August 2026 Status:** Files for the August 2026 cycle were acquired but no provider or rate records were extracted from them; Payerset is reviewing the files.
+**August 2026 Status:** Two of the four plan files posted by Baylor Scott & White for the August 2026 cycle were retrievable; the remaining files are not downloadable from the published links. Counts will be updated once the retrievable files are loaded.
 
 ### Additional Observations
 

@@ -1,7 +1,7 @@
 ---
 description: >-
   This data contains the price transparency machine-readable files provided by
-  BCBS Texas that have been normalized into easy-to-use tables.
+  BCBS Triple-S that have been normalized into easy-to-use tables.
 ---
 
 # 🟢 Blue Cross Blue Shield Triple-S

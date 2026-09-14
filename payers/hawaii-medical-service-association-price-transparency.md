@@ -38,7 +38,7 @@ _Data was not available for August 2026._
 
 **Machine-Readable Price Transparency Files Review**
 
-* **MRFs Up-to-Date:** ✔️ Yes, the MRFs are kept up to date each month.
+* **MRFs Up-to-Date:** ❌ No, the most recently published files predate the August 2026 cycle.
 * **Table of Contents Accessibility:** ✔️ The Table of Contents link is easily accessible.
 * **Table of Contents Formatting:** ✔️ Yes, the Table of Contents is properly formatted.
 * **File Download Barriers:** ✔️ No barriers to downloading the MRFs.

@@ -31,6 +31,7 @@ Overall Rating: <mark style="color:green;">**5/5**</mark>**&#x20;- Excellent**
 | ----------------------------- | ------------ |
 | Providers                     | 0 |
 | Rates                         | 0 |
+| Nonstandard Codes             | 0 |
 | Bundled Codes                 | 0 |
 | Covered Services (Capitation) | 0 |
 

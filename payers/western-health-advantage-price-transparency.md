@@ -5,10 +5,6 @@ description: >-
 
 # ⚪ Western Health Advantage
 
-{% hint style="warning" %}
-Payerset has not identified accessible machine-readable files published by Western Health Advantage. If you are aware of MRFs published by this payer, please contact [support@payerset.com](mailto:support@payerset.com).
-{% endhint %}
-
 ### Payerset Notes
 
 **Table of Contents**

@@ -26,6 +26,7 @@ Overall Rating: <mark style="color:green;">**5/5**</mark> **- Excellent**
 | ----------------------------- | ------------ |
 | Providers                     | 0 |
 | Rates                         | 19,507,028 |
+| Nonstandard Codes             | 0 |
 | Bundled Codes                 | 0 |
 | Covered Services (Capitation) | 0 |
 
@@ -37,7 +38,7 @@ _Data was not available for August 2026._
 
 **Machine-Readable Price Transparency Files Review**
 
-* **MRFs Up-to-Date:** ✔️ Yes, the MRFs are kept up to date each month.
+* **MRFs Up-to-Date:** ❌ No, no machine-readable files were found for the August 2026 cycle.
 * **Table of Contents Accessibility:** ✔️ The Table of Contents link is easily accessible.
 * **Table of Contents Formatting:** ✔️ Yes, the Table of Contents is properly formatted.
 * **File Download Barriers:** ✔️ No barriers to download

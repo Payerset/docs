@@ -4,7 +4,7 @@ description: >-
   Avmed Health Pledge that have been normalized into easy-to-use tables.
 ---
 
-# 🟠 AvMed Health Pledge
+# 🟢 AvMed Health Pledge
 
 {% hint style="danger" %}
 AvMed has not updated since November 2024

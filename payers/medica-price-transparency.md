@@ -10,7 +10,7 @@ description: >-
 
 **Table of Contents**
 
-[https://mrf.payerset.com/medica](https://mrf.payerset.com/medica)
+[https://mrf.payerset.com/0JtA0A](https://mrf.payerset.com/0JtA0A)
 
 ### Compliance Scorecard
 

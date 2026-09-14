@@ -3,11 +3,7 @@ description: >-
   This data contains the price transparency machine-readable files provided by First Medical Health Plan that have been normalized into easy-to-use tables.
 ---
 
-# 🔴 First Medical Health Plan
-
-{% hint style="warning" %}
-Payerset has not identified accessible machine-readable files published by First Medical Health Plan. Published files do not contain accessible rate data. If you are aware of MRFs published by this payer, please contact [support@payerset.com](mailto:support@payerset.com).
-{% endhint %}
+# 🔴 First Medical Health Plan (Puerto Rico)
 
 ### Payerset Notes
 

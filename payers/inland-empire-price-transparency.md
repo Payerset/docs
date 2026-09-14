@@ -4,7 +4,7 @@ description: >-
   Inland Empire that have been normalized into easy-to-use tables.
 ---
 
-# 🟠 Inland Empire
+# 🟡 Inland Empire
 
 ### Payerset Notes
 

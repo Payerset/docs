@@ -10,7 +10,7 @@ description: >-
 
 **Table of Contents**
 
-[https://mrf.payerset.com/uha\_health](https://mrf.payerset.com/uha_health)
+[https://mrf.payerset.com/uha-health](https://mrf.payerset.com/uha-health)
 
 ### Compliance Scorecard
 

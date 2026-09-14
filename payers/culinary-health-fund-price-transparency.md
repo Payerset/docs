@@ -5,10 +5,6 @@ description: >-
 
 # ⚪ Culinary Health Fund
 
-{% hint style="warning" %}
-Payerset has not identified accessible machine-readable files published by Culinary Health Fund. If you are aware of MRFs published by this payer, please contact [support@payerset.com](mailto:support@payerset.com).
-{% endhint %}
-
 ### Payerset Notes
 
 **Table of Contents**

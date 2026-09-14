@@ -1,7 +1,7 @@
 ---
 description: >-
   This data contains the price transparency machine-readable files provided by
-  BCBS Nebraska that have been normalized into easy-to-use tables.
+  BCBS New Mexico that have been normalized into easy-to-use tables.
 ---
 
 # 🟢 Blue Cross Blue Shield New Mexico

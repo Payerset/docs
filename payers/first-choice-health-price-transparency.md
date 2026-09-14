@@ -5,10 +5,6 @@ description: >-
 
 # ⚪ First Choice Health
 
-{% hint style="warning" %}
-Payerset has not identified accessible machine-readable files published by First Choice Health. First Choice Health operates as a third-party administrator (TPA). Payerset is currently evaluating their machine-readable file publications. If you are aware of MRFs published by this payer, please contact [support@payerset.com](mailto:support@payerset.com).
-{% endhint %}
-
 ### Payerset Notes
 
 **Table of Contents**

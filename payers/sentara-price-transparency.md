@@ -14,6 +14,8 @@ Sentara's JSON files are not parseable in their posted format. Specifically, the
 
 **Table of Contents**
 
+Source: [https://www.sentarahealthplans.com/en/vendor/machine-readable-data](https://www.sentarahealthplans.com/en/vendor/machine-readable-data)
+
 [https://mrf.payerset.com/sentara](https://mrf.payerset.com/sentara)
 
 ### Compliance Scorecard

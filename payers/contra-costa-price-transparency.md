@@ -26,6 +26,7 @@ Overall Rating: <mark style="color:green;">**5/5**</mark>**&#x20;- Excellent**
 | ----------------------------- | ------------ |
 | Providers                     | 16,906 |
 | Rates                         | 8,180,110 |
+| Nonstandard Codes             | 0 |
 | Bundled Codes                 | 108 |
 | Covered Services (Capitation) | 0 |
 

@@ -26,6 +26,7 @@ Overall Rating: **1/5 - Not Compliant**
 | ----------------------------- | ------------ |
 | Providers                     | 0 |
 | Rates                         | 0 |
+| Nonstandard Codes             | 0 |
 | Bundled Codes                 | 0 |
 | Covered Services (Capitation) | 0 |
 

@@ -23,6 +23,7 @@ Payerset has not identified accessible machine-readable files published by OSF H
 | ----------------------------- | ------------ |
 | Providers                     | 0 |
 | Rates                         | 0 |
+| Nonstandard Codes             | 0 |
 | Bundled Codes                 | 0 |
 | Covered Services (Capitation) | 0 |
 
