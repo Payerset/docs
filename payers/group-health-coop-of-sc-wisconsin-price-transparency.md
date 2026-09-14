@@ -19,19 +19,21 @@ Overall Rating: <mark style="color:green;">**4/5**</mark>**&#x20;- Meets Expecta
 
 <table data-view="cards"><thead><tr><th></th><th></th><th></th><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><strong>Table of Contents</strong></td><td><strong>★★★★☆</strong></td><td><mark style="color:green;">4<strong>/5</strong></mark></td><td><ul><li>Are the MRFs kept up to date each month? </li><li>Is the Table of Contents link easily accessible?</li><li>Is the Table of Contents properly formatted?</li></ul></td><td></td></tr><tr><td><strong>File Accessibility</strong></td><td><strong>★★★★☆</strong></td><td><mark style="color:green;"><strong>4/5</strong></mark></td><td><ul><li>Are there any barriers to downloading the files?</li><li>Do the Table of Contents links expire before publishing new links?</li></ul></td><td></td></tr><tr><td><strong>Data Quality</strong></td><td><strong>★★★★☆</strong></td><td><mark style="color:green;">4<strong>/5</strong></mark></td><td><ul><li><p>What percentage of the MRFs are properly formatted and parseable</p><ul><li>5 Stars - 100%</li><li>4 Stars - 80%...</li></ul></li></ul></td><td></td></tr></tbody></table>
 
-### Schema: GROUP\_HEALTH\_COOPERATIVE\_OF\_EAU\_CLAIRE
+### Schema: GROUP\_HEALTH\_COOPERATIVE\_SCWI
 
 #### **Data Validation**
 
 | Record Type                   | Record Count |
 | ----------------------------- | ------------ |
-| Providers                     | 23,515 |
-| Rates                         | 7,938,059 |
-| Nonstandard Codes             | 2,264,599 |
-| Bundled Codes                 | 15,657 |
+| Providers                     | 29,778 |
+| Rates                         | 7,072,590 |
+| Nonstandard Codes             | 2,069,438 |
+| Bundled Codes                 | 9,126 |
 | Covered Services (Capitation) | 0 |
 
-_Updated for May 2026._
+_Updated for August 2026._
+
+**August 2026 Status:** Files for the August 2026 cycle were acquired and loaded.
 
 ### Additional Observations
 

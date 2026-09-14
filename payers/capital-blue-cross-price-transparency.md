@@ -24,13 +24,15 @@ Overall Rating: <mark style="color:green;">**5/5**</mark>**&#x20;- Excellent**
 
 | Record Type                   | Record Count |
 | ----------------------------- | ------------ |
-| Providers                     | 356,509 |
-| Rates                         | 63,618,147 |
+| Providers                     | 477,466 |
+| Rates                         | 83,261,021 |
 | Nonstandard Codes             | 0 |
 | Bundled Codes                 | 0 |
 | Covered Services (Capitation) | 0 |
 
-_Updated for May 2026._
+_Updated for August 2026._
+
+**August 2026 Status:** Files for the August 2026 cycle were acquired and loaded. Counts reflect Capital BlueCross files published within the Blue Cross Blue Shield files.
 
 ### Additional Observations
 

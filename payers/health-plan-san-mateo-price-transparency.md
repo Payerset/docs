@@ -5,10 +5,6 @@ description: >-
 
 # 🔴 Health Plan of San Mateo
 
-{% hint style="warning" %}
-Payerset has not identified accessible machine-readable files published by Health Plan of San Mateo. The most recent machine-readable files identified are from January 2024. If you are aware of MRFs published by this payer, please contact [support@payerset.com](mailto:support@payerset.com).
-{% endhint %}
-
 ### Payerset Notes
 
 **Table of Contents**
@@ -21,9 +17,12 @@ Payerset has not identified accessible machine-readable files published by Healt
 
 | Record Type                   | Record Count |
 | ----------------------------- | ------------ |
-| Providers                     | 0 |
-| Rates                         | 0 |
+| Providers                     | 19,121,913 |
+| Rates                         | 338,068 |
+| Nonstandard Codes             | 0 |
 | Bundled Codes                 | 0 |
 | Covered Services (Capitation) | 0 |
 
-_Data was not available for May 2026._
+_Updated for August 2026._
+
+**August 2026 Status:** Files for the August 2026 cycle were acquired and loaded.

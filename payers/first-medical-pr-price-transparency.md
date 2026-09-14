@@ -3,11 +3,7 @@ description: >-
   This data contains the price transparency machine-readable files provided by First Medical Health Plan that have been normalized into easy-to-use tables.
 ---
 
-# 🔴 First Medical Health Plan
-
-{% hint style="warning" %}
-Payerset has not identified accessible machine-readable files published by First Medical Health Plan. Published files do not contain accessible rate data. If you are aware of MRFs published by this payer, please contact [support@payerset.com](mailto:support@payerset.com).
-{% endhint %}
+# 🔴 First Medical Health Plan (Puerto Rico)
 
 ### Payerset Notes
 
@@ -21,9 +17,12 @@ Payerset has not identified accessible machine-readable files published by First
 
 | Record Type                   | Record Count |
 | ----------------------------- | ------------ |
-| Providers                     | 0 |
+| Providers                     | 8,471 |
 | Rates                         | 0 |
-| Bundled Codes                 | 0 |
+| Nonstandard Codes             | 1,680,877 |
+| Bundled Codes                 | 1,532,834 |
 | Covered Services (Capitation) | 0 |
 
-_Data was not available for May 2026._
+_Updated for August 2026._
+
+**August 2026 Status:** Files for the August 2026 cycle were acquired and loaded.

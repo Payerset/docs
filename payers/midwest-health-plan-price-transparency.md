@@ -4,7 +4,7 @@ description: >-
   Midwest Health Plan that have been normalized into easy-to-use tables.
 ---
 
-# 🟢 Midwest Health Plan
+# ⚪ Midwest Health Plan
 
 ### Payerset Notes
 
@@ -14,7 +14,7 @@ description: >-
 
 ### Compliance Scorecard
 
-Overall Rating: <mark style="color:green;">**5/5**</mark>**&#x20;- Excellent**
+Overall Rating: **N/A - Data published under Health Alliance Plan (HAP)**
 
 <table data-view="cards"><thead><tr><th></th><th></th><th></th><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><strong>Table of Contents</strong></td><td><strong>★★★★★</strong></td><td><mark style="color:green;"><strong>5/5</strong></mark></td><td><ul><li>Are the MRFs kept up to date each month? </li><li>Is the Table of Contents link easily accessible?</li><li>Is the Table of Contents properly formatted?</li></ul></td><td></td></tr><tr><td><strong>File Accessibility</strong></td><td><strong>★★★★★</strong></td><td><mark style="color:green;"><strong>5/5</strong></mark></td><td><ul><li>Are there any barriers to downloading the files?</li><li>Do the Table of Contents links expire before publishing new links?</li></ul></td><td></td></tr><tr><td><strong>Data Quality</strong></td><td><strong>★★★★★</strong></td><td><mark style="color:green;"><strong>5/5</strong></mark></td><td><ul><li><p>What percentage of the MRFs are properly formatted and parseable</p><ul><li>5 Stars - 100%</li><li>4 Stars - 80%...</li></ul></li></ul></td><td></td></tr></tbody></table>
 
@@ -26,10 +26,13 @@ Overall Rating: <mark style="color:green;">**5/5**</mark>**&#x20;- Excellent**
 | ----------------------------- | ------------ |
 | Providers                     | 0 |
 | Rates                         | 0 |
+| Nonstandard Codes             | 0 |
 | Bundled Codes                 | 0 |
 | Covered Services (Capitation) | 0 |
 
-_Data was not available for May 2026._
+_Data was not available for August 2026._
+
+**August 2026 Status:** This payer's price transparency data is published under other payers. Midwest Health Plan's data is published by Health Alliance Plan (HAP).
 
 ### Additional Observations
 

@@ -33,13 +33,15 @@ Overall Rating: <mark style="color:yellow;">**3/5**</mark>**&#x20;- Acceptable**
 
 | Record Type                   | Record Count |
 | ----------------------------- | ------------ |
-| Providers                     | 103,052,171,886 |
-| Rates                         | 3,301,426,402,211 |
-| Nonstandard Codes             | 63,082,244,242 |
+| Providers                     | 41,945,607,486 |
+| Rates                         | 3,853,719,798,999 |
+| Nonstandard Codes             | 73,490,492,470 |
 | Bundled Codes                 | 0 |
 | Covered Services (Capitation) | 0 |
 
-_Updated for May 2026._
+_Updated for August 2026._
+
+**August 2026 Status:** Files for the August 2026 cycle were acquired and loaded. Counts combine the Aetna, Aetna TPA, Aetna Signature Administrators, and Aetna Joint Care Administration files. No files were found for Aetna Texas Fully Insured this cycle.
 
 ### Additional Observations
 

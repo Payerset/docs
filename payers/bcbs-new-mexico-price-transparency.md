@@ -1,7 +1,7 @@
 ---
 description: >-
   This data contains the price transparency machine-readable files provided by
-  BCBS Nebraska that have been normalized into easy-to-use tables.
+  BCBS New Mexico that have been normalized into easy-to-use tables.
 ---
 
 # 🟢 Blue Cross Blue Shield New Mexico
@@ -24,13 +24,15 @@ Overall Rating: <mark style="color:green;">**5/5**</mark>**&#x20;- Excellent**
 
 | Record Type                   | Record Count |
 | ----------------------------- | ------------ |
-| Providers                     | 106,193,810 |
-| Rates                         | 101,166,471 |
+| Providers                     | 88,249,135 |
+| Rates                         | 92,921,853 |
 | Nonstandard Codes             | 0 |
 | Bundled Codes                 | 0 |
 | Covered Services (Capitation) | 0 |
 
-_Updated for May 2026._
+_Updated for August 2026._
+
+**August 2026 Status:** Files for the August 2026 cycle were acquired and loaded.
 
 ### Additional Observations
 

@@ -4,7 +4,7 @@ description: >-
   Moda Health that have been normalized into easy-to-use tables.
 ---
 
-# 🟡 Moda Health
+# 🟢 Moda Health
 
 ### Payerset Notes
 
@@ -24,13 +24,15 @@ Overall Rating: <mark style="color:yellow;">**3.5/5**</mark>**&#x20;- Average**
 
 | Record Type                   | Record Count |
 | ----------------------------- | ------------ |
-| Providers                     | 23,264,265,153 |
-| Rates                         | 2,141,845,535 |
-| Nonstandard Codes             | 13,745,153 |
-| Bundled Codes                 | 1,879,322 |
+| Providers                     | 26,311,870,485 |
+| Rates                         | 3,141,162,172 |
+| Nonstandard Codes             | 27,537,698 |
+| Bundled Codes                 | 620,172 |
 | Covered Services (Capitation) | 0 |
 
-_Updated for May 2026._
+_Updated for August 2026._
+
+**August 2026 Status:** Files for the August 2026 cycle were acquired and loaded.
 
 ### Additional Observations
 

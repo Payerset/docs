@@ -4,7 +4,7 @@ description: >-
   AultCare that have been normalized into easy-to-use tables.
 ---
 
-# 🟢 AultCare
+# 🟡 AultCare
 
 ### Payerset Notes
 
@@ -14,9 +14,9 @@ description: >-
 
 ### Compliance Scorecard
 
-Overall Rating: <mark style="color:green;">**4/5**</mark> **- Good**
+Overall Rating: <mark style="color:yellow;">**3/5**</mark>** - Needs Improvement**
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><strong>Table of Contents</strong></td><td><strong>★★★☆☆</strong></td><td><mark style="color:yellow;">3<strong>/5</strong></mark></td><td><ul><li><mark style="color:yellow;">Are the MRFs kept up to date each month?</mark> </li><li>Is the Table of Contents link easily accessible?</li><li>Is the Table of Contents properly formatted?</li></ul></td><td></td></tr><tr><td><strong>File Accessibility</strong></td><td><strong>★★★★★</strong></td><td><mark style="color:green;"><strong>5/5</strong></mark></td><td><ul><li>Are there any barriers to downloading the files?</li><li>Do the Table of Contents links expire before publishing new links?</li></ul></td><td></td></tr><tr><td><strong>Data Quality</strong></td><td><strong>★★★★★</strong></td><td><mark style="color:green;"><strong>5/5</strong></mark></td><td><ul><li><p>What percentage of the MRFs are properly formatted and parseable</p><ul><li>5 Stars - 100%</li><li>4 Stars - 80%...</li></ul></li></ul></td><td></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><strong>Table of Contents</strong></td><td><strong>★★★☆☆</strong></td><td><mark style="color:yellow;"><strong>3/5</strong></mark></td><td><ul><li><mark style="color:yellow;">Are the MRFs kept up to date each month?</mark> </li><li>Is the Table of Contents link easily accessible?</li><li>Is the Table of Contents properly formatted?</li></ul></td><td></td></tr><tr><td><strong>File Accessibility</strong></td><td><strong>★★★★★</strong></td><td><mark style="color:green;"><strong>5/5</strong></mark></td><td><ul><li>Are there any barriers to downloading the files?</li><li>Do the Table of Contents links expire before publishing new links?</li></ul></td><td></td></tr><tr><td><strong>Data Quality</strong></td><td><strong>★★★★★</strong></td><td><mark style="color:green;"><strong>5/5</strong></mark></td><td><ul><li><p>What percentage of the MRFs are properly formatted and parseable</p><ul><li>5 Stars - 100%</li><li>4 Stars - 80%...</li></ul></li></ul></td><td></td></tr></tbody></table>
 
 ### Schema: AULTCARE
 
@@ -30,7 +30,9 @@ Overall Rating: <mark style="color:green;">**4/5**</mark> **- Good**
 | Bundled Codes                 | 0 |
 | Covered Services (Capitation) | 0 |
 
-_Updated for May 2026._
+_Data was not available for August 2026._
+
+**August 2026 Status:** The most recently published files are dated 2026-07-03, which predates the August 2026 reporting cycle; no new data was loaded.
 
 ### Additional Observations
 
@@ -42,4 +44,4 @@ _Updated for May 2026._
 * **File Download Barriers:** ✔️ No barriers to download
 * **File Accessibility Percentage:** ✔️ All files available.
 
-**Overall Assessment:** AultCare has some issues with delays in updating MRFs in a timely manner. Other than delays, the quality is fair and consistent amongst peers.
+**Overall Assessment:** AultCare has some issues with delays in updating MRFs in a timely manner. Other than delays, the quality is fair and consistent amongst peers. Rescored to 3/5 in August 2026 because the July 2026 files were posted after the reporting cutoff and no August 2026 files were available.

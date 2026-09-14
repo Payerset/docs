@@ -1,2 +1,0 @@
-# Highmark Blue Shield Pennsylvania
-

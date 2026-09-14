@@ -17,11 +17,13 @@ description: >-
 
 | Record Type                   | Record Count |
 | ----------------------------- | ------------ |
-| Providers                     | 43,354,117,961 |
-| Rates                         | 1,106,615,888 |
-| Nonstandard Codes             | 2,401,666 |
-| Bundled Codes                 | 11,814,501 |
+| Providers                     | 16,031,862,069 |
+| Rates                         | 956,456,729 |
+| Nonstandard Codes             | 0 |
+| Bundled Codes                 | 0 |
 | Covered Services (Capitation) | 0 |
 
-_Updated for May 2026._
+_Updated for August 2026._
+
+**August 2026 Status:** Files for the August 2026 cycle were acquired and loaded. Counts reflect HealthLink files published within the Elevance (Anthem) Blues files.
 

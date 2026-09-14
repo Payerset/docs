@@ -21,9 +21,12 @@ The Health Plan's Table of Contents references machine-readable files published 
 
 | Record Type                   | Record Count |
 | ----------------------------- | ------------ |
-| Providers                     | 0 |
-| Rates                         | 0 |
+| Providers                     | 45,155,359 |
+| Rates                         | 3,805,213,786 |
+| Nonstandard Codes             | 490,214 |
 | Bundled Codes                 | 0 |
 | Covered Services (Capitation) | 0 |
 
-_Data was not available for May 2026._
+_Updated for August 2026._
+
+**August 2026 Status:** Files for the August 2026 cycle were acquired and loaded.

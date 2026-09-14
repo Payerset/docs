@@ -3,7 +3,7 @@ description: >-
   This data contains the price transparency machine-readable files provided by PHCS that have been normalized into easy-to-use tables.
 ---
 
-# 🟢 PHCS
+# 🔴 PHCS
 
 ### Payerset Notes
 
@@ -23,5 +23,7 @@ description: >-
 | Bundled Codes                 | 0 |
 | Covered Services (Capitation) | 0 |
 
-_Updated for May 2026._
+_Data was not available for August 2026._
+
+**August 2026 Status:** No machine-readable files for the August 2026 cycle were found.
 

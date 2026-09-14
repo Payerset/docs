@@ -5,7 +5,7 @@ description: >-
   easy-to-use tables.
 ---
 
-# 🟢 Physicians Health Plan (University of Michigan)
+# 🔴 Physicians Health Plan (University of Michigan)
 
 ### Payerset Notes
 
@@ -15,9 +15,9 @@ description: >-
 
 ### Compliance Scorecard
 
-Overall Rating: <mark style="color:green;">**4/5**</mark>**&#x20;- Good**
+Overall Rating: <mark style="color:red;">**1/5**</mark>** - Not Compliant**
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><strong>Table of Contents</strong></td><td><strong>★★★★☆</strong></td><td><mark style="color:green;">4<strong>/5</strong></mark></td><td><ul><li>Are the MRFs kept up to date each month? </li><li>Is the Table of Contents link easily accessible?</li><li>Is the Table of Contents properly formatted?</li></ul></td><td></td></tr><tr><td><strong>File Accessibility</strong></td><td><strong>★★★★★</strong></td><td><mark style="color:green;"><strong>5/5</strong></mark></td><td><ul><li>Are there any barriers to downloading the files?</li><li>Do the Table of Contents links expire before publishing new links?</li></ul></td><td></td></tr><tr><td><strong>Data Quality</strong></td><td><strong>★★★★☆</strong></td><td>3.5<mark style="color:yellow;"><strong>/5</strong></mark></td><td><ul><li><p>What percentage of the MRFs are properly formatted and parseable</p><ul><li>5 Stars - 100%</li><li>4 Stars - 80%...</li></ul></li></ul></td><td></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><strong>Table of Contents</strong></td><td><strong>★☆☆☆☆</strong></td><td><mark style="color:red;"><strong>1/5</strong></mark></td><td><ul><li>Are the MRFs kept up to date each month? </li><li>Is the Table of Contents link easily accessible?</li><li>Is the Table of Contents properly formatted?</li></ul></td><td></td></tr><tr><td><strong>File Accessibility</strong></td><td><strong>★☆☆☆☆</strong></td><td><mark style="color:red;"><strong>1/5</strong></mark></td><td><ul><li>Are there any barriers to downloading the files?</li><li>Do the Table of Contents links expire before publishing new links?</li></ul></td><td></td></tr><tr><td><strong>Data Quality</strong></td><td><strong>★★★★☆</strong></td><td>3.5<mark style="color:yellow;"><strong>/5</strong></mark></td><td><ul><li><p>What percentage of the MRFs are properly formatted and parseable</p><ul><li>5 Stars - 100%</li><li>4 Stars - 80%...</li></ul></li></ul></td><td></td></tr></tbody></table>
 
 ### Schema: PHYSICIANS\_HEALTH\_PLAN\_WI
 
@@ -31,7 +31,9 @@ Overall Rating: <mark style="color:green;">**4/5**</mark>**&#x20;- Good**
 | Bundled Codes                 | 0 |
 | Covered Services (Capitation) | 0 |
 
-_Updated for May 2026._
+_Data was not available for August 2026._
+
+**August 2026 Status:** No machine-readable files for the August 2026 cycle were found. The payer's transparency page did not link to any Table of Contents or in-network files.
 
 ### Additional Observations
 
@@ -43,4 +45,4 @@ _Updated for May 2026._
 * **File Download Barriers:** ✔️ There are no barriers to downloading the files, though there are mostly zip files that contain thousands of other files, which makes processing a little challenging.
 * **File Accessibility Percentage:** :heavy\_check\_mark: The files are accessible and uncorrupted
 
-**Overall Assessment:** Physicians Health Plan (University of Michigan) does a great job of posting these files although does suffer from delays occasionally. They duplicate provider data substantially, but that can be a result of interpretation of the CMS rules.
+**Overall Assessment:** Physicians Health Plan (University of Michigan) does a great job of posting these files although does suffer from delays occasionally. They duplicate provider data substantially, but that can be a result of interpretation of the CMS rules. Rescored to 1/5 in August 2026 because the transparency page no longer links to any Table of Contents or in-network files.

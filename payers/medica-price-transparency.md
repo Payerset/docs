@@ -10,7 +10,7 @@ description: >-
 
 **Table of Contents**
 
-[https://mrf.payerset.com/medica](https://mrf.payerset.com/medica)
+[https://mrf.payerset.com/0JtA0A](https://mrf.payerset.com/0JtA0A)
 
 ### Compliance Scorecard
 
@@ -24,13 +24,15 @@ Overall Rating: <mark style="color:green;">**5/5**</mark>**&#x20;- Excellent**
 
 | Record Type                   | Record Count |
 | ----------------------------- | ------------ |
-| Providers                     | 249,149,230 |
-| Rates                         | 14,337,417,761 |
-| Nonstandard Codes             | 2,618,128 |
-| Bundled Codes                 | 7,668,010 |
+| Providers                     | 42,987,554 |
+| Rates                         | 14,826,540,072 |
+| Nonstandard Codes             | 2,872,237 |
+| Bundled Codes                 | 1,860,520 |
 | Covered Services (Capitation) | 0 |
 
-_Updated for May 2026._
+_Updated for August 2026._
+
+**August 2026 Status:** Files for the August 2026 cycle were acquired and loaded.
 
 ### Additional Observations
 

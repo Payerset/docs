@@ -4,7 +4,7 @@ description: >-
   Valley Health Plan that have been normalized into easy-to-use tables.
 ---
 
-# 🟠 Valley Health Plan
+# 🟡 Valley Health Plan
 
 ### Payerset Notes
 
@@ -26,10 +26,13 @@ Overall Rating: <mark style="color:orange;">**3/5**</mark>**&#x20;- Below Expect
 | ----------------------------- | ------------ |
 | Providers                     | 0            |
 | Rates                         | 0            |
+| Nonstandard Codes             | 0 |
 | Bundled Codes                 | 0            |
 | Covered Services (Capitation) | 0            |
 
-_Data was not available for May 2026._
+_Data was not available for August 2026._
+
+**August 2026 Status:** Files for the August 2026 cycle were acquired; record counts were not yet available at the time of this update.
 
 ### Additional Observations
 

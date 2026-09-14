@@ -5,10 +5,6 @@ description: >-
 
 # ⚪ Central California Alliance for Health
 
-{% hint style="warning" %}
-Payerset has not identified accessible machine-readable files published by Central California Alliance for Health. If you are aware of MRFs published by this payer, please contact [support@payerset.com](mailto:support@payerset.com).
-{% endhint %}
-
 ### Payerset Notes
 
 **Table of Contents**
@@ -21,9 +17,12 @@ Payerset has not identified accessible machine-readable files published by Centr
 
 | Record Type                   | Record Count |
 | ----------------------------- | ------------ |
-| Providers                     | 0 |
-| Rates                         | 0 |
+| Providers                     | 6,944,071 |
+| Rates                         | 158,283 |
+| Nonstandard Codes             | 210 |
 | Bundled Codes                 | 0 |
 | Covered Services (Capitation) | 0 |
 
-_Data was not available for May 2026._
+_Updated for August 2026._
+
+**August 2026 Status:** Files for the August 2026 cycle were acquired and loaded.

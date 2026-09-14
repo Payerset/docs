@@ -4,7 +4,7 @@ description: >-
   The Jefferson Health Plan that have been normalized into easy-to-use tables.
 ---
 
-# 🟢 The Jefferson Health Plan
+# 🔴 The Jefferson Health Plan
 
 ### Payerset Notes
 
@@ -14,9 +14,9 @@ description: >-
 
 ### Compliance Scorecard
 
-Overall Rating: <mark style="color:green;">**4/5**</mark> **- Good**
+Overall Rating: <mark style="color:red;">**1/5**</mark>** - Not Compliant**
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><strong>Table of Contents</strong></td><td><strong>★★★★☆</strong></td><td><mark style="color:green;"><strong>4/5</strong></mark></td><td><ul><li>Are the MRFs kept up to date each month? </li><li>Is the Table of Contents link easily accessible?</li><li>Is the Table of Contents properly formatted?</li></ul></td><td></td></tr><tr><td><strong>File Accessibility</strong></td><td><strong>★★★★★</strong></td><td><mark style="color:green;"><strong>5/5</strong></mark></td><td><ul><li>Are there any barriers to downloading the files?</li><li>Do the Table of Contents links expire before publishing new links?</li></ul></td><td></td></tr><tr><td><strong>Data Quality</strong></td><td><strong>★★★★☆</strong></td><td><mark style="color:yellow;"><strong>4/5</strong></mark></td><td><ul><li><p>What percentage of the MRFs are properly formatted and parseable</p><ul><li>5 Stars - 100%</li><li>4 Stars - 80%...</li></ul></li></ul></td><td></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><strong>Table of Contents</strong></td><td><strong>★☆☆☆☆</strong></td><td><mark style="color:red;"><strong>1/5</strong></mark></td><td><ul><li>Are the MRFs kept up to date each month? </li><li>Is the Table of Contents link easily accessible?</li><li>Is the Table of Contents properly formatted?</li></ul></td><td></td></tr><tr><td><strong>File Accessibility</strong></td><td><strong>★☆☆☆☆</strong></td><td><mark style="color:red;"><strong>1/5</strong></mark></td><td><ul><li>Are there any barriers to downloading the files?</li><li>Do the Table of Contents links expire before publishing new links?</li></ul></td><td></td></tr><tr><td><strong>Data Quality</strong></td><td><strong>★★★★☆</strong></td><td><mark style="color:yellow;"><strong>4/5</strong></mark></td><td><ul><li><p>What percentage of the MRFs are properly formatted and parseable</p><ul><li>5 Stars - 100%</li><li>4 Stars - 80%...</li></ul></li></ul></td><td></td></tr></tbody></table>
 
 ### Schema: THE\_JEFFERSON\_HEALTH\_PLAN
 
@@ -26,10 +26,13 @@ Overall Rating: <mark style="color:green;">**4/5**</mark> **- Good**
 | ----------------------------- | ------------ |
 | Providers                     | 0 |
 | Rates                         | 0 |
+| Nonstandard Codes             | 0 |
 | Bundled Codes                 | 0 |
 | Covered Services (Capitation) | 0 |
 
-_Data was not available for May 2026._
+_Data was not available for August 2026._
+
+**August 2026 Status:** No machine-readable files for the August 2026 cycle were found. The files previously published by the payer no longer exist at their published location.
 
 ### Additional Observations
 
@@ -41,4 +44,4 @@ _Data was not available for May 2026._
 * **File Download Barriers:** ✔️ No barriers to downloading the MRFs.
 * **File Accessibility Percentage:** ✔️ 100% of the files are accessible.
 
-**Overall Assessment:** The Jefferson Health Plan does a good job publishing these files although occasionally has some delays.
+**Overall Assessment:** The Jefferson Health Plan does a good job publishing these files although occasionally has some delays. Rescored to 1/5 in August 2026 because the files previously published no longer exist at their published location.

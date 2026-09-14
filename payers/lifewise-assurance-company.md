@@ -1,2 +1,0 @@
-# Lifewise Assurance Company
-

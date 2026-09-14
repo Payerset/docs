@@ -24,13 +24,15 @@ Overall Rating: <mark style="color:yellow;">**3/5**</mark>**&#x20;- Needs Improv
 
 | Record Type                   | Record Count |
 | ----------------------------- | ------------ |
-| Providers                     | 1,152,877 |
-| Rates                         | 453,900,643 |
-| Nonstandard Codes             | 17,166,923 |
+| Providers                     | 1,203,099 |
+| Rates                         | 453,086,324 |
+| Nonstandard Codes             | 16,996,493 |
 | Bundled Codes                 | 0 |
-| Covered Services (Capitation) | 1,663,459 |
+| Covered Services (Capitation) | 1,679,902 |
 
-_Updated for May 2026._
+_Updated for August 2026._
+
+**August 2026 Status:** Files for the August 2026 cycle were acquired and loaded.
 
 ### Additional Observations
 

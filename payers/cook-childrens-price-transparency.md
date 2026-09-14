@@ -4,7 +4,7 @@ description: >-
   Cook Children's that have been normalized into easy-to-use tables.
 ---
 
-# 🟡 Cook Children's
+# 🟢 Cook Children's
 
 ### Payerset Notes
 
@@ -24,13 +24,15 @@ Overall Rating: <mark style="color:yellow;">**3.5/5**</mark>**&#x20;- Average**
 
 | Record Type                   | Record Count |
 | ----------------------------- | ------------ |
-| Providers                     | 11,287,446 |
-| Rates                         | 224,208,795 |
-| Nonstandard Codes             | 6,082,461 |
+| Providers                     | 4,555,013 |
+| Rates                         | 242,611,989 |
+| Nonstandard Codes             | 6,986,792 |
 | Bundled Codes                 | 0 |
 | Covered Services (Capitation) | 0 |
 
-_Updated for May 2026._
+_Updated for August 2026._
+
+**August 2026 Status:** Files for the August 2026 cycle were acquired and loaded.
 
 ### Additional Observations
 

@@ -34,13 +34,15 @@ Overall Rating: <mark style="color:red;">1</mark><mark style="color:red;">**/5**
 | Bundled Codes                 | 0 |
 | Covered Services (Capitation) | 0 |
 
-_Updated for May 2026._
+_Data was not available for August 2026._
+
+**August 2026 Status:** The most recently published files are dated 2025-10-28, which predates the August 2026 reporting cycle; no new data was loaded.
 
 ### Additional Observations
 
 **Machine-Readable Price Transparency Files Review**
 
-* **MRFs Up-to-Date:** ✔️ Yes, the MRFs are kept up to date each month.
+* **MRFs Up-to-Date:** ❌ No, the most recently published files predate the August 2026 cycle.
 * **Table of Contents Accessibility:** ✔️ The Table of Contents link is easily accessible.
 * **Table of Contents Formatting:** ✔️ Yes, the Table of Contents is properly formatted.
 * **File Download Barriers:** ❌ Several files linked in the Table of Contents are not accessible.

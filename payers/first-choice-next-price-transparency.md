@@ -3,7 +3,7 @@ description: >-
   This data contains the price transparency machine-readable files provided by First Choice Next that have been normalized into easy-to-use tables.
 ---
 
-# 🟢 First Choice Next
+# 🟡 First Choice Next
 
 ### Payerset Notes
 
@@ -19,8 +19,11 @@ description: >-
 | ----------------------------- | ------------ |
 | Providers                     | 2,649 |
 | Rates                         | 16,846 |
+| Nonstandard Codes             | 0 |
 | Bundled Codes                 | 0 |
 | Covered Services (Capitation) | 0 |
 
-_Data was not available for May 2026._
+_Data was not available for August 2026._
+
+**August 2026 Status:** The most recently published files are dated 2026-06-24, which predates the August 2026 reporting cycle; no new data was loaded.
 
