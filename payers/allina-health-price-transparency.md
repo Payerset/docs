@@ -3,7 +3,7 @@ description: >-
   This data contains the price transparency machine-readable files provided by Allina Health Aetna that have been normalized into easy-to-use tables.
 ---
 
-# 🟢 Allina Health Aetna
+# 🟡 Allina Health Aetna
 
 ### Payerset Notes
 

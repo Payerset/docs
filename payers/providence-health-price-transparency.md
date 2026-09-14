@@ -4,7 +4,7 @@ description: >-
   Providence Health Plans that have been normalized into easy-to-use tables.
 ---
 
-# 🟢 Providence Health Plans
+# 🔴 Providence Health Plans
 
 ### Payerset Notes
 
@@ -14,9 +14,9 @@ description: >-
 
 ### Compliance Scorecard
 
-Overall Rating: <mark style="color:green;">**4/5**</mark>**&#x20;- Good**
+Overall Rating: <mark style="color:red;">**1/5**</mark>** - Not Compliant**
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><strong>Table of Contents</strong></td><td><strong>★★★★★</strong></td><td><mark style="color:green;"><strong>5/5</strong></mark></td><td><ul><li>Are the MRFs kept up to date each month? </li><li>Is the Table of Contents link easily accessible?</li><li>Is the Table of Contents properly formatted?</li></ul></td><td></td></tr><tr><td><strong>File Accessibility</strong></td><td><strong>★★★★☆</strong></td><td><mark style="color:yellow;"><strong>4/5</strong></mark></td><td><ul><li>Are there any barriers to downloading the files?</li><li>Do the Table of Contents links expire before publishing new links?</li></ul></td><td></td></tr><tr><td><strong>Data Quality</strong></td><td><strong>★★★★★</strong></td><td><mark style="color:green;"><strong>5/5</strong></mark></td><td><ul><li><p>What percentage of the MRFs are properly formatted and parseable</p><ul><li>5 Stars - 100%</li><li>4 Stars - 80%...</li></ul></li></ul></td><td></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><strong>Table of Contents</strong></td><td><strong>★☆☆☆☆</strong></td><td><mark style="color:red;"><strong>1/5</strong></mark></td><td><ul><li>Are the MRFs kept up to date each month? </li><li>Is the Table of Contents link easily accessible?</li><li>Is the Table of Contents properly formatted?</li></ul></td><td></td></tr><tr><td><strong>File Accessibility</strong></td><td><strong>★☆☆☆☆</strong></td><td><mark style="color:red;"><strong>1/5</strong></mark></td><td><ul><li>Are there any barriers to downloading the files?</li><li>Do the Table of Contents links expire before publishing new links?</li></ul></td><td></td></tr><tr><td><strong>Data Quality</strong></td><td><strong>★★★★★</strong></td><td><mark style="color:green;"><strong>5/5</strong></mark></td><td><ul><li><p>What percentage of the MRFs are properly formatted and parseable</p><ul><li>5 Stars - 100%</li><li>4 Stars - 80%...</li></ul></li></ul></td><td></td></tr></tbody></table>
 
 ### Schema: PROVIDENCE\_HEALTH
 
@@ -44,4 +44,4 @@ _Data was not available for August 2026._
 * **File Download Barriers:** ✔️ No, there are no barriers to downloading the files.
 * **File Accessibility Percentage:** :heavy\_check\_mark: Files are accessible and in correct format
 
-**Overall Assessment:** Providence Health Plans has done a great job in publishing their machine-readable price transparency files in compliance.
+**Overall Assessment:** Providence Health Plans has done a great job in publishing their machine-readable price transparency files in compliance. Rescored to 1/5 in August 2026 because the transparency page did not link to any Table of Contents or in-network files for August 2026.

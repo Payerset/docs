@@ -3,7 +3,7 @@ description: >-
   This data contains the price transparency machine-readable files provided by Independence National Alliance Powered by Highmark that have been normalized into easy-to-use tables.
 ---
 
-# 🟢 Independence National Alliance Powered by Highmark
+# 🟡 Independence National Alliance Powered by Highmark
 
 ### Payerset Notes
 

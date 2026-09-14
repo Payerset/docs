@@ -4,7 +4,7 @@ description: >-
   Alliant Health Plans, which have been normalized into easy-to-use tables.
 ---
 
-# 🟢 Alliant Health Plans
+# 🟠 Alliant Health Plans
 
 ### Payerset Notes
 
@@ -14,9 +14,9 @@ description: >-
 
 ### Compliance Scorecard
 
-Overall Rating: <mark style="color:green;">**5/5**</mark> **- Excellent**
+Overall Rating: <mark style="color:orange;">**2/5**</mark>** - Below Expectations**
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><strong>Table of Contents</strong></td><td><strong>★★★★★</strong></td><td><mark style="color:green;"><strong>5/5</strong></mark></td><td><ul><li>Are the MRFs kept up to date each month? </li><li>Is the Table of Contents link easily accessible?</li><li>Is the Table of Contents properly formatted?</li></ul></td><td></td></tr><tr><td><strong>File Accessibility</strong></td><td><strong>★★★★★</strong></td><td><mark style="color:green;"><strong>5/5</strong></mark></td><td><ul><li>Are there any barriers to downloading the files?</li><li>Do the Table of Contents links expire before publishing new links?</li></ul></td><td></td></tr><tr><td><strong>Data Quality</strong></td><td><strong>★★★★★</strong></td><td><mark style="color:green;"><strong>5/5</strong></mark></td><td><ul><li><p>What percentage of the MRFs are properly formatted and parseable</p><ul><li>5 Stars - 100%</li><li>4 Stars - 80%...</li></ul></li></ul></td><td></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><strong>Table of Contents</strong></td><td><strong>★★☆☆☆</strong></td><td><mark style="color:orange;"><strong>2/5</strong></mark></td><td><ul><li>Are the MRFs kept up to date each month? </li><li>Is the Table of Contents link easily accessible?</li><li>Is the Table of Contents properly formatted?</li></ul></td><td></td></tr><tr><td><strong>File Accessibility</strong></td><td><strong>★★☆☆☆</strong></td><td><mark style="color:orange;"><strong>2/5</strong></mark></td><td><ul><li>Are there any barriers to downloading the files?</li><li>Do the Table of Contents links expire before publishing new links?</li></ul></td><td></td></tr><tr><td><strong>Data Quality</strong></td><td><strong>★★★★★</strong></td><td><mark style="color:green;"><strong>5/5</strong></mark></td><td><ul><li><p>What percentage of the MRFs are properly formatted and parseable</p><ul><li>5 Stars - 100%</li><li>4 Stars - 80%...</li></ul></li></ul></td><td></td></tr></tbody></table>
 
 ### Schema: ALLIANT\_HEALTH\_PLANS
 
@@ -44,4 +44,4 @@ _Data was not available for August 2026._
 * **File Download Barriers:** ✔️ No barriers to download
 * **File Accessibility Percentage:** ✔️ All files available.
 
-**Overall Assessment:** Alliant Health Plans does a good job of complying and updating their files in a timely manner. There are some complications but could be due to the way the CMS regulations are interpreted.
+**Overall Assessment:** Alliant Health Plans does a good job of complying and updating their files in a timely manner. There are some complications but could be due to the way the CMS regulations are interpreted. Rescored to 2/5 in August 2026 because the published files have not changed since January 2026 and no August 2026 files were posted.
