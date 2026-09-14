@@ -26,4 +26,6 @@ Partnership HealthPlan's Table of Contents references machine-readable files pub
 | Bundled Codes                 | 0 |
 | Covered Services (Capitation) | 0 |
 
-_Data was not available for May 2026._
+_Data was not available for August 2026._
+
+**August 2026 Status:** This payer's price transparency data is published under other payers.

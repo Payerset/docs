@@ -26,4 +26,6 @@ Payerset has not identified accessible machine-readable files published by Sutte
 | Bundled Codes                 | 0 |
 | Covered Services (Capitation) | 0 |
 
-_Data was not available for May 2026._
+_Data was not available for August 2026._
+
+**August 2026 Status:** The most recently published files are dated 2026-07-01, which predates the August 2026 reporting cycle; no new data was loaded.

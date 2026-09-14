@@ -21,10 +21,12 @@ Payerset has not identified accessible machine-readable files published by Culin
 
 | Record Type                   | Record Count |
 | ----------------------------- | ------------ |
-| Providers                     | 11,868 |
-| Rates                         | 97,521,288 |
-| Nonstandard Codes             | 0 |
-| Bundled Codes                 | 0 |
+| Providers                     | 754,793 |
+| Rates                         | 942,433,423 |
+| Nonstandard Codes             | 1,678,641 |
+| Bundled Codes                 | 43,246 |
 | Covered Services (Capitation) | 0 |
 
-_Updated for May 2026._
+_Updated for August 2026._
+
+**August 2026 Status:** Files for the August 2026 cycle were acquired and loaded.

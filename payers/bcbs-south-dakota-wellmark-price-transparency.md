@@ -17,10 +17,12 @@ description: >-
 
 | Record Type                   | Record Count |
 | ----------------------------- | ------------ |
-| Providers                     | 63,974 |
-| Rates                         | 5,427,848 |
-| Nonstandard Codes             | 530,646 |
+| Providers                     | 96,523 |
+| Rates                         | 8,782,932 |
+| Nonstandard Codes             | 808,386 |
 | Bundled Codes                 | 0 |
 | Covered Services (Capitation) | 0 |
 
-_Updated for May 2026._
+_Updated for August 2026._
+
+**August 2026 Status:** Files for the August 2026 cycle were acquired and loaded.

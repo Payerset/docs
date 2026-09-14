@@ -21,9 +21,12 @@ Payerset has not identified accessible machine-readable files published by First
 
 | Record Type                   | Record Count |
 | ----------------------------- | ------------ |
-| Providers                     | 0 |
+| Providers                     | 8,471 |
 | Rates                         | 0 |
-| Bundled Codes                 | 0 |
+| Nonstandard Codes             | 1,680,877 |
+| Bundled Codes                 | 1,532,834 |
 | Covered Services (Capitation) | 0 |
 
-_Data was not available for May 2026._
+_Updated for August 2026._
+
+**August 2026 Status:** Files for the August 2026 cycle were acquired and loaded.

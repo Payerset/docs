@@ -30,7 +30,9 @@ Overall Rating: <mark style="color:green;">**4/5**</mark> **- Good**
 | Bundled Codes                 | 0 |
 | Covered Services (Capitation) | 0 |
 
-_Updated for May 2026._
+_Data was not available for August 2026._
+
+**August 2026 Status:** No machine-readable files for the August 2026 cycle were found. The payer's file host could not be reached.
 
 ### Additional Observations
 

@@ -29,7 +29,9 @@ Overall Rating: <mark style="color:green;">**5/5**</mark>**&#x20;- Excellent**
 | Bundled Codes                 | 0 |
 | Covered Services (Capitation) | 0 |
 
-_Data was not available for May 2026._
+_Data was not available for August 2026._
+
+**August 2026 Status:** This payer's price transparency data is published under other payers. Midwest Health Plan's data is published by Health Alliance Plan (HAP).
 
 ### Additional Observations
 

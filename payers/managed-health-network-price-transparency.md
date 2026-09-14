@@ -34,7 +34,9 @@ Overall Rating: <mark style="color:green;">**5/5**</mark>**&#x20;- Excellent**
 | Bundled Codes                 | 0 |
 | Covered Services (Capitation) | 0 |
 
-_Data was not available for May 2026._
+_Data was not available for August 2026._
+
+**August 2026 Status:** This payer has been retired from the Payerset acquisition list. Managed Health Network has been discontinued; no further files are expected.
 
 ### Additional Observations
 

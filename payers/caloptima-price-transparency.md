@@ -21,9 +21,12 @@ CalOptima's Table of Contents references machine-readable files published by Blu
 
 | Record Type                   | Record Count |
 | ----------------------------- | ------------ |
-| Providers                     | 0 |
-| Rates                         | 0 |
-| Bundled Codes                 | 0 |
-| Covered Services (Capitation) | 0 |
+| Providers                     | 1,166,567,098 |
+| Rates                         | 325,628,994,547 |
+| Nonstandard Codes             | 2,004,209,763 |
+| Bundled Codes                 | 13,228,244 |
+| Covered Services (Capitation) | 156 |
 
-_Data was not available for May 2026._
+_Updated for August 2026._
+
+**August 2026 Status:** Files for the August 2026 cycle were acquired and loaded.

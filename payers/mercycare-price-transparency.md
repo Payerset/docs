@@ -26,4 +26,6 @@ Payerset has not identified accessible machine-readable files published by Mercy
 | Bundled Codes                 | 0 |
 | Covered Services (Capitation) | 0 |
 
-_Data was not available for May 2026._
+_Data was not available for August 2026._
+
+**August 2026 Status:** No machine-readable files for the August 2026 cycle were found. The Table of Contents references files that are no longer present; the published links are broken.

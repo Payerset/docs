@@ -29,7 +29,9 @@ Overall Rating: **4/5 - Meets Expectations**
 | Bundled Codes                 | 0 |
 | Covered Services (Capitation) | 0 |
 
-_Data was not available for May 2026._
+_Data was not available for August 2026._
+
+**August 2026 Status:** No machine-readable files for the August 2026 cycle were found. The links published by the payer return errors (files not found).
 
 ### Additional Observations
 
