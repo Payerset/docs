@@ -3,7 +3,7 @@ description: >-
   This data contains the price transparency machine-readable files provided by Northwell Direct that have been normalized into easy-to-use tables.
 ---
 
-# ⚪ Northwell Direct
+# 🟢 Northwell Direct
 
 ### Payerset Notes
 

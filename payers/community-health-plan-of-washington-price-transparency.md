@@ -3,7 +3,7 @@ description: >-
   This data contains the price transparency machine-readable files provided by Community Health Plan of Washington (CHPW) that have been normalized into easy-to-use tables.
 ---
 
-# ⚪ Community Health Plan of Washington (CHPW)
+# 🟢 Community Health Plan of Washington (CHPW)
 
 ### Payerset Notes
 

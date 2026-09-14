@@ -3,7 +3,7 @@ description: >-
   This data contains the price transparency machine-readable files provided by Mail Handlers Benefit Plan (Aetna) that have been normalized into easy-to-use tables.
 ---
 
-# ⚪ Mail Handlers Benefit Plan (Aetna)
+# 🟢 Mail Handlers Benefit Plan (Aetna)
 
 ### Payerset Notes
 

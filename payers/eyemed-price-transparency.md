@@ -3,7 +3,7 @@ description: >-
   This data contains the price transparency machine-readable files provided by EyeMed that have been normalized into easy-to-use tables.
 ---
 
-# ⚪ EyeMed
+# 🟢 EyeMed
 
 ### Payerset Notes
 

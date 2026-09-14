@@ -3,7 +3,7 @@ description: >-
   This data contains the price transparency machine-readable files provided by Northwood that have been normalized into easy-to-use tables.
 ---
 
-# ⚪ Northwood
+# 🟢 Northwood
 
 ### Payerset Notes
 

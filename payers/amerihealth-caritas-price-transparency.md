@@ -3,7 +3,7 @@ description: >-
   This data contains the price transparency machine-readable files provided by AmeriHealth Caritas that have been normalized into easy-to-use tables.
 ---
 
-# ⚪ AmeriHealth Caritas
+# 🟢 AmeriHealth Caritas
 
 ### Payerset Notes
 

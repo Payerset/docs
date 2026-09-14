@@ -3,7 +3,7 @@ description: >-
   This data contains the price transparency machine-readable files provided by American Specialty Health that have been normalized into easy-to-use tables.
 ---
 
-# ⚪ American Specialty Health
+# 🟢 American Specialty Health
 
 ### Payerset Notes
 

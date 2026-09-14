@@ -3,7 +3,7 @@ description: >-
   This data contains the price transparency machine-readable files provided by Innovation Health that have been normalized into easy-to-use tables.
 ---
 
-# ⚪ Innovation Health
+# 🟢 Innovation Health
 
 ### Payerset Notes
 

@@ -3,7 +3,7 @@ description: >-
   This data contains the price transparency machine-readable files provided by Asuris Northwest Health (Cambia) that have been normalized into easy-to-use tables.
 ---
 
-# ⚪ Asuris Northwest Health (Cambia)
+# 🟢 Asuris Northwest Health (Cambia)
 
 ### Payerset Notes
 

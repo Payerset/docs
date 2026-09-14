@@ -3,7 +3,7 @@ description: >-
   This data contains the price transparency machine-readable files provided by Piedmont Health Plan that have been normalized into easy-to-use tables.
 ---
 
-# ⚪ Piedmont Health Plan
+# 🟢 Piedmont Health Plan
 
 ### Payerset Notes
 

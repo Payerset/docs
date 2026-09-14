@@ -3,7 +3,7 @@ description: >-
   This data contains the price transparency machine-readable files provided by Empire BlueCross BlueShield that have been normalized into easy-to-use tables.
 ---
 
-# ⚪ Empire BlueCross BlueShield
+# 🟢 Empire BlueCross BlueShield
 
 ### Payerset Notes
 

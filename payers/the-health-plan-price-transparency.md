@@ -3,11 +3,7 @@ description: >-
   This data contains the price transparency machine-readable files provided by The Health Plan that have been normalized into easy-to-use tables.
 ---
 
-# ⚪ The Health Plan
-
-{% hint style="info" %}
-The Health Plan's Table of Contents references machine-readable files published by MultiPlan rather than publishing their own MRFs.
-{% endhint %}
+# 🟢 The Health Plan
 
 ### Payerset Notes
 
@@ -29,4 +25,4 @@ The Health Plan's Table of Contents references machine-readable files published 
 
 _Updated for August 2026._
 
-**August 2026 Status:** Files for the August 2026 cycle were acquired and loaded.
+**August 2026 Status:** Files for the August 2026 cycle were acquired and loaded. The Health Plan previously pointed to files published by MultiPlan and now publishes its own machine-readable files.

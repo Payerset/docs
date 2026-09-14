@@ -3,7 +3,7 @@ description: >-
   This data contains the price transparency machine-readable files provided by GEHA (Government Employees Health Association) that have been normalized into easy-to-use tables.
 ---
 
-# ⚪ GEHA (Government Employees Health Association)
+# 🟢 GEHA (Government Employees Health Association)
 
 ### Payerset Notes
 

@@ -3,11 +3,7 @@ description: >-
   This data contains the price transparency machine-readable files provided by CalOptima that have been normalized into easy-to-use tables.
 ---
 
-# ⚪ CalOptima
-
-{% hint style="info" %}
-CalOptima's Table of Contents references machine-readable files published by Blue Shield of California and Kaiser Permanente. See: [Blue Shield of California](bs-california-price-transparency.md), [Kaiser Permanente](kaiser-price-transparency.md).
-{% endhint %}
+# 🟢 CalOptima
 
 ### Payerset Notes
 
@@ -29,4 +25,4 @@ CalOptima's Table of Contents references machine-readable files published by Blu
 
 _Updated for August 2026._
 
-**August 2026 Status:** Files for the August 2026 cycle were acquired and loaded.
+**August 2026 Status:** Files for the August 2026 cycle were acquired and loaded. CalOptima previously pointed to files published by Blue Shield of California and Kaiser Permanente and now publishes its own machine-readable files.

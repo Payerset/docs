@@ -3,7 +3,7 @@ description: >-
   This data contains the price transparency machine-readable files provided by Blue Cross Blue Shield South Dakota (Wellmark) that have been normalized into easy-to-use tables.
 ---
 
-# ⚪ Blue Cross Blue Shield South Dakota (Wellmark)
+# 🟢 Blue Cross Blue Shield South Dakota (Wellmark)
 
 ### Payerset Notes
 

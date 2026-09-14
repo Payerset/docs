@@ -3,7 +3,7 @@ description: >-
   This data contains the price transparency machine-readable files provided by WellPoint that have been normalized into easy-to-use tables.
 ---
 
-# ⚪ WellPoint
+# 🟢 WellPoint
 
 ### Payerset Notes
 

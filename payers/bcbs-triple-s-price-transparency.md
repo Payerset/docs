@@ -4,7 +4,7 @@ description: >-
   BCBS Triple-S that have been normalized into easy-to-use tables.
 ---
 
-# 🟢 Blue Cross Blue Shield Triple-S
+# 🟠 Blue Cross Blue Shield Triple-S
 
 ### Payerset Notes
 
@@ -14,9 +14,9 @@ description: >-
 
 ### Compliance Scorecard
 
-Overall Rating: <mark style="color:green;">**4/5**</mark>**&#x20;- Good**
+Overall Rating: <mark style="color:orange;">**2/5**</mark>** - Below Expectations**
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><strong>Table of Contents</strong></td><td><strong>★★★☆☆</strong></td><td><mark style="color:yellow;">3<strong>/5</strong></mark></td><td><p></p><ul><li><mark style="color:yellow;">Are the MRFs kept up to date each month?</mark> </li><li>Is the Table of Contents link easily accessible?</li><li>Is the Table of Contents properly formatted?</li></ul></td><td></td></tr><tr><td><strong>File Accessibility</strong></td><td><strong>★★★★★</strong></td><td><mark style="color:green;"><strong>5/5</strong></mark></td><td><ul><li>Are there any barriers to downloading the files?</li><li>Do the Table of Contents links expire before publishing new links?</li></ul></td><td></td></tr><tr><td><strong>Data Quality</strong></td><td><strong>★★★★★</strong></td><td><mark style="color:green;"><strong>5/5</strong></mark></td><td><ul><li><p>What percentage of the MRFs are properly formatted and parseable</p><ul><li>5 Stars - 100%</li><li>4 Stars - 80%...</li></ul></li></ul></td><td></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><strong>Table of Contents</strong></td><td><strong>★★☆☆☆</strong></td><td><mark style="color:orange;"><strong>2/5</strong></mark></td><td><p></p><ul><li><mark style="color:yellow;">Are the MRFs kept up to date each month?</mark> </li><li>Is the Table of Contents link easily accessible?</li><li>Is the Table of Contents properly formatted?</li></ul></td><td></td></tr><tr><td><strong>File Accessibility</strong></td><td><strong>★★☆☆☆</strong></td><td><mark style="color:orange;"><strong>2/5</strong></mark></td><td><ul><li>Are there any barriers to downloading the files?</li><li>Do the Table of Contents links expire before publishing new links?</li></ul></td><td></td></tr><tr><td><strong>Data Quality</strong></td><td><strong>★★★★★</strong></td><td><mark style="color:green;"><strong>5/5</strong></mark></td><td><ul><li><p>What percentage of the MRFs are properly formatted and parseable</p><ul><li>5 Stars - 100%</li><li>4 Stars - 80%...</li></ul></li></ul></td><td></td></tr></tbody></table>
 
 ### Schema: BCBS\_TRIPLE\_S
 
@@ -32,7 +32,7 @@ Overall Rating: <mark style="color:green;">**4/5**</mark>**&#x20;- Good**
 
 _Updated for August 2026._
 
-**August 2026 Status:** Files for the August 2026 cycle were acquired and loaded.
+**August 2026 Status:** Files for the August 2026 cycle were acquired and loaded. The most recently published files are dated 2026-01-12, which predates the August 2026 cycle.
 
 ### Additional Observations
 
@@ -44,4 +44,4 @@ _Updated for August 2026._
 * **File Download Barriers:** ✔️ No barriers to downloading the MRFs.
 * **File Accessibility Percentage:** ✔️ 100% of the files are accessible.
 
-**Overall Assessment:** BCBS Triple-S does a good job of posting these files with consistency and quality. There are, however, delays occasionally in making the data accessible. They duplicate provider data substantially, but that can be a result of interpretation of the CMS rules.
+**Overall Assessment:** BCBS Triple-S does a good job of posting these files with consistency and quality. There are, however, delays occasionally in making the data accessible. They duplicate provider data substantially, but that can be a result of interpretation of the CMS rules. Rescored to 2/5 in August 2026 because the most recently published files are dated January 2026 and no August 2026 files were posted.

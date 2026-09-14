@@ -3,7 +3,7 @@ description: >-
   This data contains the price transparency machine-readable files provided by BridgeSpan Health (Cambia) that have been normalized into easy-to-use tables.
 ---
 
-# ⚪ BridgeSpan Health (Cambia)
+# 🟢 BridgeSpan Health (Cambia)
 
 ### Payerset Notes
 
