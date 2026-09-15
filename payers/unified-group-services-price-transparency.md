@@ -3,7 +3,7 @@ description: >-
   This data contains the price transparency machine-readable files provided by Unified Group Services that have been normalized into easy-to-use tables.
 ---
 
-# ⚪ Unified Group Services
+# 🟢 Unified Group Services
 
 ### Payerset Notes
 

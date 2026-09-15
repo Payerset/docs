@@ -3,7 +3,7 @@ description: >-
   This data contains the price transparency machine-readable files provided by Culinary Health Fund that have been normalized into easy-to-use tables.
 ---
 
-# ⚪ Culinary Health Fund
+# 🟢 Culinary Health Fund
 
 ### Payerset Notes
 

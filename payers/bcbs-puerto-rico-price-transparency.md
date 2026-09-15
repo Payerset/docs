@@ -3,7 +3,7 @@ description: >-
   This data contains the price transparency machine-readable files provided by Blue Cross Blue Shield Puerto Rico that have been normalized into easy-to-use tables.
 ---
 
-# ⚪ Blue Cross Blue Shield Puerto Rico
+# 🟢 Blue Cross Blue Shield Puerto Rico
 
 ### Payerset Notes
 

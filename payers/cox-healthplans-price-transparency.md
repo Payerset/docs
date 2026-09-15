@@ -3,7 +3,7 @@ description: >-
   This data contains the price transparency machine-readable files provided by Cox HealthPlans that have been normalized into easy-to-use tables.
 ---
 
-# ⚪ Cox HealthPlans
+# 🟢 Cox HealthPlans
 
 ### Payerset Notes
 

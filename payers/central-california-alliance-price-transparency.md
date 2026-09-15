@@ -3,7 +3,7 @@ description: >-
   This data contains the price transparency machine-readable files provided by Central California Alliance for Health that have been normalized into easy-to-use tables.
 ---
 
-# ⚪ Central California Alliance for Health
+# 🟢 Central California Alliance for Health
 
 ### Payerset Notes
 

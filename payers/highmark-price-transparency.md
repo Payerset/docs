@@ -3,7 +3,7 @@ description: >-
   This data contains the price transparency machine-readable files provided by Highmark that have been normalized into easy-to-use tables.
 ---
 
-# ⚪ Highmark
+# 🟢 Highmark
 
 ### Payerset Notes
 

@@ -3,11 +3,7 @@ description: >-
   This data contains the price transparency machine-readable files provided by Alameda Alliance for Health that have been normalized into easy-to-use tables.
 ---
 
-# ⚪ Alameda Alliance for Health
-
-{% hint style="info" %}
-Alameda Alliance for Health's Table of Contents references machine-readable files published by other payers. Data for this payer may be available under those associated payer schemas.
-{% endhint %}
+# 🟠 Alameda Alliance for Health
 
 ### Payerset Notes
 
@@ -29,4 +25,4 @@ Alameda Alliance for Health's Table of Contents references machine-readable file
 
 _Updated for August 2026._
 
-**August 2026 Status:** Files for the August 2026 cycle were acquired and loaded.
+**August 2026 Status:** Files for the August 2026 cycle were acquired and loaded. The most recently published files are dated 2025-04-01, which predates the August 2026 cycle.

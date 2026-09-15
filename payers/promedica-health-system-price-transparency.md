@@ -4,7 +4,7 @@ description: >-
   ProMedica Health System that have been normalized into easy-to-use tables.
 ---
 
-# 🟢 ProMedica Health System
+# 🟠 ProMedica Health System
 
 ### Payerset Notes
 
@@ -14,9 +14,9 @@ description: >-
 
 ### Compliance Scorecard
 
-Overall Rating: <mark style="color:green;">**4/5**</mark>**&#x20;- Good**
+Overall Rating: <mark style="color:orange;">**2/5**</mark>** - Below Expectations**
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><strong>Table of Contents</strong></td><td><strong>★★★★★</strong></td><td><mark style="color:green;"><strong>5/5</strong></mark></td><td><ul><li>Are the MRFs kept up to date each month? </li><li>Is the Table of Contents link easily accessible?</li><li>Is the Table of Contents properly formatted?</li></ul></td><td></td></tr><tr><td><strong>File Accessibility</strong></td><td><strong>★★★★☆</strong></td><td><mark style="color:yellow;"><strong>4/5</strong></mark></td><td><ul><li>Are there any barriers to downloading the files?</li><li>Do the Table of Contents links expire before publishing new links?</li></ul></td><td></td></tr><tr><td><strong>Data Quality</strong></td><td><strong>★★★★★</strong></td><td><mark style="color:green;"><strong>5/5</strong></mark></td><td><ul><li><p>What percentage of the MRFs are properly formatted and parseable</p><ul><li>5 Stars - 100%</li><li>4 Stars - 80%...</li></ul></li></ul></td><td></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><strong>Table of Contents</strong></td><td><strong>★★☆☆☆</strong></td><td><mark style="color:orange;"><strong>2/5</strong></mark></td><td><ul><li>Are the MRFs kept up to date each month? </li><li>Is the Table of Contents link easily accessible?</li><li>Is the Table of Contents properly formatted?</li></ul></td><td></td></tr><tr><td><strong>File Accessibility</strong></td><td><strong>★★☆☆☆</strong></td><td><mark style="color:orange;"><strong>2/5</strong></mark></td><td><ul><li>Are there any barriers to downloading the files?</li><li>Do the Table of Contents links expire before publishing new links?</li></ul></td><td></td></tr><tr><td><strong>Data Quality</strong></td><td><strong>★★★★★</strong></td><td><mark style="color:green;"><strong>5/5</strong></mark></td><td><ul><li><p>What percentage of the MRFs are properly formatted and parseable</p><ul><li>5 Stars - 100%</li><li>4 Stars - 80%...</li></ul></li></ul></td><td></td></tr></tbody></table>
 
 ### Schema: PROMEDICA\_HEALTH\_SYSTEM
 
@@ -32,7 +32,7 @@ Overall Rating: <mark style="color:green;">**4/5**</mark>**&#x20;- Good**
 
 _Updated for August 2026._
 
-**August 2026 Status:** Files for the August 2026 cycle were acquired and loaded.
+**August 2026 Status:** Files for the August 2026 cycle were acquired and loaded. The most recently published files are dated 2022-07-01, which predates the August 2026 cycle.
 
 ### Additional Observations
 
@@ -44,4 +44,4 @@ _Updated for August 2026._
 * **File Download Barriers:** ✔️ No, there are no barriers to downloading the files.
 * **File Accessibility Percentage:** :x: 99% of the files (54/55) are accessible. There is a file that is not accessible, and it appears to be a relevant file, which impacts the rating.
 
-**Overall Assessment:** ProMedica Health System has done a great job in publishing their machine-readable price transparency files.  Our review process has found that there are no separate MRF files, which can lead to challenges in making sense of the data. Overall, ProMedica does a good job.
+**Overall Assessment:** ProMedica Health System has done a great job in publishing their machine-readable price transparency files.  Our review process has found that there are no separate MRF files, which can lead to challenges in making sense of the data. Overall, ProMedica does a good job. Rescored to 2/5 in August 2026 because the most recently published files are dated July 2022; the data loaded for August 2026 is several years old.

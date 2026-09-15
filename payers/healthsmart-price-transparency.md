@@ -3,7 +3,7 @@ description: >-
   This data contains the price transparency machine-readable files provided by HealthSmart that have been normalized into easy-to-use tables.
 ---
 
-# ⚪ HealthSmart
+# 🟠 HealthSmart
 
 ### Payerset Notes
 
@@ -25,4 +25,4 @@ description: >-
 
 _Updated for August 2026._
 
-**August 2026 Status:** Files for the August 2026 cycle were acquired and loaded.
+**August 2026 Status:** Files for the August 2026 cycle were acquired and loaded. The most recently published files are dated 2022-10-01, which predates the August 2026 cycle.

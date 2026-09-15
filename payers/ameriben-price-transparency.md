@@ -3,7 +3,7 @@ description: >-
   This data contains the price transparency machine-readable files provided by AmeriBen that have been normalized into easy-to-use tables.
 ---
 
-# ⚪ AmeriBen
+# 🟢 AmeriBen
 
 ### Payerset Notes
 

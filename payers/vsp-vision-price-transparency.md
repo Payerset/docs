@@ -3,7 +3,7 @@ description: >-
   This data contains the price transparency machine-readable files provided by VSP Vision that have been normalized into easy-to-use tables.
 ---
 
-# ⚪ VSP Vision
+# 🟢 VSP Vision
 
 ### Payerset Notes
 

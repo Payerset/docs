@@ -3,7 +3,7 @@ description: >-
   This data contains the price transparency machine-readable files provided by Cambia Health Solutions that have been normalized into easy-to-use tables.
 ---
 
-# ⚪ Cambia Health Solutions
+# 🟢 Cambia Health Solutions
 
 ### Payerset Notes
 
