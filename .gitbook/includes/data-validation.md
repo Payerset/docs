@@ -2,8 +2,6 @@
 title: Data Validation
 ---
 
-### **Data Validation**
-
 | Record Type                   | Record Count |
 | ----------------------------- | ------------ |
 | Negotiated Rates              | 653,623      |

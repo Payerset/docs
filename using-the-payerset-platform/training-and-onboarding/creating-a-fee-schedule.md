@@ -26,7 +26,7 @@ Select the insurance provider you want to run rates for from a streamlined list.
 **No more dead ends:** You no longer have the option to generate a fee schedule if a provider lacks coverage for a specific payer.
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/Kapture 2026-08-26 at 15.58.18 (1).gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Kapture 2026-08-26 at 15.58.18.gif" alt=""><figcaption></figcaption></figure>
 
 ### Step 3: Generate Your Fee Schedule
 
