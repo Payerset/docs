@@ -33,7 +33,17 @@ Overall Rating: <mark style="color:orange;">**2/5**</mark>**- Below Expectations
 
 _Data was not available for August 2026._
 
-**August 2026 Status:** Files for the August 2026 cycle were acquired; record counts were not yet available at the time of this update.
+**August 2026 Status:** Files for the August 2026 cycle were acquired, but no records were loaded for this cycle.
+
+#### **Cycle History**
+
+| Cycle | Status | Rates |
+| ----- | ------ | ----- |
+| February 2026 | Not available | — |
+| May 2026 | Not available | — |
+| August 2026 | Not available | — |
+
+_Rates as published each cycle. Provider counts are not compared across cycles because the counting method changed in August 2026._
 
 ### Additional Observations
 

@@ -34,6 +34,16 @@ _Updated for August 2026._
 
 **August 2026 Status:** Files for the August 2026 cycle were acquired and loaded. Counts reflect Capital BlueCross files published within the Blue Cross Blue Shield files.
 
+#### **Cycle History**
+
+| Cycle | Status | Rates |
+| ----- | ------ | ----- |
+| February 2026 | Loaded | 92,603,559 |
+| May 2026 | Loaded | 63,618,147 |
+| August 2026 | Loaded | 83,261,021 |
+
+_Rates as published each cycle. Provider counts are not compared across cycles because the counting method changed in August 2026._
+
 ### Additional Observations
 
 **Machine-Readable Price Transparency Files Review**

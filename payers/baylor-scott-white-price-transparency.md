@@ -24,15 +24,25 @@ Overall Rating: <mark style="color:yellow;">**3/5**</mark>** - Needs Improvement
 
 | Record Type                   | Record Count |
 | ----------------------------- | ------------ |
-| Providers                     | 0 |
-| Rates                         | 0 |
+| Providers                     | 1,477,904 |
+| Rates                         | 814,318 |
 | Nonstandard Codes             | 0 |
-| Bundled Codes                 | 0 |
+| Bundled Codes                 | 250 |
 | Covered Services (Capitation) | 0 |
 
 _Updated for August 2026._
 
-**August 2026 Status:** Two of the four plan files posted by Baylor Scott & White for the August 2026 cycle were retrievable; the remaining files are not downloadable from the published links. Counts will be updated once the retrievable files are loaded.
+**August 2026 Status:** Files for the August 2026 cycle were acquired and loaded. The in-network files loaded are dated July 25, 2026 to August 1, 2026.
+
+#### **Cycle History**
+
+| Cycle | Status | Rates |
+| ----- | ------ | ----- |
+| February 2026 | Loaded | 1,214,486 |
+| May 2026 | Loaded | 1,404,897 |
+| August 2026 | Loaded | 814,318 |
+
+_Rates as published each cycle. Provider counts are not compared across cycles because the counting method changed in August 2026._
 
 ### Additional Observations
 

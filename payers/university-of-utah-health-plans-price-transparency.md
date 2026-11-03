@@ -26,3 +26,13 @@ description: >-
 _Data was not available for August 2026._
 
 **August 2026 Status:** The most recently published files are dated 2026-06-02, which predates the August 2026 reporting cycle; no new data was loaded.
+
+#### **Cycle History**
+
+| Cycle | Status | Rates |
+| ----- | ------ | ----- |
+| February 2026 | Not tracked | — |
+| May 2026 | Not tracked | — |
+| August 2026 | Not available | — |
+
+_Rates as published each cycle. Provider counts are not compared across cycles because the counting method changed in August 2026._

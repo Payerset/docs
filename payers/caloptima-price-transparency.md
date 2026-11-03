@@ -25,4 +25,14 @@ description: >-
 
 _Updated for August 2026._
 
-**August 2026 Status:** Files for the August 2026 cycle were acquired and loaded. CalOptima previously pointed to files published by Blue Shield of California and Kaiser Permanente and now publishes its own machine-readable files.
+**August 2026 Status:** Files for the August 2026 cycle were acquired and loaded. The files loaded under CalOptima for this cycle were later found to be published by other Blue Cross Blue Shield plans (Blue Shield of California, CareFirst BlueCross BlueShield and BlueCross BlueShield of Tennessee) rather than by CalOptima; the counts shown reflect those files. The in-network files loaded are dated August 27, 2020 to August 1, 2026.
+
+#### **Cycle History**
+
+| Cycle | Status | Rates |
+| ----- | ------ | ----- |
+| February 2026 | Not available | — |
+| May 2026 | Not available | — |
+| August 2026 | Loaded | 325,628,994,547 |
+
+_Rates as published each cycle. Provider counts are not compared across cycles because the counting method changed in August 2026._

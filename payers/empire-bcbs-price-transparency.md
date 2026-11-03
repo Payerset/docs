@@ -25,4 +25,14 @@ description: >-
 
 _Updated for August 2026._
 
-**August 2026 Status:** Files for the August 2026 cycle were acquired and loaded.
+**August 2026 Status:** Files for the August 2026 cycle were acquired and loaded. The in-network files loaded are dated July 1, 2026 to September 1, 2026.
+
+#### **Cycle History**
+
+| Cycle | Status | Rates |
+| ----- | ------ | ----- |
+| February 2026 | Not tracked | — |
+| May 2026 | Loaded | 2,047,818,524 |
+| August 2026 | Loaded | 28,846,751,313 |
+
+_Rates as published each cycle. Provider counts are not compared across cycles because the counting method changed in August 2026._

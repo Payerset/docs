@@ -34,6 +34,16 @@ _Data was not available for August 2026._
 
 **August 2026 Status:** No data was loaded for the August 2026 cycle.
 
+#### **Cycle History**
+
+| Cycle | Status | Rates |
+| ----- | ------ | ----- |
+| February 2026 | Not available | — |
+| May 2026 | Not available | — |
+| August 2026 | Not available | — |
+
+_Rates as published each cycle. Provider counts are not compared across cycles because the counting method changed in August 2026._
+
 ### Additional Observations
 
 **Overall Assessment:** <mark style="color:red;">**This payer is not compliant.**</mark>

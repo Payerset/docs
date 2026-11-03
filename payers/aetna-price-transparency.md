@@ -41,7 +41,17 @@ Overall Rating: <mark style="color:yellow;">**3/5**</mark>**&#x20;- Acceptable**
 
 _Updated for August 2026._
 
-**August 2026 Status:** Files for the August 2026 cycle were acquired and loaded. Counts combine the Aetna, Aetna TPA, Aetna Signature Administrators, and Aetna Joint Care Administration files. No files were found for Aetna Texas Fully Insured this cycle.
+**August 2026 Status:** Files for the August 2026 cycle were acquired and loaded. Counts combine the Aetna, Aetna TPA, Aetna Signature Administrators, and Aetna Joint Care Administration files. No files were found for Aetna Texas Fully Insured this cycle. The in-network files loaded are dated August 5, 2026.
+
+#### **Cycle History**
+
+| Cycle | Status | Rates |
+| ----- | ------ | ----- |
+| February 2026 | Loaded | 624,079,278,054 |
+| May 2026 | Loaded | 3,301,426,402,211 |
+| August 2026 | Loaded | 3,853,719,798,999 |
+
+_Rates as published each cycle. Provider counts are not compared across cycles because the counting method changed in August 2026._
 
 ### Additional Observations
 

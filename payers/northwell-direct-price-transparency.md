@@ -27,4 +27,14 @@ Source (HealthComp MRF hub): [https://healthcomp.sapphiremrfhub.com](https://hea
 
 _Updated for August 2026._
 
-**August 2026 Status:** Files for the August 2026 cycle were acquired and loaded.
+**August 2026 Status:** Files for the August 2026 cycle were acquired and loaded. The in-network files loaded are dated February 7, 2022 to August 1, 2026.
+
+#### **Cycle History**
+
+| Cycle | Status | Rates |
+| ----- | ------ | ----- |
+| February 2026 | Not tracked | — |
+| May 2026 | Loaded | 264,664 |
+| August 2026 | Loaded | 4,730,928,468 |
+
+_Rates as published each cycle. Provider counts are not compared across cycles because the counting method changed in August 2026._

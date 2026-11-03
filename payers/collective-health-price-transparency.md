@@ -30,3 +30,13 @@ Collective Health's Table of Contents references machine-readable files publishe
 _Data was not available for August 2026._
 
 **August 2026 Status:** This payer's price transparency data is published under other payers. Collective Health's data is published under its carrier networks (multiple Blues plans, Kaiser, and others).
+
+#### **Cycle History**
+
+| Cycle | Status | Rates |
+| ----- | ------ | ----- |
+| February 2026 | Not available | — |
+| May 2026 | Not available | — |
+| August 2026 | Not available | — |
+
+_Rates as published each cycle. Provider counts are not compared across cycles because the counting method changed in August 2026._

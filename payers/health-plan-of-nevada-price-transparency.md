@@ -30,3 +30,13 @@ Payerset has not identified accessible machine-readable files published by Healt
 _Data was not available for August 2026._
 
 **August 2026 Status:** No machine-readable files for the August 2026 cycle were found. Health Plan of Nevada is a UnitedHealthcare subsidiary; its data may be published under UnitedHealthcare.
+
+#### **Cycle History**
+
+| Cycle | Status | Rates |
+| ----- | ------ | ----- |
+| February 2026 | Not tracked | — |
+| May 2026 | Not tracked | — |
+| August 2026 | Not available | — |
+
+_Rates as published each cycle. Provider counts are not compared across cycles because the counting method changed in August 2026._
