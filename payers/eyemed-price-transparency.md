@@ -31,7 +31,7 @@ _Updated for August 2026._
 
 | Cycle | Status | Rates |
 | ----- | ------ | ----- |
-| February 2026 | Not tracked | — |
+| February 2026 | Loaded | — |
 | May 2026 | Loaded | 140 |
 | August 2026 | Loaded | 145 |
 

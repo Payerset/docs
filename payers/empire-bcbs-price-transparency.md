@@ -31,7 +31,7 @@ _Updated for August 2026._
 
 | Cycle | Status | Rates |
 | ----- | ------ | ----- |
-| February 2026 | Not tracked | — |
+| February 2026 | Loaded | — |
 | May 2026 | Loaded | 2,047,818,524 |
 | August 2026 | Loaded | 28,846,751,313 |
 
