@@ -32,7 +32,17 @@ Overall Rating: <mark style="color:green;">**5/5**</mark>**&#x20;- Excellent**
 
 _Updated for August 2026._
 
-**August 2026 Status:** Files for the August 2026 cycle were acquired and loaded.
+**August 2026 Status:** Files for the August 2026 cycle were acquired and loaded. The plan list loaded for this cycle was later found to be Highmark Blue Cross Blue Shield Pennsylvania's rather than the payer's own, so the counts may not include all of the payer's files. The in-network files loaded are dated June 1, 2026 to August 2, 2026.
+
+#### **Cycle History**
+
+| Cycle | Status | Rates |
+| ----- | ------ | ----- |
+| February 2026 | Loaded | 1,582,388 |
+| May 2026 | Loaded | 3,434,862 |
+| August 2026 | Loaded | 4,044,776 |
+
+_Rates as published each cycle. Provider counts are not compared across cycles because the counting method changed in August 2026._
 
 ### Additional Observations
 

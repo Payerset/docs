@@ -30,3 +30,13 @@ Indiana University Health Plans' price transparency data is published under Elev
 _Data was not available for August 2026._
 
 **August 2026 Status:** IU Health Plans uses the Anthem network; employer plan files sit behind a login and could not be retrieved.
+
+#### **Cycle History**
+
+| Cycle | Status | Rates |
+| ----- | ------ | ----- |
+| February 2026 | Not available | — |
+| May 2026 | Not available | — |
+| August 2026 | Not available | — |
+
+_Rates as published each cycle. Provider counts are not compared across cycles because the counting method changed in August 2026._

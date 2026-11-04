@@ -30,3 +30,13 @@ Partnership HealthPlan's Table of Contents references machine-readable files pub
 _Data was not available for August 2026._
 
 **August 2026 Status:** This payer's price transparency data is published under other payers.
+
+#### **Cycle History**
+
+| Cycle | Status | Rates |
+| ----- | ------ | ----- |
+| February 2026 | Not available | — |
+| May 2026 | Not available | — |
+| August 2026 | Not available | — |
+
+_Rates as published each cycle. Provider counts are not compared across cycles because the counting method changed in August 2026._

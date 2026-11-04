@@ -30,9 +30,19 @@ Overall Rating: <mark style="color:orange;">**2/5**</mark>** - Below Expectation
 | Bundled Codes                 | 0 |
 | Covered Services (Capitation) | 0 |
 
-_Data was not available for August 2026._
+_Counts are from the May 2026 cycle; data was not available for August 2026._
 
 **August 2026 Status:** No machine-readable files for the August 2026 cycle were found. The payer's file host could not be reached.
+
+#### **Cycle History**
+
+| Cycle | Status | Rates |
+| ----- | ------ | ----- |
+| February 2026 | Loaded | 181,242 |
+| May 2026 | Loaded | 181,242 |
+| August 2026 | Not available | — |
+
+_Rates as published each cycle. Provider counts are not compared across cycles because the counting method changed in August 2026._
 
 ### Additional Observations
 

@@ -27,3 +27,12 @@ _Updated for August 2026._
 
 **August 2026 Status:** Files for the August 2026 cycle were acquired and loaded. Counts reflect HealthLink files published within the Elevance (Anthem) Blues files.
 
+#### **Cycle History**
+
+| Cycle | Status | Rates |
+| ----- | ------ | ----- |
+| February 2026 | Loaded | 839,452,010 |
+| May 2026 | Loaded | 1,106,615,888 |
+| August 2026 | Loaded | 956,456,729 |
+
+_Rates as published each cycle. Provider counts are not compared across cycles because the counting method changed in August 2026._

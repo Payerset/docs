@@ -34,6 +34,16 @@ _Data was not available for August 2026._
 
 **August 2026 Status:** No machine-readable files for the August 2026 cycle were found. The links published by the payer return errors (files not found).
 
+#### **Cycle History**
+
+| Cycle | Status | Rates |
+| ----- | ------ | ----- |
+| February 2026 | Not available | — |
+| May 2026 | Not available | — |
+| August 2026 | Not available | — |
+
+_Rates as published each cycle. Provider counts are not compared across cycles because the counting method changed in August 2026._
+
 ### Additional Observations
 
 **Machine-Readable Price Transparency Files Review**

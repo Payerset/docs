@@ -32,7 +32,17 @@ Overall Rating: <mark style="color:yellow;">**3/5**</mark>**&#x20;- Needs Improv
 
 _Updated for August 2026._
 
-**August 2026 Status:** Files for the August 2026 cycle were acquired and loaded. The most recently published files are dated 2026-06-28, which predates the August 2026 cycle.
+**August 2026 Status:** Files for the August 2026 cycle were acquired and loaded. The most recently published files are dated 2026-06-28, which predates the August 2026 cycle. The in-network files loaded are dated August 7, 2026 to August 21, 2026.
+
+#### **Cycle History**
+
+| Cycle | Status | Rates |
+| ----- | ------ | ----- |
+| February 2026 | Loaded | 53,684,996 |
+| May 2026 | Loaded | 128,212,695 |
+| August 2026 | Loaded | 39,635,260 |
+
+_Rates as published each cycle. Provider counts are not compared across cycles because the counting method changed in August 2026._
 
 ### Additional Observations
 

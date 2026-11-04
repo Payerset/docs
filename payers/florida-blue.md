@@ -32,7 +32,17 @@ Overall Rating: <mark style="color:yellow;">**3/5**</mark>**&#x20;- Good**
 
 _Updated for August 2026._
 
-**August 2026 Status:** Files for the August 2026 cycle were acquired and loaded.
+**August 2026 Status:** Files for the August 2026 cycle were acquired and loaded. The in-network files loaded are dated June 3, 2026 to August 3, 2026.
+
+#### **Cycle History**
+
+| Cycle | Status | Rates |
+| ----- | ------ | ----- |
+| February 2026 | Loaded | 3,284,291,717 |
+| May 2026 | Loaded | 1,377,291,162 |
+| August 2026 | Loaded | 1,784,569,615 |
+
+_Rates as published each cycle. Provider counts are not compared across cycles because the counting method changed in August 2026._
 
 ### Additional Observations
 

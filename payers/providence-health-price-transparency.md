@@ -30,9 +30,19 @@ Overall Rating: <mark style="color:red;">**1/5**</mark>** - Not Compliant**
 | Bundled Codes                 | 4,118,455 |
 | Covered Services (Capitation) | 0 |
 
-_Data was not available for August 2026._
+_Counts are from the February 2026 cycle; data was not available for August 2026._
 
 **August 2026 Status:** No machine-readable files for the August 2026 cycle were found. The payer's transparency page did not link to any Table of Contents or in-network files.
+
+#### **Cycle History**
+
+| Cycle | Status | Rates |
+| ----- | ------ | ----- |
+| February 2026 | Loaded | 2,398,225,908 |
+| May 2026 | Not available | — |
+| August 2026 | Not available | — |
+
+_Rates as published each cycle. Provider counts are not compared across cycles because the counting method changed in August 2026._
 
 ### Additional Observations
 
