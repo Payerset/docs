@@ -5,6 +5,10 @@ description: >-
 
 # ⚪ Regence Blue Cross Blue Shield ASO Plans
 
+{% hint style="info" %}
+Regence Blue Cross Blue Shield ASO Plans' price transparency data is published under Regence. See: [Regence](regence-price-transparency.md).
+{% endhint %}
+
 ### Payerset Notes
 
 ### Schema: REGENCE_ASO

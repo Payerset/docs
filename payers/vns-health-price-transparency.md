@@ -5,15 +5,15 @@ description: >-
 
 # ⚪ VNS Health
 
-{% hint style="warning" %}
-Payerset has not identified accessible machine-readable files published by VNS Health. If you are aware of MRFs published by this payer, please contact [support@payerset.com](mailto:support@payerset.com).
+{% hint style="info" %}
+VNS Health's price transparency data is published under Elevance (Anthem). See: [Elevance (Anthem)](elevance-anthem-price-transparency.md).
 {% endhint %}
 
 ### Payerset Notes
 
 **Table of Contents**
 
-[https://www.vnshealth.org/price-transparency-files/](https://www.vnshealth.org/price-transparency-files/)
+[https://www.vnshealth.org/transparency-in-coverage-requirements/](https://www.vnshealth.org/transparency-in-coverage-requirements/)
 
 ### Schema: VNS_HEALTH
 

@@ -5,8 +5,8 @@ description: >-
 
 # ⚪ FirstCarolinaCare
 
-{% hint style="warning" %}
-Payerset has not identified accessible machine-readable files published by FirstCarolinaCare. If you are aware of MRFs published by this payer, please contact [support@payerset.com](mailto:support@payerset.com).
+{% hint style="info" %}
+FirstCarolinaCare ceased operating all lines of business effective January 1, 2026, and no longer publishes machine-readable files.
 {% endhint %}
 
 ### Payerset Notes

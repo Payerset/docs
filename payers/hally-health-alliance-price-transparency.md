@@ -6,6 +6,10 @@ description: >-
 
 # 🔴 Hally Health Alliance
 
+{% hint style="info" %}
+Health Alliance ceased operating all lines of business effective January 1, 2026, and no longer publishes machine-readable files.
+{% endhint %}
+
 ### Payerset Notes
 
 **Table of Contents**

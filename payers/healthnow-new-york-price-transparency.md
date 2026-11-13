@@ -6,12 +6,15 @@ description: >-
 
 # ⚪ HealthNow New York
 
+{% hint style="info" %}
+HealthNow New York's price transparency data is published under the Highmark New York plans. See: [Highmark Blue Cross Blue Shield Western New York](highmark-bcbs-we-new-york-price-transparency.md) and [Highmark Blue Shield of Northeastern New York](highmark-bs-ne-new-york-price-transparency.md).
+{% endhint %}
+
 ### Payerset Notes
 
 **Table of Contents**
 
-[https://mrf.payerset.com/healthnow-new-york](https://mrf.payerset.com/healthnow-new-york)\
-&#xNAN;_&#x4E;ote - we are working on getting link updated with correct files_
+[https://www.hnas.com/digital-resources/machine-readable-files](https://www.hnas.com/digital-resources/machine-readable-files)
 
 ### Compliance Scorecard
 

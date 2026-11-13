@@ -13,7 +13,7 @@ Indiana University Health Plans' price transparency data is published under Elev
 
 **Table of Contents**
 
-[https://www.iuhealthplans.org/price-transparency-information](https://www.iuhealthplans.org/price-transparency-information)
+[https://www.anthem.com/mcr/indiana-transition](https://www.anthem.com/mcr/indiana-transition)
 
 ### Schema: IU_HEALTH_PLANS
 

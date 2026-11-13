@@ -13,7 +13,7 @@ Collective Health's Table of Contents references machine-readable files publishe
 
 **Table of Contents**
 
-[https://transparency-in-coverage.collectivehealth.com/](https://transparency-in-coverage.collectivehealth.com/)
+[https://transparency-in-coverage.collectivehealth.com/index.html](https://transparency-in-coverage.collectivehealth.com/index.html)
 
 ### Schema: COLLECTIVE_HEALTH
 

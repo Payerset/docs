@@ -5,15 +5,15 @@ description: >-
 
 # ⚪ Celtic Insurance (Centene)
 
-{% hint style="warning" %}
-Payerset has not identified accessible machine-readable files published by Celtic Insurance (Centene). If you are aware of MRFs published by this payer, please contact [support@payerset.com](mailto:support@payerset.com).
+{% hint style="info" %}
+Celtic Insurance (Centene)'s price transparency data is published under Ambetter (Centene). See: [Ambetter (Centene)](ambetter-price-transparency.md).
 {% endhint %}
 
 ### Payerset Notes
 
 **Table of Contents**
 
-[https://www.celtic-net.com/price-transparency-files.html](https://www.celtic-net.com/price-transparency-files.html)
+[https://www.centene.com/price-transparency-files.html](https://www.centene.com/price-transparency-files.html)
 
 ### Schema: CELTIC
 

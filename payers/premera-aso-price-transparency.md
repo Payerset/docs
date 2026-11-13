@@ -5,6 +5,10 @@ description: >-
 
 # 🟢 Premera Blue Cross ASO Plans
 
+{% hint style="info" %}
+From the November 2026 cycle, Premera Blue Cross ASO Plans' price transparency data is published under Premera Blue Cross. See: [Premera Blue Cross](premera-blue-cross-price-transparency.md).
+{% endhint %}
+
 ### Payerset Notes
 
 **Table of Contents**
