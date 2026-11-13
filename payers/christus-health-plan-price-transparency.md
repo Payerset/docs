@@ -4,7 +4,7 @@ description: >-
   Christus Health Plan that have been normalized into easy-to-use tables.
 ---
 
-# 🟢 Christus Health Plan
+# ⚪ Christus Health Plan
 
 ### Payerset Notes
 

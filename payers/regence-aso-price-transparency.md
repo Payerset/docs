@@ -3,13 +3,9 @@ description: >-
   This data contains the price transparency machine-readable files provided by Regence Blue Cross Blue Shield ASO Plans that have been normalized into easy-to-use tables.
 ---
 
-# 🟢 Regence Blue Cross Blue Shield ASO Plans
+# ⚪ Regence Blue Cross Blue Shield ASO Plans
 
 ### Payerset Notes
-
-**Table of Contents**
-
-[https://mrf.payerset.com/regence-aso](https://mrf.payerset.com/regence-aso)
 
 ### Schema: REGENCE_ASO
 
@@ -25,7 +21,7 @@ description: >-
 
 _Data was not available for August 2026._
 
-**August 2026 Status:** Files for the August 2026 cycle were acquired, but no records were loaded for this cycle.
+**August 2026 Status:** No machine-readable files for the August 2026 cycle were found.
 
 #### **Cycle History**
 
@@ -39,5 +35,5 @@ _Rates as published each cycle. Provider counts are not compared across cycles b
 
 ### Additional Observations
 
-Regence ASO plan data is parsed separately from Regence fully-insured plans. See also [Regence](regence-price-transparency.md).
+See also [Regence](regence-price-transparency.md).
 
